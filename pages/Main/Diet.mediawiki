@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=231
+|TXMN Blurb=The user fuels their body with healthy foods, enhancing their physical resilience and making them more resistant to damage.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=0
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN User Condition=Diehard
+|TXMN Animation Target=0
+|Tags=Food, Soldier
+|Main Details=Animals on special diets can live lifespans double or triple that of their unhealthy comrades.
+|Sources=HippasusTwo
+}}

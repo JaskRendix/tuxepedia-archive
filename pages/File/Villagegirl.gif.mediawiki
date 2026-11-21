@@ -1,0 +1,7 @@
+[[Category:BrowserQuest]]
+[[Category:Sanglorian]]
+[[Category:16px]]
+[[Category:Overland Sprite]]
+[[[Category:Alternative]]
+
+Adapted by Sanglorian from the [http://opengameart.org/content/browserquest-sprites-and-tiles CC BY-SA 3.0] Firefox game BrowserQuest.

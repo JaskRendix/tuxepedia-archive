@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Held Item
+|TXMN Effects=immune Poison
+|TXMN Target=player
+|TXMN Usable In=world, combat
+|TXMN Description=Pop a few of these and you'll laugh in the face of poison! Delicious and detoxifying all in one bite.
+|SpyderCampaign=Given randomly by Eliane in Candy Town
+|Sources=Sanglorian, Henrique Lazarini
+|Source Explanation=Sprite adapted by Sanglorian from a sprite by Henrique Lazarini .
+}}

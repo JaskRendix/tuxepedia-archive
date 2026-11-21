@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Morph Item
+|TXMN Effects=evolve
+|TXMN Cost=2000
+|TXMN Usable In=world
+|TXMN Description=A long iron pipe. Handling it leaves your hands sooty and ashen.
+|TXMN Consumable=yes
+}}

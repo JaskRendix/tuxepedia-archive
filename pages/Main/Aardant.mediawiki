@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Story Item
+|TXMN Usable In=world
+|TXMN Description=An innocuous application of Fusion technology.
+|TXMN Key Item=yes
+|SpyderCampaign=Given by trainer Looten in Greenwash after defeating them; allows player to enter final Hospital room.
+|Sources=Magic-Purple-Hermit, Sanglorian
+|Source Explanation=From the Aardorn sprite by Magic-Purple-Hermit. Tweaked by Sanglorian.
+}}

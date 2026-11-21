@@ -1,0 +1,60 @@
+{{Monster
+|First URL=https://darkysg.deviantart.com/art/Wendigo-Fakemon-Sold-710801236
+|Sources=DarkySG, HippasusTwo, Jaskrendix, Levaine
+|Source Explanation=Original art by DarkySG. Sprite by Levaine. Backsprite HippasusTwo.
+|Species=Scarytale
+|Evolves=Beenstalker
+|Name Origin=''wendigo'' + ''digger''
+|Design Origin=Plants growing out of a corpse.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Shadow, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Brute
+|TXMN ID=200
+|TXMN Blurb=It is said corpses given an improper burial can grow into WENDIGGER.
+|TXMN Height=210
+|TXMN Weight=75
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Boreal/Snow, Underground, Woodland
+|Tags=Plant, Ground, Bite, Ice, Darkness, Ghost
+|Fusion First=Wen
+|Fusion Second=digger
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Leaf Stab
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Sylvan
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Pseudopod
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Invictus
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Fester
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Fluff Up
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=40
+}}

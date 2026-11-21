@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=263
+|TXMN Blurb=They begin to divide themselves and send the copy to attack.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Normal
+|TXMN Family=Exotic
+|TXMN Is fast=Slow
+|TXMN Accuracy=100%
+|TXMN Power=1
+|TXMN Effects=foresight 3
+|TXMN Recharge=3
+|TXMN User Condition=Elemental Shield
+|TXMN Animation Target=0
+|Tags=Plant, Spore, Shapeshifter
+|Main Details=Has same effect as Curse, but takes longer to hit. Could also maybe give it a defensive side effect? The clone could take some heat off of you. A Normal elemental shield would be different. Could also go Grass.
+
+Microbe move, but some plants also have a tendency to propagate themselves, so could be Normal, Wood or both.
+|Sources=HippasusTwo
+}}

@@ -1,0 +1,76 @@
+{{Monster
+|First URL=https://www.deviantart.com/mjco/art/Fakemon-Sale-Adoption-788243398
+|Sources=HippasusTwo, Jaskrendix, Sanglorian, mjco
+|Source Explanation=Design and front sprites by mjco. 64px front sprite resized by Sanglorian. Front and back sprites by HippasusTwo. Face sprites adapted by Jaskrendix.
+|Species=Seaweed
+|Name Origin=''seaweed''
+|Design Origin=Seaweed reefs
+|Main Details=Weedsea have an unusual morph method, turning into [[Weedlantis]] when levelling up while a crustacean ([[Shrab]] or [[Lesmagu]]) is in the party.
+|TXMN Types=Water, Wood
+|TXMN Sub-Elements=Water, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=352
+|TXMN Blurb=Once a year, it is pollinated beneath the waves by aquatic tuxemon like Shrab.
+|TXMN Height=100
+|TXMN Weight=10
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Coastal, Sea
+|Tags=Plant, Water
+|Fusion First=Weed
+|Fusion Second=sea
+}}
+{{Evolutions
+|Has Evolution=Weedlantis
+|Evolution Level=Party Shrab
+}}
+{{Evolutions
+|Has Evolution=Weedlantis
+|Evolution Level=Party Lesmagu
+}}
+{{Technique Allocation
+|Has_Technique=Water Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Overgrowth
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Stabilo
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Nest
+|Technique_Level=18
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Energy Field
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Woodsmash
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=55
+}}

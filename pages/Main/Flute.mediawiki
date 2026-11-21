@@ -1,0 +1,7 @@
+{{Item
+|Item Category=Held Item
+|TXMN Effects=Immune Nodding Off
+|TXMN Target=player
+|TXMN Usable In=world, combat
+|TXMN Description=Play a soothing tune and stay sharp! With this flute, nodding off and dozing are no match for you.
+}}

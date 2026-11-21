@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Chickenshowman
+|Source Explanation=Main sprite by Chickenshowman. Overland sprites by Sanglorian, hat adapted from a Catch Challenger sprite.
+|Genre=Modern
+|Combat Type=1 vs 1
+}}

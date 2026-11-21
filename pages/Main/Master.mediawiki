@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Front sprite by Sanglorian. Overland sprite by Superpower Asset Packs, adapted by Sanglorian.
+|Genre=Modern
+|Combat Type=1 vs 1
+}}

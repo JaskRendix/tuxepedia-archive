@@ -1,0 +1,10 @@
+{{Monster
+|Sources=Georg Eckert
+|Source Explanation=Designed and sprited by Georg Eckert.
+|Name Origin=''striped'' + ''penguin''
+|TXMN Types=Metal
+|TXMN Sub-Elements=Frost, Lightning
+|TXMN Body Shape=Flier
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+}}

@@ -1,0 +1,24 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert
+|Name Origin=''circuit board'' + ''fleece''
+|TXMN Types=Metal
+|TXMN Sub-Elements=Lightning, Metal
+|TXMN Body Shape=Sprite
+|TXMN Blurb=CIRCEECE is a mysterious, circuit board-like Tuxemon. Its body is primarily black, with glowing purple lines forming intricate patterns reminiscent of electrical circuits. It has two white eyes that appear to be digital displays.
+|TXMN Height=70
+|TXMN Weight=8.5
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Quanthus
+}}
+{{Technique Allocation
+|Has_Technique=Crystal
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Charge
+|Technique_Level=30
+}}

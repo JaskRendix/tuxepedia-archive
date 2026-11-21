@@ -1,0 +1,14 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=Caos-cepi, Piacarrot
+|Source Explanation=Design and original sprite by Piacarrot and Caos-cepi. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Evolves=Broilino
+|Name Origin=''flambé'' + ''rhino''
+|Main Details=FLAMBERINO, the final evolution of SEARINO, is a formidable Tuxemon engulfed in an intense, perpetual flame. Its body is primarily a fiery orange with darker accents. The horn-like nose from its previous forms has evolved into a larger, flaming horn. FLAMBERINO has a fierce, determined expression and stands tall with a powerful stance.
+|TXMN Types=Fire
+|TXMN Blurb=According to legend, FLAMBERINO's flames can purify the darkest of souls, and its trainers often seek its guidance in times of turmoil.
+|TXMN Height=240
+|TXMN Weight=800
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+}}

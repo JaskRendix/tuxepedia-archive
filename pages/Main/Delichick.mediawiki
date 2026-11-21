@@ -1,0 +1,19 @@
+{{Monster
+|First URL=https://www.reddit.com/r/fakemon/comments/b35551/a_couple_months_back_i_came_upon_an_opensource/
+|Sources=Chairry-Art, Jaskrendix
+|Source Explanation=Design and front sprite by Chairry-Art. Face sprites by Jaskrendix.
+|Design Origin=Based on [[Tweesher]] by [[Leo]], and the Great White Heron and the Great Blue Heron.
+|Main Details=Comes in two colours; white Delichick are found on one side of the region and blue Delichick on the other. White Delichick morph into white Herotint. Blue Delichick morph into blue Herotint.
+[[Category:Variant]]
+|TXMN Types=Wood
+|TXMN Body Shape=Flier
+|TXMN Blurb=Oddly enough, the location of a Delichick's birth determines its personality. The ones with brown feathers hatched on the eastern side of the region are headstrong and boisterous. The ones with dark blue feathers hatched on the western side of the region are quiet and reserved.
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Fusion First=Deli
+|Fusion Second=chick
+}}
+{{Evolutions
+|Has Evolution=Herotint
+}}

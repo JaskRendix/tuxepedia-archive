@@ -1,0 +1,21 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2463#p2463
+|Sources=SingingMagpie
+|Species=The musical hydra tuxemon
+|Evolves=Dragpipe
+|Name Origin=Music + hydra
+|Design Origin=The design is based on Dragpipe tuxemon where the bagpipe flutes become kind of "Snax"'s head
+|Main Details=It has five head, ring bell on it's tail (like Snax)
+Music notes over the body. Still the saxophone head but with two teeth and still the pending tongue.
+|TXMN Types=Fire, Metal
+|TXMN Body Shape=Dragon
+|TXMN Blurb=If you cut one head, then two other heads will grow
+|TXMN Height=240
+|TXMN Weight=120
+|TXMN Catch Resistance=0.5
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage2
+|Tags=Tongue
+|Fusion First=Mus
+|Fusion Second=ydra
+}}

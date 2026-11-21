@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Nikai Region
+|Source Explanation=Designed and illustrated by Nikai Region.
+|Genre=Modern
+|Combat Type=1 vs 1
+}}

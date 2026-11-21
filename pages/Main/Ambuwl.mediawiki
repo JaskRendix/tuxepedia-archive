@@ -1,0 +1,71 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=HippasusTwo, Jaskrendix, Piacarrot, Sanglorian
+|Source Explanation=Design, original sprite and blurb by Piacarrot. Recolour by Sanglorian. Sprites adapted by HippasusTwo. Face sprites by Jaskrendix. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Restorative
+|Name Origin=''ambulance'' + ''owl''
+|SpyderCampaign=N/A
+|TXMN Types=Earth
+|TXMN Sub-Elements=Cosmic
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN ID=249
+|TXMN Blurb=The egg in its pouch does not hatch. Instead, it secretes a delicious drink with restorative powers.
+|TXMN Height=98
+|TXMN Weight=38
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Desert, Woodland
+|Tags=Food, Healing, Light, Bird
+|Fusion First=Amb
+|Fusion Second=uwl
+}}
+{{Technique Allocation
+|Has_Technique=Peck
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mending
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mudslide
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Egg Smash
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Evasion
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Lantern
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Life Surge
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Breath
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Neutralize
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Fledgling
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Pouch
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Earthquake
+|Technique_Level=40
+}}

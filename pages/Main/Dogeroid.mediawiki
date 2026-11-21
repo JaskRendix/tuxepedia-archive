@@ -1,0 +1,66 @@
+{{Monster
+|Sources=Jaskrendix
+|Species=Colossus
+|Evolves=Doge
+|Name Origin=A fusion of "Doge" and the suffix "-oid", meaning "resembling" or "entity of". The name also nods to "steroid", referencing its hyper-muscular physique and exaggerated power.
+|Main Details=Dogeroid is the final evolution of Doge, transformed by exposure to concentrated meme energy and synthetic augmentation. Towering and tank-like, it roams abandoned data centers and meme temples, flexing with quantum precision. Its body is layered with reinforced muscle strands woven from digital code and alloyed protein, allowing it to withstand extreme damage while delivering devastating blows. Despite its intimidating presence, Dogeroid retains a trace of Doge's original charm—often striking dramatic poses mid-battle or barking at invisible foes. Some researchers believe Dogeroid exists partially in meme-space, making it unpredictable and difficult to track. Trainers who tame Dogeroid must balance brute force with meme awareness, lest they be overwhelmed by its chaotic charisma.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Lightning, Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Brute
+|TXMN ID=420
+|TXMN Blurb=Its muscles are reinforced with synthetic fibers. It flexes mid-battle, not for strategy—but because it can.
+|TXMN Height=240
+|TXMN Weight=340
+|TXMN Catch Resistance=5
+|TXMN Sexes=Male
+|TXMN Stages=Stage1
+|TXMN Terrains=Extraplanar, Urban
+|Tags=Bite, Tail, Fury, Fists
+|Fusion First=Doge
+|Fusion Second=Roid
+}}
+{{Technique Allocation
+|Has_Technique=Lick Lash
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Kiss
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Cat Calling
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Barking
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Crushing Bite
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=External Power
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Sockpuppet
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Electric Multibite
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Steel Jaws
+|Technique_Level=34
+}}
+{{Technique Allocation
+|Has_Technique=Glowing Punch
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Magnetic Body
+|Technique_Level=50
+}}

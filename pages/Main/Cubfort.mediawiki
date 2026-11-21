@@ -1,0 +1,25 @@
+{{Monster
+|First URL=http://fauxlens.deviantart.com/art/Fauxlens-Fakemon-Sale-I-ALL-SOLD-628429321
+|Sources=Jaskrendix, fauxlens, Basxto
+|Source Explanation=Designed and illustrated by fauxlens. Front and face sprites by Basxto. Back sprite by Jaskrendix.
+|Species=Comfort
+|Name Origin=''cub'' + ''comfort''
+|Design Origin=Comforting teddies and ambulances
+|TXMN Types=Metal
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN Blurb=Its calming presence helps with healing, and those who sleep beside a Cubfort never have a nightmare.
+|TXMN Height=50
+|TXMN Weight=11
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Fusion First=Cub
+|Fusion Second=fort
+|TXMN_DE Name=Bäruhigung (Bär + Beruhigung)
+}}
+{{Evolutions
+|Has Evolution=Ambearance
+|Evolution Level=36
+}}

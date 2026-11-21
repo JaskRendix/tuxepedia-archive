@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=2
+|TXMN Blurb=Liquid death sprays from the user's venom sacs.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Venom
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.25
+|TXMN Potency=20%
+|TXMN Recharge=1
+|TXMN Target Condition=poisoned
+|TXMN Animation Target=1
+|Tags=Toxic, Bug
+|Sources=Sanglorian, Jaskrendix
+}}

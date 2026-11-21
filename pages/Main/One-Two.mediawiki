@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=52
+|TXMN Blurb=Two decisive strikes bring the target to its knees.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Fire
+|TXMN Type 2=Wood
+|TXMN Sub-Elements=Heroic
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2
+|TXMN Effects=multiattack 2
+|TXMN Recharge=2
+|TXMN Animation Target=2
+|Tags=Fists
+|Sources=Sanglorian, Catch Challenger
+|Source Explanation=Technique by Sanglorian. "Triple whammy" animation by Catch Challenger.
+}}

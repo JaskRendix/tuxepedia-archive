@@ -1,0 +1,12 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/journal/Fakemon-for-Sale-680318198
+|Sources=TheBritanniaRegion,
+|Species=Addiction
+|Evolves=Kitticaine,
+|Name Origin=''cat'' + ''cocaine''
+|Design Origin=Lions and cocaine
+|TXMN Types=Metal
+|TXMN Blurb=They will often attack other Caticane to break their glass bodies and extract the addicting chemicals from them. They are very violent, especially under the influcence of their bodily drugs.
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}

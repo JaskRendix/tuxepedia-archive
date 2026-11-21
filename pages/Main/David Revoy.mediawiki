@@ -1,0 +1,5 @@
+{{Contributor
+|Preferred Attribution=[https://www.peppercarrot.com/en/article405/best-practices-for-attribution Best practice for attribution]
+|Main Website=https://www.davidrevoy.com/
+|Contributor Types=Released works under a free and open licence
+}}

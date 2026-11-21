@@ -1,0 +1,9 @@
+{{Condition
+|TXMN ID=21
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME has been slowed down.
+|Speed Multiplier=0.5
+|Details=Speed halved.
+}}

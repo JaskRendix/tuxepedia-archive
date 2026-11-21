@@ -1,0 +1,64 @@
+{{Item
+|Item Category=Technique Teaching Item
+|TXMN Effects=TM
+|TXMN Cost=(Varies)
+|TXMN Type=(Element)
+|TXMN Usable In=world
+|TXMN Description=Technique Manual that teaches the X technique.
+|TXMN Consumable=yes
+|Main Details=A '''Technical Manual''' is an item from which you can learn a technique. It is consumed on use. See also [[Move Module]]s, which teach a random technique.
+
+Sprite sheet is in order: Generic, Earth, Fire, Metal, Water, Wood.
+|Sources=Tamashihoshi, Sanglorian
+|Source Explanation=Sprite by tamashihoshi. Colors tweaked by Sanglorian, possibly others?
+}}
+{| class="wikitable sortable"
+! TM
+! Sprite
+! How to obtain / Shop & location
+! Price/value
+|-
+| colspan="4" style="text-align:center; font-weight:bold;" | [[Dojo of the Elements]]
+|-
+| [[All In]] || Generic || Awarded by Saturn after battle || 2500
+|-
+| [[Blade]] || Generic || Awarded by Hephastus after battle || 2500
+|-
+| [[Panjandrum]] || Generic || Awarded by Hermes after battle || 2500
+|-
+| [[Shadow Boxing]] || Generic || Awarded by Orion after battle || 2500
+|-
+| [[Scope]] || Generic || Awarded by Ares after battle || 2500
+|-
+| colspan="4" style="text-align:center; font-weight:bold;" | [[Cotton Town]]
+|-
+| [[Avalanche]] || Earth || Sold by Scoop vendor || 2000
+|-
+| [[Blossom]] || Wood || Sold by Scoop vendor || 1000
+|-
+| colspan="4" style="text-align:center; font-weight:bold;" | [[Candy Town]]
+|-
+| [[Frostbite]] || Water || Sold by Scoop vendor || 2000
+|-
+| [[Supernova]] || Fire || Sold by Scoop vendor || 2000
+|-
+| [[Vorpal]] || Metal || Sold by Scoop vendor || 2000
+|-
+| [[Acid]] || Generic || Sold by Scoop vendor || 2000
+|-
+| [[Leaf Barrage]] || Wood || Found behind Hospital || 2000
+|-
+| colspan="4" style="text-align:center; font-weight:bold;" | [[Mansion]]
+|-
+| [[Ice Shield]] || Water || Found in basement || N/A
+|-
+| [[Ubuntu]] || Generic || Found on top floor || N/A
+|-
+| colspan="4" style="text-align:center; font-weight:bold;" | [[Sea Route C]]
+|-
+| [[Altitude]] || Earth || Found on island || N/A
+|-
+| colspan="4" style="text-align:center; font-weight:bold;" | Not yet in game
+|-
+| [[Surf]] || Water || — || 2500
+|}

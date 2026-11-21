@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=155
+|TXMN Blurb=The user unleashes a devastating, precision strike that inflicts severe damage and fills the opponent with a burning desire for revenge.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Reserved
+|TXMN Is fast=Fast
+|TXMN Accuracy=95%
+|TXMN Power=3
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN Target Condition=revenge
+|TXMN Animation Target=1
+|Tags=Reserved
+|Main Details=[[Reserved technique]] for [[Bugnin]]. [[Category:Reserved technique]]
+|Sources=Jaskrendix
+}}

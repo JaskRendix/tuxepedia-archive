@@ -1,0 +1,61 @@
+This page describes the rules for making various graphical assets in Tuxemon. If you want to make graphics, adhere to the sizes listed on this page and submit your work to us! Graphical assets are all located under <code>resources/</code>. All sizes listed here are listed in pixels (width x height).
+
+== Monster Sprites ==
+'''For more information, please check out the [[Design Guide]] and the [[Creating Creatures]] guide.'''
+
+You can view a very good spriting tutorial [http://the-godlings-rapture.deviantart.com/art/Spriting-Fakemon-Tutorial-V-3-280927794 here] for pointers on creating monster sprites. 
+
+Front Sprite: 64 x 64
+
+[[File:Bigfin_front_reduced.png]]
+
+Back Sprite: 64 x 64
+
+[[File:Bigfin-back-2.png]]
+
+Face Sprite: 24 x 24
+
+[[File:Bigfin face 1.png]]
+[[File:Bigfin face 2.png]]
+
+Face sprites are two frames of animation in ''separate'' PNG files.
+
+== Status Icons ==
+
+Icon Sprite: 9 x 9 
+
+[[File:Burn2.png]]
+
+== Maps and Tilesets ==
+
+'''For more information, please look at the [[Creating Tilesets]] and [[Creating Maps]] guides.'''
+
+Tileset Size: ''Any''
+
+[[File:Basic Buch Tiles Compiled.png]]
+
+Tile Size: 16 x 16
+
+== Character/NPC ==
+
+World Sprite: 16 x 32
+
+The character/NPC world sprites should be ''separate'' PNG images for each frame of animation. Each character sprite has '''4 frames''' of walking and running animations for each orientation: Front, Back, Left, and Right.
+
+[[File:Barmaid.gif]]
+
+Back Sprite: 64 x 125
+
+[[File:Male-trainer-back-alternative.png]]
+
+Front Sprite: 64 x 64
+
+[[File:Male-trainer-front.png]]
+
+== Items ==
+
+'''For more information, please check out the [Creating Items](creating-items) guide.'''
+
+Item Sprite: 24 x 24
+
+[[File:W Book07 24x24.png]]

@@ -1,0 +1,11 @@
+{{Monster
+|First URL=https://darkmilkyway1701.deviantart.com/art/Fakemons-for-sale-Theme-Alice-in-pokeland-431621860
+|Sources=DarkMilkyWay1701, Sanglorian,
+|Source Explanation=Line art by DarkMilkyWay1701. Coloured by Sanglorian.
+|Evolves=Hookatoo,
+|Name Origin="hubble bubble pipe" + "butterfly"
+|Design Origin=The caterpillar from Alice in Wonderland.
+|TXMN Types=Water
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}

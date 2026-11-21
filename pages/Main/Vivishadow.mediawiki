@@ -1,0 +1,49 @@
+{{Monster
+|Sources=Jaskrendix
+|Species=Fear-Eater
+|Evolves=Vivipere
+|Name Origin=Vivi + Shadow
+
+Vivi – "Vivipere"
+
+Shadow – Literal and symbolic of its nature
+|Main Details=Vivishadow drifts silently through the dark, its ethereal body trailing tendrils of gloom. Its glowing red eyes pierce the blackness, and its presence chills even the bravest hearts. It feeds not on flesh, but on fear — drawing strength from doubt, despair, and the shadows people try to forget. In caves and ruins, it waits patiently, whispering forgotten regrets into the minds of wanderers. To face Vivishadow is to confront the darkness within.
+|TXMN Sub-Elements=Shadow
+|TXMN Body Shape=Serpent
+|TXMN Blurb=It lurks in the shadows, feeding on fear and despair. It is a creature of darkness, embodying the hidden fears of the heart.
+|TXMN Height=200
+|TXMN Weight=0
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|Fusion First=Vivi
+|Fusion Second=Shadow
+}}
+{{Technique Allocation
+|Has_Technique=Stone Rot
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Quicksand
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Sphere
+|Technique_Level=26
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=30
+}}

@@ -1,0 +1,145 @@
+<noinclude>
+This is the "Monster" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Monster}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Monster}}}
+{| class="formtable"
+! Alternative Names: 
+| {{{field|Alternative Names|}}}
+|-
+! Webpage where first introduced: 
+| {{{field|First URL|}}}
+|-
+! Sources: 
+| {{{field|Sources|values from category=Contributor}}}
+|-
+! Source Explanation: 
+| {{{field|Source Explanation|rows=3|autogrow|input type=textarea|}}}
+|-
+! [[Species name]] (The X Tuxemon):
+| {{{field|Species|rows=1}}}
+|-
+! Evolves from ...: 
+| {{{field|Evolves|values from category=Monster}}}
+|}
+
+===Origin===
+==== Name Origin ====
+Where did the name come from?
+{{{field|Name Origin|rows=3|autogrow|input type=textarea|}}}
+
+==== Design Origin ====
+What is the tuxemon based on?
+{{{field|Design Origin|rows=6|autogrow|input type=textarea|}}}
+
+===Main Details===
+{{{field|Main Details|rows=6|autogrow|input type=textarea|}}}
+
+=== In Game ===
+==== In [[The Spyder in the Cathedral]] campaign ====
+{{{field|SpyderCampaign|rows=6|autogrow|input type=textarea|}}}
+
+==== TXMN Game Stats ====
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+
+{| class="formtable"
+! TXMN Types: 
+| {{{field|TXMN Types|input type=checkboxes|values=Earth, Fire, Metal, Water, Wood}}}
+|-
+! TXMN Elements: 
+| {{{field|TXMN Sub-Elements|input type=checkboxes|values=Earth, Fire, Frost, Heroic, Lightning, Cosmic, Metal, Normal, Shadow, Sky, Venom, Water, Wood}}}
+|-
+! TXMN Completed: 
+| {{{field|TXMN Completed|input type=checkboxes|values=Complete,Complete Threat}}}
+|-
+! TXMN Body Shape: 
+| {{{field|TXMN Body Shape|input type=checkboxes|values from category=Body Shape|}}}
+|-
+! TXMN ID: 
+| {{{field|TXMN ID}}}
+|-
+! TXMN Blurb:
+| {{{field|TXMN Blurb|rows=3|autogrow|input type=textarea|}}}
+|-
+! TXMN Height/Length (centimetres):
+| {{{field|TXMN Height}}}
+|-
+! TXMN Weight (kilograms): 
+| {{{field|TXMN Weight}}}
+|-
+! TXMN Catch Rate (Base Form = 100, First Morph = 70, Second Morph = 35, Unique = 5):
+| {{{field|TXMN Catch Resistance}}}
+|-
+! TXMN Sex: 
+| {{{field|TXMN Sexes|input type=checkboxes|values=Male, Female, Neuter}}}
+|-
+! TXMN Stage: 
+| {{{field|TXMN Stages|input type=checkboxes|values=Standalone, Basic, Stage1, Stage2, Stage3}}}
+|-
+! TXMN Terrain: 
+| {{{field|TXMN Terrains|input type=checkboxes|values=Any, Boreal/Snow, Coastal, Desert, Extraplanar, Extraterrestrial, Freshwater, Grassland, Jungle, Mountains, Ruins, Sea, Swamp, Underground, Urban, Woodland, Other}}}
+|-
+! Tags: 
+| {{{field|Tags}}}
+|-
+! Fusion First Half: 
+| {{{field|Fusion First}}}
+|-
+! Fusion Second Half: 
+| {{{field|Fusion Second}}}
+|}
+
+=== In Other Languages ===
+{| 
+! Language 
+| Name 
+| Category 
+| Blurb 
+|- 
+! Spanish 
+| {{{field|TXMN_ES Name|}}} 
+| {{{field|TXMN_ES Species|}}} 
+| {{{field|TXMN_ES Blurb |}}} 
+|- 
+! German
+| {{{field|TXMN_DE Name|}}} 
+| {{{field|TXMN_DE Species|}}} 
+| {{{field|TXMN_DE Blurb |}}} 
+|- 
+! French
+| {{{field|TXMN_FR Name|}}} 
+| {{{field|TXMN_FR Species|}}} 
+| {{{field|TXMN_FR Blurb |}}} 
+|- 
+! Portuguese
+| {{{field|TXMN_PT Name|}}} 
+| {{{field|TXMN_PT Species|}}} 
+| {{{field|TXMN_PT Blurb |}}} 
+|}
+
+===TXMN Evolutions===
+{{{for template|Evolutions|multiple|label=Evolutions|}}}
+'''Evolution:''' {{{field|Has Evolution|input type=text with autocomplete|values from category=Monster|}}}
+
+'''Level, or Source ("Thunderstone", "Happiness", etc., if it's not gained through leveling up:''' {{{field|Evolution Level|}}}
+{{{end template}}}
+
+===TXMN Techniques===
+{{{for template|Technique_Allocation|multiple|label=Techniques|}}}
+'''Technique:''' {{{field|Has_Technique|input type=text with autocomplete|values from category=Technique}}}
+'''Level:''' {{{field|Technique_Level|input type=number}}}
+{{{end template}}}
+
+=== Edit Summary ===
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

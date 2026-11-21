@@ -1,0 +1,95 @@
+[[File:Dragon's Cave.png|thumbnail]]
+[[Category:Dragons]]
+
+== Connections ==
+=== [[Sea Route C]] ===
+
+=== [[Cotton Tunnel]] ===
+
+== Encounters ==
+* [[Agnite]] (first appearance)
+* [[Agnigon]] (first appearance)
+* [[Embra]] (first appearance)
+* [[Ruption]] (first appearance)
+
+== Events ==
+=== 1. Spyder Plot ===
+''After the Protagonist defeats Dragonrider Benden, animation of the two characters entering the final room. Spyder is already there, with Enforcers and the Extreme Restraints.''
+
+[[Dragonrider]] Benden
+* What is this? These villains are trying to steal Drokoro! But why?
+
+[[Spyder Agent]] Mallory
+* The Drokoro is ours! We got Shaft to dig it up from beneath Route 3, and we would have kept it if that infuriating kid hadn't interrupted our plans. It is time for the Pillars to combine their strength and rule this region outright! Too long have we let the Cathedral and the public tell us what can and cannot be done with Tuxemon. When we use Greenwash's fusion technology to combine this Drokoro with the killer robots built by Nimrod, we will be unstoppable! And the best part is, Omnichannel will tell the public that this is all in their best interests - and the public will believe them!
+
+[[Dragonrider]] Benden
+* Please, NAME. If you can't stop these villains, all is lost.
+
+== Items ==
+
+2. [[Escape Key]]
+
+3. [[Boost Armour]]
+
+4. [[Boost Melee]]
+
+5. [[Super Potion]]
+
+== Characters ==
+A. [[Dragonrider]] Tomas
+* Once we each rode a dragon. That was long ago. But just recently a new-born dragon appeared above this island, and crawled into this cave. 
+* [[Allagon]] level 35
+* As you can see, the age of the dragons has passed. The hatchling dragon is our last hope. 
+
+B. [[Dragonrider]] Lessa
+* We stand guard over this, the last dragon. We don't know where it came from or why it hatched. We thought all dragons had hatched long ago.  
+* [[Ferricran]] level 37
+* Maybe someone will come who has the power to defeat it.
+
+C. [[Dragonrider]] Cailin
+* This is our last duty. Dragarbor is so very tired.
+* [[Dragarbor]] level 36
+* Thank you.
+
+D. [[Dragonrider]] Griffin
+* I wonder what it would be like to be swallowed by a dragon ...
+* [[Bigfin]] level 35
+* Oh well - pobody's nerfect!
+
+E. [[Dragonrider]] Daenny
+* Prepare to be defeated!
+* [[Eaglace]] level 37
+* You may have bested me, but you'll never best Benden. 
+
+F. [[Dragonrider]] Benden
+* I am the last and most powerful of the dragonriders.
+* [[Dragarbor]] level 36, [[Sapragon]] level 38
+* You have defeated me. You deserve to face Drokoro. Let me heal you - then, good luck.
+* Triggers Event A
+
+=== Final Room ===
+G. [[Spyder Agent]] Mal
+* You have gotten in our way too many times! 
+* [[Djinnbo]] level 40
+* Ah ha, you fell right into my trap!
+
+H. [[Spyder Agent]] Ray
+* All we want to do is create a mega-corporation that takes over the government. Is that so wrong?
+* [[Ghosteeth]] level 40
+* You're taking away my freedoms. 
+
+I. [[Enforcer]] Lucille
+* The Pillars are the only way we'll get anything done around here. 
+* [[Coleorus]] level 40
+* You'll regret this. 
+
+J. [[Nimrod Boss]] Tru
+* This is for your own good, okay?
+* [[Embazook]] level 40, [[Arthrobolt]] level 40, [[Hydrone]] level 40
+* Whatever. You'll never stop them back at Omnichannel HQ. 
+
+K. [[Drokoro]], unique tuxemon
+* Raawr!
+* Level 45
+
+[[Category:Plot]] [[Category:Place]]

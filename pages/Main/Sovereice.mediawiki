@@ -1,0 +1,59 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us.
+|Species=Formiddable
+|Name Origin=''sovereign'' + ''ice''
+|Main Details=It is the spirit of philosopher-kings, ambassadors and vice-chancellors.
+
+One of the [[Four Sovereigns]]. [[Category:Four Sovereigns]]
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=434
+|TXMN Blurb=SOVEREICE represents the intellect and diplomacy of leadership, embodying the wisdom of philosophers and the tact of skilled negotiators.
+|TXMN Height=210
+|TXMN Weight=105
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|Fusion First=Sovere
+|Fusion Second=ice
+}}
+{{Technique Allocation
+|Has_Technique=Snowball
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Snowstorm
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ice Shield
+|Technique_Level=5
+}}
+{{Technique Allocation
+|Has_Technique=Fey Light
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Glowing Punch
+|Technique_Level=15
+}}
+{{Technique Allocation
+|Has_Technique=Avalanche
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Frostbite
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Mind Explosion
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Summon Ice Spirits
+|Technique_Level=50
+}}

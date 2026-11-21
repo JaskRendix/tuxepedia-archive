@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Functional Item
+|TXMN Usable In=world
+|TXMN Description=Tune in to local broadcasts, quest updates, and ambient chatter from across the region.
+|TXMN Key Item=yes
+|Sources=Jaskrendix, OceansDream
+|Source Explanation=Programming by JaskRendix. Sprite by OceansDream.
+}}

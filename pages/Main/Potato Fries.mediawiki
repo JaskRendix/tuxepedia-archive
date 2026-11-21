@@ -1,0 +1,18 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=400
+|TXMN Usable In=world
+|TXMN Description=Sweetroot fries with magical salt blend. Crunchy, glowing, and surprisingly feisty.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Stonefruit Bulbs]]: 1
+* [[Glowfat]]: 1
+* [[Crackle Salt]]: 1
+* [[Sweetroot]]: 1
+
+Possible Outputs:  
+* [[Potato Fries]], 1, 0.8  
+* [[Dread Omelette]], 1, 0.2
+|Sources=Jaskrendix
+}}

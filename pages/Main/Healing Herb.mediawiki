@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=260
+|TXMN Blurb=They give a healing leaf to heal an ally.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Family=Special
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=heal ally_monster,1/3
+|TXMN Recharge=1
+|TXMN Animation Target=0
+|Tags=Plant
+|Main Details=Dandelion, but could be used for a few others here and there. May need tweaking for game play, meant to be late game.
+Kin to the move Damage Division, but faster and with a much better cooldown perhaps.
+|Sources=Sanglorian, HippasusTwo
+}}

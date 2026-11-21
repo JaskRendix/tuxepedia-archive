@@ -1,0 +1,11 @@
+[[Category:Tilesheet]]
+[[Category:Buch]]
+[[Category:luke83]]
+[[Category:PastTheFuture]]
+[[Category:rubberduck]]
+
+Original tiles by [http://opengameart.org/content/tuxemon-tileset Buch], [https://forum.tuxemon.org/thread.php?id=16 commissioned by luke83]. Changes and additions by luke83, [https://forum.tuxemon.org/thread.php?pid=280 Past the Future] and [https://forum.tuxemon.org/thread.php?pid=2311#p2311 rubberduck].
+
+[[Category:George_]]
+
+Cave entrance based on [http://opengameart.org/content/16x16-game-assets George_'s waterfall sprite]

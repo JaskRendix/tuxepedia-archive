@@ -1,0 +1,72 @@
+{{Monster
+|Alternative Names=Howler
+|First URL=https://opengameart.org/content/isaiah658s-pixel-pack-2
+|Sources=Isaiah658, Jaskrendix
+|Source Explanation=Front sprite by Isaiah658. Back and face sprites by Jaskrendix. Alternative sprites by Isaiah658.
+|Species=Athena
+|Design Origin=An owl.
+|Main Details=Originally from the [[Zoonami]] game, where it has been renamed from Howl to Howler.
+|SpyderCampaign=N/A
+|TXMN Types=Earth
+|TXMN Sub-Elements=Normal, Sky
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=234
+|TXMN Blurb=HOWL's foolish exterior hides deep wisdom - if only it could communicate it, but its words come out as hoots and howls.
+|TXMN Height=63
+|TXMN Weight=2.5
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Bird
+|Fusion First=Ho
+|Fusion Second=owl
+}}
+{{Technique Allocation
+|Has_Technique=Assault
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Crystal
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Breath
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Peck
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Greenstone
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Frostbite
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Muck
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Rock
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Fledgling
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Strangulation
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Platinum
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Sylvan
+|Technique_Level=40
+}}

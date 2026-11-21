@@ -1,0 +1,64 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?id=59
+|Sources=TacoBot
+|Source Explanation=Original design by TacoBot. Sprites by TacoBot. Face sprites by Sanglorian and TacoBot.
+|Species=Hardware
+|Evolves=Nut
+|SpyderCampaign=Evolution of a starting monster. Used by trainers in Route 7.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=5
+|TXMN Blurb=The presence of a BOLT makes a NUT clamp down harder and spark more energy.
+|TXMN Height=90
+|TXMN Weight=15.6
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|Tags=Machine, Bomber, Gadgets, Light
+|Fusion First=Bol
+|Fusion Second=olt
+|TXMN_FR Blurb=La présence d'un BOLT rend un NUT plus fort et relâche plus d'énergie.
+|TXMN_PT Name=Parafuso
+}}
+{{Evolutions
+|Has Evolution=Arthrobolt
+|Evolution Level=12
+}}
+{{Technique Allocation
+|Has_Technique=Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Static Field
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Clamp On
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Beam
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Surge
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Thunderclap
+|Technique_Level=25
+}}

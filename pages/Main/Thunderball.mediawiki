@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=12
+|TXMN Blurb=With a rumbling like thunder, a hard ball of rock strikes the target.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=2.25
+|TXMN Potency=10%
+|TXMN Recharge=2
+|TXMN Target Condition=Flinching
+|TXMN Animation Target=1
+|Tags=Rock
+|Sources=Sanglorian, Tamashihoshi
+|Source Explanation=Technique by Sanglorian. "Pound" animation by Tamashihoshi.
+}}

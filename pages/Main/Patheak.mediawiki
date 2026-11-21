@@ -1,0 +1,14 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Patheak-682347381
+|Sources=TheBritanniaRegion,
+|Species=Self-Confidence
+|Name Origin=''pathetic'' + ''weak''
+|Design Origin=They are based on Blobfish (first form) and Ocean Sunfish (second form). They are also based on the concept of self-believe and courage.
+
+May also be based on the fact that blobfish look like normal fish at the correct depth - or this may be a happy coincidence.
+|Main Details=Patheak is not the only tuxemon based on a blobfish. [[Uglip]] is also based on a blobfish. [[Category:Variant]]
+|TXMN Types=Water
+|TXMN Blurb=This small and chubby little tuxemon has little self-confidence, so without its unique feature, it would be practically useless in battle. However, with the love and support of its trainer, the tuxemon can transform into a very strong and courageous form!
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+}}

@@ -1,0 +1,138 @@
+Tags determine which techniques a monster can learn via [[Technical Manual]]s and [[Move Module]]s. If one of a technique's tags matches a monster's tag, the monster can learn that technique. 
+
+== Amphibian ==
+{{#ask: [[Tags::Amphibian]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Amphibian]][[Category:Technique]] | ? | format=table| limit=100}}
+== Bird ==
+{{#ask: [[Tags::Bird]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Bird]][[Category:Technique]] | ? | format=table| limit=100}}
+== Bite == 
+{{#ask: [[Tags::Bite]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Bite]][[Category:Technique]] | ? | format=table| limit=100}}
+== Bomber == 
+{{#ask: [[Tags::Bomber]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Bomber]][[Category:Technique]] | ? | format=table| limit=100}}
+== Bug == 
+{{#ask: [[Tags::Bug]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Bug]][[Category:Technique]] | ? | format=table| limit=100}}
+== Calamity == 
+{{#ask: [[Tags::Calamity]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Calamity]][[Category:Technique]] | ? | format=table| limit=100}}
+== Celestial == 
+{{#ask: [[Tags::Celestial]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Celestial]][[Category:Technique]] | ? | format=table| limit=100}}
+== Claws == 
+{{#ask: [[Tags::Claws]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Claws]][[Category:Technique]] | ? | format=table| limit=100}}
+== Darkness == 
+{{#ask: [[Tags::Darkness]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Darkness]][[Category:Technique]] | ? | format=table| limit=100}}
+== Electricity == 
+{{#ask: [[Tags::Electricity]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Electricity]][[Category:Technique]] | ? | format=table| limit=100}}
+== Fists == 
+{{#ask: [[Tags::Fists]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Fists]][[Category:Technique]] | ? | format=table| limit=100}}
+== Flame == 
+{{#ask: [[Tags::Flame]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Flame]][[Category:Technique]] | ? | format=table| limit=100}}
+== Food == 
+{{#ask: [[Tags::Food]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Food]][[Category:Technique]] | ? | format=table| limit=100}}
+== Fury == 
+{{#ask: [[Tags::Fury]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Fury]][[Category:Technique]] | ? | format=table| limit=100}}
+== Gadgets == 
+{{#ask: [[Tags::Gadgets]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Gadgets]][[Category:Technique]] | ? | format=table| limit=100}}
+== Gaze == 
+{{#ask: [[Tags::Gaze]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Gaze]][[Category:Technique]] | ? | format=table| limit=100}}
+== Gemstone == 
+{{#ask: [[Tags::Gemstone]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Gemstone]][[Category:Technique]] | ? | format=table| limit=100}}
+== Ghost == 
+{{#ask: [[Tags::Ghost]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Ghost]][[Category:Technique]] | ? | format=table| limit=100}}
+== Ground ==
+{{#ask: [[Tags::Ground]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Ground]][[Category:Technique]] | ? | format=table| limit=100}}
+== Healing == 
+{{#ask: [[Tags::Healing]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Healing]][[Category:Technique]] | ? | format=table| limit=100}}
+== Ice == 
+{{#ask: [[Tags::Ice]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Ice]][[Category:Technique]] | ? | format=table| limit=100}}
+== Leadership == 
+{{#ask: [[Tags::Leadership]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Leadership]][[Category:Technique]] | ? | format=table| limit=100}}
+== Light == 
+{{#ask: [[Tags::Light]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Light]][[Category:Technique]] | ? | format=table| limit=100}}
+== Love == 
+{{#ask: [[Tags::Love]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Love]][[Category:Technique]] | ? | format=table| limit=100}}
+== Machine == 
+{{#ask: [[Tags::Machine]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Machine]][[Category:Technique]] | ? | format=table| limit=100}}
+== Megafauna == 
+{{#ask: [[Tags::Megafauna]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Megafauna]][[Category:Technique]] | ? | format=table| limit=100}}
+== Mental == 
+{{#ask: [[Tags::Mental]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Mental]][[Category:Technique]] | ? | format=table| limit=100}}
+== Plant == 
+{{#ask: [[Tags::Plant]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Plant]][[Category:Technique]] | ? | format=table| limit=100}}
+== Pseudopod == 
+{{#ask: [[Tags::Pseudopod]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Pseudopod]][[Category:Technique]] | ? | format=table| limit=100}}
+== Reserved == 
+{{#ask: [[Tags::Reserved]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Reserved]][[Category:Technique]] | ? | format=table| limit=100}}
+== Rock == 
+{{#ask: [[Tags::Rock]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Rock]][[Category:Technique]] | ? | format=table| limit=100}}
+== Shapeshifter == 
+{{#ask: [[Tags::Shapeshifter]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Shapeshifter]][[Category:Technique]] | ? | format=table| limit=100}}
+== Sharp == 
+{{#ask: [[Tags::Sharp]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Sharp]][[Category:Technique]] | ? | format=table| limit=100}}
+== Shielded == 
+{{#ask: [[Tags::Shielded]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Shielded]][[Category:Technique]] | ? | format=table| limit=100}}
+== Soldier == 
+{{#ask: [[Tags::Soldier]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Soldier]][[Category:Technique]] | ? | format=table| limit=100}}
+== Speed == 
+{{#ask: [[Tags::Speed]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Speed]][[Category:Technique]] | ? | format=table| limit=100}}
+== Staff == 
+{{#ask: [[Tags::Staff]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Staff]][[Category:Technique]] | ? | format=table| limit=100}}
+== Steel == 
+{{#ask: [[Tags::Steel]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Steel]][[Category:Technique]] | ? | format=table| limit=100}}
+== Summoner == 
+{{#ask: [[Tags::Summoner]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Summoner]][[Category:Technique]] | ? | format=table| limit=100}}
+== Tail == 
+{{#ask: [[Tags::Tail]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Tail]][[Category:Technique]] | ? | format=table| limit=100}}
+== Tongue == 
+{{#ask: [[Tags::Tongue]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Tongue]][[Category:Technique]] | ? | format=table| limit=100}}
+== Toxic == 
+{{#ask: [[Tags::Toxic]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Toxic]][[Category:Technique]] | ? | format=table| limit=100}}
+== Universal == 
+{{#ask: [[Tags::Universal]][[Category:Monster]] | ? | format=table| limit=5}}
+{{#ask: [[Tags::Universal]][[Category:Technique]] | ? | format=table| limit=100}}
+
+== Weather == 
+{{#ask: [[Tags::Weather]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Weather]][[Category:Technique]] | ? | format=table| limit=100}}
+== Water == 
+{{#ask: [[Tags::Water]][[Category:Monster]] | ? | format=table| limit=100}}
+{{#ask: [[Tags::Water]][[Category:Technique]] | ? | format=table| limit=100}}

@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Held Item
+|TXMN Cost=5000
+|TXMN Usable In=combat
+|TXMN Description=The user's attacks lash out at unexpected distance.
+|Main Details=The user's Melee techniques become Reach instead.
+|Sources=Catch Challenger
+|Source Explanation=Sprite by Catch Challenger.
+}}

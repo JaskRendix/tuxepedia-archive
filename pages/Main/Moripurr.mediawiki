@@ -1,0 +1,11 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=Piacarrot, Caos-cepi,
+|Source Explanation=Design and original sprite by Piacarrot and Caos-cepi. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Jade
+|Evolves=Bushmeow,
+|Design Origin=Jade statues
+|TXMN Types=Earth, Wood
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+}}

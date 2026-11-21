@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=274
+|TXMN Blurb=They create an unnatural light as a lure to the beyond.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Fire
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Exotic
+|TXMN Is fast=Slow
+|TXMN Accuracy=80%
+|TXMN Power=2.5
+|TXMN Potency=50%
+|TXMN Recharge=3
+|TXMN Target Condition=Lifeleech
+|TXMN Animation Target=3
+|Tags=Light
+}}

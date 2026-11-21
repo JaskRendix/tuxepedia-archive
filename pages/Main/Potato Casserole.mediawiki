@@ -1,0 +1,19 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=800
+|TXMN Usable In=world
+|TXMN Description=Sweetroot and mistflour layers baked in zestsap. Warm and citrusy with a soft bite.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Stonefruit Bulbs]]: 2
+* [[Zestsap]]: 1
+* [[Moo Bloom]]: 1
+* [[Sweetroot]]: 1
+* [[Crackle Salt]]: 1
+
+Possible Outputs:  
+* [[Potato Casserole]], 1, 0.8  
+* [[Dread Omelette]], 1, 0.2
+|Sources=Jaskrendix
+}}

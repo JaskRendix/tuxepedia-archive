@@ -1,0 +1,65 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=Caos-cepi, Piacarrot
+|Source Explanation=Design and original sprite by Piacarrot and Caos-cepi. Front sprite (resized) and face sprites by Jaskrendix. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Black Ice
+|Evolves=Coluga
+|Name Origin=''verglas'' (ice storm in French) + ''hasta'' (spear in Latin)
+|Design Origin=Black ice and a beluga whale - its tail is a ballista.
+|Main Details=The final evolution of BELUBY, VERGLASTA is a formidable predator.  VERGLASTA is a solitary Tuxemon that is rarely seen in groups.
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Leviathan
+|TXMN ID=403
+|TXMN Blurb=VERGLASTA's ballista-like tail can launch ice shards with incredible force.
+|TXMN Height=200
+|TXMN Weight=120
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Coastal, Sea
+|Tags=Ice, Metal, Megafauna, Water
+|Fusion First=Ver
+|Fusion Second=glasta
+}}
+{{Technique Allocation
+|Has_Technique=Hook
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Tail Lash
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Take Cover
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Roll
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=14
+}}
+{{Technique Allocation
+|Has_Technique=Horn
+|Technique_Level=18
+}}
+{{Technique Allocation
+|Has_Technique=Kraken
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Steel Jaws
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Harpoon
+|Technique_Level=35
+}}
+{{Technique Allocation
+|Has_Technique=Depth Charge
+|Technique_Level=40
+}}

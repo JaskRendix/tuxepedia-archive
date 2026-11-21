@@ -1,0 +1,108 @@
+== History ==
+
+Founded by a group of visionary entrepreneurs, '''TuxeVault Bank''' was established to provide a reliable and trustworthy financial institution for the people of Fondent region. The bank's founders, all passionate Tuxemon trainers and breeders, recognized the need for a bank that understood the unique needs of the Fondent community. In the early years, '''TuxeVault Bank''' focused on serving the local community, providing loans and financial services to Tuxemon trainers, breeders, and small business owners. The bank's commitment to personalized service and community involvement earned it a reputation as a trusted and reliable partner. As Fondent region grew and prospered, '''TuxeVault Bank''' expanded its services to meet the evolving needs of its customers. The bank introduced innovative products and services, such as Tuxemon-themed savings accounts and loans specifically designed for Tuxemon training and breeding.
+
+'''The Rise of the Cathedral and the Need for Independence'''
+
+In the last 4 decades, the Cathedral, a powerful and influential conglomerate, began to expand its reach into Fondent region. The Cathedral's subsidiaries, including Greenwash, Scoop, Nimrod, Shaft, and Omnichannel, started to dominate various industries, from genetic engineering to media and publishing. '''TuxeVault Bank''''s founders and management recognized the potential risks of the Cathedral's growing influence and decided to maintain the bank's independence. They believed that a locally owned and operated bank was essential to preserving the unique character of Fondent region and serving the needs of its citizens.
+
+'''Challenges and Opportunities'''
+
+Over the years, '''TuxeVault Bank''' has faced challenges from the Cathedral's subsidiaries, which have attempted to acquire or partner with the bank. However, the bank's commitment to independence and its focus on serving the local community have allowed it to maintain its autonomy. Today, '''TuxeVault Bank''' is a thriving institution, proud of its heritage and commitment to the people of Fondent region. The bank remains a beacon of independence, providing a trusted and reliable financial partner for the community.
+
+'''Core Values'''
+
+* Independence: We believe in maintaining our independence and autonomy, free from the influence of the Cathedral and its subsidiaries.
+* Community: We are committed to serving the people of Fondent region, providing personalized service and tailored financial solutions.
+* Innovation: We strive to innovate and adapt to the evolving needs of our customers, introducing new products and services that meet the unique demands of the Tuxemon community.
+* Trust: We are dedicated to earning and maintaining the trust of our customers, providing a safe and secure environment for their financial transactions.
+
+==  Organization ==
+
+'''CEO: Aurora'''
+
+Departments:
+* Retail Banking: Provides personal banking services, including checking and savings accounts, loans, and credit cards, to individuals and families.
+* Commercial Banking: Offers financial services, including business loans and lines of credit, to small and medium-sized businesses in Fondent region.
+* Investment Banking: Provides investment advice and services, including portfolio management and wealth management, to high-net-worth individuals and institutions.
+
+== Events ==
+Event 1:
+* Voice of the Vault: You return to the place that built you, Argon. But foundations crack, and dreams rot. Will you rebuild—or burn it down?
+* Argon: I said I came for redemption… but maybe I came to see what's left of me here.
+* Voice of Judgment: Redemption and reckoning are illusions, Argon. What you seek is truth—and truth rarely comforts.
+* Voice of Compassion: You carry pain, but also purpose. This place may have broken you—but it can still shape you.
+* Voice of Doubt: You think you've come back stronger. But strength fades. And this place remembers everything.
+* Voice of Temptation: Forget redemption. Forget reckoning. Just walk away, Argon. Let the past bury itself.
+* Argon: If truth is all that's left, then I'll face it—no matter how dark it gets. I won't walk away. Not this time. If this place remembers everything… then it remembers who I used to be.
+
+==  Bank Ground Floor ==
+[[File:Spyder crystal bank1.png|thumbnail]]
+=== Characters ===
+
+[[Enforcer]] Bob, ex employee (laid off):
+* I used to think this bank stood for something—independence, a beacon against the Cathedral's shadow. But then I saw cracks: strange transfers, unaccounted funds, whispers of deals with Cathedral subsidiaries. They let me go when I started asking questions. Something’s not right here, Argon. Not at all.
+
+[[Enforcer]] May, Wealth Manager: 
+* Think you can handle high finance? Prove it.
+* You’ve got the chops. But I won’t sit quietly if things fall apart.
+
+[[Enforcer]] Brock, Security Guard: 
+* You ask too many questions. Let’s see if you can back it up.
+* You’re tougher than I expected. But I’ll be tightening security from now on.
+
+[[Enforcer]] Daisy, Branch Manager: 
+* Troublemakers don’t last long here. Let’s see what you’ve got.
+* You’re formidable, I’ll give you that. But trust? That’s earned, not won.
+
+==  Bank 1st Floor ==
+[[File:Spyder crystal bank2.png|thumbnail]]
+=== Characters ===
+
+[[Enforcer]] Jeff, Cleaner: 
+* This place looks clean—but I’ve seen the dirt beneath. You ready to dig?
+
+'''Rubbish bin'''
+* You find a crumpled receipt: 'Archipelago Freight – Lumber shipment to Fondent Region (Confidential).'
+* Below it, a document stamped 'TerraForm Developers – Prototype facility construction (Project Eclipse).'
+* A torn note scribbled hastily reads: 'Meet J at powerplant. Discuss energy output. Eyes everywhere. Don’t get caught.'
+
+[[Enforcer]] Raj, Customer:
+* I’m just here to deposit my check—but this place feels ready to explode.
+* You’re braver than I thought. Just be careful—this bank’s secrets run deep.
+
+[[Enforcer]] Lile, Financial Analyst:
+* I’ve spotted patterns pointing to Cathedral. Help me test a theory—if you’re up for it.
+* You’ve proven yourself. Now let’s expose the strings Cathedral’s pulling behind the scenes.
+
+[[Enforcer]] Kai, Auditor:
+* The records don’t lie—unless someone makes them. Let’s see if you can handle the truth.
+* You’ve got grit. I’ll share what I’ve found—but tread carefully. Cathedral doesn’t like leaks.
+
+==  Bank 2nd Floor ==
+[[File:Spyder crystal bank3.png|thumbnail]]
+=== Characters ===
+
+[[Enforcer]] Ethan, Tax Advisor: 
+* TuxeVault’s books are spotless—too spotless. Let’s see if you can crack the polish.
+* You’ve got guts. Maybe you’re the one who’ll finally expose the lies beneath the numbers.
+
+[[Enforcer]] Ava, Compliance Officer: 
+* I’ve flagged suspicious flows. If you care about truth, prove you’re not just another pawn.
+* You’ve got more to you than meets the eye. Just remember—Cathedral doesn’t play fair.
+
+[[Enforcer]] Lucas, Money Launderer: 
+* You’ve got guts coming here. I can make you rich—if you’re not afraid to get dirty.
+* So you’re not interested in deals? Fine. But don’t expect to walk away untouched.
+
+[[Scientist]] Zircon
+* So, you finally show your face, Argon. I’ve been waiting for this moment. Let’s see if your ideals can stand against true power.
+* Dark Robo level 50
+* Pathetic, Argon. Is this the strength your so-called principles bring you? You can’t protect anyone—least of all yourself. Remember this defeat. It’s the only thing you’ve truly earned. (lose)
+* Impossible… You cling to ideals, and yet you stand. Perhaps I underestimated what conviction can become. (win)
+
+(lose)
+* Voice of Revelation: You’ve tasted defeat, Argon, and now the pieces begin to fall. Aurora’s disappearance is no accident... nor is your survival. The path ahead is darker than you know, but you must walk it. Watch the Cathedral. Watch the mountains. The truth waits for you... if you dare to see it.
+(win)
+* Don't mistake technical victory for narrative control, Argon. The endgame has already begun.
+* Voice of Revelation: You’ve defied power, Argon—and now the veil begins to lift. Aurora’s trail is not cold. The Cathedral watches, but so do others. The truth is moving. Follow it before it disappears."

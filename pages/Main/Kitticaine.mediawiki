@@ -1,0 +1,56 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/journal/Fakemon-for-Sale-680318198
+|Sources=TheBritanniaRegion
+|Species=Injection
+|Name Origin=''cocaine'' + ''kitten''
+|Design Origin=Kittens and cocaine
+|Main Details=They can be very slow when their blood supplies run low
+|TXMN Types=Metal
+|TXMN Sub-Elements=Lightning, Metal
+|TXMN Blurb=They prowl the empy rooms of Bedlam, running around trying to burn off the energy given by the drugs inside its system. If they fall down and break, other Kitticaines will rush to it to lick up its liquid, hoping to get a boost from its chemical blood.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Caticane
+}}
+{{Technique Allocation
+|Has_Technique=Infectious Bite
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Insanity
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Cat Calling
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Buzz
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=12
+}}
+{{Technique Allocation
+|Has_Technique=Crushing Bite
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Grinding
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Needle
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Electric Multibite
+|Technique_Level=32
+}}
+{{Technique Allocation
+|Has_Technique=Charge
+|Technique_Level=40
+}}

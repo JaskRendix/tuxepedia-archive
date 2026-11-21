@@ -1,0 +1,67 @@
+{{Monster
+|Sources=Jaskrendix
+|Species=Forgotten Fixes
+|Name Origin=Patch + Geist
+
+Patch – Refers to software patches and its stitched, fabric-like body
+
+Geist – German for "ghost" evoking its spectral nature and haunting presence
+|Main Details=Patchgeist materialized from the remnants of half-applied fixes and deprecated libraries. Its body is a stitched-together quilt of forgotten patches, each one echoing a failed attempt to heal broken systems. Gliding silently through digital ruins, it whispers changelogs from long-lost versions. When it encounters unresolved bugs, it doesn't fight — it rewrites. Its presence causes old code to flicker with ghostly stability, only to crash again when it vanishes.
+
+Patchgeist is said to haunt legacy systems, appearing only during midnight deployments. Developers who've seen it claim their terminal froze, then displayed a message: <code>// you tried</code>. It's the embodiment of every hotfix that almost worked, every rollback that came too late. While [[Bugzilladon]] smashes through errors, Patchgeist quietly rewrites history — one haunted commit at a time.
+|TXMN Types=Fire, Metal
+|TXMN Sub-Elements=Cosmic, Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=409
+|TXMN Blurb=A spectral patchwork born from abandoned updates. It drifts through code, seeking closure.
+|TXMN Height=160
+|TXMN Weight=22
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Ruins, Urban
+|Tags=Ghost, Darkness, Calamity, Claws, Machine, Shielded
+|Fusion First=Patch
+|Fusion Second=geist
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Boxing
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Data Swap
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shade Shield
+|Technique_Level=5
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Sphere
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Curse
+|Technique_Level=15
+}}
+{{Technique Allocation
+|Has_Technique=Sockpuppet
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Neuroshock
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Fey Light
+|Technique_Level=35
+}}
+{{Technique Allocation
+|Has_Technique=Deletion Request
+|Technique_Level=40
+}}

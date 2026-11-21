@@ -1,0 +1,37 @@
+<noinclude>
+This is the "Terrains" template.
+It should be called in the following format:
+<pre>
+{{Terrains
+|Main Details=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+=== Completed ===
+There are {{#ask:[[TXMN Completed::Complete]] [[Category:{{PAGENAME}}]]
+| format=count}} completed {{PAGENAME}} monsters.
+
+<table class="invisitable"><tr><td>
+{{#ask:[[TXMN Completed::Complete]] [[Category:{{PAGENAME}}]] |limit=400
+|?TXMN Terrain
+|?Species
+|?TXMN Blurb
+}}
+</td></tr></table>
+
+=== Not completed ===
+There are {{#ask:[[TXMN Completed Exists::false]] [[Category:{{PAGENAME}}]]
+| format=count}} not completed {{PAGENAME}} monsters.
+
+<table class="invisitable"><tr><td>
+{{#ask:[[TXMN Completed Exists::false]] [[Category:{{PAGENAME}}]] |limit=400
+|?TXMN Terrain
+|?Species
+|?TXMN Blurb
+}}
+</td></tr></table>
+
+[[Category:Terrains]]
+[[Category:{{PAGENAME}}]]
+</includeonly>

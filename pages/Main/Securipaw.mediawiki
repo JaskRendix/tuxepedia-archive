@@ -1,0 +1,11 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/journal/Fakemon-for-Sale-680318198
+|Sources=TheBritanniaRegion,
+|Evolves=Cheezap,
+|Name Origin=''security'' + ''paw''
+|Design Origin=Sabretooth tigers
+|TXMN Types=Metal
+|TXMN Blurb=Ruthless, merciless and silent, this tuxemon can hunt out intruders with its advanced built-in technology. They will often dig their sharp, saber teeth into their opponents, often hospitalising them.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}

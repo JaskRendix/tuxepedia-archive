@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=252
+|TXMN Blurb=They caste a curse that takes effect later on.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Shadow
+|TXMN Family=Special
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=95%
+|TXMN Power=0.5
+|TXMN Effects=foresight 2
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Staff
+|Main Details=Could be cosmic or shadow or both.
+|Sources=HippasusTwo
+}}

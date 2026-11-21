@@ -1,0 +1,66 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Josepharaoh99, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Original design and sprites by Spalding004. Face sprites by josepharaoh99.
+|Species=Too Hot
+|Design Origin=A fiery colored likely brown or black bear with 'mind fire'; the small size (for a bear) would suit a black bear better (although brown bears are the most variably sized of all bears so that does not mean much). Black bears are very omnivorous, tend to be secretive, do come in the color brown (confusingly enough), and are known for sometimes approaching human towns to forage secretively, so a hypothetical psychic bear might learn to hone its mind from such encounters, perhaps sneaking into libraries instead of just trash, although I doubt this was the original author's intent it would make nice lore.
+|Main Details=In the Sitran Fakedex, evolves from Cuburn, but that creature is based on a proprietary character.
+
+The [[Furnursus]] family are also fiery bears with a meditative side, but are Kodiak bears instead.
+|SpyderCampaign=Found in the wild in Greenwash HQ. Used by trainers in Route 7.
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire, Cosmic
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=83
+|TXMN Blurb=It rejects fire as "basic", and produces only the fire of the mind.
+|TXMN Height=180
+|TXMN Weight=110
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Mountains, Woodland
+|Tags=Mental, Flame, Food
+|Fusion First=Bur
+|Fusion Second=ursa
+}}
+{{Evolutions
+|Has Evolution=Flambear
+|Evolution Level=32
+}}
+{{Technique Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Amnesia
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Berserk
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Give All
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=40
+}}

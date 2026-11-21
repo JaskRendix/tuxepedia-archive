@@ -1,0 +1,4 @@
+== Summary ==
+Just for fun at this point - stamps showing where a mon was captured. 
+
+Uses Pizel, 5x7 and Two Step fonts.

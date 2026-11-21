@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=pixelartm, Sanglorian
+|Source Explanation=Overland sprites by pixelartm, adapted by Sanglorian.
+|Genre=Fantasy Historical
+|Combat Type=1 vs 1
+}}

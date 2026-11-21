@@ -1,0 +1,27 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us.
+|Name Origin=''Mongol'' + ''ghoul''
+A combination of "mongol" and "ghoul". "Mongol" likely refers to its horse-like appearance, while "ghoul" alludes to its ghostly nature and association with the undead.
+|Main Details=Its body is composed of a translucent, marble-like substance, allowing one to see through to its skeletal structure within. Its eyes glow with an eerie blue light, and it's often surrounded by a swirling mist. 
+
+== The legend of [[Renaiprans]] and Monghoul ==
+
+Verse 1: In the dawn of time, two steeds were born: Renaiprans, of marble white, and Monghoul, of shadow night.
+The former, a beacon of life, the latter, a harbinger of doom.
+
+Verse 2: Bound by ancient pact, they guarded the world's balance. Renaiprans watched over the living, Monghoul over the dead. Their existence, a cosmic dance, a delicate equilibrium.
+
+Verse 3: Yet, as magic waned and humanity faltered, the pact grew frail. A prophecy whispered of a cataclysmic end, heralded by Renaiprans' final breath and Monghoul's mournful cry.
+
+Verse 4: Until that fateful hour, they remain, silent sentinels of fate, their destinies intertwined in the eternal struggle of light and darkness.
+|TXMN Types=Metal
+|TXMN Blurb=MONGHOUL is a solitary creature, said to wander ancient ruins and crypts where its mournful cries echo through the night.
+|TXMN Height=150
+|TXMN Weight=120
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|Fusion First=Mong
+|Fusion Second=houl
+}}

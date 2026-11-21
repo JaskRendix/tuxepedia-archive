@@ -1,0 +1,52 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us.
+|Species=Formiddable
+|Name Origin=''magnificent'' + ''majestic''
+|Main Details=It is the spirit of all warrior-kings, generals and war-time prime ministers. 
+
+One of the [[Four Sovereigns]]. [[Category:Four Sovereigns]]
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire, Cosmic
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN ID=432
+|TXMN Blurb=A fiery spirit of courage and conquest, MAGJESTIC represents those who lead from the front, inspiring armies and shaping history through warfare.
+|TXMN Height=220
+|TXMN Weight=105
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|Tags=Summoner
+|Fusion First=Mag
+|Fusion Second=jestic
+}}
+{{Technique Allocation
+|Has_Technique=Mind Vise
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Fey Light
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Magic Spell
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Summon Fire Spirits
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Oven
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Mind Explosion
+|Technique_Level=40
+}}

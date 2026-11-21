@@ -1,0 +1,14 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Poiseam-and-Vadampf-691919411
+|Sources=TheBritanniaRegion,
+|Species=Vapour Monster
+|Evolves=Poiseam,
+|Name Origin=''vapour'' + ''dampf'' (German for vapour)
+|Design Origin=Steam and water vapour.
+|Main Details=Alternative blurb: They hide on flat surfaces, waiting for people to look into the mirror. They then jump out at them and begin mauling them and inserting poison into their bloodstream.
+|TXMN Types=Water
+|TXMN Blurb=Before every session, saunas are to be searched for any Vadampf, this is a legal requirement.
+|TXMN_DE Name=Vadampfa (Verdampfer)
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}

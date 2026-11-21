@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=280
+|TXMN Blurb=They summon water spirits, avoid their touch if you do not wish to be dragged down into watery depths.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Water
+|TXMN Family=Powerful
+|TXMN Is fast=Slow
+|TXMN Accuracy=90%
+|TXMN Power=2
+|TXMN Effects=foresight 3
+|TXMN Potency=10%
+|TXMN Recharge=4
+|TXMN Target Condition=Stuck
+|TXMN Animation Target=1
+|Tags=Summoner, Water
+|Sources=HippasusTwo
+}}

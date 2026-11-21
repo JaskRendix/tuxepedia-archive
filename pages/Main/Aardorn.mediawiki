@@ -1,0 +1,67 @@
+{{Monster
+|First URL=http://magic-purple-hermit.deviantart.com/art/Aardvark-Fakemon-155672307
+|Sources=Giovani rubio, Sanglorian, Magic-Purple-Hermit
+|Source Explanation=Released under a Creative Commons Attribution-ShareAlike 3.0 licence in 2010 on DeviantArt. Original design, sprites and name by Magic-Purple-Hermit. Sprites tweaked by Sanglorian. Magic-Purple-Hermit would like to be told if the creature is used. Art by giovani_rubio.
+|Species=Snout
+|SpyderCampaign=Found in the wild in Route 1, Route 2 and Route 4. Trainers use Aardorn in Route 2, Route 3, City Park, Dojo of the Elements. Greenwash HQ has created an Aardorn/ant fusion called an Aardant.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Varmint
+|TXMN ID=42
+|TXMN Blurb=When born it is placed in an anthill and left to eat its way out.
+|TXMN Height=40
+|TXMN Weight=18
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Grassland, Jungle, Woodland
+|Tags=Ground, Food, Tongue
+|Fusion First=Aar
+|Fusion Second=dorn
+|TXMN_FR Blurb=À sa naissance, il est livré à lui-même dans une fourmilière et doit en manger les parois pour assurer sa survie.
+}}
+{{Evolutions
+|Has Evolution=Aardart
+|Evolution Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Evasion
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Lick Lash
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Assault
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Hibernate
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Feint
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Tonguespear
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Mudslide
+|Technique_Level=31
+}}

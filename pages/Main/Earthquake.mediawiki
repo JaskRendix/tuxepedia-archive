@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=168
+|TXMN Blurb=The ground shakes violently as the user unleashes a powerful ground attack.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Family=Powerful
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=70%
+|TXMN Power=2.9
+|TXMN Effects=areas
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Calamity, Ground
+|Sources=Jaskrendix
+}}

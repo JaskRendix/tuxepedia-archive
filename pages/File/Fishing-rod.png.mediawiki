@@ -1,0 +1,7 @@
+[[Category:24px]]
+[[Category:Main]]
+[[Category:Main Sprite]]
+[[Category:Catch Challenger]]
+[[Category:Fishing Rod]]
+
+A sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.

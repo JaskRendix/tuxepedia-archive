@@ -1,0 +1,85 @@
+== Introduction ==
+The Tuxemon event system is designed to easily allow users to create new actions and conditions that you can use in-game. This page will show you how to create your own "Hello World" action, but first, a brief explanation about ''how'' the event system works.
+
+The Tuxemon event engine begins by first loading all of the events defined in the currently loaded map. After all the map's events have been loaded, the event engine will, ''every frame'', loop through each event and check to see if all the conditions for that event are <code>True</code>. If each condition returns <code>True</code>, it will execute all of the actions defined in that event in order (e.g. <code>act1</code>, <code>act2</code>, etc.).
+
+http://i.imgur.com/6LvZrBv.png
+
+The actual ''methods'' that define ''what'' to check for (in the case of conditions) or ''what'' to execute (in the case of actions) are all defined in the <code>core.components.event</code> module. '''Any method defined in this module will be available for you to use in the map editor.''' When Tuxemon is first initialized, the event engine will go through this module and make ''all'' the methods available as conditions or actions to execute during the main loop. Because of this, you '''must ensure that all new method names are unique'''.
+
+This might all be a little complex at first, but once you go through an example, things might start making more sense.
+
+== Hello World Example ==
+Now that you have a basic overview of how the event system works, let's try creating an example action and condition!
+
+=== Creating conditions ===
+To create our first condition, we'll need to define a new method in any of the files located in the <code>core.components.event.conditions</code> module. Your condition will work in any file in this module, but try and include it in the most relevant one (e.g. if it's NPC related, put it in the <code>npc.py</code> file).
+
+To make things simple, we'll create a condition that will always be true. Let's call our new condition "always_true":
+
+'''core/components/event/conditions/core.py'''  
+
+    python
+    ...
+    def always_true(self, game, condition):
+    print "This will always return True!"
+    print "    Condition:", condition
+    return True
+    ...
+
+Notice that ''every'' condition must have these two parameters:  
+* <code>game</code>
+* <code>condition</code>
+
+The <code>game</code> parameter will give you the main Tuxemon game object which will give you access to all in-game variables. You can use these in-game variables to check for whatever conditions you'd like. 
+
+The <code>condition</code> parameter will give you access to the condition that was defined in the map file. This is good if you want to check for other parameters that your condition might require.
+
+Here's an example of what you might get back as a condition you define in [http://www.mapeditor.org Tiled]:  
+
+    python
+    condition
+    {'id': 3,
+    'operator': 'is',
+    'parameters': '1',
+    'type': 'always_true',
+    'x': 1,
+    'y': 3}
+
+After creating your condition, you can now open up [Tiled](http://www.mapeditor.org) and create a new event with your condition!
+
+http://i.imgur.com/9PVkLyZ.png
+
+=== Creating actions ===
+Creating actions is very similar to creating conditions. Instead of returning <code>True</code> or <code>False</code> if a condition is met or not though, you can create actions that will make in-game changes. To create our first action, we'll need to define a new method in any of the files located in the <code>core.components.event.actions</code>. Your action will work in any file in this module, but try and include it in the most relevant one (e.g. if it's NPC related, put it in the <code>npc.py</code> file).
+
+To make things simple, we'll create an action that will simply print "Hello World!" on the command line. We'll also print out the <code>action</code> parameter so you can see what that looks like. Let's call our new action "say_hello":
+
+'''core/components/event/actions/core.py'''  
+
+    python
+    ...
+    def say_hello(self, game, action):
+    print "Hello World!"
+    print "    Action:", action
+    ...
+
+Notice that ''every'' action must have these two parameters:  
+* <code>game</code>
+* <code>action</code>
+
+The <code>game</code> parameter will give you the main Tuxemon game object which will give you access to all in-game methods and variables. You can use these in-game methods and variables to carry out any action you'd like.
+
+The <code>action</code> parameter will give you access to the action that was defined in the map file. This is good if you want to check for other parameters that your action might require.
+
+Here's an example of what an action might look like:  
+
+    python
+    >>> action
+    ('say_hello', 'Hi', '3', 1)
+
+After creating your action, you can now open up [http://www.mapeditor.org Tiled] and include it in your event!
+
+http://i.imgur.com/WlKvYkL.png
+
+Now run Tuxemon and go to your map and see what happens! You should see the console printing everything you defined in your action and condition!

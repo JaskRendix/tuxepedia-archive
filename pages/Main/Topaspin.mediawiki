@@ -1,0 +1,6 @@
+{{Monster
+|Sources=Sandy, Tamashihoshi,
+|Source Explanation=Design by Sandy. Front sprite by Tamashihoshi.
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}

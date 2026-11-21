@@ -1,0 +1,208 @@
+Battle backgrounds are an important component during the fight. 
+
+== Proposed Tag Field ==
+
+add a field ''tag'' to the JSONs to simplify bonus/malus and other mechanics
+
+== File JSON == 
+
+Battle Terrains in Tuxemon can be created by adding a JSON file to the <code>mods/tuxemon/db/environment</code> directory.
+
+*  "slug": "grass",
+*  "battle_music": "music_battle_loop",
+the category: "battle_graphics": this is the main category which contains '''hud''' and '''icons''' and it manages the islands (terrain below the monsters) as well as the background. You can see many examples below (islands and backgrounds).
+*    "island_back": "gfx/ui/combat/grass_island.png",
+*    "island_front": "gfx/ui/combat/grass_island.png",
+*    "background": "gfx/ui/combat/grass_background.png",
+the subcategory "battle_graphics" > "hud"
+*      "hud_player": "gfx/ui/combat/hp_player_nohp.png", -> '''Pairagrin Symbol lv 3'''
+*      "hud_opponent": "gfx/ui/combat/hp_opponent_nohp.png", -> '''Aardorn Symbol lv 3'''
+*      "tray_player": "gfx/ui/combat/player_party_tray.png",
+*      "tray_opponent": "gfx/ui/combat/opponent_party_tray.png"
+the subcategory "battle_graphics" > "icons": this manages the small tuxeball icons below the hud (see image below).
+*      "icon_alive": "gfx/ui/icons/party/party_icon01.png",
+*      "icon_status": "gfx/ui/icons/party/party_icon02.png",
+*      "icon_faint": "gfx/ui/icons/party/party_icon03.png",
+*      "icon_empty": "gfx/ui/icons/party/party_empty.png"
+
+[[File:Battle_screen.png]]
+
+Here is an example of what an environment file might look like:
+
+`mods/tuxemon/db/environment/grass.json` 
+
+  json
+  {
+  "slug": "grass",
+  "battle_graphics": {
+    "island_back": "gfx/ui/combat/grass_island.png",
+    "island_front": "gfx/ui/combat/grass_island.png",
+    "background": "gfx/ui/combat/grass_background.png",
+    "hud": {
+      "hud_player": "gfx/ui/combat/hp_player_nohp.png",
+      "hud_opponent": "gfx/ui/combat/hp_opponent_nohp.png",
+      "tray_player": "gfx/ui/combat/player_party_tray.png",
+      "tray_opponent": "gfx/ui/combat/opponent_party_tray.png"
+    },
+    "icons": {
+      "icon_alive": "gfx/ui/icons/party/party_icon01.png",
+      "icon_status": "gfx/ui/icons/party/party_icon02.png",
+      "icon_faint": "gfx/ui/icons/party/party_icon03.png",
+      "icon_empty": "gfx/ui/icons/party/party_empty.png"
+    }
+  },
+  "battle_music": "music_battle_loop"
+  }
+
+== Set background == 
+
+How do I set up the battle terrain? It depends on your "taste".
+
+=== Dynamic background === 
+It changes depending the time.
+Day:
+
+   <properties>
+    <property name="act1" value="set_variable environment:grass"/>
+    <property name="cond1" value="not variable_set stage_of_day:night"/>
+    <property name="cond2" value="not variable_set environment:grass"/>
+   </properties>
+
+Night:
+
+   <properties>
+    <property name="act1" value="set_variable environment:night_grass"/>
+    <property name="cond1" value="is variable_set stage_of_day:night"/>
+    <property name="cond2" value="not variable_set environment:night_grass"/>
+   </properties>
+
+You need to replace '''grass''' and '''night_grass'''.
+
+=== Fixed background === 
+It doesn't change.
+
+   <properties>
+    <property name="act1" value="set_variable environment:interior"/>
+    <property name="cond1" value="not variable_set environment:interior"/>
+   </properties>
+
+== Arid Background - "arid" ==
+[[File:Arid background.png]] - [[File:Dried mud front island.png]] - [[File:Dried mud back island.png]]
+
+== Beach Background - "beach" ==
+[[File:Beach background.png]] - [[File:Sand front island.png]] - [[File:Sand front island.png]]
+
+== Bridge Background - "bridge" ==
+[[File:Bridge background.png]] - [[File:Cobble front island.png]] - [[File:Cobble front island.png]]
+
+== Canyon Background - "canyon" ==
+[[File:Canyon background.png]] - [[File:Dried mud front island.png]] - [[File:Dried mud back island.png]]
+
+== Cave Background - "cave" ==
+[[File:Cave background.png]] - [[File:Cave front island.png]] - [[File:Cave front island.png]]
+
+== Cliff Background - "cliff" ==
+[[File:Cliff background.png]] - [[File:Grass front island.png]] - [[File:Grass front island.png]]
+
+== Clouds Background - "clouds" ==
+[[File:Clouds background.png]] - [[File:Sky front island.png]] - [[File:Sky back island.png]]
+
+== Desert Background - "desert" ==
+[[File:Desert background.png]] - [[File:Sand front island.png]] - [[File:Sand front island.png]]
+
+== Grass Background - "grass ==
+[[File:Grass background.png]] - [[File:Grass front island.png]] - [[File:Grass front island.png]]
+
+== Interior Background - "interior" ==
+[[File:Battle bg03.png]] - [[File:Cobble front island.png]] - [[File:Cobble front island.png]]
+
+== Night Arid Background - "night_arid" ==
+[[File:Night arid background.png]] - [[File:Dried mud front island.png]] - [[File:Dried mud back island.png]]
+
+== Night Beach Background - "night_beach" ==
+[[File:Night beach background.png]] - [[File:Water front island.png]] - [[File:Water front island.png]]
+
+== Night Bridge Background - "night_bridge" ==
+[[File:Night bridge background.png]] - [[File:Cobble front island.png]] - [[File:Cobble front island.png]]
+
+== Night Canyon Background - "night_canyon" ==
+[[File:Night canyon background.png]] - [[File:Dried mud front island.png]] - [[File:Dried mud back island.png]]
+
+== Night Cliff Background - "night_cliff" ==
+[[File:Night cliff background.png]] - [[File:Grass front island.png]] - [[File:Grass front island.png]]
+
+== Night Desert Background - "night_desert" ==
+[[File:Night desert background.png]] - [[File:Sand front island.png]] - [[File:Sand front island.png]]
+
+== Night Grass Background - "night_grass" ==
+[[File:Night grass background.png]] - [[File:Night grass island front.png]] - [[File:Night grass island front.png]]
+
+== Night Ocean Background - "night_ocean" ==
+[[File:Night ocean background.png]] - [[File:Water front island.png]] - [[File:Water front island.png]]
+
+== Night Plain Background - "night_plain" ==
+[[File:Night plain background.png]] - [[File:Night grass island front.png]] - [[File:Night grass island front.png]]
+
+== Night Sea Background - "night_sea" ==
+[[File:Night sea background.png]] - [[File:Water front island.png]] - [[File:Water front island.png]]
+
+== Night Snowplain Background - "night_snowplain" ==
+[[File:Night snowplain background.png]] - [[File:Snow front island.png]] - [[File:Snow front island.png]]
+
+== Night Valley Background - "night_valley" ==
+[[File:Night valley background.png]] - [[File:Night grass island front.png]] - [[File:Night grass island front.png]]
+
+== Ocean Background - "ocean" ==
+[[File:Ocean background.png]] - [[File:Water front island.png]] - [[File:Water front island.png]]
+
+== Plain Background - "plain" ==
+[[File:Plain background.png]] - [[File:Night grass island front.png]] - [[File:Night grass island front.png]]
+
+== Sea Background - "sea" ==
+[[File:Sea background.png]] - [[File:Water front island.png]] - [[File:Water front island.png]]
+
+== Snowplain Background - "snowplain" ==
+[[File:Snowplain background.png]] - [[File:Snow front island.png]] - [[File:Snow front island.png]]
+
+== Stadium Background - "stadium" ==
+[[File:Stadium background.png]] - [[File:Stadium front island.png]] - [[File:Stadium back island.png]]
+
+== Sunset Background - "sunset" ==
+[[File:Sunset background.png]] - [[File:Terra front island.png]] - [[File:Terra back island.png]]
+
+== Valley Background - "valley" ==
+[[File:Valley background.png]] - [[File:Greengrass front island.png]] - [[File:Greengrass front island.png]]
+
+== Unused Terrain == 
+
+=== Cavern Background - "cavern" ===
+[[File:Cavern background.png]] - [[File:Cave front island.png]] - [[File:Cave front island.png]]
+
+=== Forest Background - "forest" ===
+[[File:Forest background.png]] - [[File:Woodland.png]] - [[File:Woodland.png]]
+
+=== Night Forest Background - "night_forest" ===
+[[File:Night forest background.png]] - [[File:Woodland.png]] - [[File:Woodland.png]]
+
+=== Night Sand Background - "night_sand" ===
+[[File:Night sand background.png]] - [[File:Sand front island.png]] - [[File:Sand front island.png]]
+
+=== Sand Background - "sand" ===
+[[File:Sand background.png]] - [[File:Sand front island.png]] - [[File:Sand front island.png]]
+
+=== Night Snow Background - "night_snow" ===
+[[File:Night snow background.png]] - [[File:Snow front island.png]] - [[File:Snow front island.png]]
+
+=== Snow Background - "snow" ===
+[[File:Snow background.png]] - [[File:Snow front island.png]] - [[File:Snow front island.png]]
+
+=== Underwater Background - "underwater" ===
+[[File:Underwater background.png]] - [[File:Big blue front island.png]] - [[File:Big blue front island.png]]
+
+== Unused Terrain islands ==
+[[File:Warning front island.png]] - [[File:Warning back island.png]]
+[[File:Leather front island.png]] - [[File:Leather back island.png]]
+[[File:Parque front island.png]] - [[File:Parque back island.png]]
+[[File:Ice front island.png]] - [[File:Ice back island.png]]
+[[File:Rain front island.png]] - [[File:Rain back island.png]]
+[[File:Paper front island.png]] - [[File:Paper back island.png]]

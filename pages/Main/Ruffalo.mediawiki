@@ -1,0 +1,48 @@
+{{Monster
+|First URL=https://opengameart.org/content/isaiah658s-pixel-pack-2
+|Sources=Isaiah658, Jaskrendix
+|Source Explanation=Front sprite by Isaiah658. Face sprites by Jaskrendix. Alternative sprites by Isaiah658.
+|Species=Buffalo
+|Name Origin=Perhaps ''ruff'', ''rough'' (for its shaggy fur) and ''buffalo''
+|Main Details=A large, quadrupedal Tuxemon resembling a buffalo. It has a thick, shaggy brown fur, with darker brown horns and hooves. Its eyes are wide and alert, and it has a powerful build.
+
+
+* Ruffalo are highly social creature, living in large herds led by a dominant male. They are fiercely protective of their young and will charge to defend their herd (herd mentality)
+* their thick, shaggy fur provides excellent insulation against cold weather and protects them from minor injuries (thick hide)
+* primarily herbivorous, it consume a diet of grasses, leaves, and roots (diet)
+|TXMN Types=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Landrace
+|TXMN ID=283
+|TXMN Blurb=RUFFALO possess incredible strength and can charge at high speeds, capable of knocking over trees and small buildings.
+|TXMN Height=180
+|TXMN Weight=350
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Grassland, Woodland
+|Tags=Megafauna, Sharp
+|Fusion First=Ruff
+|Fusion Second=alo
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hibernate
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Mudslide
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Earthquake
+|Technique_Level=19
+}}

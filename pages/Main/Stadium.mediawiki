@@ -1,0 +1,4 @@
+{{Environment
+|Sources=pixel32, Jaskrendix,
+|Source Explanation=Front and back island sprites resized from sprites by pixel32. Recoloured and resized by Jaskrendix.
+}}

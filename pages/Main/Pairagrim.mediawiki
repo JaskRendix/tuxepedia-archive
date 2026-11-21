@@ -1,0 +1,65 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2376
+|Sources=Adam Chevalier, Thadeusart
+|Source Explanation=Designed by xirsoi. Art by thadeusart.
+|Species=Two-Headed Falcon
+|Evolves=Pairagrin
+|Name Origin=''pair of'' + ''grim'' (evoking ''peregrine'')
+|Main Details=Pairagrim are highly coordinated aerial predators. Each head has a distinct role—one focuses on flight and maneuvering, while the other scans for prey—allowing them to navigate dense forests at high speed and perform sharp turns, dives, and other advanced aerial maneuvers. They fly with minimal noise and strike only when success is assured. Pairagrim are solitary hunters outside of nesting season and typically raise small clutches of one to three chicks. Though more serious and calculating than their juvenile form, they can still form strong bonds with trainers. The two heads possess separate minds but remain closely synchronized, rarely disagreeing.
+|SpyderCampaign=Found in the wild on Route 7. Used by trainers in Route 7.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Sky
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=182
+|TXMN Blurb=One of Pairagrim's heads is always searching for prey, while the other focuses on flying at great speed.
+|TXMN Height=110
+|TXMN Weight=10
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Bird
+|Fusion First=Paira
+|Fusion Second=grim
+|TXMN_FR Name=Siamoiseau
+}}
+{{Technique Allocation
+|Has_Technique=Peck
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Whirlwind
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Assault
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Negation
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Gust
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Wing Tip
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Fluff Up
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Peregrine
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Ten Thousand Feathers
+|Technique_Level=55
+}}

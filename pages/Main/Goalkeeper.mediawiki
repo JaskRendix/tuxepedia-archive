@@ -1,0 +1,7 @@
+{{Trainer
+|Sources=David Revoy, tnguyn606
+|Source Explanation=Art by David Revoy. Sprite by tnguyn606
+|Genre=Modern
+|Combat Type=1 vs 1
+|Main Details=[[Category:Handballers]]
+}}

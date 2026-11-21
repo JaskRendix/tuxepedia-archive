@@ -1,0 +1,50 @@
+{{Monster
+|Sources=HippasusTwo, WDFA-Final
+|Source Explanation=Design and front and back sprites by WDFA-Final. Front, back and face sprites by HippasusTwo.
+|Species=Myrmidon
+|Evolves=Scarlant
+|Name Origin=''skull'' + ''shell''
+|TXMN Types=Metal
+|TXMN Sub-Elements=Earth, Heroic
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=290
+|TXMN Blurb=SHULL doesn't need to eat or move, but it still enjoys treats and supplements from its favorite person, especially if it is regularly being sent into battle.
+|TXMN Height=40
+|TXMN Weight=55
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Grassland, Jungle, Mountains, Swamp, Urban, Woodland
+|Tags=Bug, Bite, Shielded
+|Fusion First=Shu
+|Fusion Second=ull
+}}
+{{Evolutions
+|Has Evolution=Myrmison
+|Evolution Level=Time Day,20
+}}
+{{Technique Allocation
+|Has_Technique=Clamp On
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ants
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Blood Nets
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Sting
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=19
+}}

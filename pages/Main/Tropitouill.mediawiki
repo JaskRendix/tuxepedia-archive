@@ -1,0 +1,11 @@
+{{Monster
+|Sources=Jai-Ti
+|Source Explanation=Designed and illustrated by Jai-Ti.
+|Species=Toucan
+|Name Origin=''tropical'' + ''toucan'' + ''illusion''
+|Design Origin=A toucan
+|TXMN Types=Wood
+|TXMN Body Shape=Flier
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+}}

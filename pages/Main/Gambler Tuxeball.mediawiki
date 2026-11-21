@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Capture Item
+|TXMN Effects=Capture
+|TXMN Cost=400
+|TXMN Usable In=combat
+|TXMN Description=This tuxeball is known for its unpredictable nature. Its catch rate fluctuates wildly, with the chance of capturing a tuxemon ranging from extremely low to exceptionally high.
+|TXMN Consumable=yes
+|Main Details=It randomly generates a modifier between 0.0 and 2.0.
+|Sources=Jaskrendix
+}}

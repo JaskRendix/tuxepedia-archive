@@ -1,0 +1,18 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=1000
+|TXMN Usable In=world
+|TXMN Description=Stonefruit bulb ribs coated in crackle spices. Meaty texture and satisfying pop.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Stonefruit Bulbs]]: 2
+* [[Glowfat]]: 1
+* [[Crackle Salt]]: 1
+* [[Starpepper]]: 1
+
+Possible Outputs:  
+* [[Rub Ribs]], 1, 0.9  
+* [[Bite Of Despair]], 1, 0.1
+|Sources=Jaskrendix
+}}

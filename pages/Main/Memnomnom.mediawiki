@@ -1,0 +1,71 @@
+{{Monster
+|Alternative Names=Agamemau
+|Sources=Bonny John, Chairry-Art, Leo, MTC-Studio, Sanglorian
+|Source Explanation=Original design and sprites by Sanglorian. Other art by Leo, MTC-Studio and Bonny John. Other sprites by Chairry-Art.
+|Species=Relic
+|Name Origin=''Agamemnon'' + ''nom nom nom''
+''Agamemnom'' + ''Mau'' (cat breed) (Agamemau, by Chairry-Art)
+|Design Origin=Based on the Mask of Agamemnon and mummified Egyptian cats.
+|Main Details=[[Category:Starting Tuxemon]]
+== The Spyder in the Cathedral ==
+One of the [[new releases]].
+|SpyderCampaign=Starting tuxemon for the Rival. Used by a trainer in Route 5.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=19
+|TXMN Blurb=It is said that each one's mask is the face of a different dead king.
+|TXMN Height=70
+|TXMN Weight=7
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Tags=Ground, Claws, Summoner, Ghost
+|Fusion First=Memnom
+|Fusion Second=nom
+}}
+{{Evolutions
+|Has Evolution=Miaownolith
+|Evolution Level=Earth Booster
+}}
+{{Evolutions
+|Has Evolution=Pyraminx
+|Evolution Level=Metal Booster
+}}
+{{Evolutions
+|Has Evolution=Miaownolith
+|Evolution Level=Miaow Milk
+}}
+{{Evolutions
+|Has Evolution=Pyraminx
+|Evolution Level=Pyramidion
+}}
+{{Evolutions
+|Has Evolution=Mauai
+|Evolution Level=Ox Stick
+}}
+{{Evolutions
+|Has Evolution=Mauai
+|Evolution Level=Fire Booster
+}}
+{{Technique_Allocation
+|Has_Technique=Eyebite
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Feint
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Shuriken
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Slice
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=13
+}}

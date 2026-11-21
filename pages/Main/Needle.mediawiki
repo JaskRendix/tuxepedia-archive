@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=196
+|TXMN Blurb=The user stabs the target rapidly with a needle or thorns.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Exotic
+|TXMN Is fast=Very Fast
+|TXMN Accuracy=90%
+|TXMN Power=2.5
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Plant, Machine, Steel
+|Sources=HippasusTwo
+}}

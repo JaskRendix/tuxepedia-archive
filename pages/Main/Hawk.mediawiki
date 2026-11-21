@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=111
+|TXMN Blurb=The user soars high into the air before diving down with a powerful attack.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Wood
+|TXMN Type 2=Earth
+|TXMN Sub-Elements=Sky
+|TXMN Family=Special
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.5
+|TXMN Effects=Appear
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Bird
+|Main Details=[[Altitude]] is flying off and it's followed by [[Hawk]] where the monster lands.
+|Sources=Jaskrendix
+}}

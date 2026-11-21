@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Story Item
+|TXMN Description=The Achievement Maniac's list of achievements for you to attempt.
+|TXMN Key Item=yes
+|Main Details=A list of all achievements in the game, and progress towards them.
+|SpyderCampaign=Given by the Achievement Maniac in City Park
+|Sources=Sanglorian, Henrique Lazarini
+|Source Explanation=Sprite adapted by Sanglorian from a sprite by Henrique Lazarini.
+}}

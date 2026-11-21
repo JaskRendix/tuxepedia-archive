@@ -1,0 +1,8 @@
+{{Monster
+|Sources=Georg Eckert,
+|Source Explanation=Designed and sprited by Georg Eckert.
+|Evolves=Erimat,
+|Name Origin=''hermit'' + ''chief''
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}

@@ -1,0 +1,59 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=1849
+|Sources=Jaskrendix, Lejun, Serpexnessie
+|Source Explanation=Front sprite by Serpexnessie. Back and face sprites by Lejun. Blurb by Jaskrendix.
+|Species=Spirit Fire
+|Evolves=Seirein
+|SpyderCampaign=Used by a trainer in Dojo.
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire, Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=163
+|TXMN Blurb=It is said that the LOLIFERNO's fire could not be extinguished. Yet, despite its power, LOLIFERNO has a playful side, and is known to dance among the flames it creates.
+|TXMN Height=60
+|TXMN Weight=0
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|TXMN Terrains=Swamp
+|Tags=Flame, Light, Ghost
+|Fusion First=Loli
+|Fusion Second=ferno
+}}
+{{Technique Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Chill Mist
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Invictus
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Midnight Mantle
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=40
+}}

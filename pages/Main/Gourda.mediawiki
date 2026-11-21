@@ -1,0 +1,45 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=HippasusTwo, Jaskrendix, Piacarrot, Ultidonki
+|Source Explanation=Design and original sprite by Piacarrot. Front and back sprites by HippasusTwo. Back sprite tweaked by ultidonki. Face sprites by Jaskrendix.Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Pumpkin
+|Design Origin=A pumpkin.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=331
+|TXMN Blurb=Competitions to grow the largest GOURDA have resulted in some reaching one ton in weight, but normal GOURDA are much smaller.
+|TXMN Height=40
+|TXMN Weight=28
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Plant, Food, Healing
+|Fusion First=Gour
+|Fusion Second=da
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Overgrowth
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Stabilo
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Overfeed
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Nest
+|Technique_Level=19
+}}

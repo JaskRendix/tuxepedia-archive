@@ -1,0 +1,16 @@
+{{Trainer
+|Sources=Leo, Superpowers Asset Packs, Sanglorian
+|Source Explanation=Design and front sprite by Leo. Overland sprite by Superpowers Asset Packs, tweaked by Sanglorian. Face sprites from Superpowers Asset Pack.
+|Genre=Sci-Fi
+|Combat Type=1 vs 1
+|Main Details===Spare==
+[[Enforcer]] Lance
+* If there's two things I hate, it's people who don't mind their own business, and people wanting a free lunch!
+* 
+* Now there's three things I hate.
+
+[[Enforcer]] Stryker
+* You look like someone who lets their tuxemon train each other. My tuxemon all received the finest professional training from a licensed Cathedral instructor.
+* 
+* Why did I bother paying for all that training?!
+}}

@@ -1,0 +1,65 @@
+{{Monster
+|Alternative Names=Raynose,
+|First URL=https://forum.tuxemon.org/thread.php?id=65
+|Sources=Sanglorian
+|Source Explanation=Original design and sprites by Sanglorian.
+|Species=Proboscis
+|Name Origin=''nostril'' + ''ray''
+|Design Origin=Inspired by rays at the aquarium with big snouts and toothy mouths that looked like an overbite.
+|SpyderCampaign=Found in the wild in Sea Route C. Used by a trainer in Sea Route C. Fished with the Fishing Rod.
+|TXMN Types=Water
+|TXMN Sub-Elements=Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Piscine
+|TXMN ID=152
+|TXMN Blurb=It can smell anything in the ocean, no matter how far away.
+|TXMN Height=120
+|TXMN Weight=30
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Sea
+|Tags=Bite, Water, Darkness
+|Fusion First=Nos
+|Fusion Second=tray
+}}
+{{Technique Allocation
+|Has_Technique=Proboscis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Chill Mist
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Font
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Goad
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Flow
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Kraken
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Snowstorm
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=55
+}}

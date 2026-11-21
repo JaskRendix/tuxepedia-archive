@@ -1,0 +1,9 @@
+{{Monster
+|Alternative Names=Shoking,
+|First URL=https://forum.tuxemon.org/thread.php?id=120
+|Sources=josepharaoh99,
+|Main Details=[[Category:Variant]]
+|TXMN Types=Metal, Water
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+}}

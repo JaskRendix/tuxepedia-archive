@@ -1,0 +1,84 @@
+{{Monster
+|First URL=http://jozzer26.deviantart.com/art/Fruit-bat-starter-504344836
+|Sources=Rawng, Sanglorian, jozzer26
+|Source Explanation=Design by jozzer26. Front and back sprites by Rawng. Face sprites adapted from the front sprite by Sanglorian.
+|Species=Tiny Bat
+|Design Origin=A fruit bat
+|Main Details=josepharaoh99: 
+
+Fruitera is a friendly, yet mischievous monster that has been known to become
+friends with people at first sight. It is found in fields and prairies. It has a
+powerful pound, and has been known to attack other monsters for items it wants,
+especially shiny ones. The Fruitera has been known to hoard items it finds, and
+often ends up with a very valuable nest. It is especially known for stripping
+entire fruit trees, leaving nothing behind, even if it could not store all the
+food.
+|SpyderCampaign=N/A
+|TXMN Types=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=169
+|TXMN Blurb=FRUITERA is greedy for fruit, and carries as much as it can. When startled, it drops all its fruit, gathers it all up again, and only then runs away.
+|TXMN Height=30
+|TXMN Weight=2
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Plant, Food
+|Fusion First=Fruit
+|Fusion Second=era
+|TXMN_FR Blurb=FRUITERA aime les fruits et en transporte autant que possible. Lorsqu'il est surpris, il lâche tous ses fruits, les ramasse puis fuit.
+}}
+{{Evolutions
+|Has Evolution=Megafruitera
+|Evolution Level=18
+}}
+{{Technique Allocation
+|Has_Technique=Fluff Up
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Leaf Stab
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Splinter
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Invictus
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Fester
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Leaf Barrage
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Chameleon
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Whirlwind
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Clairaudience
+|Technique_Level=40
+}}

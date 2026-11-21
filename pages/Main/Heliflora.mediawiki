@@ -1,0 +1,25 @@
+{{Monster
+|Sources=Seripha
+|Name Origin=Heli + Flora
+
+Heli-: From helicopter, referencing the spinning motion of petals or leaves as they glide through the air.
+
+Flora: Latin for "plants" or "flowers", representing its botanical nature.
+|Main Details=Heliflora are often found sunbathing in meadows, absorbing solar energy through their vibrant petal. They are known for their cheerful disposition and a faint, warm glow that emanates from their bodies at dusk. When threatened, they can unleash a concentrated burst of solar heat.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Sky, Wood
+|TXMN Body Shape=Blob
+|TXMN Blurb=While other Tuxemon go for a walk, this Tuxemon uses its rotor flower to fly smoothly over lawns and seas and enjoying the view. People use to say that it is 'flying for a walk'.
+|TXMN Height=50
+|TXMN Weight=7
+|TXMN Catch Resistance=90
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Grassland, Woodland
+|Fusion First=Heli
+|Fusion Second=Flora
+}}
+{{Evolutions
+|Has Evolution=Duoflora
+|Evolution Level=to be defined
+}}

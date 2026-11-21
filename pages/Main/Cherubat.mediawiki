@@ -1,0 +1,71 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/49-Cherubat-666023537
+|Sources=Jaskrendix, Sanglorian, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Face sprites tweaked by Sanglorian, based on the front sprite. Back sprite by Jaskrendix, based on the front sprite.
+|Species=Patu
+|Name Origin=Presumably ''cherub'' + ''bat''
+|SpyderCampaign=N/A
+|TXMN Types=Metal
+|TXMN Sub-Elements=Cosmic, Sky
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=248
+|TXMN Blurb=These inquisitive bats are drawn by the heady emotions of people in love, and carry back unsupervised bouquets and chocolate boxes to build their nests.
+|TXMN Height=30
+|TXMN Weight=0.5
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Urban, Woodland
+|Tags=Love, Darkness, Food
+|Fusion First=Cheru
+|Fusion Second=bat
+}}
+{{Technique_Allocation
+|Has_Technique=Wing Tip
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Slice
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Strike
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Berserk
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Amnesia
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Lineage
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Rust Bomb
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Blade
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=All In
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Perfect Cut
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=One-Two
+|Technique_Level=37
+}}
+{{Technique_Allocation
+|Has_Technique=Platinum
+|Technique_Level=40
+}}

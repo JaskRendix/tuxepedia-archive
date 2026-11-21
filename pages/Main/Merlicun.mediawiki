@@ -1,0 +1,73 @@
+{{Monster
+|First URL=http://princess-phoenix.deviantart.com/art/Merlicun-340144534
+|Sources=princess-phoenix
+|Source Explanation=princess-phoenix has released Project Freemon under a Creative Commons Attribution-ShareAlike 3.0 Unported licence for us.
+|Species=Dragon Worm
+|Main Details=Designed as a half larva/half pupae. 
+
+From DeviantArt:
+
+"When threatened they will first size up their opponent. If they feel as though they can win they will relentlessly headbutt their foe. But, if they appear to be overpowered they will compress their body into what resembles pupae and focus on defending themselves. 
+
+"They evolve at high levels, and so they are far stronger than they initially appear to be."
+|SpyderCampaign=N/A
+|TXMN Types=Fire
+|TXMN Sub-Elements=Cosmic, Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Varmint
+|TXMN ID=209
+|TXMN Blurb=Merlicun is a hardy insect that has evolved to be efficient at both attack and defense. They gather in the tree canopies of ancient forests to feed on fruits and leaves.
+|TXMN Height=28
+|TXMN Weight=3
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Tags=Bug
+|Fusion First=Merl
+|Fusion Second=icun
+|TXMN_FR Blurb=Les MERLICUN sont hardis et assez évolués pour exceller aussi bien en attaque qu'en défense. Ils se regroupent dans les canopées pour manger des feuilles et des fruits.
+}}
+{{Evolutions
+|Has Evolution=Firomenis
+|Evolution Level=20
+}}
+{{Technique_Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Muddle
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Chameleon
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Kindling Flame
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Sunburst
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Magma
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Arcane Eye
+|Technique_Level=37
+}}
+{{Technique_Allocation
+|Has_Technique=Battery Acid
+|Technique_Level=40
+}}

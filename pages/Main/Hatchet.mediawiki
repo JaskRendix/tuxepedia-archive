@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Exploration Item
+|TXMN Usable In=world
+|TXMN Description=Cut down pesky logs with the Hatchet.
+|TXMN Key Item=yes
+|Main Details=Used to cut down [[Log]]s in the overworld.
+|Sources=thekingphoenix
+|Source Explanation=Sprite by thekingphoenix.
+}}

@@ -1,0 +1,26 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert
+|Evolves=Circeece
+|Name Origin=''quantum'' + ''rhombus''
+|TXMN Types=Metal
+|TXMN Sub-Elements=Lightning, Metal
+|TXMN Body Shape=Sprite
+|TXMN Blurb=When CIRCEECE morphs into QUANTHUS, its appearance becomes more menacing and crystalline. Its once circuit-like patterns solidify into a sharp, triangular structure.
+|TXMN Height=120
+|TXMN Weight=25
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}
+{{Technique Allocation
+|Has_Technique=Crystal
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Beam
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Charge
+|Technique_Level=30
+}}

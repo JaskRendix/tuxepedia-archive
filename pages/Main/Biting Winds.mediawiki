@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=24
+|TXMN Blurb=A chill wind leaves the target weak and exposed.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Earth
+|TXMN Type 2=Water
+|TXMN Sub-Elements=Sky
+|TXMN Family=Simple
+|TXMN Is fast=Slow
+|TXMN Accuracy=100%
+|TXMN Power=1.25
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Target Condition=Softened
+|TXMN Animation Target=1
+|Tags=Weather
+|Sources=Sanglorian
+}}

@@ -1,0 +1,46 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=HippasusTwo, Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Back sprite by HappisusTwo. Face sprites by Jaskrendix.
+|Species=Frosty
+|Name Origin=''Eskimo'' (Inuit) + ''pup'' (baby dog)
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=327
+|TXMN Blurb=Even as a puppy, it can pull 1 ton loads.
+|TXMN Height=56
+|TXMN Weight=24
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Boreal/Snow
+|Tags=Ice, Bite
+|Fusion First=Eski
+|Fusion Second=pup
+}}
+{{Evolutions
+|Has Evolution=Houndice
+|Evolution Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Ice Claw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ice Shield
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Canine
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Ice Storm
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Frostbite
+|Technique_Level=19
+}}

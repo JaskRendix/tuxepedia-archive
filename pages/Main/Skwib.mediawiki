@@ -1,0 +1,64 @@
+{{Monster
+|Alternative Names=Squidgey
+|First URL=http://fauxlens.deviantart.com/art/Fauxlens-Fakemon-Sale-I-ALL-SOLD-628429321
+|Sources=Sanglorian, fauxlens
+|Source Explanation=Designed and illustrated by fauxlens. Sprites by Sanglorian.
+|Species=Naive
+|Name Origin=''squib'', evoking ''squid''
+|Design Origin=Coconut octopus
+|SpyderCampaign=Used by trainers in Dojo. Fished with the Fishing Rod and Neptune. Found in the wild in Tunnel B and Route 6.
+|TXMN Types=Water
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Polliwog
+|TXMN ID=183
+|TXMN Blurb=The SKWIB contentedly floats through the ocean, examining potential shell-homes. It has to fear for its life before it will finally make a choice.
+|TXMN Height=30
+|TXMN Weight=9
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Tags=Pseudopod
+|Fusion First=Sk
+|Fusion Second=wib
+}}
+{{Evolutions
+|Has Evolution=Octabode
+|Evolution Level=18
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Flow
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mobbing
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Orbs
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Font
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Goad
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Feint
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Venomous Tentacle
+|Technique_Level=28
+}}

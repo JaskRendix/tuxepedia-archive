@@ -1,0 +1,25 @@
+{{Monster
+|Sources=Mircea Kitsune
+|Source Explanation=Based on Dollfin. Adapted by Mircea Kitsune.
+|Species=Glitched
+|Main Details=[[Category:Glitch]]
+|TXMN Types=Water
+|TXMN Completed=Complete Threat
+|TXMN Body Shape=Leviathan
+|TXMN Height=0
+|TXMN Weight=25
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}
+{{Technique_Allocation|Has_Technique=Goad|Technique_Level=2}}
+{{Technique_Allocation|Has_Technique=Flood|Technique_Level=2}}
+{{Technique_Allocation|Has_Technique=Flow|Technique_Level=6}}
+{{Technique_Allocation|Has_Technique=Frostbite|Technique_Level=8}}
+{{Technique_Allocation|Has_Technique=Spit Poison|Technique_Level=12}}
+{{Technique_Allocation|Has_Technique=Midnight Mantle|Technique_Level=16}}
+{{Technique_Allocation|Has_Technique=Orbs|Technique_Level=20}}
+{{Technique_Allocation|Has_Technique=Shapechange|Technique_Level=24}}
+{{Technique_Allocation|Has_Technique=Ice Storm|Technique_Level=28}}
+{{Technique_Allocation|Has_Technique=Kraken|Technique_Level=32}}
+{{Technique_Allocation|Has_Technique=Ice Shield|Technique_Level=36}}
+{{Technique_Allocation|Has_Technique=Proboscis|Technique_Level=40}}

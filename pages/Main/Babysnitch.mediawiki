@@ -1,0 +1,55 @@
+{{Monster
+|First URL=https://darkmilkyway1701.deviantart.com/art/Fakemons-for-sale-Theme-Alice-in-pokeland-431621860 DarkMilkyWay1701
+|Sources=DarkMilkyWay1701, HippasusTwo, Sanglorian
+|Source Explanation=Art by DarkMilkyWay1701. Coloured by Sanglorian.
+|Species=Fuminous
+|Name Origin=''baby'' + ''bandersnatch'' + ''snitch''
+|Design Origin=The bandersnatch in Alice in Wonderland. The body appears somewhat akin to a badger or wolverine.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Normal, Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=350
+|TXMN Blurb=The fuming BABYSNITCH will throw itself into the attack, usually with little effect. But beware: if you laugh at its efforts, it will hunt you once it grows into a BADDRSCRATCH.
+|TXMN Height=35
+|TXMN Weight=10
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Boreal/Snow, Grassland, Underground
+|Tags=Bite, Claws, Fury, Ground
+|Fusion First=Baby
+|Fusion Second=snitch
+}}
+{{Evolutions
+|Has Evolution=Baddrscratch
+|Evolution Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Assault
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Invictus
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Canine
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Rock
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Berserk
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Earthquake
+|Technique_Level=40
+}}

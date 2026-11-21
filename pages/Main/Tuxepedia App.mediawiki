@@ -1,0 +1,14 @@
+{{Item
+|Item Category=Functional Item
+|TXMN Usable In=world
+|TXMN Description=Keep track of information about Tuxemon here, and share it with the world.
+|TXMN Key Item=yes
+|Main Details=[[File:Tuxepedia_mockup.png|thumbnail]]
+[[File:Tuxepedia_GUI_Mockup_2.png|thumbnail]]
+[[File:Tuxepedia_GUI_Index.png|thumbnail]]
+
+An open source project to create an encyclopedia of tuxemon, open for anyone to contribute to.
+|SpyderCampaign=Given by the Hacker NPC on first entering the Cotton café; adds the monster journal to the phone menu
+|Sources=Owlblocks, Sanglorian, Jaskrendix
+|Source Explanation=Sprite by Owlblocks. GUI by Sanglorian and Jaskrendix.
+}}

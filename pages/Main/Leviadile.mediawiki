@@ -1,0 +1,67 @@
+{{Monster
+|Sources=Georg Eckert, HippasusTwo
+|Source Explanation=Designed and sprited by Georg Eckert.
+|Species=Crocodile
+|Evolves=Krokivip
+|Name Origin=''leviathan'' + ''crocodile''
+|Main Details=The final evolution of KROKI, LEVIADILE is a colossal, blue, leviathan-like creature with a serpentine body. It retains the venomous serpent tongue from its previous form. With its immense size and powerful jaws, LEVIADILE is a dominant predator of the deep sea.
+|TXMN Types=Water
+|TXMN Sub-Elements=Venom, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Leviathan
+|TXMN ID=371
+|TXMN Blurb=With its immense size and powerful venomous jaws, LEVIADILE is a dominant predator of the deep sea.
+|TXMN Height=680
+|TXMN Weight=2500
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Sea
+|Tags=Ice, Water, Bite, Toxic, Fury
+|Fusion First=Levia
+|Fusion Second=dile
+}}
+{{Technique Allocation
+|Has_Technique=Ice Shield
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Water Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Slice
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Geyser
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Grinding
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Tsunami
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Kraken
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Frostbite
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Viper
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=55
+}}

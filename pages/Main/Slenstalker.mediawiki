@@ -1,0 +1,13 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Slentacle-and-Slenstalker-665919808
+|Sources=TheBritanniaRegion,
+|Species=Abducting
+|Evolves=Slentacle,
+|Name Origin=''Slenderman'' + ''stalker''
+|Design Origin=Slenderman.
+|Main Details=It has been spotted in many different regions, and seen in many videos and photographs of small children.
+|TXMN Types=Metal
+|TXMN Blurb=It hides in the forest, seeking out lost children that chose to play in the forest without their parents' permission. Some say that the tuxemon scares the unforunate children, others say they feast on the children's souls before turning them into haunted trees.
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}

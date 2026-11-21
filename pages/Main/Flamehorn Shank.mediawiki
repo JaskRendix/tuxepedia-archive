@@ -1,0 +1,7 @@
+{{Item
+|Item Category=Ingredient Item
+|TXMN Description=Thick slices harvested from flamehorn flora—giant, non-sentient fireplants cultivated for seared cuts. Bold, charred, and packed with bite.
+|TXMN Consumable=yes
+|Main Details=A cooking ingredient employed when crafting dishes at the player's station, triggered by <code>crafting_station player,cooking</code>
+|Sources=Jaskrendix
+}}

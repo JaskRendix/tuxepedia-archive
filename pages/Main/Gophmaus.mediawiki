@@ -1,0 +1,48 @@
+{{Monster
+|Sources=Nikai Region
+|Source Explanation=Art by Nikai Region.
+|Species=Horned Rodent
+|Name Origin=''gopher'' + ''maus'' (mouse in German)
+|Design Origin=A spooky mouse or rat.
+|TXMN Types=Metal, Wood
+|TXMN Sub-Elements=Shadow
+|TXMN Body Shape=Varmint
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Gophst
+|Evolution Level=22
+}}
+{{Technique Allocation
+|Has_Technique=Glower
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hook
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Breath
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Sphere
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Horn
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=26
+}}
+{{Technique Allocation
+|Has_Technique=Burrow Blast
+|Technique_Level=40
+}}

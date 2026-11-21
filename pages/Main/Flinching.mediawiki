@@ -1,0 +1,8 @@
+{{Condition
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME flinches and may not act.
+|Details=50% chance to miss your next turn. If you do miss your next turn, this condition ends.
+|TXMN ID=25
+}}

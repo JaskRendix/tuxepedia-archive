@@ -1,0 +1,19 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=800
+|TXMN Usable In=world
+|TXMN Description=Crispy flying-beast style bites with magical heat. Bold, sizzling, and bite-sized bravery.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Meal Dust]]: 2
+* [[Starpepper]]: 1
+* [[Crackle Salt]]: 1
+* [[Glowfat]]: 1
+* [[Mistflour Eggs]]: 1
+
+Possible Outputs:  
+* [[Wings]], 1, 0.8  
+* [[Inferno Custard]], 1, 0.2
+|Sources=Jaskrendix
+}}

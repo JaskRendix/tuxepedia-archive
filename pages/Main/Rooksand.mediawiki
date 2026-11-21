@@ -1,0 +1,64 @@
+{{Monster
+|First URL=https://www.deviantart.com/mjco/art/Fakemon-Sale-Adoption-788243398
+|Sources=Jaskrendix, Sanglorian, mjco
+|Source Explanation=Design and front sprites by mjco. 64px front sprite resized by Sanglorian. Back and face sprites adapted by Jaskrendix.
+|Species=Sand Rook
+|Evolves=Pawsand
+|Name Origin=''rook'' + ''sand''
+|SpyderCampaign=Evolves from Pawsand.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=375
+|TXMN Blurb=ROOKSAND sometimes allows those it deems worthy to live inside its sandcastle, and crushes all others.
+|TXMN Height=300
+|TXMN Weight=1000
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|TXMN Terrains=Coastal, Desert
+|Tags=Fists, Ground, Water
+|Fusion First=Rook
+|Fusion Second=sand
+}}
+{{Technique Allocation
+|Has_Technique=Boulder
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mudslide
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Stonehenge
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Avalanche
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Muck
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=22
+}}
+{{Technique Allocation
+|Has_Technique=Lineage
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Rocky Barrage
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=55
+}}

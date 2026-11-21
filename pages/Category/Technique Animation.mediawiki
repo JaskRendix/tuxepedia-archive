@@ -1,0 +1,1 @@
+One animation can apply to multiple techniques, and some techniques may not have an animation.

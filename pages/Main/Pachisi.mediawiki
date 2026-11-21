@@ -1,0 +1,24 @@
+[[File:Gaming_Hall.png|thumbnail]]
+
+A [[Shopkeeper]] blocks the path to the Pachisi tiles. When you talk to them, you have the opportunity to pay $200. They move out of the way, you step forward, then they close you off again so you have to pass through the Pachisi tiles. After paying the $200, you get $200 worth of credits (displayed in the top right of the screen). 
+
+When you step on a tile, an effect triggers depending on the tile. Then a die is rolled on the screen, and you move forward as many spaces as it indicates. Repeat until your Pachisi game ends for whatever reason (in which case you are shunted immediately to the end of the tiles, unless you blacked out in which case you wake out at a center as usual), or you get to the end. 
+
+If you get to the end, you keep all your credits. If you don't get to the end, you lose all your credits but you keep any items you won and any tuxemon you captured. 
+
+It is technically possible to sneak in the back and avoid paying, but since the first tile you would step on is a Skull, the Pachisi game would end immediately anyway. 
+
+== Tiles ==
+* Skull: Game ends (lose your credits)
+* Up Arrow: Fight a monster (you can catch it)
+* Side Arrow: Get an item
+* II: Double your credits
+* III: Triple your credits
+* ./..: Halve your credits
+* ./...: Divide by a third your credits
+
+== Not implemented ==
+* Lucky: Roll two dice and add them for the next move
+* Sliding: Move backwards instead of forwards this move
+* Teleport: Teleport to a completely different location (may be the way to reach a boss of some sort)
+[[Category:Proposed content]]

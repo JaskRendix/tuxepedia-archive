@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Held Item
+|TXMN Effects=block_evolution, buff dodge 0.5, buff armor 0.5
+|TXMN Requirements=has_evolution
+|TXMN Description=Holding this item keeps a monster in juvenile form indefinitely, increasing its Armor and Dodge stats.
+|Main Details=Only monsters that have at least one more stage of evolution to go can hold this item. Doing so stops them from evolving further and, in combat, buffs their Armor and Dodge stats by 50%.
+|Sources=Sanglorian
+}}

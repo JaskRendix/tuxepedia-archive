@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=139
+|TXMN Blurb=The user becomes one with its surroundings, healing itself.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=healing user
+|TXMN Healing Power=3
+|TXMN Potency=100%
+|TXMN Recharge=4
+|TXMN User Condition=Recovering
+|TXMN Target Condition=Focused
+|TXMN Animation Target=1
+|Tags=Healing, Mental
+|Sources=Jaskrendix
+}}

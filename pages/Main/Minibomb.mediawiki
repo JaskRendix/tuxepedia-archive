@@ -1,0 +1,5 @@
+{{Item
+|Item Category=Held Item
+|TXMN Effects=Bomb
+|Main Details=Grant move bomb.
+}}

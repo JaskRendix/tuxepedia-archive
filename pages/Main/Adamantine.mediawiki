@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=120
+|TXMN Blurb=The user's body glows intensely before it delivers a crushing blow.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Fire
+|TXMN Sub-Elements=Metal
+|TXMN Family=Reserved
+|TXMN Is fast=Very Slow
+|TXMN Accuracy=100%
+|TXMN Power=3
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Reserved
+|Main Details=[[Reserved technique]] for [[Windeye]]. [[Category:Reserved technique]]
+|Sources=Jaskrendix
+}}

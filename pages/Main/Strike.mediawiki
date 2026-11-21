@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=74
+|TXMN Blurb=The user delivers a powerful, focused blow.
+|TXMN Completed=Complete
+|TXMN Category=Reliable
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Normal
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.25
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Fists
+|Sources=Sanglorian, Tamashihoshi
+|Source Explanation=Technique by Sanglorian. "Slash power" animation by Tamashihoshi.
+|Main Details=As well as being a technique in its own right, [[Strike]] is used when a monster returns from [[Burrow Blast]].
+}}

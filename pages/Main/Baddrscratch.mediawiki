@@ -1,0 +1,53 @@
+{{Monster
+|Alternative Names=Badderscratch
+|First URL=https://darkmilkyway1701.deviantart.com/art/Fakemons-for-sale-Theme-Alice-in-pokeland-431621860 DarkMilkyWay1701
+|Sources=DarkMilkyWay1701, HippasusTwo, Sanglorian
+|Source Explanation=Art by DarkMilkyWay1701. Coloured by Sanglorian.
+|Species=Fuminous
+|Evolves=Babysnitch
+|Name Origin="bad" + "bandersnatch" + "scratch" (abbreviated to keep within 12 characters)
+|Design Origin=The bandersnatch from Alice in Wonderland. Wolverine.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth, Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=351
+|TXMN Blurb=The furious BADDRSCRATCH is a fearsome hunter, and it will not stop in its pursuit of its prey - even in the face of certain death.
+|TXMN Height=140
+|TXMN Weight=65
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Boreal/Snow, Mountains, Underground
+|Tags=Bite, Claws, Fury, Ground, Darkness
+|Fusion First=Baddr
+|Fusion Second=scratch
+}}
+{{Technique Allocation
+|Has_Technique=Assault
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Invictus
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Canine
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Rock
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Berserk
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Earthquake
+|Technique_Level=40
+}}

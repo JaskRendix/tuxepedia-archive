@@ -1,0 +1,68 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=Caos-cepi, Jaskrendix, Piacarrot
+|Source Explanation=Design and original sprite by Piacarrot and Caos-cepi. Front sprite (resized) and face sprites by Jaskrendix. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Black Ice
+|Name Origin=''beluga'' + ''baby''
+|Design Origin=Black ice and a beluga whale.
+|Main Details=A small, aquatic Tuxemon resembling a beluga whale. Despite its innocence appearance, BELUBY is surprisingly agile and can leap out of the water to catch prey.
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Leviathan
+|TXMN ID=401
+|TXMN Blurb=BELUBY is often found floating on icebergs, using its thick blubber for insulation.
+|TXMN Height=50
+|TXMN Weight=30
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Coastal
+|Tags=Ice, Tail, Steel, Water
+|Fusion First=Be
+|Fusion Second=luby
+}}
+{{Evolutions
+|Has Evolution=Coluga
+|Evolution Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Hook
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Tail Lash
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Take Cover
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Roll
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=14
+}}
+{{Technique Allocation
+|Has_Technique=Horn
+|Technique_Level=18
+}}
+{{Technique Allocation
+|Has_Technique=Kraken
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Steel Jaws
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Harpoon
+|Technique_Level=35
+}}
+{{Technique Allocation
+|Has_Technique=Depth Charge
+|Technique_Level=40
+}}

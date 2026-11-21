@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=131
+|TXMN Blurb=The user summons a swarm of ants that crawl over the opponent, changing their type to Earth.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Earth
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=Switch Earth Target
+|TXMN Potency=100%
+|TXMN Recharge=4
+|TXMN Animation Target=1
+|Tags=Shapeshifter, Bug
+|Sources=Jaskrendix
+}}

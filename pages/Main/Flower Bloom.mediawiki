@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=227
+|TXMN Blurb=A hard to evade massive bloom of flower petals blasts like a blizzard across the landscape.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Family=Powerful
+|TXMN Is fast=Slow
+|TXMN Accuracy=95%
+|TXMN Power=3
+|TXMN Effects=splash
+|TXMN Recharge=3
+|TXMN Animation Target=1
+|Tags=Plant
+|Sources=HippasusTwo
+}}

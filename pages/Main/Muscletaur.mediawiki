@@ -1,0 +1,63 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/54-55-Bulkcow-Muscletaur-666806106
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Face sprites adapted by Jaskrendix.
+|Species=Yoked
+|Evolves=Bulkcow
+|Main Details=Its powerful legs deliver devastating kicks, and razor-sharp horns gore opponents with ease. With incredible endurance, MUSCLETAUR shrugs off crushing blows, unleashing its full fury on the battlefield.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Heroic, Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Brute
+|TXMN ID=398
+|TXMN Blurb=MUSCLETAUR is a chiseled masterpiece of physical perfection.
+|TXMN Height=300
+|TXMN Weight=450
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Ruins
+|Tags=Megafauna
+|Fusion First=Muscle
+|Fusion Second=taur
+}}
+{{Technique Allocation
+|Has_Technique=Tail Lash
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Lock Horns
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Invictus
+|Technique_Level=3
+}}
+{{Technique Allocation
+|Has_Technique=Trample
+|Technique_Level=6
+}}
+{{Technique Allocation
+|Has_Technique=Horn
+|Technique_Level=18
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=21
+}}
+{{Technique Allocation
+|Has_Technique=Walls
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Woodsmash
+|Technique_Level=27
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Earth Charge
+|Technique_Level=33
+}}

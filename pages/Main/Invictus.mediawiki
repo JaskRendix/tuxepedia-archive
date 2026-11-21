@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=63
+|TXMN Blurb=The user enters a berserker state, attacking with relentless fury and trapping the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Fire
+|TXMN Type 2=Wood
+|TXMN Sub-Elements=Heroic
+|TXMN Family=Simple
+|TXMN Is fast=Slow
+|TXMN Accuracy=95%
+|TXMN Power=1.25
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN User Condition=enraged
+|TXMN Target Condition=grabbed
+|TXMN Animation Target=3
+|Tags=Bite, Fists, Leadership, Fury
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. "Triforce" animation by Superpowers Asset Packs.
+}}

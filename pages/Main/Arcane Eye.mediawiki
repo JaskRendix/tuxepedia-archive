@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=158
+|TXMN Blurb=An arcane veil lashes at those that would curse the user.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=1
+|TXMN User Condition=Elemental Shield
+|TXMN Animation Target=0
+|Tags=Gaze, Summoner
+|Sources=Jaskrendix
+}}

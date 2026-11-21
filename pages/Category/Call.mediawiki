@@ -1,0 +1,21 @@
+A call is the sound that a [[monster]] makes from time to time: when it enters battle, when it is victorious, and so on. 
+
+Some monsters have the same call. 
+
+== Monsters and their calls ==
+
+Completed monsters and their calls are listed below.
+
+{{#ask:[[TXMN Completed::Complete]] |limit=50
+|?MainCall
+|?TXMN Body Shape
+}}
+
+== Techniques and their calls ==
+
+Techniques and their calls are listed below.
+
+{{#ask:[[TXMN Tech Completed::Complete]] [[Category:Technique]] |limit=50
+|?MainCall
+|?TXMN Element
+}}

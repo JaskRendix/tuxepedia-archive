@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=89
+|TXMN Blurb=The user creates a massive mudslide that engulfs the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Family=Simple
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=80%
+|TXMN Power=2.25
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Target Condition=softened
+|TXMN Animation Target=1
+|Tags=Ground
+|Sources=Sanglorian, Daneeklu
+|Source Explanation=Technique by Sanglorian. "Spikes rock" animation by Daneeklu.
+}}

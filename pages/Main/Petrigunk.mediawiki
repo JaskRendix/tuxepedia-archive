@@ -1,0 +1,79 @@
+{{Monster
+|Sources=Jaskrendix
+|Species=Miasmic
+|Name Origin=''Petri'' + ''Gunk'' (suggested by ''Far Too Many Frogs'')
+
+Petrichor: The earthy scent released when rain falls on dry soil, evoking damp grasslands and hidden life.
+
+Gunk: A nod to the defensive secretion of stinkbugs, sticky, pungent and unmistakably natural.
+|Design Origin=Petrigunk was originally inspired by the green stink bug—those leaf-shaped insects that release a pungent defensive spray when disturbed.
+|Main Details=In the damp corners of old woodland ruins, travelers speak of a creature that rises with the scent of rain. Petrigunk, they say, is born from the first drop that touches dry grass—its leaf sac pulsing with the memory of petrichor. Long ago, herbalists believed its trail could lead to underground springs, while hunters avoided its territory for fear of the "green gunk curse", a lingering toxin said to dull the senses.
+
+Though small and often unseen, Petrigunk is a symbol of nature's quiet defense: not through claws or fangs, but through camouflage, scent, and patience. It is said that those who walk gently through the forest may catch a glimpse of its leaf shifting in the breeze—just before it vanishes into the undergrowth.
+
+=== Seasonal Event: "Rainwake" ===
+
+Every spring, after the first heavy rain, Petrigunk emerges from leaf litter and gutters across urban and woodland zones. Players can track its scent trail to rare spawn zones, where its leaf sac glows faintly in moonlight.
+
+=== Quest Hook: "The Gunk Trail" ===
+
+A local herbalist claims her garden has been sabotaged by a trail of sticky green residue. She suspects a Petrigunk is nesting nearby. Players must follow the scent markers through damp alleyways and mossy ruins, uncovering a hidden Petrigunk colony.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Venom, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Varmint
+|TXMN ID=422
+|TXMN Blurb=It blooms after rainfall, trailing the scent of damp soil and danger. Don't swat it - its gunk lingers longer than regret.
+|TXMN Height=40
+|TXMN Weight=6.2
+|TXMN Catch Resistance=50
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Grassland, Underground, Urban, Woodland
+|Fusion First=Petri
+|Fusion Second=Gunk
+}}
+{{Technique Allocation
+|Has_Technique=Slime
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Take Cover
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Poison Gas
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Proboscis
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Chameleon
+|Technique_Level=12
+}}
+{{Technique Allocation
+|Has_Technique=Tonguespear
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Air Chain
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Caustic Spray
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Leaf Barrage
+|Technique_Level=32
+}}
+{{Technique Allocation
+|Has_Technique=Spread Disease
+|Technique_Level=40
+}}

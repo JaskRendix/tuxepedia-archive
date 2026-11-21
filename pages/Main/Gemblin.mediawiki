@@ -1,0 +1,14 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/journal/Fakemon-for-Sale-680318198
+|Sources=TheBritanniaRegion,
+|Species=Goblin
+|Name Origin=''gem'' + ''goblin''
+|Design Origin=Goblins, diamonds and treasure
+|TXMN Types=Metal
+|TXMN Blurb=They often hide themselves in large piles of treasure to lure people to it, before trying to bite off their fingers for a tasy snack! They are blind, and rely on their acute sense of smell to sniff out their food.
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Treasurblin
+}}

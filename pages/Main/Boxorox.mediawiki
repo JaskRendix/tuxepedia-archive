@@ -1,0 +1,45 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us.
+|Species=Pugilist
+|Name Origin="dumb as a box of rocks" (evoking ''boxer'')
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=316
+|TXMN Blurb=The dumber it gets, the harder its rocky body becomes.
+|TXMN Height=187
+|TXMN Weight=154
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|Tags=Rock, Fists
+|Fusion First=Box
+|Fusion Second=orox
+}}
+{{Technique Allocation
+|Has_Technique=Punch
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Evasion
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Boxing
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Rocky Barrage
+|Technique_Level=25
+}}

@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=92
+|TXMN Blurb=The user transforms into a whirlwind of data, dealing heavy damage.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Frost, Heroic
+|TXMN Family=Reserved
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=100%
+|TXMN Power=2
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Reserved
+|Main Details=[[Reserved technique]] for [[Tux]]. [[Category:Reserved technique]]
+|Sources=Jaskrendix
+}}

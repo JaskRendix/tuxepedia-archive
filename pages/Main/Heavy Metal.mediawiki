@@ -1,0 +1,17 @@
+{{Technique
+|TXMN Blurb=They unleash harsh music and jarring notes, waking up sleeping listeners but also jolting them out of positive effects.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Simple
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=100%
+|TXMN Power=1
+|TXMN Effects=remove both, all
+|TXMN Recharge=1
+|TXMN Animation Target=0
+|Tags=Metal, Gadgets
+|Main Details=Music themed move.
+|Sources=HippasusTwo
+}}

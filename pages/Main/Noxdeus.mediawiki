@@ -1,0 +1,70 @@
+{{Monster
+|Sources=Jaskrendix, Moritz gunz
+|Source Explanation=Designed, drawn and sprited by moritz_gunz.
+|Species=Eternal
+|Name Origin=Noxdeus fuses "nox" (Latin for night) and "deus" (Latin for god), symbolizing a divine being born from eternal darkness.
+|Main Details=Noxdeus is said to manifest only during lunar eclipses, when the veil between worlds thins. Its arrival silences the wild and chills the air. It feeds on fear, growing stronger with each heartbeat steeped in dread.
+
+Known only as "The God of the Night", no records explain its origin. Some believe it was once a celestial guardian, corrupted by cosmic imbalance.
+
+Long ago, a forgotten civilization worshipped Noxdeus to ward off nightmares and protect their dreams. They built obsidian temples and offered memories to appease it. When the stars aligned in a rare celestial event, Noxdeus vanished—until now. Trainers who encounter it report strange dreams and a lingering chill that never fades.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Cosmic, Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Brute
+|TXMN ID=435
+|TXMN Blurb=A towering figure born from celestial shadow, it moves with eerie silence and feeds on fear.
+|TXMN Height=210
+|TXMN Weight=108
+|TXMN Catch Resistance=5
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Extraplanar, Ruins
+|Tags=Darkness
+|Fusion First=Nox
+|Fusion Second=Deus
+}}
+{{Technique Allocation
+|Has_Technique=Terror
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Starfall
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Clairaudience
+|Technique_Level=5
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Sphere
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Breath
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Dreamwalk
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Rift Dash
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=50
+}}
+{{Technique Allocation
+|Has_Technique=Summon Shadows
+|Technique_Level=60
+}}
+{{Technique Allocation
+|Has_Technique=Shooting Star
+|Technique_Level=70
+}}
+{{Technique Allocation
+|Has_Technique=Divinity Beam
+|Technique_Level=80
+}}

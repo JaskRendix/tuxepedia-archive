@@ -1,0 +1,5 @@
+{{Trainer
+|Sources=Qiangong2
+|Genre=Modern
+|Combat Type=1 vs 1
+}}

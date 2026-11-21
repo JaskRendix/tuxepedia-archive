@@ -1,0 +1,49 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=HippasusTwo, Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us.
+|Species=Rootball
+|TXMN Types=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=336
+|TXMN Blurb=A timid plant, it pops its head aboveground to drink water and sunshine.
+|TXMN Height=30
+|TXMN Weight=9
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Grassland, Jungle, Woodland
+|Tags=Plant
+|Fusion First=Spright
+|Fusion Second=ly
+}}
+{{Evolutions
+|Has Evolution=Uprout
+|Evolution Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Overgrowth
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Stabilo
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Life Surge
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Nest
+|Technique_Level=19
+}}

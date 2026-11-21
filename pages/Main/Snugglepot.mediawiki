@@ -1,0 +1,8 @@
+{{Trainer
+|Alternative Names=Gumnut Baby, Cuddlepie
+|Sources=Sanglorian, Pboop
+|Source Explanation=Front sprite by Sanglorian. Overland sprites adapted by Sanglorian from CC BY-SA sprites by pboop.
+|Genre=Gijinka
+|Combat Type=1 vs 1
+|Main Details=A gijinka of [[Lambert]]. [[Category:Lambert]]
+}}

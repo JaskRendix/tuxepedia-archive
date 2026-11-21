@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=123
+|TXMN Blurb=The user unleashes a primal, ferocious attack that sends the opponent into a frenzy.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Target Condition=wild
+|TXMN Animation Target=1
+|Tags=Shapeshifter, Fury
+|Sources=Jaskrendix
+}}

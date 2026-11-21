@@ -1,0 +1,67 @@
+{{Monster
+|Alternative Names=Hoarseleg,
+|Sources=HippasusTwo, Rsg167
+|Source Explanation=Designed and sprited by Rsg167. Front and back sprites by HippasusTwo.
+|Species=Cave-Dweller
+|Evolves=Hoarse
+|Name Origin=''equus'' + ''ill''
+|Main Details=Equill cannot bite its foes like its previous form. Instead, Equill excels at scratching and moving quickly.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Normal, Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Landrace
+|TXMN ID=310
+|TXMN Blurb=Its bitterness causes it to transform. It hides its ugliness in the dark.
+|TXMN Height=160
+|TXMN Weight=500
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Megafauna, Darkness, Toxic
+|Fusion First=Equi
+|Fusion Second=ill
+}}
+{{Evolutions
+|Has Evolution=Hoarseshoo
+|Evolution Level=55
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hibernate
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Mudslide
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Infectious Bite
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Sphere
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Shade Shield
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=45
+}}
+{{Technique Allocation
+|Has_Technique=Summon Shadows
+|Technique_Level=56
+}}

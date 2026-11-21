@@ -1,0 +1,11 @@
+[[Category:Front Sprite]]
+[[Category:64px]]
+[[Category:Duo]]
+[[Category:Sanglorian]]
+[[Category:Main]]
+[[Category:Med Pair]]
+[[Category:Catch Challenger]]
+
+Scientist adapted by Sanglorian from a sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.
+
+Nurse based loosely on [http://momokahimari.deviantart.com/art/Base-boy-pokemon-trainer-sprite-277503155 MomokaHirami's template]

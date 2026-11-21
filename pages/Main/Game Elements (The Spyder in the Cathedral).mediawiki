@@ -1,0 +1,48 @@
+See also [[Game Bible]].
+
+* [[Team Bazaar]]
+* [[Cathedral]]
+* [[Tuxepedia]]
+
+== Fusion ==
+An experimental technology developed by the Cathedral, allowing you to combine two tuxemon in the same body. Spyder wants the tech for themselves, but they claim to be acting out of public concern.
+
+Not available at the start of the game.
+
+== Spyder ==
+A secret faction within the Cathedral that wants to "monetise the world". They secretly set up and now command the Enforcers. 
+
+Not known about at the beginning of the game.
+
+=== Spyder Bite/The Virus ===
+A virus that infects tuxemon. The virus can be cured if the tuxemon's DNA is available, but Locked tuxemon have inaccessible DNA.
+
+Spyder sets upa quarantined hospital to "cure" the virus - but actually they plan to seize any unlocked tuxemon and use them as part of their power grab.
+
+== Locked tuxemon ==
+Tuxemon bred, raised or distributed through the Cathedral's channels are "locked", which means their DNA is restricted using DNA Rights Management (DRM). For example, levelling can only occur at a Cathedral Store. 
+
+It's not illegal to own unlocked tuxemon, but the Cathedral does make it difficult to use them. 
+
+Also, now the Cathedral is designing its own tuxemon, which will only be available in licensed form. 
+
+== Rivals ==
+Your rivals are bratty, privileged kids who only see the benefits of the Cathedral. They're convinced of their rightness.
+
+However, as they explore more - and as your unlocked tuxemon beat their locked ones - they mellow. They start using the Tuxepedia and complaining about the Cathedral. Then their tuxemon contract Spyder Bite, and they come to you for help. 
+
+In the final battle against the Spyder executives, your rivals fight alongside you. 
+
+== Phone ==
+Your phone doubles as the game's menu, so as you add apps your options expand. 
+
+Some apps only work where there's WiFi - i.e., cities and some towns, and on occasion other locations. The BANK APP and the TUXEMON STORAGE APP are two key apps that use WiFi. 
+
+== Trainers ==
+Unless otherwise specified, a TRAINER's tuxemon knows whichever are the four most recent moves it gained access to. 
+
+Where a Pillar has a speciality TM, all eligible tuxemon in the Pillar know the move from that TM. 
+
+A trainer gives money equal to: $7.5 * the level of their highest tuxemon + $5 * the level of their second highest tuxemon + $2.50 * the levels of all their other tuxemon put together. 
+
+Named trainers, like your RIVALS, PILLAR LEADERS, etc., give that amount * 10.

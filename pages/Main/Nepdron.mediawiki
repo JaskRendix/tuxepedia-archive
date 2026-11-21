@@ -1,0 +1,14 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert
+|Evolves=Neptisch
+|Name Origin=''Neptune'' + ''dragon''
+|TXMN Types=Water
+|TXMN Body Shape=Leviathan
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Sea
+}}
+{{Evolutions
+|Has Evolution=Nepungandr,
+}}

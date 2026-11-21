@@ -1,0 +1,8 @@
+[[Category:Overland Sprite]]
+[[Category:Miner]]
+[[Category:16px]]
+[[Category:Main]]
+[[Category:Catch Challenger]]
+[[Category:Sanglorian]]
+
+Adapted by a sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.

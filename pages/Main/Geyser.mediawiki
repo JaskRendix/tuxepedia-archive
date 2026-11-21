@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=91
+|TXMN Blurb=The user erupts with a powerful water spout, changing the opponent's type to Water.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Water
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=Switch Water Target
+|TXMN Potency=100%
+|TXMN Recharge=4
+|TXMN Animation Target=1
+|Tags=Shapeshifter
+|Sources=Jaskrendix
+}}

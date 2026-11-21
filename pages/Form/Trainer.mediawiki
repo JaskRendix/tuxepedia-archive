@@ -1,0 +1,39 @@
+<noinclude>
+This is the "Trainer" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Trainer}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Trainer}}}
+{| class="formtable"
+! Alternative Names: 
+| {{{field|Alternative Names}}}
+|-
+! Sources: 
+| {{{field|Sources}}}
+|-
+! Source Explanation: 
+| {{{field|Source Explanation}}}
+|-
+! Genre: 
+| {{{field|Genre|input type=checkboxes|values=Modern, Sci-Fi, Fantasy Historical, Gijinka}}}
+|-
+! Combat Type: 
+| {{{field|Combat Type|input type=checkboxes|values=1 vs 1, 2 vs 2}}}
+|-
+! Main Details: 
+| {{{field|Main Details|rows=6|autogrow|input type=textarea|}}}
+|}
+{{{end template}}}
+
+=== Edit Summary ===
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

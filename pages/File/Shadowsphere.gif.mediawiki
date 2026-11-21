@@ -1,0 +1,4 @@
+== Summary ==
+shadow charge effect from https://opengameart.org/content/elemental-charge-effects
+[[Category:32px]]
+[[Category:Technique Animation]]

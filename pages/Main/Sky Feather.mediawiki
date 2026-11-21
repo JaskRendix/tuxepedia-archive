@@ -1,0 +1,7 @@
+{{Item
+|Item Category=Ingredient Item
+|TXMN Description=Plucked from the molting of breezebirds after migration. Delicate, light, and a crisp favorite for peppy platings.
+|TXMN Consumable=yes
+|Main Details=A cooking ingredient employed when crafting dishes at the player's station, triggered by <code>crafting_station player,cooking</code>
+|Sources=Jaskrendix
+}}

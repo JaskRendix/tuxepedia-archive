@@ -1,0 +1,9 @@
+== Summary ==
+[[Category:24px]]
+[[Category:Alternative]]
+[[Category:Face Sprite 2]]
+[[Category:Catch Challenger]]
+[[Category:Pantherafira]]
+[[Category:Sanglorian]]
+[[Category:HippasusTwo]]
+Resized by Sanglorian and adapted by HippasusTwo from a sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.

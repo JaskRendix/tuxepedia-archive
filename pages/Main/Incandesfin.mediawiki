@@ -1,0 +1,73 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=1720#p1720
+|Sources=Serpexnessie
+|Source Explanation=Original design and sprites by Serpexnessie.
+|Species=Light Fin
+|Evolves=Fluoresfin
+|Name Origin=''incandescent'' + ''fin''
+|SpyderCampaign=Used by trainers in Sea Route C. Fished with the Neptune or Poseidon.
+|TXMN Types=Water
+|TXMN Sub-Elements=Lightning, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Piscine
+|TXMN ID=69
+|TXMN Blurb=Its entire body has massively grown in size. However, its light is still the exact same.
+|TXMN Height=250
+|TXMN Weight=150
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Sea
+|Tags=Water, Light, Bite
+|Fusion First=Incandes
+|Fusion Second=fin
+|TXMN_DE Name=Flosszel (Flosse + Funzel)
+}}
+{{Evolutions
+|Has Evolution=Lightmare
+|Evolution Level=36
+}}
+{{Technique_Allocation
+|Has_Technique=Flow
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Sudden Glow
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Grinding
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Geyser
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Glower
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Goad
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Starfall
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Flood
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Static Field
+|Technique_Level=40
+}}
+{{Technique_Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=43
+}}
+{{Technique_Allocation
+|Has_Technique=Proboscis
+|Technique_Level=46
+}}

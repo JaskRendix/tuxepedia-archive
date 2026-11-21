@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Svetlana Kushnariova, Sanglorian
+|Source Explanation=Front sprite by Svetlana Kushnariova. Resized by Sanglorian.
+|Genre=Fantasy Historical
+|Combat Type=1 vs 1
+}}

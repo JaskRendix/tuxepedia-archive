@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=238
+|TXMN Blurb=A powerful ranged energy attack that may blind that goes at the speed of light.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Lightning
+|TXMN Family=Powerful
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=100%
+|TXMN Power=3
+|TXMN Potency=30%
+|TXMN Recharge=4
+|TXMN Target Condition=Blinded
+|TXMN Animation Target=1
+|Tags=Machine, Electricity
+|Main Details=A cooldown of 4 (more than most power 3 moves) to help balance that it is both fast, powerful, and can leave a condition.
+|Sources=HippasusTwo
+}}

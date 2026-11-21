@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=147
+|TXMN Blurb=The user undergoes a transformation, healing itself and confusing the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Reserved
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2
+|TXMN Potency=80%
+|TXMN Recharge=2
+|TXMN User Condition=Recovering
+|TXMN Target Condition=Confused
+|TXMN Animation Target=1
+|Tags=Reserved
+|Main Details=[[Reserved technique]] for [[Altie]]. [[Category:Reserved technique]]
+|Sources=Jaskrendix
+}}

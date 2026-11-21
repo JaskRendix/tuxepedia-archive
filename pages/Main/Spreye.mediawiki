@@ -1,0 +1,61 @@
+{{Monster
+|Sources=Georg Eckert, Jaskrendix
+|Source Explanation=Designed and sprited by Georg Eckert. Front sprites by Jaskrendix.
+|Species=Eyefly
+|Name Origin=''spring'' + ''eye''
+|TXMN Types=Earth, Wood
+|TXMN Sub-Elements=Normal, Venom
+|TXMN Body Shape=Grub
+|TXMN Blurb=There is a forest full of eyeball monsters, and this is one of them.
+|TXMN Height=80
+|TXMN Weight=8
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Grassland, Woodland
+|Tags=Bug, Weak
+}}
+{{Evolutions
+|Has Evolution=Buttereye
+|Evolution Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Eyebite
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Infectious Bite
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Arcane Eye
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Glower
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Crushing Bite
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Orbs
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Wicked Wind
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Curse
+|Technique_Level=22
+}}
+{{Technique Allocation
+|Has_Technique=Damage Division
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Counterspell
+|Technique_Level=31
+}}

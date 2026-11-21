@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Catch Challenger, Tamashihoshi, Sanglorian
+|Source Explanation=Front sprite by tamashihoshi, hat adapted from a sprite by Catch Challenger. Overland sprites adapted by Sanglorian from sprites by Catch Challenger.
+|Genre=Modern
+|Combat Type=1 vs 1
+}}

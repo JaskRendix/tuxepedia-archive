@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Svetlana Kushnariova, Sanglorian, JosephSeraph
+|Source Explanation=Front sprite by Svetlana Kushnariova, resized by Sanglorian. Overland sprite by Superpowers Asset Packs. Alternative front sprite by JosephSeraph.
+|Genre=Fantasy Historical
+|Combat Type=1 vs 1
+}}

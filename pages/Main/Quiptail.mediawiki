@@ -1,0 +1,12 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2416
+|Sources=GolanTreviz,
+|Name Origin=''quip'' + ''whiptail (lizard)''
+|Design Origin=Legless lizard
+|TXMN Types=Earth
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Speedoscelis
+}}

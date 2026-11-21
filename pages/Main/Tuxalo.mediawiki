@@ -1,0 +1,11 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2334#p2334
+|Sources=Rubberduck
+|Evolves=Tulux
+|Name Origin=''Tux'' + ''halo''
+|Design Origin=Tux
+|Main Details=[[Category:Based on open source mascots]]
+|TXMN Types=Water
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}

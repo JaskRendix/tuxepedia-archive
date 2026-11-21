@@ -1,0 +1,213 @@
+# Synopsis
+
+*The Spyder in the Cathedral* plot takes place in the [[Fondent region]], which is dominated by five nominally separate corporations, called Pillars (see [Cathedral](factions/cathedral.md)). Not content with profitability, the Pillars want to take full control of the region and they hatch a plan to do so:
+
+Scoop, the fast food and retail empire, will transmit a disease, the Spyder virus, that weakens tuxemon that don't have the vaccine, putting any opposition on the back foot. Meanwhile, mining company Shaft will extract and revive fossils of powerful extinct dragons. Agro-business and genetic engineering corporation Greenwash will use its fusion technology to combine these dragons with arms manufacturer Nimrod's killer robots, allowing them to steamroll any opposition already weakened by Scoop's virus. Behind the scenes, news media monopoly Omnichannel puts out propaganda and coordinates the scheme through its Spyder agents.
+
+# Main Story
+
+[[File:New spyder map.png|thumbnail]]
+
+The main story of *The Spyder in the Cathedral* follows the player’s journey through the [[Fondent region]], traveling from town to town, catching and battling tuxemon, and gradually uncovering a corporate conspiracy. This section describes the *gameplay progression* and *region layout*, not the plot details.
+
+## Region Progression
+
+The protagonist begins in [Paper Town](maps/paper-town.md) and travels through the region in roughly this order:
+
+[[File:Map - Reminagined.png|thumbnail|[Full map](https://wiki.tuxemon.org/index.php?title=File:Compiled_map.png)]]
+
+* [Paper Town](maps/paper-town.md)
+* [Route 1](maps/route-1.md)
+* [Cotton Town](maps/cotton-town.md)
+  * [Omnichannel HQ](maps/omnichannel-hq.md)
+  * [Dryad's Grove](maps/dryad's-grove.md)
+* [Route 2](maps/route-2.md)
+* [City Park](maps/city-park.md)
+* [Leather Town](maps/leather-town.md)
+  * [Side Route E](maps/side-route-e.md)
+  * [Side Route B](maps/side-route-b.md)
+  * [Side Route D](maps/side-route-d.md)
+  * [Tuxemon Elite Academy](maps/walled-garden.md)
+* [Route 3](maps/route-3.md)
+  * [Wayfarer Inn](maps/wayfarer-inn.md)
+* [Route 4](maps/route-4.md)
+* [Flower City](maps/flower-city.md)
+  * [Nimrod HQ](maps/nimrod-hq.md)
+  * [Side Route A](maps/side-route-a.md)
+  * [Mansion](maps/mansion.md)
+* [Route 5](maps/route-5.md)
+* [Timber Town](maps/timber-town.md)
+  * [Dojo of the Elements](maps/dojo-of-the-elements.md)
+  * [Scoop HQ](maps/scoop-hq.md)
+* [Tunnel B](maps/tunnel-b.md)
+* [Route 6](maps/route-6.md)
+* [Candy Town](maps/candy-town.md)
+  * [Hospital](maps/hospital.md)
+  * [Greenwash HQ](maps/greenwash-hq.md)
+* [Sea Route C](maps/sea-route-c.md)
+  * [Dragon's Cave](maps/dragon's-cave.md)
+
+## Travel
+
+Your [Mom](npcs/mom.md) gives you a Surfboard that allows water travel. It is required to reach:
+* [Candy Town](maps/candy-town.md)
+* [Volcoli](/monsters/volcoli.md) in [Dryad's Grove](maps/dryad's-grove.md)
+* [Dragon's Cave](maps/dragon's-cave.md) in [Sea Route C](maps/sea-route-c.md)
+* Wild encounters in [Route 6](maps/route-6.md)
+
+When you reach **Timber Town**, the [[Riverboat Stations]] open for all previously visited towns. The full list is:
+* [Paper Town](maps/paper-town.md)
+* [Leather Town](maps/leather-town.md)
+* [Flower City](maps/flower-city.md)
+* [Timber Town](maps/timber-town.md)
+* [Candy Town](maps/candy-town.md)
+
+## Cheat Codes
+
+If you name the player **ApexPlayer**, you begin the game with all starter tuxemon at level 100 (max evolution).
+
+# Plot
+
+*The Spyder in the Cathedral* takes place in the [[Fondent region]], a country dominated by five powerful corporations known as the Pillars. Although officially separate, the Pillars secretly collaborate under the Cathedral’s authority to seize full control of the region. Their plan targets tuxemon—the creatures central to daily life—by weakening them, reviving ancient species, rewriting history, and deploying engineered hybrids.
+
+## The Pillars’ Conspiracy
+
+The five Pillars coordinate a multi‑stage scheme:
+
+* **Scoop** spreads the Spyder virus, a manufactured disease that weakens any tuxemon without the corporate vaccine. Scoop agents also exploit Cathedral‑imposed medical debt by pressuring trainers to “sell” their tuxemon to pay off bills. Although Scoop contained the initial outbreak, the virus escaped when a thief named Arachne stole the Extreme Restraints used to secure infected tuxemon, causing a facility breach that Scoop and the Enforcers later blamed on each other.
+
+* **Shaft** excavates and revives fossils of extinct dragon tuxemon. Their mining operations uncover ancient remains known as the “dark artery,” and agents confiscate fossils for secret research. Workers report discovering enormous eggs and being silenced by corporate overseers. Shaft ultimately recovers the dragon Drokoro, which becomes central to the Pillars’ plan.
+
+* **Greenwash** uses Fusion technology to combine revived dragons with **Nimrod**’s military robots. A suppressed flashback reveals that Greenwash previously attempted a dangerous fusion‑energy experiment that nearly destroyed a facility, unleashing unknown consequences. Their ongoing research causes environmental contamination that disrupts local industries, including floristry and agriculture. As the conspiracy tightens, Greenwash abruptly shuts down its HQ and expels its own researchers, claiming safety concerns.
+
+* **Nimrod** expands its influence by rewriting public history. In the Museum of Natural History, Nimrod replaces exhibits on world origins with military propaganda and restricts access to archives. Inside Nimrod HQ, internal documents reveal ethical fractures among researchers: Argon fears the consequences of advanced robotics, while Zircon embraces militarization and power. Nimrod’s most advanced prototype, Xeon, was originally created by Dr. Elara as a sentient artificial lifeform. Nimrod secretly funded the project for military purposes, twisting Elara’s work into a weapon.
+
+* **Omnichannel** controls all media. It produces staged marketing videos, manipulates public perception, and directs covert Spyder agents. Omnichannel also sabotages the region’s computer network to suppress independent information and maintain narrative control.
+
+The Cathedral itself supports these efforts through predatory financial practices. Healing services incur high fees, interest, and automatic wage‑garnishing, trapping ordinary citizens in debt and making them more vulnerable to corporate pressure. Enforcers act as corporate police, enforcing quarantines, blocking travel, and confiscating tuxemon under false pretenses. Flashbacks from Enforcers HQ show that officers believed the Spyderbite outbreak was real and acted to contain it, unaware that the Pillars engineered the virus.
+
+Together, the Pillars aim to monopolize tuxemon ownership, rewrite history, suppress resistance, and consolidate political and economic control over the region.
+
+## The Protagonist’s Journey
+
+The protagonist begins in [Paper Town](maps/paper-town.md) with an unofficial tuxemon discarded as rubbish after the Pillars introduce their new “deluxe” models. As they travel, they uncover signs of corruption:
+
+* Cathedral healers charge exploitative fees, and Scoop agents attempt to seize tuxemon from indebted trainers.
+* Omnichannel’s staged marketing and media manipulation become increasingly apparent.
+* Shaft’s mining operations reveal secret fossil recovery efforts.
+* Greenwash contamination affects local industries, including floristry, and raises fears about genetic manipulation.
+* Nimrod’s influence reshapes public institutions, including the Museum of Natural History.
+* Enforcers enforce quarantines and confiscate “infected” tuxemon, claiming Greenwash is developing a cure.
+* Environmental activists report illegal logging, intimidation, and suppression of journalists.
+
+In [Cotton Town](maps/cotton-town.md), the protagonist meets [Team Bazaar](factions/team-bazaar.md). They introduce the player to the open‑source [[Tuxepedia]], challenging the Pillars’ monopoly on knowledge.
+
+## Uncovering Spyder
+
+In [Candy Town](maps/candy-town.md), the protagonist infiltrates Greenwash HQ, obtains the [[Fusion Report]], and uploads it to the Tuxepedia. This unlocks open fusion for all tuxemon.
+
+Using fusion to bypass DNA scanners, they infiltrate the [Hospital](maps/hospital.md), defeat Spyder agents, recover their confiscated tuxemon, and free imprisoned scientists who reveal the truth: Spyder is run by the Pillar bosses themselves. The virus, the quarantines, and the confiscations are all part of a coordinated plan to control tuxemon ownership.
+
+## Turning Point
+
+In [Dragon’s Cave](maps/dragon's-cave.md), the protagonist confronts the Pillars’ agents, who reveal their full plan: Shaft excavated Drokoro, Greenwash will fuse it with Nimrod’s killer robots, and Omnichannel will convince the public that this is for their own good. After defeating Drokoro, the protagonist’s rival realizes the Cathedral’s “cure” is a lie—tuxemon heal simply by being unlocked and examined. Doubt spreads, and the rival begins to question the corporate narrative.
+
+## Final Confrontation
+
+Back in [Cotton Town](maps/cotton-town.md), the protagonist storms [Omnichannel HQ](maps/omnichannel-hq.md). Two Pillar bosses attack simultaneously, but the rival arrives to help. Together, they defeat the Pillars and dismantle Spyder.
+
+With the conspiracy exposed, tuxemon are unlocked, corporate restrictions collapse, and the region begins moving toward openness and freedom.
+
+## Themes
+
+The story uses tuxemon as a metaphor for creative works. Corporate attempts to restrict and monopolize tuxemon mirror real‑world struggles over ownership, openness, and the freedom to create. Unlocking tuxemon symbolizes unlocking creativity itself. The Cathedral’s debt traps, Omnichannel’s propaganda, Nimrod’s historical revisionism, Greenwash’s reckless experimentation, and the suppression of environmental activism all reflect how institutions can control people by controlling information, resources, and narratives.
+
+# Timeline
+
+## Origins
+
+* The Universe was shaped by—or gave rise to—the thirteen elements.
+* Life appeared: plants, tuxemon, and eventually humans.
+* Tuxemon naturally battle each other to grow stronger through elemental competition.
+* Humans, especially those drawn to Metal tuxemon, began building relationships with them.
+
+## Ancient Times (about 5,000 years ago)
+
+* The first known human civilizations emerged.
+* Early humans began interacting with tuxemon, mostly those found in nature.
+
+## Early Engineering (about 1,500–1,250 years ago)
+
+* Humans created the first tuxemon—possibly made from glass, pottery, or bronze.
+* Over time, they got better at designing and modifying tuxemon for farming, combat, and other uses.
+
+## Collapse (about 1,000 years ago)
+
+* Human interference disrupted the world’s balance.
+* Wars and ecological disasters broke out, destroying cities and farmland.
+* Civilization collapsed as tuxemon warfare spiraled out of control.
+
+## Recovery (about 500 years ago)
+
+* The environment slowly stabilized and adapted.
+* Human-made tuxemon became part of nature.
+* Human societies began rebuilding, but most records of the past were lost.
+
+## Rebirth (about 150 years ago)
+
+* Industrial technology was rediscovered.
+* Tuxemon biology was studied again, and new societies emerged.
+* A group called the Cathedral became a community-oriented governing force with local Enforcers.
+
+## Boom Times (30–50 years ago)
+
+* The region experienced strong economic growth.
+* Five major companies—called the Pillars—gained influence.
+* Tuxemon capture tech was invented, leading to conflicts over control of tuxemon.
+* The Cathedral allowed private ownership of tuxemon designed by people, but resisted claims over ancient or natural ones.
+
+## Corporate Era (the last 25 years)
+
+* The Pillars took over most of the region’s industries.
+* The Cathedral began partnering with corporations and allowing them onto its board.
+* Enforcers became less community-based and more corporatized.
+* Corporations pushed the idea that all tuxemon were man-made to justify monopolies.
+
+# Canon vs. Mystery Table
+
+This table summarizes which elements of the Fondent‑era storyline are established canon and which are intentionally left unexplained. Items in the "Mystery" column are not to be expanded, solved, or contradicted in future contributions unless explicitly approved.
+
+| Topic | What Is Canon | What Remains a Mystery |
+| :--- | :--- | :--- |
+| **The Pillars** | Five corporations (Scoop, Shaft, Greenwash, Nimrod, Omnichannel) secretly collaborate under the Cathedral to seize control of the region. | Long‑term goals beyond Spyder. |
+| **Spyder Virus** | Manufactured by Scoop; weakens tuxemon without the vaccine; used to justify quarantines and confiscations. | Exact biological mechanism; who designed it; whether it has long‑term effects on tuxemon or humans. |
+| **Virus Escape** | Scoop contained the outbreak until Arachne stole the Extreme Restraints, causing infected tuxemon to escape. | Why Arachne stole the restraints; who hired her; whether the escape was accidental or engineered. |
+| **Shaft Excavations** | Shaft uncovers fossils and giant eggs (“dark artery”); recovers Drokoro for the Pillars’ plan. | How many fossils were found; whether more dragons exist; what Shaft’s investors were truly seeking. |
+| **Greenwash Fusion** | Greenwash fuses revived dragons with Nimrod robots; previous fusion‑energy experiment nearly destroyed a facility. | What exactly was “unleashed” in the failed experiment; full extent of environmental contamination. |
+| **Nimrod Robotics** | Nimrod rewrites history, builds killer robots, and secretly militarizes Xeon; internal conflict between Argon and Zircon. | Nimrod’s ultimate military objective; fate of other prototypes; whether Xeon retains autonomy. |
+| **Xeon** | Created by Dr. Elara as a sentient artificial lifeform; repurposed by Nimrod for military use. | Xeon’s current status; whether it can rebel; how much of Elara’s original design remains. |
+| **Omnichannel** | Controls media, propaganda, and Spyder agents; sabotages networks; coordinates the final takeover attempt. | How deep Omnichannel’s infiltration goes; identity of high‑ranking Spyder operatives; long‑term strategy after takeover. |
+| **Cathedral** | Enables corporate control through predatory medical debt and Enforcer authority. | Whether the Cathedral leadership understands the full conspiracy; how they benefit from Spyder. |
+| **Enforcers** | Enforce quarantines and confiscations believing the outbreak is real; manipulated by the Pillars. | Whether any Enforcers knowingly support Spyder; internal dissent within the ranks. |
+| **Team Bazaar** | Grassroots resistance group promoting open information; introduces Tuxepedia. | Origins of the group; how widespread their network is; whether they have deeper ties to past events. |
+| **Tuxepedia** | Open‑source encyclopedia that unlocks information as the player catches tuxemon. | Who originally created the locked Encyclopaedia Tuxemon; why information was restricted. |
+| **Environmental Damage** | Greenwash contamination harms floristry and agriculture; activists report illegal logging and intimidation. | Full ecological impact; whether the Pillars plan to exploit environmental collapse. |
+| **Drokoro** | Ancient dragon excavated by Shaft; intended to be fused with Nimrod robots. | Why a new hatchling appeared; whether dragons have a deeper role in the world’s balance. |
+| **Dragonriders** | Ancient order guarding the last dragon; retreat to Lion Mountain after events. | Their full history; how they survived the collapse; what they know about ancient tuxemon. |
+| **Hospital Confiscations** | DNA‑locked scanners prevent retrieval; used to seize tuxemon under false pretenses. | Who designed the scanners; whether they have other hidden functions. |
+| **Final Takeover Plan** | Fuse Drokoro with robots; use Omnichannel propaganda to justify takeover; Enforcers to enforce control. | Whether there were additional phases; who masterminded the plan; contingency plans after failure. |
+| **Protagonist** | Starts with discarded tuxemon; uncovers conspiracy; defeats Pillars with rival’s help. | Whether the protagonist has any deeper ties to ancient tuxemon, lost traditions, or forgotten bloodlines. |
+| **Rival** | Initially believes Cathedral narrative; later joins protagonist after realizing the truth. | Rival’s family ties to the Pillars; why they were so invested in the corporate story. |
+| **Aftermath** | Corporate restrictions collapse; region moves toward openness and freedom. | How society rebuilds; whether the Pillars survive in weakened form; long‑term consequences for the region. |
+
+# Monsters
+
+
+
+# Items
+
+---
+
+# Links
+
+* [Explanation of the plot, the ideas from different contributors that it tries to balance, etc](https://forum.tuxemon.org/thread.php?pid=783)

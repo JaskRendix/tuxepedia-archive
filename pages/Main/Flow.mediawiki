@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=9
+|TXMN Blurb=The user channels a powerful water stream.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Water
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=1.8
+|TXMN Effects=splash
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Water
+|Sources=Sanglorian, Tamashihoshi
+|Source Explanation=Technique by Sanglorian. "Waterspurt" animation by Tamashihoshi.
+|TXMN Is area=True
+}}

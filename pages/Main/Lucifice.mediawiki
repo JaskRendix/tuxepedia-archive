@@ -1,0 +1,66 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/61-65-Waysprite-Line-667561410
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Back and face sprites by Jaskrendix, based on the front sprite.
+|Species=Ninth Circle
+|Evolves=Demosnow
+|Name Origin=Presumably, ''Lucifer'' + ''ice''
+
+The species name, ''Ninth Circle'', is a reference to the frozen layer of Hell in Dante's ''Inferno''.
+|SpyderCampaign=N/A
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost, Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN ID=265
+|TXMN Blurb=Is it the wind howling through the trees, or LUCIFICE calling the dark spirits of the night to join its hunt?
+|TXMN Height=180
+|TXMN Weight=90
+|TXMN Catch Resistance=35
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage2
+|TXMN Terrains=Extraplanar
+|Tags=Ice, Leadership, Weather, Darkness, Flame, Calamity
+|Fusion First=Luci
+|Fusion Second=fice
+}}
+{{Technique Allocation
+|Has_Technique=Frostbite
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Goad
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Torch
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Orbs
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Muck
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Chill Mist
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Grinding
+|Technique_Level=34
+}}
+{{Technique Allocation
+|Has_Technique=Tsunami
+|Technique_Level=43
+}}
+{{Technique Allocation
+|Has_Technique=Snowstorm
+|Technique_Level=46
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=52
+}}

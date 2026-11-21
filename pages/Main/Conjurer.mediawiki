@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=127
+|TXMN Blurb=The user conjures a force field that traps the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Shadow
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Target Condition=Grabbed
+|TXMN Animation Target=1
+|Tags=Summoner
+|Sources=Jaskrendix
+}}

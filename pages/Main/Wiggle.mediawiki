@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=210
+|TXMN Blurb=The user shakes their body back and forth, creating a silly, attention-grabbing display that doesn't do any damage but might be entertaining to watch.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Special
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=100%
+|TXMN Recharge=1
+|TXMN Animation Target=0
+|Tags=Weak
+|Main Details=Designed to be a "useless" technique (for example, could be given to a weak tuxemon that needs to be trained to become effective.)
+|Sources=Jaskrendix
+}}

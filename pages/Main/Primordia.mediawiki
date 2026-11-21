@@ -1,0 +1,69 @@
+{{Monster
+|Sources=HippasusTwo, Jaskrendix
+|Species=Microbe
+|Design Origin=Based on LUCA, last universal common ancestor, which was likely a simple microbe, even simpler than the Eukaryotes that make up very simple multicellular life.
+|Main Details=A very mysterious Tuxemon. It likely thrives in extremophile environments like hydrothermal pools or the deepest ocean. Some people believe the first life may have even come from space, forming in asteroids.
+|TXMN Types=Fire, Water
+|TXMN Sub-Elements=Fire, Frost
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=386
+|TXMN Blurb=It is rumored to be the ancestor of all Tuxemon.
+|TXMN Height=1
+|TXMN Weight=.1
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Coastal, Extraterrestrial, Other
+|Tags=Water, Pseudopod, Flame, Amphibian
+|Fusion First=Pri
+|Fusion Second=mordia
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Acid
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Power Theft
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Amnesia
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=External Power
+|Technique_Level=22
+}}
+{{Technique Allocation
+|Has_Technique=Firestorm
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Snowstorm
+|Technique_Level=34
+}}
+{{Technique Allocation
+|Has_Technique=Combat Clone
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Damage Division
+|Technique_Level=40
+}}

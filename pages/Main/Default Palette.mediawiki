@@ -1,0 +1,7 @@
+While there is a [[Default Palette]] that you can use, currently contributions do not have to use the default palette and many do not. 
+
+Find the default palette as a GPL file here: ([http://www.tuxemon.org/files/Tuxemon.gpl download]).
+
+Alternatively, artwork colors can be converted to fit the Tuxemon palette by using the [https://github.com/ShadowApex/pysnesify PySNESify] utility, which will change each pixel color to its closest color available from the SNES/GBA era platforms.
+
+[[File:Tuxemon_palette.png]]

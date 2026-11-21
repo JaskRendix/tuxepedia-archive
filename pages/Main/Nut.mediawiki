@@ -1,0 +1,65 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?id=59
+|Sources=Sanglorian, TacoBot
+|Source Explanation=Original design and sprites by TacoBot. Face sprites tweaked by Sanglorian.
+|Species=Hardware
+|Main Details=Inspired [[Tungrub]]. [[Category:Starting Tuxemon]]
+== The Spyder in the Cathedral ==
+One of the [[old releases]].
+|SpyderCampaign=Starting tuxemon for players. Found in the wild in Greenwash HQ.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=4
+|TXMN Blurb=In the great ships that cross the oceans, thousands of NUT and BOLT provide power and hold the steel plating together.
+|TXMN Height=45
+|TXMN Weight=4
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|Tags=Machine, Bomber, Gadgets, Light
+|Fusion First=Nu
+|Fusion Second=nut
+|TXMN_PT Name=Noz
+}}
+{{Evolutions
+|Has Evolution=Bolt
+|Evolution Level=9
+}}
+{{Technique Allocation
+|Has_Technique=Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Static Field
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Clamp On
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Beam
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Surge
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Thunderclap
+|Technique_Level=25
+}}

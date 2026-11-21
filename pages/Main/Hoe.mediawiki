@@ -1,0 +1,7 @@
+{{Item
+|Item Category=No Current Use
+|TXMN Usable In=world
+|TXMN Key Item=yes
+|Main Details=Just adding in case in the future we want to add a farming component to the game. See Farming.
+|Sources=Thekingphoenix
+}}

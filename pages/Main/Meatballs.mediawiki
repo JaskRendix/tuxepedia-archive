@@ -1,0 +1,20 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=700
+|TXMN Usable In=world
+|TXMN Description=Crumbled stonefruit bulb balls in zestsap glaze. Hearty, tangy, and magically satisfying.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Stonefruit Bulbs]]: 2
+* [[Meal Dust]]: 1
+* [[Mistflour Eggs]]: 2
+* [[Zestsap]]: 1
+* [[Crackle Salt]]: 1
+* [[Starpepper]]: 1
+
+Possible Outputs:  
+* [[Meatballs]], 2, 0.8  
+* [[Inferno Custard]], 1, 0.2
+|Sources=Jaskrendix
+}}

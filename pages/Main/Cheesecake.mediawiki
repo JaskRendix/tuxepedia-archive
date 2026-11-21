@@ -1,0 +1,19 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=1000
+|TXMN Usable In=world
+|TXMN Description=Soft moo bloom cake with glowfat swirl. Creamy and luxurious with a mellow sparkle.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Mistflour Eggs]]: 2
+* [[Moo Bloom]]: 1
+* [[Glowfat]]: 1
+* [[Suncrust Butter]]: 1
+* [[Crackle Salt]]: 1
+
+Possible Outputs:  
+* [[Cheesecake]], 1, 0.8  
+* [[Inferno Custard]], 1, 0.2
+|Sources=Jaskrendix
+}}

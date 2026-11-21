@@ -1,0 +1,79 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=948
+|Sources=Jaskrendix, WDFA-Final
+|Species=Sepulchre
+|Evolves=Banling
+|Name Origin=''banyan'' + ''forsaken''
+|Design Origin=Strangler figs called banyans.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Shadow, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Brute
+|TXMN ID=356
+|TXMN Blurb=As twilight hits, the spirits inside BANSAKEN come to life. They like to add naughty children who stay up too late to their number.
+|TXMN Height=430
+|TXMN Weight=267
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|TXMN Terrains=Jungle, Woodland
+|Tags=Plant, Ghost, Darkness
+|Fusion First=Ban
+|Fusion Second=saken
+}}
+{{Evolutions
+|Has Evolution=Banvengeance
+|Evolution Level=36
+}}
+{{Technique Allocation
+|Has_Technique=Walls
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Splinter
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Boxing
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Leaf Stab
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Sylvan
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Pseudopod
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Cutting Leaves
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Overgrowth
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Fester
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=55
+}}

@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Out of Combat Consumable
+|TXMN Effects=Repellent
+|TXMN Target=player
+|TXMN Usable In=world
+|TXMN Description=Thick, mucosal secretion harvested from the scent glands of apex predators at the peak of their territorial cycle.
+|TXMN Consumable=yes
+|Sources=Jaskrendix
+}}

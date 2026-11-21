@@ -1,0 +1,9 @@
+[[File:TXMN Arcade.gif|thumbnail]]
+
+
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Trainer]] |limit=300
+|?FrontSprite48px
+|?FrontSprite56px
+|?Default64px
+}}</td></tr></table>

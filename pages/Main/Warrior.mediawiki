@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Antifarea, isaiah658, AntumDeluge
+|Source Explanation=Front sprite by Antifarea. Overland sprite by isaiah658, reworked by AntumDeluge.
+|Genre=Fantasy Historical
+|Combat Type=1 vs 1
+}}

@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=106
+|TXMN Blurb=The user strikes with the force of a falling stone.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Wood
+|TXMN Type 2=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Family=Powerful
+|TXMN Is fast=Slow
+|TXMN Accuracy=60%
+|TXMN Power=2.5
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Gemstone
+|Sources=Jaskrendix
+}}

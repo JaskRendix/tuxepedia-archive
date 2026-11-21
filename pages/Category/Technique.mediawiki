@@ -1,0 +1,25 @@
+{{#default_form:Technique}}
+
+See [[Techniques]] for the system details and [[Technique design space]] for planning and analysis. 
+
+[https://wiki.tuxemon.org/index.php?title=Category:Technique_Animation Technique animations] are the animations that could be activated when these techniques are used. 
+
+{{#ask:[[Category:Technique]] |limit=400
+|? MainAnimation
+|? TXMN Blurb
+|? TXMN Element
+|? TXMN Category
+|? TXMN Family
+|? Tags
+|? TXMN Accuracy
+|? TXMN Potency
+|? TXMN Power
+|? TXMN Recharge
+|? TXMN Healing Power
+|? TXMN Is fast
+|? TXMN Effects
+|? TXMN User Condition
+|? TXMN Target Condition
+|? TXMN Animation Target
+|
+}}

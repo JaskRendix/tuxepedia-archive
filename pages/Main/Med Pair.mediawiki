@@ -1,0 +1,5 @@
+{{Trainer
+|Genre=Modern
+|Combat Type=2 vs 2
+|Main Details=[[Nurse]] + [[Scientist]]
+}}

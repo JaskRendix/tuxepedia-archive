@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=121
+|TXMN Blurb=The user rapidly strikes the air, creating a series of powerful gusts that hit the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Earth
+|TXMN Type 2=Wood
+|TXMN Sub-Elements=Sky
+|TXMN Family=Simple
+|TXMN Is fast=Slow
+|TXMN Accuracy=75%
+|TXMN Power=1.0
+|TXMN Effects=multi_attack 3
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Bird
+|Sources=Jaskrendix
+}}

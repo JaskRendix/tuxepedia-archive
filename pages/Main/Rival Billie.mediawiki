@@ -1,0 +1,62 @@
+{{Character
+|Trainer Class=Fashionista
+|Main Details=Your rival (and eventual ally) in [[The Spyder in the Cathedral]]. 
+
+== Speech Style ==
+Elitist/Materialistic: Focuses on the cost and quality of their gear and Tuxemon (''"expensive," "high quality," "latest gear"'')
+
+Critical/Know-It-All: Dismisses professional trainers as ''"Overrated"'' and ''"Amateur"'' in the TV flashback, always believing they know the superior strategy.
+
+Vulnerable (Flashback): Expresses genuine distress over parental arguments to their grandmother, highlighting their need for emotional validation.
+
+Respectful (Later): Offers genuine compliments and acknowledges the player's skill (''"You're a better trainer than I thought"'')
+
+== Tone ==
+Initially Arrogant, Judgmental, and Condescending (''"cheapskate," "stolen tuxemon"''), masking deep insecurity related to parental conflict and pressure to succeed. Later shifts to respect, sincerity, and gratitude after the player helps them.
+
+== Focus ==
+Challenges the player's methods and resources, then gradually shifts toward emotional growth and alliance. Their journey centers on self-worth, rivalry, and eventual redemption.
+
+== Role & Progression ==
+The primary Rival who constantly challenges the player’s approach. Evolves from antagonist to conflicted helper at the Hospital, and ultimately becomes a full Ally in the final fight against Omnichannel.
+
+== Key Conflicts & Events ==
+* '''The First Fight''': Challenges the player for retrieving a Tuxemon from the trash, dismissing it as "inferior."
+* '''Parental Conflict''': Feels pressured by parents and seeks advice from Granny Piper about respect vs. obedience.
+* '''Redemption''': Joins the player against the thieves after realizing they’ve been "too focused on my own goals," leading to a change in priorities.
+
+== Encounters in == 
+where the player bumps into the character
+
+[[Paper Town]], [[Cotton Town]] (Art Shop), [[Route 2]], [[Route 4]], [[Side Route A]], [[Dojo of the Elements]], [[Route 6]], [[Hospital]], [[Omnichannel HQ]], [[Side Route B]] and [[Park]].
+
+== Starter == 
+
+One among: [[Dollfin]] - [[Ignibus]] - [[Memnomnom]] - [[Budaye]] - [[Grintot]]
+
+== Final Form Party Lineup == 
+
+* STARTER (max evolution) - Male
+* [[Cardinale]] - Female
+* [[Eyesore]] - Female
+* [[Viviphyta]] - Male
+
+== Resume Battles == 
+
+* [[Paper Town]]:
+STARTER level 5
+* [[Route 2]]:
+STARTER level 6, [[Eyenemy]] level 6, [[Cardiling]] level 3
+* [[Route 4]]:
+STARTER level 18, [[Cardiwing]] level 16, [[Eyesore]] level 16
+* [[Side Route A]]:
+STARTER level 20, [[Cardiwing]] level 17, [[Eyesore]] level 17, [[Viviphyta]] level 17
+* [[Dojo of the Five Elements]]:
+STARTER (evolved) level 34, [[Cardiwing]] level 30, [[Eyesore]] level 30, [[Viviphyta]] level 30
+* [[Route 6]]:
+STARTER (evolved) level 35, [[Cardiwing]] level 35, [[Eyesore]] level 35, [[Viviphyta]] level 35
+* [[Hospital]]:
+STARTER (evolved) level 40, [[Cardinale]] level 40, [[Eyesore]] level 40, [[Viviphyta]] level 40
+
+[[Category:Rival]]
+}}

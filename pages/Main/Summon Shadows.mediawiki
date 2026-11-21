@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=277
+|TXMN Blurb=They ritualistically summon shadows to attack, then join in the melee as a shadow themselves.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Shadow
+|TXMN Family=Exotic
+|TXMN Is fast=Slow
+|TXMN Accuracy=80%
+|TXMN Power=2
+|TXMN Effects=foresight 2
+|TXMN Recharge=3
+|TXMN Animation Target=3
+|Tags=Summoner
+|Main Details=Noticed there are not really a lot of 'summoning' techniques to go with summoner tag, also no reach / touch shadow moves.
+Could be tweaked in power as needed.
+Mid to late melee-stat using game move. Melee counterpart to Curse, perhaps?
+}}

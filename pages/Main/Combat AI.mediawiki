@@ -1,0 +1,23 @@
+Combat monster AI is a work in progress right now.  Any thoughtful suggestions are welcome.  Currently, the only implemented and useful AI simply does actions randomly.  Once you implement AI for your monster, the AI class will be used in combat without any further changes needed.
+
+== Developing your own AI ==
+
+* Develop an AI class that follows the AI api
+* Change a monster to use the AI: edit the json
+* Edit core.components.ai to recognize the new one
+
+== Develop AI Class ==
+
+AI.make_decison should just return a tuple of a monster's technique and the target of the action.
+
+https://github.com/Tuxemon/Tuxemon/blob/development/tuxemon/core/components/ai.py
+
+== Change monster AI ==
+
+Open the json file for the monster from tuxemon/resources/db/monster and change the "ai" value to the class name of the AI class that you want the monster to use.
+
+== Edit the monster class ==
+
+This step may change in the future.  Currently, you will need to add an elif statement to test the ai value in the json you just edited.  Just follow the other statements to add your AI Class.
+
+https://github.com/Tuxemon/Tuxemon/blob/development/tuxemon/core/components/monster.py#L220-L226

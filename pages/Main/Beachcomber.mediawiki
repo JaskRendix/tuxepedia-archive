@@ -1,0 +1,25 @@
+{{Trainer
+|Sources=Catch Challenger
+|Source Explanation=Overland sprites from Catch Challenger.
+|Genre=Modern
+|Combat Type=1 vs 1
+|Main Details==== Names ===
+* Pudd
+
+=== Quotes (Start of Battle) ===
+* I can't _sand_ people like you!
+* Were you waving?
+* Tuna fish? I can't even tuna piano!
+* I'm a good buoy.
+* I like messing about in boats. 
+
+=== Quotes (End of Battle) ===
+* _Sea_ you later!
+* That was a _hull_ of a battle!
+* You're stronger than you a'piered.
+* Life's a beach.
+* I fell for it hook, line and sinker.
+* _Water_ you thinking?
+* Now I'm crabby. 
+* That was just a fluke.
+}}

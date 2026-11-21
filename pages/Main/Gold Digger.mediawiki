@@ -1,0 +1,22 @@
+{{Technique
+|TXMN ID=99
+|TXMN Blurb=The user digs into the ground, finding treasure or attacking itself.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Exotic
+|TXMN Is fast=Very Slow
+|TXMN Accuracy=80%
+|TXMN Power=1
+|TXMN Effects=Money
+|TXMN Potency=100%
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Gemstone
+|Main Details=If it hits, then the monster gets money (damage * multiplier).
+If it misses, then the monster damages itself (only damage, without multiplier).
+
+Damage is calculated by the standard formula.
+|Sources=Jaskrendix
+}}

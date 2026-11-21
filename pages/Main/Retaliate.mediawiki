@@ -1,0 +1,8 @@
+{{Condition
+|Positive or Negative=Positive
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME will retaliate on its next attack.
+|Details=Track damage the user takes since gaining this condition. Their next attack does that much extra damage.
+|TXMN ID=31
+}}

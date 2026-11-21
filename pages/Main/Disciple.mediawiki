@@ -1,0 +1,5 @@
+{{Trainer
+|Sources=Balmer, Redshrike
+|Genre=Fantasy Historical
+|Combat Type=1 vs 1
+}}

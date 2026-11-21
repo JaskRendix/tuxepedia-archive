@@ -1,0 +1,61 @@
+{{Monster
+|Alternative Names=Calcinours
+|First URL=https://opmon-game.ga/
+|Sources=Jaskrendix, OPMon, Sanglorian
+|Source Explanation=From the open source game OPMon. Name by Sanglorian.
+|Species=Ursus
+|Evolves=Statursus
+|Name Origin=''coal'' + ''Kodiak bear''
+
+''calcination'' + ''ours'' (Calcinours)
+|Design Origin=Kodiak Grizzly/Brown Bear + coal, probably a play on how they sound vaguely similar.
+(Physiologically and physically, the Kodiak bear is very similar to the other brown bear subspecies, with the main difference being size, as Kodiak bears are on average 1.5 to 2 times larger than their cousins; this is due to their tendency to congregate near dense food sources like salmon runs even though bears are normally solitary. While probably not the original author's intent, the ability to set fire to anything including water might be a necessity for a fire bear that wanted to fish...)
+|Main Details=FR blurb: Cet ours serait capable de mettre à feu et à sang n'importe quoi…
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire, Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=359
+|TXMN Blurb=This bear can set fire to anywhere and draw blood from anything.
+|TXMN Height=260
+|TXMN Weight=300
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Mountains
+|Tags=Flame, Mental
+|Fusion First=Coal
+|Fusion Second=diak
+}}
+{{Technique Allocation
+|Has_Technique=Rock
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Give All
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Supernova
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Tinder
+|Technique_Level=31
+}}

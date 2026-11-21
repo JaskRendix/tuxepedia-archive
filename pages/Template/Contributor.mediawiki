@@ -1,0 +1,55 @@
+<noinclude>
+This is the "Contributor" template.
+It should be called in the following format:
+<pre>
+{{Contributor
+| Preferred Attribution
+| Contributor Types
+| Main Details }}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{{#if:{{{Preferred Attribution|}}}|
+
+'''Other Names:''' {{{Preferred Attribution|}}}
+ |}}
+
+{{#if:{{{Main Website|}}}|
+
+'''Main Website:''' {{{Main Website|}}} 
+|}}
+
+'''Nature of Contribution:''' {{#arraymap:{{{Contributor Types|}}}|,|x|[[Contributor Type::x]]}}
+
+{{{Main Details|}}}
+
+{{#ask:[[TXMN Completed::Complete]] [[Category:{{PAGENAME}}]] |limit=400
+|?Source Explanation
+|intro=Completed
+}}
+
+{{#ask:[[TXMN Completed Exists::false]] [[Category:{{PAGENAME}}]] |limit=400
+|?Source Explanation
+|intro=Yet to Be Completed
+}}
+
+{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]] |limit=200
+|format=gallery
+|link=all
+|searchlabel=… further results
+|navigation=nav
+|autocaptions=1
+|intro=Art
+}}
+{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite||Menu Sprite 1||Menu Sprite 2||Back Sprite||Main Sprite||Front Sprite||Other Sprite||Technique Animation||Face Sprite 1||Face Sprite 2||Front Island||Back Island||Tilesheet]] |limit=400
+|format=gallery
+|link=all
+|searchlabel=… further results
+|navigation=nav
+|autocaptions=1
+|intro=Sprites
+}}
+[[Category:Contributor]] [[Category:{{PAGENAME}}]]
+{{#arraymap:{{{Contributor Types|}}}|,|x|[[Category:x]]}}
+</includeonly>

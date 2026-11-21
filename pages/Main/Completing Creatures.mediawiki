@@ -1,0 +1,7 @@
+As well as [[Creating Creatures|designing your own monsters from scratch]], another way of contributing is to add something for a monster that someone else has designed.
+
+* [https://wiki.tuxemon.org/index.php?title=Creature_Progress_Tracker Creature Progress Tracker] has all named monsters that are missing one or more sprites
+* [https://wiki.tuxemon.org/index.php?title=Art_of_Unidentified_Monsters Unidentified Monsters] has monsters that haven't been named yet (which is needed for them to get their own page)
+* [https://forum.tuxemon.org/thread.php?id=168 Sprint] has some of our priorities.
+
+The [[Creating Creatures]] page has advice on names and design.

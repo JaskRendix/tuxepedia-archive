@@ -1,0 +1,7 @@
+[[Category:24px]]
+[[Category:Main]]
+[[Category:Face Sprite 2]]
+[[Category:Catch Challenger]]
+[[Category:Tarpeur]]
+[[Category:Sanglorian]]
+Adapted by Sanglorian from a sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.

@@ -1,0 +1,19 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=1100
+|TXMN Usable In=world
+|TXMN Description=Moist sweetroot cake infused with shimmer dust. Sweet, spicy, and full of bounce.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Meal Dust]]: 1
+* [[Sweetroot]]: 1
+* [[Mistflour Eggs]]: 1
+* [[Suncrust Butter]]: 1
+* [[Spice Dust]]: 1
+
+Possible Outputs:  
+* [[Honey Cake]], 1, 0.9  
+* [[Bite Of Despair]], 1, 0.1
+|Sources=Jaskrendix
+}}

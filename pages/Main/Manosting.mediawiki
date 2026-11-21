@@ -1,0 +1,72 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Sanglorian, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Original design and sprites by Spalding004. Face sprites by Sanglorian.
+|Species=Balloon
+|Name Origin=''man-o-war'' + ''sting''
+|Design Origin=Based on a man-o-war.
+|Main Details=Levitates using its "head" full of carbon monoxide.
+|SpyderCampaign=Found in the wild on Sea Route C. Used by a trainer in Sea Route C. Fished with the Poseidon.
+|TXMN Types=Water
+|TXMN Sub-Elements=Venom, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Polliwog
+|TXMN ID=114
+|TXMN Blurb=It floats across the tops of cities, contemplating sharks.
+|TXMN Height=180
+|TXMN Weight=0
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Toxic, Pseudopod
+|Fusion First=Mano
+|Fusion Second=sting
+}}
+{{Technique_Allocation
+|Has_Technique=Sting
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Water Bullet
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Flood
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Flow
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Poison Courtship
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Font
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Water Blast
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Ice Claw
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Frostbite
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Biting Winds
+|Technique_Level=37
+}}
+{{Technique_Allocation
+|Has_Technique=Ice Storm
+|Technique_Level=40
+}}

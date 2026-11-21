@@ -1,0 +1,76 @@
+{{Monster
+|Sources=HippasusTwo, Leo
+|Source Explanation=Sprited by HippasusTwo from art by Leo.
+|Species=Flying Fox Bat
+|Evolves=Megafruitera
+|Name Origin=Name based on the leaf nosed bat the Spectral Bat, playing on leaf nosed bats often being fruit eaters and having the word 'leaf' in their name. The spectral bat is a rare monogamous species and is also called the false vampire.
+
+Spectral Bat's scientific name, Vampyrum spectrum. The genus name "Vampyrum" comes from the Latin word "vampyrus," meaning "vampire". The species name "spectrum" is derived from the Latin word "spectrum," meaning "appearance" or "ghostly apparition".
+|TXMN Types=Wood
+|TXMN Sub-Elements=Sky, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=171
+|TXMN Blurb=This leaf-winged bat is omnivorous, but prefers fruit. Both the male and female look after young.
+|TXMN Height=140
+|TXMN Weight=20
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Jungle
+|Tags=Plant, Food
+|Fusion First=Spect
+|Fusion Second=era
+}}
+{{Technique Allocation
+|Has_Technique=Fluff Up
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Leaf Stab
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Splinter
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Invictus
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Fester
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Leaf Barrage
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Chameleon
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Wind Leaf Blade
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Clairaudience
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Tornado
+|Technique_Level=55
+}}

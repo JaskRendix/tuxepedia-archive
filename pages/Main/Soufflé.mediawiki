@@ -1,0 +1,19 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=1600
+|TXMN Usable In=world
+|TXMN Description=Airy glowfat soufflé puffed with zestsap. Light, tangy, and dreamlike on the tongue.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Mistflour Eggs]]: 2
+* [[Moo Bloom]]: 1
+* [[Glowfat]]: 1
+* [[Zestsap]]: 1
+* [[Crackle Salt]]: 1
+
+Possible Outputs:  
+* [[Soufflé]], 1, 0.8  
+* [[Dread Omelette]], 1, 0.2
+|Sources=Jaskrendix
+}}

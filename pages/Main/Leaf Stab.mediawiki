@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=222
+|TXMN Blurb=The user throws a prickly sharp leaf, which induces a burning feeling on contact as the stab wound bleeds.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=90%
+|TXMN Power=1.2
+|TXMN Potency=80%
+|TXMN Recharge=1
+|TXMN Target Condition=Burn
+|TXMN Animation Target=1
+|Tags=Plant
+|Main Details=Early or slightly mid game ranged leaf move that 'bleeds' the opponent.
+|Sources=HippasusTwo
+}}

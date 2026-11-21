@@ -1,0 +1,32 @@
+<noinclude>
+This is the "Environment" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Environment}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Environment}}}
+{| class="formtable"
+! Alternative Names: 
+| {{{field|Alternative Names|}}}
+|-
+! Webpage where first introduced: 
+| {{{field|First URL|}}}
+|-
+! Sources: 
+| {{{field|Sources|values from category=Contributor}}}
+|-
+! Source Explanation: 
+| {{{field|Source Explanation|rows=3|autogrow|input type=textarea|}}}
+|}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

@@ -1,0 +1,9 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert,
+|Evolves=Blastail,
+|Name Origin=''chandelier'' + ''snail''
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+}}

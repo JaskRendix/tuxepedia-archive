@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=16
+|TXMN Blurb=The user hurls a deadly array of throwing stars, reinforcing its own resolve with each hit.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2.25
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN User Condition=diehard
+|TXMN Animation Target=3
+|Tags=Soldier, Steel
+|Main Details=Name origin: a Japanese word for a type of throwing star, often associated with ninja and samurai.
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. "Explosion big" animation by Superpowers Asset Packs.
+}}

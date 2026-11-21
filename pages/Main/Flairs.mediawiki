@@ -1,0 +1,32 @@
+[[File:Stars.png|thumbnail]]'''Flairs''' are cosmetic sprite overlays for monsters.
+
+An individual monster can be given flairs (one per category, with any number of categories able to be defined), or have them removed or replaced, by an event action.
+
+== Flair definitions ==
+
+Each flair is defined in a YAML file (<code>mods/tuxemon/db/flair/*.yaml</code>), with a corresponding PNG in <code>gfx/sprites/flairs/<sprite_type_override or category>/</code>.
+
+<syntaxhighlight lang="yaml">
+- slug: stars
+  category: common
+  weight: 1.0
+  layer: 0
+  layer_order: 0
+  x_offset: null
+  y_offset: null
+  sprite_type:
+  - front
+  sprite_type_override: null
+  color: null
+</syntaxhighlight>
+
+* <code>slug</code> — unique name of the flair and its corresponding PNG.
+* <code>category</code> — grouping, e.g. <code>common</code>, <code>rare</code>, or <code>hat</code>. Only one flair per category can be active on a monster. Also the default folder name for the PNG.
+* <code>weight</code> — Not fully functional; set to <code>1.0</code>.
+* <code>layer</code> — Flairs with higher numbers appear on top of flairs with lower numbers.
+* <code>layer_order</code> — Flairs with lower numbers appear on top of flairs of the same <code>layer</code> with higher <code>layer_order</code> numbers.
+* <code>x_offset</code> — Horizontal offset from the sprite origin. <code>null</code> is treated as <code>0</code>.
+* <code>y_offset</code> — Vertical offset from the sprite origin. <code>null</code> is treated as <code>0</code>.
+* <code>sprite_type</code> — Which views this flair appears on: <code>front</code>, <code>back</code>, <code>menu01</code>, <code>menu02</code>. <code>null</code> means all views (unlikely to work since types vary from 24 × 24 to 64 × 64 pixels).
+* <code>sprite_type_override</code> — Overrides the folder used in the art path. Use it to share one image across categories, e.g. <code>universal</code>.
+* <code>color</code> — Optional RGBA tint applied to the flair image.

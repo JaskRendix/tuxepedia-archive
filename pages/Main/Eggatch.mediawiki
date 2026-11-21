@@ -1,0 +1,17 @@
+{{Monster
+|Sources=Georg Eckert, Sanglorian
+|Source Explanation=Designed and sprited by Georg Eckert. Resized by Sanglorian.
+|Name Origin=''hatching'' + ''egg''
+|TXMN Types=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Body Shape=Blob
+|TXMN Blurb=No one expects to be attacked by an egg.
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Mountains, Woodland
+|Tags=Food, Weak
+}}
+{{Evolutions
+|Has Evolution=Owlock
+}}

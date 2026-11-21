@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=265
+|TXMN Blurb=They try to put the opponent's deletion into a data queue.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Exotic
+|TXMN Is fast=Slow
+|TXMN Accuracy=90%
+|TXMN Power=2
+|TXMN Effects=foresight 2
+|TXMN Recharge=2
+|TXMN Animation Target=2
+|Tags=Machine
+|Main Details=Metal counterpart to Curse and Combat Clone.
+}}

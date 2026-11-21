@@ -1,0 +1,6 @@
+{{Monster
+|Sources=Georg Eckert, Sanglorian,
+|Source Explanation=Designed and sprited by Georg Eckert. Resized by Sanglorian.
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}

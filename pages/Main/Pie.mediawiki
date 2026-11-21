@@ -1,0 +1,19 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=800
+|TXMN Usable In=world
+|TXMN Description=Golden pie crust filled with beastmoss stew. Hearty, flaky, and deeply savory.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Meal Dust]]: 1
+* [[Mistflour Eggs]]: 1
+* [[Suncrust Butter]]: 1
+* [[Beastmoss]]: 1
+* [[Crackle Salt]]: 1
+
+Possible Outputs:  
+* [[Pie]], 1, 0.8  
+* [[Whispersoup]], 1, 0.2
+|Sources=Jaskrendix
+}}

@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=82
+|TXMN Blurb=Combatants float into the air, giving them a vantage point but leaving both struggling to connect with their hand-to-hand attacks.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=sniping own_team:enemy_team
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Animation Target=2
+|Tags=Mental, Bird
+|Sources=Sanglorian
+}}

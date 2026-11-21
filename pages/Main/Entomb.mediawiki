@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=248
+|TXMN Blurb=They pin you to the ground with great force and assemble a tomb around you.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Earth
+|TXMN Type 2=Fire
+|TXMN Sub-Elements=Earth, Shadow
+|TXMN Family=Powerful
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=90%
+|TXMN Power=3
+|TXMN Recharge=3
+|TXMN Animation Target=1
+|Tags=Earth, Darkness
+|Main Details=For Hampterra, but could fit thematically with others.
+could be earth/cosmic or earth/shadow
+|Sources=HippasusTwo
+}}

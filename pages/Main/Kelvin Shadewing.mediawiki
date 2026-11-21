@@ -1,0 +1,5 @@
+{{Contributor
+|Main Website=http://kelvinshadewing.net/
+|Main Details=[https://www.patreon.com/kelvin Patreon]
+|Contributor Types=Contributed to Tuxemon project, Released works under a free and open licence
+}}

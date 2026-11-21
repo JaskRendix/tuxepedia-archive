@@ -1,0 +1,63 @@
+{{Monster
+|Sources=Leo
+|Source Explanation=Design by Leo.
+|Species=Log Equine
+|Evolves=Duntree
+|Name Origin=''equine'' + ''pine''
+|Design Origin=In-between a young donkey and a mature horse, it may resemble an older donkey, or a mule, or a young horse. Mules are a cross between donkeys and horses, and are better at living in desert environments than horses are.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Landrace
+|TXMN ID=405
+|TXMN Blurb=Ekpine that live in deserts are less prone to forming tight knit herds than ones that live in grasslands, due to the need to roam far and wide to find resources.
+|TXMN Height=145
+|TXMN Weight=260
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|TXMN Terrains=Desert, Grassland
+|Tags=Megafauna, Plant
+|Fusion First=Ek
+|Fusion Second=pine
+}}
+{{Evolutions
+|Has Evolution=Edinolog
+|Evolution Level=36
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Flower Armor
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Tail Lash
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Breath
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Trample
+|Technique_Level=12
+}}
+{{Technique Allocation
+|Has_Technique=Woodsmash
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Wind Leaf Blade
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Earth Charge
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Charge
+|Technique_Level=50
+}}

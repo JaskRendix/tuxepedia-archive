@@ -1,0 +1,15 @@
+{{Technique
+|TXMN ID=186
+|TXMN Blurb=The user unleashes a flurry of rapid, razor-sharp attacks.
+|TXMN Category=Melee
+|TXMN Sub-Elements=Sky
+|TXMN Family=Powerful
+|TXMN Is fast=Slow
+|TXMN Accuracy=100%
+|TXMN Power=3
+|TXMN Potency=80%
+|TXMN Recharge=3
+|TXMN Target Condition=Flinching
+|Tags=Bird
+|Sources=Sanglorian
+}}

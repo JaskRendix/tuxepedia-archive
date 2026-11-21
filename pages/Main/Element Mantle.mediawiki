@@ -1,0 +1,11 @@
+{{Item
+|Item Category=Held Item
+|TXMN Cost=5000
+|TXMN Usable In=combat
+|TXMN Description=Gain resistance to this element.
+|Main Details=While holding this item, the user gains resistance to the corresponding element (Sky for a Sky Mantle). This interacts with their existing resistances and vulnerabilities (for example, a monster that is vulnerable to fire that wears the Fire Mantle now takes x1 damage from Fire).
+
+Sprite sheet is in alphabetical order: Cosmic, Earth, Fire, Frost, Heroic, Lightning, Metal, Normal, Shadow, Sky, Venom, Water, Wood.
+|Sources=Archeia, Sanglorian
+|Source Explanation=Sprites by Archeia, recolored by Sanglorian.
+}}

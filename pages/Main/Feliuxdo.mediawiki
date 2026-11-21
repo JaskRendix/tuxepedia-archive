@@ -1,0 +1,13 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Feliuxdo-668207586
+|Sources=TheBritanniaRegion,
+|Species=Suited
+|Name Origin=''feline'' + ''tuxedo''
+|Main Details=They are very proud of their appearence, and will spend at least 3 hours grooming their fur at a time.
+
+They don't use their electric powers often - which is why so many trainers mistake them as being an Earth type.
+|TXMN Types=Metal
+|TXMN Blurb=They are quite the quick footed tuxemon, and are very quick to make decisions. Their 'suit' is actually their fur, they are very popular amongst businessmen for their aesthetically pleasing looks.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+}}

@@ -1,0 +1,5 @@
+{{Contributor
+|Preferred Attribution=moritz_gunz
+|Main Website=https://forum.tuxemon.org/thread.php?id=71
+|Contributor Types=Contributed to Tuxemon project
+}}

@@ -1,0 +1,20 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=1100
+|TXMN Usable In=world
+|TXMN Description=Sweetroot puffs filled with enchanted cream. Light, airy, and wickedly indulgent.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Sweetroot]]: 2
+* [[Mistflour Eggs]]: 2
+* [[Glowfat]]: 1
+* [[Moo Bloom]]: 1
+* [[Meal Dust]]: 1
+* [[Crackle Salt]]: 1
+
+Possible Outputs:  
+* [[Cream Puffs]], 1, 0.9  
+* [[Bite Of Despair]], 1, 0.1
+|Sources=Jaskrendix
+}}

@@ -1,0 +1,5 @@
+{{Contributor
+|Preferred Attribution=Not required, but we'd appreciated it if you attributed it to the Frogatto & Friends team - www.frogatto.com
+|Main Website=http://www.frogatto.com
+|Contributor Types=Released works under a free and open licence
+}}

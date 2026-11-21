@@ -1,0 +1,12 @@
+{{Monster
+|Sources=Nikai Region
+|Source Explanation=Art by Nikai Region.
+|Species=Horned Rodent
+|Evolves=Gophmaus
+|Name Origin=''gopher'' + ''ghost''
+|Design Origin=Probably, a spooky mouse or rat.
+|TXMN Sub-Elements=Shadow
+|TXMN Body Shape=Varmint
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+}}

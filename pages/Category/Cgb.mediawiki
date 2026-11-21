@@ -1,0 +1,4 @@
+Those images are compatible with GameBoy Color.
+2bpp image, which means no more than 4 colors per 8x8.
+Max 8 palettes can be used to assign colors to 8x8 tiles.
+Transparency counts as a color.

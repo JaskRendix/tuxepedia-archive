@@ -1,0 +1,16 @@
+[https://github.com/limbusdev/guardian_monsters_artwork Licence and source]
+
+Creative Commons Attribution 4.0 licence
+
+'''Attribution:''' Includes Guardian Monsters Artwork by Georg Eckert / limbusdev
+
+You are allowed to use the monsters in any way you want. But you must use the given names, to keep them consistent everywhere.
+
+Adapted by Jaskrendix.
+
+[[Category:Marvantis]]
+[[Category:24px]]
+[[Category:Face Sprite 1]]
+[[Category:Main]]
+[[Category:Georg Eckert]]
+[[Category:Jaskrendix]]

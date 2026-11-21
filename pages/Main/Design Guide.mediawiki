@@ -1,0 +1,33 @@
+''NOTE: This page is a work in progress as Tuxemon's design style evolves''
+
+== Spriting ==
+
+Monster sprites, after the monster designs themselves, are at the heart of what makes a good monster training game. The quality of spriting, both in-combat sprites as well as the world and map tiles, can make or break a game. Because of this, the Tuxemon project has some guidelines on helping ensure that this level of quality is held to some standard for inclusion in the official project. Note that these standards are only upheld for the official project. Forks of the Tuxemon project can include any sprites you wish and can be subject to the standards of the maintainer of that fork.
+
+With that out of the way, if you would like to see what has already been done, or wish to contribute, check out one of these pages:
+
+* [[Design Guide]]    
+* [[Contributing Art]]    
+* [[Current Creatures]]
+* [[Creating Creatures]] (extensive instructions for spriting front, back and face sprites)
+* [[Creating Tilesets]]    
+* [[Creating Technique Animations]]
+
+=== General Spriting Guidelines ===
+
+==== Dithering ====
+As mentioned in the style section, sprites should use a minimal amount of dithering. Here is an example of too much dithering compared to one with minimal dithering:
+
+https://i.imgur.com/Q1EJDgZ.png
+
+==== Outlining ====
+Monster sprites should try using "selective outlining" for your monster's outlines, instead of black lines, like this:    
+http://i.imgur.com/Wy2dNeD.png
+
+When creating outlines, you should also try to avoid using "jaggies" in the outline:    
+http://i.imgur.com/S2dbRxm.gif
+
+You should also try and avoid using too much anti-aliasing. You only want to use as much AA as is necessary to smooth the edge. If you use too much, the edges can look blurry, and you lose the crispness of the line.
+https://i.imgur.com/SQu3W0U.png
+
+These examples come from <code>http://pixeljoint.</code><code>com/forum/forum_posts.asp?TID=11299</code> which has a lot of great spriting tips that recommend these things.

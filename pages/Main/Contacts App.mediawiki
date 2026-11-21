@@ -1,0 +1,9 @@
+{{Item	
+|Item Category=Functional Item	
+|TXMN Usable In=world	
+|TXMN Description=Call your friends and battle the people of your choice.	
+|TXMN Key Item=yes	
+|Main Details=Keeps track of everyone you've met, for (a) fame checking, (b) rematches and (c) remembering who and where people with trades, challenges, offers, competitions, move tutoring, etc, were (or maybe the CONTACTS APP was always there for purpose (a) and (c), but now (b) is unlocked too).
+|Sources=Catch Challenger	
+|Source Explanation=A sprite from Catch Challenger (CC BY), art director Jordan Brule. Project developer Herman Brule.	
+}}

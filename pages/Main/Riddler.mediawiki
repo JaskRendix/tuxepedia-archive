@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Sanglorian
+|Genre=Gijinka
+|Combat Type=1 vs 1
+|Main Details=A gijinka of [[Snarlon]]. [[Category:Snarlon]]
+}}

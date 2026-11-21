@@ -1,0 +1,51 @@
+{{Monster
+|Sources=Jaskrendix, Kelvin Shadewing
+|Species=Malleable
+|Name Origin="Nutter" combines nut—a nod to forest habitats and squirrel-like traits—with butter, evoking its malleable, slippery body. The "butter" element reinforces its texture: soft, spreadable, and hard to grip, much like raw dough or a pat of warm butter. The name also carries a playful tone, suggesting both snackability and unpredictability, much like a creature that wiggles free from danger with ease.
+|Main Details=Nutter's doughy body is soft and pliable, allowing it to wriggle free from danger with ease. Its playful nature and squishy form make it a favorite among young trainers, though it’s notoriously slippery when startled.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Normal, Wood
+|TXMN Body Shape=Blob
+|TXMN Blurb=Its body is as malleable as raw dough, allowing it to slip free from a predator's grip.
+|TXMN Height=40
+|TXMN Weight=3
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Grassland, Urban, Woodland
+|Tags=Food
+|Fusion First=Nut
+|Fusion Second=Ter
+}}
+{{Evolutions
+|Has Evolution=Bakorn
+|Evolution Level=to be decided
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Roll
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Food Fight
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Tail Lash
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Shapechange
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Burrow Blast
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Woodsmash
+|Technique_Level=40
+}}

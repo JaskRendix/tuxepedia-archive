@@ -1,0 +1,39 @@
+<noinclude>
+This is the "Contributor" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Contributor}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Contributor}}}
+
+== Other names ==
+''If any.''
+
+{{{field|Preferred Attribution|rows=6|autogrow|}}}
+
+== Main Website ==
+''If any.''
+
+{{{field|Main Website|rows=6|autogrow|}}}
+
+
+== Main Details ==
+{{{field|Main Details|rows=6|autogrow|input type=textarea|}}}
+
+
+== Type of Contributor ==
+
+{{{field|Contributor Types|input type=checkboxes|values=Contributed to Tuxemon project, Commissioned to create, Released works under a free and open licence, Contributed to a different open source monster taming project}}}
+
+
+== Summary ==
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Leo
+|Source Explanation=Design, main art and front sprite by Leo.
+|Genre=Fantasy Historical
+|Combat Type=1 vs 1
+}}

@@ -1,0 +1,11 @@
+{{Item
+|Item Category=Held Item
+|TXMN Cost=500
+|TXMN Usable In=combat
+|TXMN Description=When held, it increases the power of ELEMENT techniques.
+|Main Details=There is one pellet for each element. When the holder uses a damaging technique of that element, the power is increased by 20%. 
+
+Sprite sheet is in alphabetical order: Cosmic, Earth, Fire, Frost, Heroic, Lightning, Metal, Normal, Shadow, Sky, Venom, Water, Wood.
+|Sources=Ocean, Sanglorian
+|Source Explanation=Sprites by Ocean, tweaked and recolored by Sanglorian.
+}}

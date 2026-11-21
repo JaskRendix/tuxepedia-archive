@@ -1,0 +1,8 @@
+{{Condition
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME is held tight.
+|Details=Cannot Retreat or Switch. Ranged and Reach techniques have their Power and Potency halved.
+|TXMN ID=5
+}}

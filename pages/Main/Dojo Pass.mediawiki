@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Story Item
+|TXMN Description=Admit one to the Dojo of the Elements.
+|TXMN Key Item=yes
+|SpyderCampaign=Given by Lenny on the top floor of the Mansion; grants entry to the Dojo of the Elements
+|Sources=Catch Challenger
+|Source Explanation=A sprite from Catch Challenger (CC BY), art director Jordan Brule. Project developer Herman Brule.
+}}

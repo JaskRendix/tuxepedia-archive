@@ -1,0 +1,13 @@
+{{Item
+|Item Category=Combat Consumable
+|TXMN Effects=Switch (Element) Target
+|TXMN Cost=450
+|TXMN Type=(Element)
+|TXMN Usable In=combat
+|TXMN Description=It changes monster type to Cosmic/Earth/etc.
+|TXMN Consumable=yes
+|Main Details=There is one berry for each element. Sprite sheet is in alphabetical order: Cosmic, Earth, Fire, Frost, Heroic, Lightning, Metal, Normal, Shadow, Sky, Venom, Water, Wood.
+|SpyderCampaign=Metal Berry — Found in the Mansion top floor (box)
+|Sources=Sanglorian, Josepharaoh99
+|Source Explanation=Sprite by josepharaoh99. Colors tweaked by Sanglorian.
+}}

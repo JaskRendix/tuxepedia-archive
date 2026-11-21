@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=14
+|TXMN Blurb=A powerful charge that puts the user in motion.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.25
+|TXMN Effects=negate user’s positive condition
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN Animation Target=1
+|Tags=Megafauna, Fury
+|Sources=Sanglorian, J-Robot
+|Source Explanation=Technique by Sanglorian. "Explosion dusty" animation by J-Robot.
+}}

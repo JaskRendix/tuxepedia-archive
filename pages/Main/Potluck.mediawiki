@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=235
+|TXMN Blurb=The user and opponent engage in a mutual exchange of gifts, fostering a brief moment of camaraderie in the midst of battle.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Special
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=healing target, healing user
+|TXMN Healing Power=1
+|TXMN Potency=80%
+|TXMN Recharge=1
+|TXMN User Condition=Exhausted
+|TXMN Target Condition=Nodding Off
+|TXMN Animation Target=0
+|Tags=Food
+|Main Details=Maybe a random effect? Or just make both parties drowsy?
+|Sources=HippasusTwo
+}}

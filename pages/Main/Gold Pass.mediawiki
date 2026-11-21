@@ -1,0 +1,7 @@
+{{Item
+|Item Category=Story Item
+|TXMN Description=Enjoy the Cathedral's deluxe services.
+|TXMN Key Item=yes
+|Main Details=Costs $1 more than whatever the maximum wallet size is.
+|SpyderCampaign=Found in a box in the GoodChat data centre; grants access to the Walled Garden in Timber Town
+}}

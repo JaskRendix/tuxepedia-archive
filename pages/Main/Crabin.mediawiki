@@ -1,0 +1,12 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Crabin-and-Krabtain-661764224
+|Sources=TheBritanniaRegion,
+|Species=First Mate
+|Name Origin=''crab'' + ''cabin boy''
+|Design Origin=Sailors and skulls.
+|Main Details=They enjoy clicking to sea shanties with their huge claws!
+|TXMN Types=Water
+|TXMN Blurb=In any serious situation, they will simply panic and run about frantically! Their only effective way of avoiding attacks is disguising themselves as dead bones, even then their panicky attitude will blow their cover.
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+}}

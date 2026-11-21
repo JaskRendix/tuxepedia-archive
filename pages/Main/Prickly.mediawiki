@@ -1,0 +1,8 @@
+{{Condition
+|Positive or Negative=Positive
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME is harmful to make contact with.
+|Details=Each time you are hit by a melee or touch move, the attacker takes 1/8th your maximum HP in damage.
+|TXMN ID=29
+}}

@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=233
+|TXMN Blurb=A bizarre move that can both heal you and send you to heaven by how good it tastes.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Reserved
+|TXMN Is fast=Normal
+|TXMN Accuracy=90%
+|TXMN Power=3
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN Target Condition=Recovering
+|TXMN Animation Target=1
+|Tags=Food
+|Sources=HippasusTwo
+}}

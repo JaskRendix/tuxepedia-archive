@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=79
+|TXMN Blurb=The user sucks the target's blood, but leaves something of themselves behind.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Water
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2.25
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN User Condition=lifeleech
+|TXMN Target Condition=lifeleech
+|TXMN Animation Target=2
+|Tags=Love
+|Sources=Sanglorian, Clint Bellanger
+|Source Explanation=Technique by Sanglorian. Animation by Clint Bellanger.
+}}

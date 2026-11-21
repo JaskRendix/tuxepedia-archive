@@ -1,0 +1,9 @@
+{{Monster
+|Sources=Leo,
+|Source Explanation=Designed by Leo. Named by Sanglorian.
+|Evolves=Ironbarr,
+|Name Origin=''panzerbjorn'' + ''barr''
+|TXMN Types=Metal
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+}}

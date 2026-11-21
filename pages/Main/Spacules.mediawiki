@@ -1,0 +1,9 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert,
+|Source Explanation=Designed and sprited by Georg Eckert.
+|Evolves=Spadybug,
+|Name Origin=''spider'' + ''ladybug''
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+}}

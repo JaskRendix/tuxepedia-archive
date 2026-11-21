@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Morph Item
+|TXMN Effects=evolve
+|TXMN Type=Wood
+|TXMN Usable In=world
+|TXMN Description=It uses the power of Wood to morph a tuxemon into a different form.
+|Sources=Thekingphoenix
+|Source Explanation=Sprite by thekingphoenix.
+}}

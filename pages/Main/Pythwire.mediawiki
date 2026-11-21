@@ -1,0 +1,52 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=1739
+|Sources=Serpexnessie
+|Source Explanation=Original design and sprites by Serpexnessie.
+|Species=Power Socket
+|Name Origin=''python'' + ''wire''
+|SpyderCampaign=Found in the wild in Datacenter. Used by a trainer in Route 3.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Lightning, Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Serpent
+|TXMN ID=89
+|TXMN Blurb=Observations of wild PYTHWIRE inspired the inventor of the first electrical outlet.
+|TXMN Height=200
+|TXMN Weight=4
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Urban
+|Tags=Electricity
+|Fusion First=Pyth
+|Fusion Second=wire
+|TXMN_FR Name=Pythfil
+}}
+{{Evolutions
+|Has Evolution=Sockeserp
+|Evolution Level=Metal Booster
+}}
+{{Evolutions
+|Has Evolution=Ouroboutlet
+|Evolution Level=Fire Booster
+}}
+{{Technique_Allocation
+|Has_Technique=Strike
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Surge
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Viper
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Radiance
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Constrict
+|Technique_Level=13
+}}

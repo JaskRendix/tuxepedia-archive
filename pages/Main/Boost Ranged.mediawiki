@@ -1,0 +1,11 @@
+{{Item
+|Item Category=Combat Consumable
+|TXMN Effects=statchange boost_ranged2
+|TXMN Target=player
+|TXMN Cost=550
+|TXMN Usable In=combat
+|TXMN Description=For the rest of the combat, increase Ranged by two stages.
+|TXMN Consumable=yes
+|Sources=Sanglorian, Catch Challenger
+|Source Explanation=Sprite adapted by Sanglorian from a sprite from Catch Challenger (CC BY), art director Jordan Brule. Project developer Herman Brule.
+}}

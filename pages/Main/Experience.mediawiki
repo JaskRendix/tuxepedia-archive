@@ -1,0 +1,64 @@
+= Monster Experience and Levelling System =
+
+Monsters range in level from 1 to 100. The number of experience points (XP) a monster has determines its level. Monsters primarily gain XP through battling other monsters, though other methods may exist.
+
+== Current Implementation of Experience Points and Levelling ==
+
+* When an enemy monster is eliminated, all player monsters that dealt any damage to it receive an equal portion of:
+  * '''(Total XP / Enemy Level)''' — equivalent to '''Enemy Level²'''
+* A monster levels up when its total XP meets or exceeds:
+  * '''(Current Level × Experience Required Modifier)³'''
+* The '''Experience Required Modifier''' affects both levelling and XP rewards:
+** For levelling up, it is applied to the monster gaining experience. This value is currently hard-coded to '''1''' for all player monsters.
+** For XP rewards, it is applied to the '''defeated''' monster — not the one gaining XP.
+** Opponent monsters (NPCs and wild encounters) can have custom Experience Required Modifiers defined in their respective JSON files.
+** The XP awarded to participating player monsters is calculated as:
+*** '''(Defeated Monster's Level × Defeated Monster's Experience Required Modifier)²'''
+* Monsters may increase multiple levels at once if enough XP is gained.
+* Monsters do '''not''' gain XP once they reach the maximum level (100).
+* Levelling up occurs '''immediately'''; morphing occurs '''after the battle''' if the player wins.
+
+== Experience Multipliers ==
+
+XP gained is adjusted based on the monster's origin:
+
+{| class="wikitable"
+! Origin !! Multiplier
+|-
+| Captured || ×1.0
+|-
+| Traded || ×1.5
+|-
+| Bred || ×1.2
+|-
+| Gifted || ×1.2
+|-
+| Purchased || ×0.9
+|-
+| Rescued || ×1.3
+|-
+| Created || ×1.0
+|}
+
+== Sharing Experience Points ==
+
+There are items that affect how XP is distributed:
+
+* '''[[XP Transmitter]]''': If in the player’s possession, half of the XP goes to participating monsters, and half to non-participating monsters.
+* '''[[XP Feeder]]''': Given to a specific monster. Half of the XP goes to participating monsters, and half to the designated monster (which may double-dip if it participated).
+
+== Experience Items ==
+
+Out-of-combat consumables that grant additional XP:
+
+* '''[[Tea]]'''
+* '''[[Mystery Tea]]'''
+* '''[[Ancient Tea]]'''
+* '''[[Imperial Tea]]'''
+
+Approximate XP effects:
+
+* '''Tea''': Advances a level 4 monster to halfway through level 5.
+* '''Mystery Tea''': Advances a level 9 monster to halfway through level 10.
+* '''Ancient Tea''': Advances a level 16 monster to level 17.
+* '''Imperial Tea''': Advances a level 25 monster to level 26.

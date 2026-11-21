@@ -1,0 +1,60 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=1766
+|Sources=Sanglorian, Serpexnessie
+|Source Explanation=Design and sprites by Serpexnessie. Face sprites tweaked by Sanglorian.
+|Species=Mixed Emotion
+|Name Origin=''chrome'' + ''eye''
+|SpyderCampaign=Used by trainers in Datacenter.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Cosmic, Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=174
+|TXMN Blurb=CHROMEYE was created to observe and learn how humans think and feel.
+|TXMN Height=38
+|TXMN Weight=3.5
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Extraplanar, Urban
+|Tags=Mental, Machine
+|Fusion First=Chrom
+|Fusion Second=meye
+|TXMN_FR Name=Chromœil
+}}
+{{Evolutions
+|Has Evolution=Neutrito
+|Evolution Level=18 (season:spring)
+}}
+{{Evolutions
+|Has Evolution=Happito
+|Evolution Level=18 (season:summer)
+}}
+{{Evolutions
+|Has Evolution=Angrito
+|Evolution Level=18 (season:winter)
+}}
+{{Evolutions
+|Has Evolution=Sadito
+|Evolution Level=18 (season:autumn)
+}}
+{{Technique_Allocation
+|Has_Technique=Buzz
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Bullet
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Blade
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Strike
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Wall of Steel
+|Technique_Level=13
+}}

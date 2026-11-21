@@ -1,0 +1,61 @@
+{{Monster
+|Sources=Jaskrendix
+|Species=Crystalline
+|Evolves=Vivipere
+|Name Origin=Vivi + Sphere
+
+Vivi – "Vivipere"
+
+Sphere – Refers to its crystalline body
+|Main Details=Vivisphere is a serpentine Tuxemon composed entirely of radiant crystalline matter. Its body coils like a storm frozen in motion, refracting light in dazzling, unpredictable patterns. Charged with volatile energy, it emits a low hum that intensifies when battle draws near. Cracks in its crystal form pulse with unstable brilliance, hinting at the raw power barely contained within.
+|TXMN Sub-Elements=Lightning, Cosmic
+|TXMN Body Shape=Serpent
+|TXMN Blurb=A crystalline body pulses with concentrated energy, barely contained and dangerously unstable.
+|TXMN Height=180
+|TXMN Weight=48
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Fusion First=Vivi
+|Fusion Second=Sphere
+}}
+{{Technique Allocation
+|Has_Technique=Stone Rot
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Quicksand
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Crystal
+|Technique_Level=21
+}}
+{{Technique Allocation
+|Has_Technique=Beam
+|Technique_Level=23
+}}
+{{Technique Allocation
+|Has_Technique=Neuroshock
+|Technique_Level=27
+}}
+{{Technique Allocation
+|Has_Technique=Laser Beam
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Fey Light
+|Technique_Level=34
+}}

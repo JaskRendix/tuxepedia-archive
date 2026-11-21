@@ -1,0 +1,82 @@
+<noinclude>
+This is the "Condition" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Condition}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Condition}}}
+{| class="formtable"
+! Condition ID: 
+| {{{field|TXMN ID}}}
+|-
+! Positive or Negative: 
+| {{{field|Positive or Negative}}}
+|-
+! Response to Positive Condition: 
+| {{{field|Response to Positive Condition}}}
+|-
+! Response to Negative Condition: 
+| {{{field|Response to Negative Condition}}}
+|-
+! Response to Technique Use: 
+| {{{field|Response to Technique Use}}}
+|-
+! Response to Item Use: 
+| {{{field|Response to Item Use}}}
+|-
+! Response to End of Round: 
+| {{{field|Response to End of Round}}}
+|-
+! Replacement Conditions: 
+| {{{field|Replacement Conditions}}}
+|-
+! Text When Gained: 
+| {{{field|Text When Gained}}}
+|-
+! End of Round Text: 
+| {{{field|End of Round Text}}}
+|-
+! Speed Multiplier: 
+| {{{field|Speed Multiplier}}}
+|-
+! Melee Multiplier: 
+| {{{field|Melee Multiplier}}}
+|-
+! Ranged Multiplier: 
+| {{{field|Ranged Multiplier}}}
+|-
+! Armour Multiplier: 
+| {{{field|Armour Multiplier}}}
+|-
+! Dodge Multiplier: 
+| {{{field|Dodge Multiplier}}}
+|-
+! Details: 
+| {{{field|Details}}}
+|}
+
+=== In Other Languages ===
+{| 
+! Language 
+| Name 
+| Text When Gained
+| End of Round Text
+|- 
+! Spanish 
+| {{{field|TXMN_ES Name|}}} 
+| {{{field|TXMN_ES Text When Gained|}}} 
+| {{{field|TXMN_ES End of Round Text|}}} 
+|}
+
+{{{end template}}}
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

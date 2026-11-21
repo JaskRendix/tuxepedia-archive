@@ -1,0 +1,13 @@
+{{Monster
+|Alternative Names=Piratana,
+|First URL=https://forum.tuxemon.org/thread.php?id=120
+|Types=Water,
+|Sources=josepharaoh99,
+|Species=Pirate Piranha
+|Name Origin=''pirate''
+|Design Origin=A pirate piranha.
+|TXMN Types=Water
+|Freemon Types=Dark, Water
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+}}

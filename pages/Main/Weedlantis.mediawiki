@@ -1,0 +1,68 @@
+{{Monster
+|First URL=https://www.deviantart.com/mjco/art/Fakemon-Sale-Adoption-788243398
+|Sources=HippasusTwo, Jaskrendix, Sanglorian, mjco
+|Source Explanation=Design and front sprites by mjco. Front and back sprites by HippasusTwo. Face sprites adapted by Jaskrendix.
+|Species=Reef
+|Evolves=Weedsea
+|Name Origin=''weed'' + ''Atlantis''
+|Design Origin=Seaweed reefs
+|TXMN Types=Water, Wood
+|TXMN Sub-Elements=Water, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Dragon
+|TXMN ID=353
+|TXMN Blurb=It is said an ancient civilization once used WEEDLANTIS as advisors, but it has since disappeared beneath the sea.
+|TXMN Height=185
+|TXMN Weight=120
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|TXMN Terrains=Coastal, Sea
+|Tags=Plant, Water, Rock, Calamity, Leadership
+|Fusion First=Weed
+|Fusion Second=lantis
+}}
+{{Technique Allocation
+|Has_Technique=Water Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Overgrowth
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Stabilo
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Nest
+|Technique_Level=18
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Energy Field
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Woodsmash
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=55
+}}

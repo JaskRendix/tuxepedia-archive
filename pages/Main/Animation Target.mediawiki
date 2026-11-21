@@ -1,0 +1,1 @@
+Whether the animation plays over the user (0) or the target (1) or both (2) or in the middle of the screen (3).

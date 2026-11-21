@@ -1,0 +1,19 @@
+{{Monster
+|First URL=http://fauxlens.deviantart.com/art/Fauxlens-Fakemon-Sale-I-ALL-SOLD-628429321
+|Sources=fauxlens, Jaskrendix,
+|Source Explanation=Designed and illustrated by fauxlens.
+|Evolves=Cubfort,
+|Name Origin=''ambulance'' + ''bear''
+|Design Origin=Teddies, defibrillators, hospital clowns.
+|TXMN Types=Metal
+|TXMN Body Shape=Brute
+|TXMN Blurb=The cuddly AMBEARANCE love to comfort and nurture sick and injured monsters. But they would never deliberately harm a monster just for the pleasure of nurturing it back to health.
+|TXMN Height=120
+|TXMN Weight=160
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Fusion First=Ambear
+|Fusion Second=ance
+|TXMN_DE Name=Defibärlator (Bär + Defibrillator)
+}}

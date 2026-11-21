@@ -1,0 +1,68 @@
+{{Monster
+|First URL=Discord
+|Sources=Tricoelacanth
+|Species=Missing Link
+|SpyderCampaign=N/A
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=172
+|TXMN Blurb=Found alongside Tuxemon such as Rhincus, Pilthropus is the oldest humanoid Tuxemon to date. They can create and wield crude stone tools.
+|TXMN Height=154
+|TXMN Weight=82
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Ground, Soldier, Staff
+|Fusion First=Pil
+|Fusion Second=thropus
+}}
+{{Technique_Allocation
+|Has_Technique=Strike
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Riposte
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Blade
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Mudslide
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Fester
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Crystal
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Platinum
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Staff Smash
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Battery Acid
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Thunderball
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Snowstorm
+|Technique_Level=37
+}}
+{{Technique_Allocation
+|Has_Technique=Berserk
+|Technique_Level=40
+}}

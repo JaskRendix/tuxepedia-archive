@@ -1,0 +1,60 @@
+{{Monster
+|Sources=Bonny John, Levaine, MTC-Studio, Sanglorian
+|Source Explanation=Original design by Sanglorian. Other art by MTC-Studio and Bonny John. Sprites by Levaine. Back sprite by Sanglorian. Face sprites tweaked by Sanglorian.
+|Species=Desolate
+|Evolves=Memnomnom
+|Name Origin=''miaow'' + ''monolith''
+|Design Origin=Based on the Easter Island heads and lions, as well as the Sphinx in Egypt and the sphinxes in The Neverending Story.
+|Main Details=Miaownolith can speak, but only to ask riddles.
+|SpyderCampaign=Evolution of a starting monster. Used by trainers in Dojo, Route 5 and Walled Garden.
+|TXMN Types=Earth, Metal
+|TXMN Sub-Elements=Earth, Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=20
+|TXMN Blurb=It can speak the human tongue, but only to say cryptic riddles.
+|TXMN Height=210
+|TXMN Weight=255
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Ground, Claws, Summoner, Ghost, Rock
+|Fusion First=Miaow
+|Fusion Second=nolith
+}}
+{{Technique_Allocation
+|Has_Technique=Eyebite
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Feint
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Shuriken
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Slice
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Petrify
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Fluff Up
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Overgrowth
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Oedipus
+|Technique_Level=37
+}}

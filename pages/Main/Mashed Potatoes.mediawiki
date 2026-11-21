@@ -1,0 +1,17 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=300
+|TXMN Usable In=world
+|TXMN Description=Soft root mash with crackle salt and moo bloom cream. Comforting with a fizzy edge.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Stonefruit Bulbs]]: 1
+* [[Moo Bloom]]: 1
+* [[Crackle Salt]]: 1
+
+Possible Outputs:  
+* [[Mashed Potatoes]], 1, 0.8  
+* [[Inferno Custard]], 1, 0.2
+|Sources=Jaskrendix
+}}

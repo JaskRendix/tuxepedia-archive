@@ -1,0 +1,77 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=Jaskrendix, JustinNuggets, Piacarrot, Sanglorian
+|Source Explanation=Design and original sprite by JustinNuggets and Piacarrot. Recolour by Sanglorian. Face sprites by Jaskrendix. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Boiling Goldfish
+|Evolves=Gupphire
+|Name Origin=''goldfish'' + ''unagi''
+|Design Origin=Cooked eel
+|Main Details=GOLNAGI is the final evolution of GUPPHISH. Its body has elongated, resembling an eel, and its yellow color has deepened to a rich gold. GOLNAGI's scales shimmer with an iridescent glow, making it almost invisible in the water. Its powerful tail allows it to swim at incredible speeds, making it a formidable opponent.
+|TXMN Types=Fire, Water
+|TXMN Sub-Elements=Fire, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Piscine
+|TXMN ID=393
+|TXMN Blurb=GOLNAGI's scales glow, making it almost invisible in the water during dawn and dusk - its preferred times for hunting.
+|TXMN Height=130
+|TXMN Weight=16
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Sea
+|Tags=Flame, Water
+|Fusion First=Gol
+|Fusion Second=nagi
+}}
+{{Technique Allocation
+|Has_Technique=Take Cover
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mobbing
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Fire Shield
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Fiery
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Sudden Glow
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Tsunami
+|Technique_Level=34
+}}
+{{Technique Allocation
+|Has_Technique=Supernova
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Kraken
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=52
+}}
+{{Technique Allocation
+|Has_Technique=Firestorm
+|Technique_Level=55
+}}

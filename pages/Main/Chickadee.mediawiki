@@ -1,0 +1,62 @@
+{{Monster
+|First URL=https://opengameart.org/content/isaiah658s-pixel-pack-2
+|Sources=Isaiah658, Jaskrendix
+|Source Explanation=Front sprite by Isaiah658. Back and face sprites by Jaskrendix. Alternative sprites by Isaiah658.
+|Species=Chickadee
+|Design Origin=Yellow feathered baby chicken in egg + chickadee
+|TXMN Types=Wood
+|TXMN Sub-Elements=Normal, Sky
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=365
+|TXMN Blurb=CHICKADEE gives longer repeated cries of 'dees' if the danger it senses seems lesser than another.
+|TXMN Height=12
+|TXMN Weight=1
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Woodland
+|Tags=Bird, Weak, Food
+|Fusion First=Chicka
+|Fusion Second=dee
+}}
+{{Evolutions
+|Has Evolution=Birdee
+|Evolution Level=15
+}}
+{{Technique Allocation
+|Has_Technique=Peck
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Whirlwind
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Negation
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Egg Smash
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Fledgling
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Fluff Up
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Peregrine
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=40
+}}

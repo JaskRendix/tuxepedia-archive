@@ -1,0 +1,22 @@
+{{Technique
+|TXMN ID=251
+|TXMN Blurb=They try to increase enemy cooldowns of non-ranged and nonspecial moves.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Exotic
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=95%
+|TXMN Power=0
+|TXMN Effects=cooldown enemy_monster,2,ranged,special
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN Animation Target=0
+|Tags=Staff
+|Main Details=Witty fam, eventually, and Brumi.
+Probably needs playtesting to see how it feels.
+If it increases cooldown to 1, and can only be used every other turn, and acts fast, then it should almost act like Protect except that I thinkkk the moves with increased cooldown that have already been chosen would still activate (so can't choose enem cooldown 1, your cooldown 2, because that might not work as expected). So, like a delayed Protect?
+If not careful, would be lowering cooldown for some moves if they had longer than the given. So could backfire if not paying attention to enemy cooldowns.
+|Sources=HippasusTwo
+}}

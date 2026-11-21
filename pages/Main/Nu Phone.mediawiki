@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Functional Item
+|TXMN Usable In=world
+|TXMN Description=You can do a lot with this, e.g. phone home.
+|TXMN Key Item=yes
+|Main Details=Part of the description is a reference to the quote "E.T. phone home" from the movie E.T.
+|SpyderCampaign=Given by Mom in Cotton Town as a story event; opens the phone menu and gives access to phone apps
+}}

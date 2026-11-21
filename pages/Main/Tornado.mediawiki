@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=194
+|TXMN Blurb=The user summons a swirling vortex of air, unleashing a devastating tornado that lifts the opponent off the ground and deals damage.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Water
+|TXMN Type 2=Wood
+|TXMN Sub-Elements=Sky
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2.9
+|TXMN Potency=50%
+|TXMN Recharge=3
+|TXMN Target Condition=Slow
+|TXMN Animation Target=3
+|Tags=Weather, Calamity
+|Sources=HippasusTwo
+}}

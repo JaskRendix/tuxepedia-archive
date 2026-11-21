@@ -1,0 +1,85 @@
+==Spawning Process Summary==
+
+The <code>spawn_monster</code> event action manages the breeding of two "Tuxemons" (monsters) to create a new offspring. This process involves determining the genetic "seed" parent, inheriting tastes with a chance of mutation, and generating a unique name for the new monster.
+
+---
+
+===Determining the Genetic Seed Parent (<code>_determine_seed</code>)===
+The <code>_determine_seed</code> function decides which of the two parent monsters (mother or father) will contribute its species (slug) as the basis for the offspring. The selection follows a hierarchical set of rules, prioritizing biological fitness:
+* '''Evolution Stage:''' The monster at a higher '''evolutionary stage''' is preferred. The stages are prioritized as <code>stage2</code> > <code>stage1</code> > <code>standalone</code>.
+* '''Total Stats:''' If evolution stages are the same, the monster with '''higher total base stats''' (sum of all <code>StatType</code> values) is chosen.
+* '''Vitality Ratio (HP Ratio):''' If total stats are also equal, the monster with a '''greater vitality ratio''' (current HP divided by max HP) is selected.
+* '''Type Effectiveness:''' If all the above are equal, the function considers '''type effectiveness'''. The parent whose types are more effective against the other parent's types is chosen.
+* '''Random Selection:''' If all previous criteria are tied, the seed parent is chosen '''randomly''' between the mother and the father.
+
+---
+
+===Determining the Offspring's Name (<code>_determine_name</code>)===
+The <code>_determine_name</code> function generates a new name for the offspring by combining parts of the mother's and father's names. The process aims to create a blended name while avoiding awkward combinations:
+* '''Vowel-Based Combination (Preferred):'''
+** If both parent names contain at least one vowel (a, e, i, o, u, y), the function finds the vowel closest to the midpoint of each name.
+** The new name is formed by taking the first part of the first parent's name up to and including its closest midpoint vowel, and combining it with the second part of the second parent's name starting from its closest midpoint vowel.
+* '''Midpoint Split (Fallback):'''
+** If either parent's name lacks a vowel, the function defaults to splitting each name at its '''midpoint'''.
+** The first half of the first parent's name is combined with the second half of the second parent's name.
+* '''Duplicate Character Removal:''' After combining the name parts, any '''consecutive duplicate characters''' are removed (e.g., "Aarron" becomes "Aaron").
+* '''Capitalization:''' The final generated name is '''capitalized'''.
+
+---
+
+===Move Selection===
+The offspring inherits one move directly from the father:
+* A '''random move''' is selected from the father's current moves.
+* This randomly selected move '''replaces one of the child's initial moves''' (specifically, at index 0 or 1, chosen randomly).
+
+==Ideas Spawning Process==
+
+===Enhancing Genetic Inheritance & Stats===
+
+====Individual Values (IVs):====
+* '''IVs:''' Introduce a system of "inherent potential" for each stat (HP, Attack, Defense, Speed, etc.). These values are primarily determined by the parents' genetic makeup. An offspring's IVs won't be purely random; instead, they'll often emerge as an average of the parents' strengths for each stat, alongside some inherited random elements. Players can also influence this by having parents pass down specific IVs (e.g., 3-5 guaranteed) or by using special items that ensure the inheritance of a particular high IV. This adds a "min-maxing" layer, allowing competitive players to cultivate genetically superior monsters.
+
+Process:
+
+* Get Parent IVs for that Stat: Mother's HP IV (let's say it's 20) and Father's HP IV (let's say it's 25)
+* Calculate a Base Value (Averaging Idea): a simple average: (20+25)/2=22.5 and let's say we round to the nearest: 23
+* Introduce Variability (making it less predictable): an exact average every time would be a bit boring, we want some "genetic drift", we can add a small random deviation to this base value.
+* Random deviation: take the base value (23) and add a random number between -2 and +2.
+
+====Recessive/Dominant Traits & Genetic Mutations:====
+* Expand the taste mutation idea to other traits. Certain visual traits (patterns, colors, markings) or even minor stat boosts/reductions could be governed by a recessive/dominant genetic system. This creates a "gene pool" for each species.
+* Rare "mutations" could occur, leading to unique color variations (shinies), slightly altered stat distributions, or even entirely new (but minor) cosmetic features. Make these truly rare and exciting to obtain.
+
+---
+
+===Expanding Move Inheritance===
+
+====Egg Moves:====
+* Instead of just one random move from the father, introduce "Egg Moves." These are specific moves that a monster can only learn if bred from parents who know those moves, even if the child species normally wouldn't learn them naturally. This encourages specific breeding combinations. (working on it)
+
+====Move Pool Combining:====
+* Perhaps the child has a chance to inherit moves from both parents' current move pools, not just the father.
+* Or, if a parent knows a move that the child could learn by leveling up later, the child might start with it earlier.
+
+---
+
+===Adding Depth to the Breeding Process===
+
+====Compatibility/Affinity System:====
+* Introduce a "compatibility" or "affinity" stat between breeding partners. Higher compatibility (e.g., achieved by battling together, giving gifts, or having shared "tastes") could increase the chances of better offspring (e.g., higher IVs, more favorable taste inheritance, higher shiny chance).
+* Certain monster types or "egg groups" could have natural higher compatibility.
+
+====Breeding Environment/Items:====
+* '''Breeding Grounds:''' Create specific "daycare" or "breeding centers" that offer different benefits. Some might accelerate egg hatching, others might increase the chance of good IVs, or influence specific traits.
+* '''Held Items:''' Introduce items that parents can hold to influence the offspring:
+** Everstone equivalent: Guarantees the offspring inherits the parent's Nature.
+** Destiny Knot equivalent: Guarantees a certain number of IVs from the parents are passed down.
+** Items to influence gender, ability, or even specific stats.
+
+====Parental Sacrifices/Investment:====
+* Currently, parents are not "consumed." Consider a system where, to breed, parents might temporarily lose a small amount of "happiness" or require recovery time. This adds a strategic element to choosing which monsters to breed.
+* Or, to achieve exceptionally strong offspring, parents might need to consume rare items, or have very high affection levels.
+
+====Pedigree/Lineage System:====
+* Track the "lineage" of a monster, showing its parents, grandparents, etc.
+* Monsters from a long, strong lineage could have a slight innate bonus (e.g., increased EXP gain, slightly higher base stats). This encourages players to continue breeding from their best stock.

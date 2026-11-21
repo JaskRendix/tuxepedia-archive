@@ -1,0 +1,11 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert, Jaskrendix
+|Source Explanation=Designed and sprited by Georg Eckert. Face sprites by Jaskrendix.
+|Name Origin=''ruff'' + ''racoon''
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Fusion First=Ruf
+|Fusion Second=foon
+}}

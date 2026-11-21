@@ -1,0 +1,20 @@
+{{Trainer
+|Sources=Catch Challenger, Sanglorian
+|Source Explanation=Main sprite by Catch Challenger, adapted by Sanglorian. Overland sprites by Catch Challenger.
+|Genre=Modern
+|Combat Type=1 vs 1
+|Main Details=== Names == 
+* Joan
+* Anne-Louise (has a [[Lambert]])
+* Helen 
+* Rachel 
+* Vivean 
+* Gray
+* Miranda
+* Irma
+* Jane
+* Ingrid
+* Rachel
+* Margaret
+* Kirsty
+}}

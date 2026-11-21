@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=72
+|TXMN Blurb=The user charges forward, striking the opponent with its head.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Family=Basic
+|TXMN Is fast=Slow
+|TXMN Accuracy=100%
+|TXMN Power=1
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Rock
+|Sources=Sanglorian, Tamashihoshi
+|Source Explanation=Technique by Sanglorian. "Slash power" animation by Tamashihoshi.
+}}

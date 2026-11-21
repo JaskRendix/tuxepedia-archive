@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=253
+|TXMN Blurb=They exchange a kiss, and health.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Special
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=100%
+|TXMN Effects=life_swap
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Tongue
+|Sources=HippasusTwo
+}}

@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=13
+|TXMN Blurb=At the user's glare, the target grows weak and vulnerable.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Condition imposer
+|TXMN Is fast=Very Fast
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Target Condition=softened
+|TXMN Animation Target=1
+|Tags=Gaze, Fury
+|Sources=Sanglorian
+}}

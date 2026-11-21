@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Out of Combat Consumable
+|TXMN Cost=400
+|TXMN Usable In=world
+|TXMN Description=Switch out one tuxemon on your team for one in storage.
+|TXMN Consumable=yes
+|Sources=OceansDream
+|Source Explanation=Sprite by OceansDream.
+}}

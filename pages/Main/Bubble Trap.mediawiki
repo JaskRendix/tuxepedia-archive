@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=57
+|TXMN Blurb=The user creates a large bubble that traps both itself and the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Fire
+|TXMN Type 2=Metal
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=75%
+|TXMN Power=2.25
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN User Condition=grabbed
+|TXMN Target Condition=grabbed
+|TXMN Animation Target=2
+|Tags=Summoner, Mental
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. "Bomb bright" animation by Superpowers Asset Packs.
+}}

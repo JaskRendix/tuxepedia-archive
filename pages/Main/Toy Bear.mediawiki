@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Held Item
+|TXMN Effects=immune to lifeleech
+|TXMN Target=player
+|TXMN Usable In=world, combat
+|TXMN Description=Substitute this toy bear for yourself when your life energy is being sapped!
+|Sources=Catch Challenger, StormtrooperJon
+|Source Explanation=A sprite from Catch Challenger (CC BY), art director Jordan Brule. Project developer Herman Brule. Alternative sprite by StormtrooperJon.
+}}

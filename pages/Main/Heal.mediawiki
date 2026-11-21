@@ -1,0 +1,3 @@
+{{Effect
+|Details=Restore X hit points.
+}}

@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=8
+|TXMN Blurb=A piece of metal is flung at the target with great alacrity.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Simple
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=100%
+|TXMN Power=1.25
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Soldier
+|Sources=Sanglorian, Clint Bellanger
+|Source Explanation=Technique by Sanglorian. "Sparks red" animation by Clint Bellanger.
+}}

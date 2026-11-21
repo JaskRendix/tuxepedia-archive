@@ -1,0 +1,1 @@
+<ul><li>{{PAGENAME}} evolves into [[{{{Has Evolution|}}}]] at {{{Evolution Level|}}}</li></ul>

@@ -1,0 +1,78 @@
+{{Monster
+|Sources=Leo, Sanglorian
+|Source Explanation=Original design and sprites by Sanglorian. Other art by Leo.
+|Species=Smoke
+|Name Origin=''Firefox'', scrambled
+|Design Origin=A red panda.
+|Main Details=[[Category:Based on open source mascots]]
+=== The Spyder in the Cathedral ===
+One of the [[exchange student starting tuxemon]].
+[[Category:Starting Tuxemon]]
+|SpyderCampaign=Traded in Flower City.
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Completed=Complete
+|TXMN Body Shape=Varmint
+|TXMN ID=149
+|TXMN Blurb=FOXFIRE cubs are found in fires that burned out overnight. No one knows where they come from.
+|TXMN Height=41
+|TXMN Weight=2
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Tags=Flame, Calamity, Claws
+|Fusion First=Fox
+|Fusion Second=fire
+}}
+{{Evolutions
+|Has Evolution=Vulpyre
+|Evolution Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Fume
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Fluff Up
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Torch
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Lava
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Invictus
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Give All
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Supernova
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=40
+}}

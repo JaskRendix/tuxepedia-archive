@@ -1,0 +1,7 @@
+The tuxemon that a trainer has with them are their '''team'''. 
+
+== Options ==
+
+* Team of six
+* Team of three
+* Team of six, but only three are selected for each battle

@@ -1,0 +1,3 @@
+In [[The Spyder in the Cathedral]], there are Riverboat Stations in Paper Town, Leather Town, Flower City, Timber Town and Candy Town. They are initially inactive, and the wharf is blocked by a barrier. When the protagonist reaches Timber Town, the [[Riverboat Captain]] meets them and tells them that the service is operational again. Each barrier is now replaced by a Riverboat Captain. 
+
+When interacted with, the Captain asks the protagonist where they'd like to travel, out of the places they've already been. Then the protagonist is teleported to be standing just in front of the Captain in whichever settlement they selected.

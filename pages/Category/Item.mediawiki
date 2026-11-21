@@ -1,0 +1,134 @@
+{{#default_form:Item}}
+There are {{#ask:[[Category:Item]]
+| format=count}} so far.
+
+See also [[:Category:Main Sprite]], which has sprites that could illustrate items. For how the economy works, see [[Shopping]].
+
+=== Story Items ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:Story Item]] |limit=200
+|?MainSprite
+|?TXMN Description
+}}</td></tr></table>
+
+=== Functional Items ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:Functional Item]] |limit=200
+|?MainSprite
+|?TXMN Description
+}}</td></tr></table>
+
+=== Exploration Items ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:Exploration Item]] |limit=200
+|?MainSprite
+|?TXMN Description
+}}</td></tr></table>
+
+=== Capture Items ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:Capture Item]] |limit=200
+|?MainSprite
+|?TXMN Cost
+|?TXMN Description
+}}</td></tr></table>
+
+=== Morph Items ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:Morph Item]] |limit=200
+|?MainSprite
+|?TXMN Description
+}}</td></tr></table>
+
+=== Held Items ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:Held Item]] |limit=200
+|?MainImage
+|?MainSprite
+|?TXMN Description
+}}</td></tr></table>
+
+=== Medicine ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:Medicine]] |limit=200
+|?MainSprite
+|?TXMN Cost
+|?TXMN Description
+}}</td></tr></table>
+
+=== Technique Teaching Items ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:Technique Teaching Item]] |limit=200
+|?MainSprite
+|?TXMN Cost
+|?TXMN Description
+}}</td></tr></table>
+
+=== Combat Consumable ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:Combat Consumable]] |limit=200
+|?MainSprite
+|?TXMN Cost
+|?TXMN Description
+}}</td></tr></table>
+
+=== Out of Combat Consumable ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:Out of Combat Consumable]] |limit=200
+|?MainSprite
+|?TXMN Cost
+|?TXMN Description
+}}</td></tr></table>
+
+=== Ingredients ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:Ingredient Item]] |limit=200
+|?MainSprite
+|?TXMN Cost
+|?TXMN Description
+}}</td></tr></table>
+
+=== Food / Dishes ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:Food Item]] |limit=200
+|?MainSprite
+|?TXMN Cost
+|?TXMN Description
+}}</td></tr></table>
+
+=== Components (aka Ingredients for Tools) ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:Crafting Item]] |limit=200
+|?MainSprite
+|?TXMN Cost
+|?TXMN Description
+}}</td></tr></table>
+
+=== Tools (Analyzer Devices) ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:Tool Item]] |limit=200
+|?MainSprite
+|?TXMN Cost
+|?TXMN Description
+}}</td></tr></table>
+
+=== No Current Use ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] [[Category:No Current Use]] |limit=200
+|?MainSprite
+|?TXMN Description
+}}</td></tr></table>
+
+=== Complete List ===
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Item]] |limit=200
+|?Item Category
+|?TXMN Cost
+|?TXMN Description
+|?TXMN Effects
+|?TXMN Usable In
+|?TXMN Consumable
+|?TXMN Key Item
+|?Sources
+|?Source Explanation
+}}</td></tr></table>

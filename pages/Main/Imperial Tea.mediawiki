@@ -1,0 +1,11 @@
+{{Item
+|Item Category=Out of Combat Consumable
+|TXMN Effects=gain XP
+|TXMN Cost=3450
+|TXMN Usable In=world
+|TXMN Description=Adds 10,000 to a monster's XP.
+|TXMN Consumable=yes
+|SpyderCampaign=Found in Cotton Tunnel (box)
+|Sources=Fleurman
+|Source Explanation=Sprite by Fleurman.
+}}

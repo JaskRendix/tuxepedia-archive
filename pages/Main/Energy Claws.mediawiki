@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=31
+|TXMN Blurb=The user's claws glow with energy as it delivers a powerful, focused attack.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Fire
+|TXMN Sub-Elements=Lightning
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2.25
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN User Condition=sniping
+|TXMN Animation Target=3
+|Tags=Claws
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. "Slash double" animation by Superpowers Asset Packs.
+}}

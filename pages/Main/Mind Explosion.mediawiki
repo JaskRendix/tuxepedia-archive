@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=225
+|TXMN Blurb=A powerful psychic or mushroom hallucinogen attack.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Type 2=Wood
+|TXMN Sub-Elements=Cosmic, Wood
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=3
+|TXMN Potency=50%
+|TXMN Recharge=3
+|TXMN User Condition=Exhausted
+|TXMN Target Condition=Confused
+|TXMN Animation Target=1
+|Tags=Mental
+|Main Details=Intended for psychics or mushroom and drug plant tuxemon.
+}}

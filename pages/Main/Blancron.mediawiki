@@ -1,0 +1,14 @@
+{{Monster
+|First URL=https://www.reddit.com/r/fakemon/comments/b35551/a_couple_months_back_i_came_upon_an_opensource/
+|Sources=Chairry-Art, Jaskrendix
+|Source Explanation=Design and front sprite by Chairry-Art. Face sprites by Jaskrendix.
+|Evolves=Herotint
+|Main Details=Based on [[Eaglace]] by [[Leo]].
+|TXMN Types=Metal
+|TXMN Body Shape=Flier
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|Fusion First=Blanc
+|Fusion Second=ron
+}}

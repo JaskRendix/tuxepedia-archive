@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=160
+|TXMN Blurb=The user undergoes a rapid transformation, striking the opponent with a surprising and powerful attack.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=70%
+|TXMN Power=2.2
+|TXMN Effects=Switch Random User
+|TXMN Potency=70%
+|TXMN Recharge=3
+|TXMN Animation Target=1
+|Tags=Shapeshifter
+|Sources=Jaskrendix
+}}

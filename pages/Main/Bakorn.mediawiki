@@ -1,0 +1,52 @@
+{{Monster
+|Sources=Jaskrendix, Kelvin Shadewing
+|Species=Husked
+|Evolves=Nutter
+|Name Origin="Bakorn" blends bake and corn, evoking the image of a warm, rustic snack—like cornbread or roasted kernels. The name hints at its evolving culinary theme, with "bake" suggesting transformation and "corn" grounding it in earthy, plant-based origins. It also subtly nods to its ridged, textured body, reminiscent of corn husks or kernels toughened by sap.
+|Main Details=Bakorn's ridged body absorbs tree sap, gradually hardening into a bark-like armor. Though it often tumbles from branches mid-nap, its cushioned hide protects it from harm. It's known to leave sticky trails wherever it rolls.
+|TXMN Types=Earth, Wood
+|TXMN Sub-Elements=Earth, Wood
+|TXMN Body Shape=Varmint
+|TXMN Blurb=The ridges on its body absorb tree sap, toughening its skin and cushioning the impact of falls—handy for a creature that often rolls off trees mid-nap.
+|TXMN Height=70
+|TXMN Weight=9
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Jungle, Mountains, Woodland
+|Tags=Food
+|Fusion First=Bak
+|Fusion Second=Orn
+}}
+{{Evolutions
+|Has Evolution=Squaffle
+|Evolution Level=to be decided
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Roll
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Food Fight
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Tail Lash
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Shapechange
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Burrow Blast
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Woodsmash
+|Technique_Level=40
+}}

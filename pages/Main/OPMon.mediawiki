@@ -1,0 +1,5 @@
+{{Contributor
+|Main Website=https://opmon-game.ga/
+|Main Details=This is the contributor page, for OPMon assets that have been added to the Tuxemon wiki. See also [[Related Projects]] for details on the OPMon project.  Sanglorian has imported the monsters from this project that, as of April 2018, had sprites and descriptions. However, there are other sprites yet to be important, including trainer sprites (although not in the same style that we use). The project also has open source music and sound effects. The tilesheet is mostly the same as the ones we already use, but there are a few buildings added.
+|Contributor Types=Contributed to a different open source monster taming project
+}}

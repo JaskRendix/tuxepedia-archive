@@ -1,0 +1,116 @@
+For the way the element system currently works, see [[:Category:Type]]
+
+=== Same Element Extra Damage ===
+
+For consideration: If a monster of a particular type uses an attack of a type they have, they do an additional 50% damage. 
+
+=== Other uses for the Aether type ===
+
+Currently the Aether type is used for techniques where the element is irrelevant because they do no damage. It could also be used as the type for attacks that take the element(s) of its user. 
+
+It could also be assigned to monsters that are strong and weak against nothing. 
+
+=== Heaven and Darkness types ===
+
+[https://forum.tuxemon.org/thread.php?id=140 Original thread]
+
+Two new types would fit well into the five-type matrix:
+
+* '''[[Heaven]]:''' For flying, divine, weather-based, legendary, heroic, light, fairy and magical creatures and techniques.
+* '''[[Darkness]]:''' For poisonous, evil, undead, fateful, sorcerous, shadowy, frightening and sinister creatures and techniques.
+
+The two extra types would fit in as such:
+
+* Heaven is weak against Water, as rain swells the waters and wind whips it up and the Moon gives the ocean motion
+* Water is weak against Darkness, as darkness fell upon the face of the deep, and the depths of the oceans are dark
+* Heaven is strong against Fire, as wind and rain extinguish fire, and the Sun eclipses mere flames, and fire was a gift of the gods to humankind
+* Fire is strong against Darkness, as fire lights the dark, warms the spirit and lends courage
+* Darkness is weak against Earth, as it falls harmlessly on the planet every nighttime
+* Earth is weak against Heaven, as the Earth supports the heavens
+* Darkness is strong against Metal, as humans are afraid of the dark and metals can dull and rust
+* Metal is strong against Heaven, as cold iron kills fairies, science and skepticism undermines faith and superstition and iron from meteors can be turned against the sky
+* Heaven and Darkness would be strong against each other
+
+With the current five types, there are a lot that fit quite awkwardly. Wood is a catch-all for nature spirits and flying things that could better go to Heaven, and Metal has abstract beings, human-like beings, corrupted or weird things, etc. It would balance out the categories too: many in Wood and Fire could go to Heaven and many in Metal could go to Darkness.
+
+Under my proposed system Fire (0.5 vs Earth, 2 vs Metal, 2 vs Darkness) would be very close to Darkness (0.5 vs Earth, 2 vs Metal, 2 vs Heaven). In that case, you could instead make Darkness super-effective against Wood, as living things need light, and Wood super-effective against Heaven (not sure why, though ... )
+
+''tamashihoshi added:''
+
+We have the 5 elements "wood", "fire", "water", "metal", "earth"; these are natural. The natural tuxemon belong to these types.
+
+When the humans came, they brought something new ... a soul, which can behave good or evil. They have morality.
+
+Soon, a new wheel of elements was added, the balance of nature was changed. "heaven" and "darkness", "good" and "bad", "moral" and "corruption" ... "cathedral" and "bazaar".
+
+Soon, artificial tuxemon were created. The natural tuxemon had to live with the changes the humans brought. Since then, tuxemon adopted the types "heaven" and "darkness".
+
+== Elements/types in [[Related Projects]] ==
+
+{| class="wikitable"
+! Tuxemon (dual types included) !! Friends with Monsters !! OPMon !! Catch Challenger !! Floraverse
+|-
+| Aether ||  || Neutral || Normal || 
+|-
+| Wood ||  || Vegetal || Plant || 
+|-
+| Fire || Fire || Burning || Fire || Fire
+|-
+| Earth || Earth || Ground || Ground || Earth
+|-
+| Metal ||  || Metal || Steel || 
+|-
+| Water || Water || Liquid || Water || Water
+|-
+| Lightning ||  || Electron || Electric || Storm
+|-
+| Frost ||  || Cold || Ice || Ice
+|-
+| Toxin ||  || Toxic || Poison || Poison
+|-
+| Vermin ||  || Bug ||  || 
+|-
+| Cosmic ||  ||  ||  || Spirit
+|-
+| Battle ||  || Fight || Fight || 
+|-
+| Psionic ||  || Mental || Psy || Psi
+|-
+| Water-Wood ||  ||  ||  || 
+|-
+| Darkness ||  ||  ||  || 
+|-
+| Heaven || Air || Sky || Bird || Air
+|-
+|  || Light ||  ||  || Light
+|-
+|  || Energy ||  ||  || Plasma
+|-
+|  ||  || Bad ||  || 
+|-
+|  ||  || Dragon ||  || 
+|-
+|  ||  || Ghost || Spectre || 
+|-
+|  ||  || Magic ||  || 
+|-
+|  ||  || Mineral || Stone || [[Crystal]]
+|-
+|  ||  ||  ||  || Acid
+|-
+|  ||  ||  ||  || Lava
+|-
+|  ||  ||  ||  || Aura
+|-
+|  ||  ||  ||  || Cloud
+|-
+|  ||  ||  ||  || Clay
+|-
+|  ||  ||  ||  || Sand
+|-
+|  ||  ||  ||  || Sound
+|-
+|  ||  ||  ||  || Magnet
+|}
+
+[[Category:Proposed content]]

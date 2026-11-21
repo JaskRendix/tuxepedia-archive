@@ -1,0 +1,19 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=700
+|TXMN Usable In=world
+|TXMN Description=Fluffy sky-grain cakes topped with shimmer zest. Soft, warm, and joyfully bright.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Meal Dust]]: 2
+* [[Sweetroot]]: 1
+* [[Mistflour Eggs]]: 1
+* [[Suncrust Butter]]: 1
+* [[Spice Dust]]: 1
+
+Possible Outputs:  
+* [[Pancakes]], 2, 0.9  
+* [[Bite Of Despair]], 1, 0.1
+|Sources=Jaskrendix
+}}

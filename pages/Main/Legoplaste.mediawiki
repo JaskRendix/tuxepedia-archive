@@ -1,0 +1,64 @@
+{{Monster
+|Sources=Catch Challenger, HippasusTwo, Jaskrendix
+|Source Explanation=Catch Challenger is an open source project, with assets under Creative Commons Attribution. Original design and sprites by Catch Challenger. Back and face sprites by Jaskrendix.
+|Species=Amoeba
+|TXMN Types=Wood
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=314
+|TXMN Blurb=It has a very fluid shape and may hunt by sending out random tendrils to sniff or touch nearby prey.
+|TXMN Height=100
+|TXMN Weight=60
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Any
+|Tags=Pseudopod
+|Fusion First=Lego
+|Fusion Second=plaste
+}}
+{{Technique Allocation
+|Has_Technique=Constrict
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Pseudopod
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Venomous Tentacle
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Slime
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Inner Power
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Kraken
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Sockpuppet
+|Technique_Level=22
+}}
+{{Technique Allocation
+|Has_Technique=External Power
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Damage Division
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Combat Clone
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=40
+}}

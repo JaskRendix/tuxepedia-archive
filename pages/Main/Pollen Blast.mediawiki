@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=212
+|TXMN Blurb=Releases a cloud of pollen, dealing damage to opponents and potentially causing them to become disoriented.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.5
+|TXMN Potency=30%
+|TXMN Recharge=2
+|TXMN Target Condition=Confused
+|TXMN Animation Target=1
+|Tags=Plant
+|Main Details=Could also be given part venom/poison typing, but pollen usually isn't poisonous, though it may cause annoying allergies so you could argue 'close enough'. Intended to give more variety to plant moves.
+
+'Powerful' because of the imposed condition, but might not actually be powerful in practice due to the 1.5 power making it appropriate for starter critters.
+|Sources=HippasusTwo, Jaskrendix
+}}

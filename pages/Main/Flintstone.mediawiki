@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Morph Item
+|TXMN Effects=evolve
+|TXMN Cost=2000
+|TXMN Usable In=world
+|TXMN Description=A flaky stone used to make stone tools and start fires. Not at the same time.
+|TXMN Consumable=yes
+}}

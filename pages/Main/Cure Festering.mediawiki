@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Held Item
+|TXMN Effects=Immune Festering
+|TXMN Target=player
+|TXMN Usable In=world, combat
+|TXMN Description=Rinse out the wound and you'll be right.
+|SpyderCampaign=Given randomly by Eliane in Candy Town
+|Sources=Sanglorian, Henrique Lazarini
+|Source Explanation=Sprite adapted by Sanglorian from a sprite by Henrique Lazarini.
+}}

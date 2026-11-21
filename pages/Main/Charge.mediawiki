@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=272
+|TXMN Blurb=They charge up and then charge forward.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Lightning
+|TXMN Family=Powerful
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=80%
+|TXMN Power=2.5
+|TXMN Effects=foresight 3
+|TXMN Recharge=5
+|TXMN User Condition=Charging
+|TXMN Animation Target=0
+|Tags=Megafauna, Electricity
+|Main Details=Powerful but low accuracy. Gives a late game electric melee move that isn't a bite.
+
+Mostly put on newer mons, but I believe Coleorus badly needs a late game electric attack.
+|Sources=HippasusTwo
+}}

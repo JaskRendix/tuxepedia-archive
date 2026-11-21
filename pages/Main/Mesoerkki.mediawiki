@@ -1,0 +1,9 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2334#p2334
+|Sources=Rubberduck,
+|Name Origin=''Mese-monster'' + ''oerkki''
+|Design Origin=A mix of mese-monster and oerkki (from Minetest)
+|Main Details=[[Category:Based on open source mascots]]
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}

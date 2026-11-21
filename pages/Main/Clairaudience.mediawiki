@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=125
+|TXMN Blurb=The user attunes its senses, anticipating the opponent's next move and preparing a counterattack.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN User Condition=feedback
+|TXMN Animation Target=1
+|Tags=Mental
+|Sources=Jaskrendix
+}}

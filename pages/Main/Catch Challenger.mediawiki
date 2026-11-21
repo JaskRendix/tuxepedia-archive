@@ -1,0 +1,5 @@
+{{Contributor
+|Main Website=https://catchchallenger.first-world.info/
+|Main Details=[[Catch Challenger]] is another open source monster catching game. Their assets are under Creative Commons Attribution (see [https://github.com/alphaonex86/CatchChallenger-datapack datapack for more]) so we are using some in Tuxemon.
+|Contributor Types=Contributed to a different open source monster taming project
+}}

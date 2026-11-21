@@ -1,0 +1,73 @@
+{{Monster
+|First URL=https://www.deviantart.com/chairry-art/art/Tuxemon-Re-Imagined-023-024-827756419
+|Sources=Chairry-Art, HippasusTwo
+|Source Explanation=Design and front sprites by Chairry-Art. Face sprites by HippasusTwo.
+|Species=Joyful Dolphin
+|Evolves=Dollfin
+|Name Origin=''delphin'' ("dolphin" in Latin) + ''eco''
+|Design Origin=[[Sharpfin]] by [[Leo]] and [[Bigfin]] by [[Cavalcadeur]]. One form represents the top of the ocean, and another represents the bottom.
+|Main Details=[[Category:Variant]]
+|TXMN Types=Water, Wood
+|TXMN Sub-Elements=Water, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Piscine
+|TXMN ID=24
+|TXMN Blurb=DELFECO's streamlined body allows for swift navigation through water, and its intelligence is evident in its complex hunting strategies. Despite its size, it's known for its playful nature and strong bond with its trainer.
+|TXMN Height=200
+|TXMN Weight=150
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Coastal, Freshwater, Sea
+|Tags=Water, Plant, Weather
+|Fusion First=Delf
+|Fusion Second=eco
+}}
+{{Technique Allocation
+|Has_Technique=Goad
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Geyser
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Grinding
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Flow
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Splinter
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Overgrowth
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Chill Mist
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Tsunami
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Snowstorm
+|Technique_Level=46
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=55
+}}

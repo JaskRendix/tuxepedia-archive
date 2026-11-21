@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=68
+|TXMN Blurb=The user extends a pseudopod to deliver a forceful, sticky blow.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Venom
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.25
+|TXMN Potency=70%
+|TXMN Recharge=1
+|TXMN Target Condition=Festering
+|TXMN Animation Target=1
+|Tags=Pseudopod
+|Main Details=Name origin: Pseudopod is derived from the Greek words "pseudo" meaning false and "pod" meaning foot. It refers to the temporary, foot-like extensions used by certain organisms for movement and capturing prey.
+|Sources=Sanglorian, Daneeklu
+|Source Explanation=Technique by Sanglorian. "Snake right" animation by Daneeklu, resized by Sanglorian.
+}}

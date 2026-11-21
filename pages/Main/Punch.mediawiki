@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=182
+|TXMN Blurb=A classic, powerful strike with the user's fist.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Fire
+|TXMN Type 2=Metal
+|TXMN Sub-Elements=Heroic
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=90%
+|TXMN Power=1.5
+|TXMN Recharge=1
+|Tags=Fists
+|Sources=Sanglorian
+}}

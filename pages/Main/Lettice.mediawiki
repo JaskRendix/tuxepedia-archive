@@ -1,0 +1,67 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/001-003-Coldrabi-Lettice-Frostuce-665601209
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Back and face sprites adapted by Jaskrendix.
+|Species=Freezerburn
+|Evolves=Cohldrabi
+|Name Origin=''lettuce'' + ''ice''
+|TXMN Types=Water, Wood
+|TXMN Sub-Elements=Frost, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=383
+|TXMN Blurb=Cold weather concentrates the power and vitality of LETTICE.
+|TXMN Height=60
+|TXMN Weight=8
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Boreal/Snow, Grassland, Mountains, Woodland
+|Tags=Plant, Ice
+|Fusion First=Lett
+|Fusion Second=ice
+}}
+{{Evolutions
+|Has Evolution=Frostuce
+|Evolution Level=32
+}}
+{{Technique Allocation
+|Has_Technique=Ice Shield
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Poison Courtship
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Stabilo
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Fester
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Splinter
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Snowstorm
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Woodsmash
+|Technique_Level=55
+}}

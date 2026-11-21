@@ -1,0 +1,11 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Hiboula-Fakemon-line-Contest-Entry-696195519
+|Sources=TheBritanniaRegion,
+|Species=Night God
+|Name Origin=''hibou'' (French for owl) + ''stellar nebula''
+|Design Origin=Space, wisdom, and the owl that accompanies Athena (the virgin goddess of wisdom)
+|TXMN Types=Metal
+|TXMN Blurb=According to legend, this Mythical tuxemon resides upon the tallest mountain peaks, guarding the planet from falling asteroids and intruders from space. Others say that it flies across the world, creating various natural miracles, including the Aurora of the North.
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}

@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=213
+|TXMN Blurb=A mouthful of water is flung at the target with great alacrity.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Water
+|TXMN Family=Simple
+|TXMN Is fast=Very Fast
+|TXMN Accuracy=90%
+|TXMN Power=1.25
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Soldier, Water
+|Main Details=Some fish, archer fish, are known to shoot water to knock down prey.
+|Sources=HippasusTwo
+|Source Explanation=Technique and animation by Hippasustwo, mirrors the Bullet technique by Sanglorian in power.
+}}

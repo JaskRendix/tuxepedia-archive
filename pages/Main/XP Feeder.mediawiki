@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Held Item
+|TXMN Description=A tuxemon that holds this item receives half of all XP gained by your party, regardless of whether it participated in battle. The remainder of the XP is split between monsters that did participate.
+|TXMN Key Item=yes
+|SpyderCampaign=Given by Mom on Route 6.
+|Sources=OceansDream
+|Source Explanation=Sprite by OceansDream.
+}}

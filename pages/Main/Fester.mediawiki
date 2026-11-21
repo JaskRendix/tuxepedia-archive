@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=78
+|TXMN Blurb=A foul smell washes across the battlefield, hindering the recovery of all combatants.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Earth
+|TXMN Type 2=Wood
+|TXMN Sub-Elements=Venom
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=2.25
+|TXMN Effects=area; festering enemy_team:own_team
+|TXMN Potency=80%
+|TXMN Recharge=2
+|TXMN Animation Target=2
+|Tags=Toxic
+|Sources=Sanglorian
+}}

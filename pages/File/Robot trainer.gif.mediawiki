@@ -1,0 +1,15 @@
+[[Category:Overland Sprite]]
+[[Category:Robot]]
+[[Category:Main]]
+[[Category:Catch Challenger]]
+[[Category:16px]]
+[[Category:Pigabyte]]
+[[Category:Windeye]]
+[[Category:Hydrone]]
+[[Category:Xeon-2]]
+[[Category:Xeon]]
+[[Category:Chrome Robo]]
+[[Category:Dark Robo]]
+[[Category:Birb Robo]]
+
+A sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.

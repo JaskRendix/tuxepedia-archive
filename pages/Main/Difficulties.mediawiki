@@ -1,0 +1,4 @@
+There are a number of ways to make the game more difficult:
+
+* Charging the player for each use of a [[Cathedral Center]] to heal.
+* Instant death: a tuxemon that passes out is released into the wild.

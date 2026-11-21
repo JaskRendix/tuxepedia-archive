@@ -1,0 +1,7 @@
+{{Item
+|Item Category=Tool Item
+|TXMN Description=Captures celestial patterns linked to cosmic tuxemon.
+|TXMN Key Item=yes
+|Main Details=Specialized devices built for scanning, analyzing, and interpreting. These instruments support exploration, research, and interaction with the unknown. They assist in decoding signals, detecting subtle changes, and converting raw data into actionable insights—essential for crafting, lore building, and deeper understanding.
+|Sources=Jaskrendix
+}}

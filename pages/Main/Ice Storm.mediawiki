@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=171
+|TXMN Blurb=The opponent is engulfed in a freezing aura, creating a treacherous environment.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Frost
+|TXMN Family=Simple
+|TXMN Is fast=Very Slow
+|TXMN Accuracy=60%
+|TXMN Power=2.5
+|TXMN Effects=areas
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Weather
+|Sources=Jaskrendix
+}}

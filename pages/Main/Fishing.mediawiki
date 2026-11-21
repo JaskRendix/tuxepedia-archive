@@ -1,0 +1,86 @@
+Fishing lets players facing a body of water start an encounter with a wild monster using a fishing rod ([[Fishing Rod]], [[Neptune]] or [[Poseidon]]).
+
+Each rod has its own configuration that defines:
+
+* odds of an encounter with each fishing attempt
+* range of monsters that might be hooked, including possible levels
+* presentation details (such as water tint and battle background)
+
+When a fishing attempt begins, the game gathers all monsters that match the filters defined for the selected item.  
+
+Filters can be by: [[Morphing]] Stage, [[Body Shape]], [[Type]] and [[Tag]]. They can be weighted (for example, the Fishing Rod selects a [[Polliwog]] 70% of the time and a [[Piscine]] 30% of the time. 
+
+== Example Entry ==
+
+<syntaxhighlight lang="yaml">
+fishing_rod:
+  trigger: 0.6
+  lower_bound: 5
+  upper_bound: 15
+  exp_req_mod: 2.0
+  stages:
+    - basic
+  shapes:
+    - polliwog
+    - piscine
+  shape_weights:
+    polliwog: 0.7
+    piscine: 0.3
+  animation_color: [0, 105, 148]
+  environment:
+    default: ocean
+    night: night_ocean
+  held_items: {}
+</syntaxhighlight>
+
+The '''trigger''' field means only 60% of casts actually result in an encounter.  
+
+The '''lower_bound''' and '''upper_bound''' limits ensure the monster's level will be between levels 5 and 15. 
+
+'''exp_req_mod''' means the monster will, if defeated, give double XP. 
+
+'''shape_weights''' makes Polliwogs more common than Piscine ones. 
+
+If '''types''' or '''tags''' appeared, then only monsters of those types/tags would appear. 
+
+'''animation_color''' tints the fishing splash.
+
+'''environment''' dictates the battle (including one option for day and another for night). 
+
+'''held_items''' allows for a chance for the monster to be holding a held item. 
+
+=== Fishing Rod ===
+It'll catch a [[Polliwog]] or a [[Piscine]] Tuxemon in the [[Basic]] evolution stage in a level range (5, 15).
+
+'''Can catch:''' {{#ask:
+ [[Category:Monster]]
+ [[TXMN Completed::Complete]]
+ [[TXMN Stage::Basic]]
+ [[TXMN Body Shape::Polliwog||Piscine]]
+ |format=list
+ |sep=,&nbsp; 
+}}
+
+=== Neptune ===
+It'll catch a [[Polliwog]] or a [[Piscine]] Tuxemon in the [[Basic]] or [[Stage1]] evolution stage in a level range (15, 25).
+
+'''Can catch:''' {{#ask:
+ [[Category:Monster]]
+ [[TXMN Completed::Complete]]
+ [[TXMN Stage::Basic||Stage1]]
+ [[TXMN Body Shape::Polliwog||Piscine]]
+ |format=list
+ |sep=,&nbsp; 
+}}
+
+=== Poseidon === 
+It'll catch a [[Polliwog]], [[Piscine]] or a [[Leviathan]] Tuxemon in the [[Standalone]], [[Stage1]] or [[Stage2]] evolution stage in a level range (25, 35).
+
+'''Can catch:''' {{#ask:
+ [[Category:Monster]]
+ [[TXMN Completed::Complete]]
+ [[TXMN Stage::Stage1||Stage2]]
+ [[TXMN Body Shape::Polliwog||Piscine||Leviathan]]
+ |format=list
+ |sep=,&nbsp; 
+}}

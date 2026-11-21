@@ -1,0 +1,14 @@
+== Bug ==
+
+The following code
+
+<nowiki>{{#ask:[[TXMN ID::{{#expr:({{{TXMN ID}}})-1}}]] [[Category:Monster]] | ?FaceSprite1= | mainlabel=- }} {{#ask:[[TXMN ID::{{#expr:({{{TXMN ID}}})-1}}]] [[Category:Monster]]  | }}</nowiki>
+
+And 
+
+<nowiki>{{#ask:[[TXMN ID::{{#expr:({{{TXMN ID}}})+1}}]] [[Category:Monster]] | ?FaceSprite1= | mainlabel=- }} {{#ask:[[TXMN ID::{{#expr:({{{TXMN ID}}})+1}}]] [[Category:Monster]] | }}</nowiki>
+
+Used to work perfectly, but in the last couple of days it started throwing a database error. Have removed it for now, but it would be good to work out what went wrong and how to get it fixed.
+
+
+--[[User:Sanglorian|Sanglorian]] ([[User talk:Sanglorian|talk]]) 22:23, 23 July 2018 (UTC)

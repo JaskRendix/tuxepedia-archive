@@ -1,0 +1,9 @@
+A mainstay of JRPGs like Tuxemon are puzzles in the overworld. Some ideas for puzzles that already work in Tuxemon are:
+
+* Teleportation puzzles - finding the path through a series of identical rooms 
+* Mazes 
+* Sliding puzzles (as seen in [[Scoop HQ]]
+* Invisible mazes - where the walls are invisible
+* Quizzes and riddles - where a path or reward is revealed if the correct answer is given
+
+[[Category:Proposed features]]

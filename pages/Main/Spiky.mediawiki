@@ -1,0 +1,8 @@
+{{Condition
+|TXMN ID=34
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME risks injury if it steps in.
+|Details=If the affected monster swaps in, it takes damage equal to 1/8th of its maximum HP.
+}}

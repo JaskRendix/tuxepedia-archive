@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=129
+|TXMN Blurb=The user focuses its predatory instincts.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Condition imposer
+|TXMN Is fast=Very Fast
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN User Condition=Wild
+|TXMN Animation Target=1
+|Tags=Speed, Shapeshifter
+|Sources=Jaskrendix
+}}

@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=218
+|TXMN Blurb=A sharp fast bite that injects a festering toxin. May leave the target with a lingering injury.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Venom
+|TXMN Family=Simple
+|TXMN Is fast=Fast
+|TXMN Accuracy=95%
+|TXMN Power=1
+|TXMN Potency=30%
+|TXMN Recharge=2
+|TXMN Target Condition=Festering
+|TXMN Animation Target=1
+|Tags=Bite
+|Main Details=could be the starter move for the three headed dog/wolf tuxemon.
+|Sources=Jaskrendix, HippasusTwo
+}}

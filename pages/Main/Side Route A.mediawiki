@@ -1,0 +1,86 @@
+[[File:Mansion.png|thumbnail]]
+Slogan: A private grotto given over to the wilds.
+== Connections ==
+=== [[Flower City]] ===
+=== [[Mansion]] ===
+
+== Characters ==
+
+[[Maniac]]:
+* It's funny, I come to the park to get away from people, but I always end up running into someone I know!
+
+[[Firefighter]]:
+* It's so quiet here. It's a nice break from the noise of the city.
+
+=== Trainers ===
+
+[[Rival Billie]]
+* Hey cheapskate! I bought a little surprise for you from the store.
+* STARTER level 20, [[Cardiwing]] level 17, [[Eyesore]] level 17, [[Viviphyta]] level 17
+* It didn't work this time ... but at least we didn't fish it out of the trash!
+
+[[Picnicker]] Rosy:
+* I came here to play with my Shammer, but he's just lazing around in the sun. 
+* [[Shammer]] level 16
+* That perked him up, thank you! 
+
+[[Monk]] Lotu:
+* You younglings, always in such a rush to experience the world. 
+* [[Narcileaf]] level 14, [[Tarpeur]] level 14
+* Leave time to stop and smell the flowers every once in a while. 
+
+[[Beachgoer]] Connie:
+* A morning run's just the thing to clear the head. 
+* [[Sharpfin]] level 14, [[Bigfin]] level 14
+* A tuxemon battle, that's the tonic! 
+
+[[Cat Girl]] Lexi:
+* There's some great tuxemon on this route! 
+* [[Vamporm]] level 14, [[Katapill]] level 14
+* I simply love bugs, don't you? 
+
+[[Yellow Belt]] Joe:
+* I got my report card from school yesterday. 
+* [[Katapill]] level 16
+* "Needs improvement." Where have I heard that before?
+
+[[Rocker]] Koan:
+* Flower City is cold but I like where I'm living.
+* [[Shybulb]] level 12, [[Budaye]] level 12
+* What can I possibly say?
+
+[[Rocker]] Dagger:
+* Someone said you were asking after me. 
+* [[Cardiwing]] level 16
+* No one said you were asking after me. I'm just a blaggard.
+
+[[Florist]] Doris:
+* I love the color of the leaves this time of year. 
+* [[Shybulb]] level 12, [[Trapsnap]] level 14
+* Thank you. It's always a pleasure to battle someone new. 
+
+[[Goth]] Vince:
+* (first interaction) I love to just sit by myself in the park and read. 
+* (second interaction) ... Just me, alone in nature. 
+* (third interaction) ... Gee, you really can't take a hint can you kid?
+* [[Sapsnap]] level 18
+* Oh golly, my spine is broken! On my book, I mean. 
+
+== Objects ==
+a. [[Super Potion]]
+
+b. [[Cureall]]
+
+c. [[Tea]]
+
+== Encounters ==
+* [[Shybulb]]
+* [[Katapill]]
+* [[Vamporm]] (first appearance)
+* [[Anoleaf]] (first appearance)
+* [[Wolffsky]] (night, first appearance)
+
+== [[Fishing]]/Surfing ==
+* [[PiCC]] (first appearance) (levels 12-15)
+
+[[Category:Plot]] [[Category:Place]]

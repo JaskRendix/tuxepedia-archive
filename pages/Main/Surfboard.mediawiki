@@ -1,0 +1,6 @@
+{{Item
+|Item Category=Exploration Item
+|TXMN Description=From your Mom. It lets you travel over water.
+|TXMN Key Item=yes
+|SpyderCampaign=Given by Mom in Timber Town after defeating the Scoop leader
+}}

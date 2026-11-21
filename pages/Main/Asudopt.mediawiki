@@ -1,0 +1,67 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=657
+|Sources=HippasusTwo, tamashihoshi
+|Source Explanation=Design and art by tamashihoshi. Sprites by HippasusTwo.
+|Species=God Penguin
+|Name Origin=Asudopt's name is derived from the Linux command 'sudo apt-get'. Specifically, it takes the 'a' from 'apt-get', followed by 'sudo', and finally the 'pt' from 'apt-get'. The name Asudopt can be seen as symbolizing the duality of existence, much like the contrasting forces of life and death, day and night, or creation and destruction. In a clever play on words, it also echoes the opposing actions of 'sudo apt-get install' and 'sudo apt-get remove'.
+|Design Origin=concept:
+* Asudopt's beak is reminiscent of a king penguin's, but with a twist: it grows and curves over its eyes, morphing into a pair of horns;
+* The beak's unique shape allows it to cover its eyes, symbolizing that Asudopt doesn't rely on physical sight. Instead, it possesses a deeper, intuitive understanding of the world;
+* A striking feature of Asudopt's design is the visible representation of day and night on its wings, with the two contrasting elements coexisting in harmony. This design element reflects Asudopt's role as a balance-keeper, standing between the opposing forces of light and darkness;
+|Main Details=Asudopt is a legendary Tuxemon, shrouded in mystery. Unlike others, it's not meant to be caught or tamed. Instead, its significance lies in its role within the story, although I haven't yet determined the specifics of its involvement. Perhaps Asudopt is the creator of the world, or maybe it exists in multiple dimensions and timelines simultaneously, maintaining the delicate balance of the universe. The possibilities are endless, and its true nature remains a fascinating enigma.
+|TXMN Types=Fire, Water
+|TXMN Sub-Elements=Frost, Cosmic
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=300
+|TXMN Blurb=According to legend, ASUDOPT created the world and one day will destroy the world. In the meantime, it sets the world's universal laws.
+|TXMN Height=150
+|TXMN Weight=30
+|TXMN Catch Resistance=5
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Other
+|Tags=Amphibian, Bird, Bite, Bomber, Bug, Calamity, Celestial, Claws, Darkness, Electricity, Fists, Flame, Food, Fury, Gadgets, Gaze, Gemstone, Ghost, Ground, Healing, Ice, Leadership, Light, Love, Machine, Megafauna, Mental, Plant, Pseudopod, Rock, Shapeshifter, Sharp, Shielded, Soldier, Speed, Steel, Summoner, Toxic, Weather, Water
+|Fusion First=Asu
+|Fusion Second=dopt
+}}
+{{Technique Allocation
+|Has_Technique=Peck
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Tsunami
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Ten Thousand Feathers
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Earthquake
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Tornado
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Frostbite
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Divinity Beam
+|Technique_Level=55
+}}

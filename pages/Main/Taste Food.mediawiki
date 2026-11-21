@@ -1,0 +1,48 @@
+=== Info ===
+
+A tuxemon's tastes could determine what foods it likes if we implement food.
+
+All foods are associated with one warm taste and one cold one.
+
+If both tastes match, the tuxemon has a Great preference for the food. If one matches, a Good preference. If no matches, an Average preference.
+
+If the tastes are the opposite (for example, a Peppy and Dry tuxemon eats a Dull and Refined meal), it is a Bad or Terrible preference depending on whether both tastes are opposite, or just one.
+
+== Dishes (25 combinations) ==
+
+=== Peppy ===  
+* '''Peppy - Mild: [[Wings]]'''
+* '''Peppy - Soft: [[Pancakes]]'''
+* '''Peppy - Sweet: [[Pudding]]'''
+* '''Peppy - Flakey: [[Pastry]]'''
+* '''Peppy - Dry: [[Pita]]'''  
+
+=== Hearty ===  
+* '''Hearty - Mild: [[Hash]]'''
+* '''Hearty - Soft: [[Soufflé]]'''
+* '''Hearty - Sweet: [[Honey Cake]]'''
+* '''Hearty - Flakey: [[Pie]]'''
+* '''Hearty - Dry: [[Rub Ribs]]'''
+
+=== Salty ===  
+* '''Salty - Mild: [[Mashed Potatoes]]'''
+* '''Salty - Soft: [[Pretzels]]'''
+* '''Salty - Sweet: [[Potato Fries]]'''
+* '''Salty - Flakey: [[Croissants]]'''
+* '''Salty - Dry: [[Rub Chicken]]'''
+
+=== Zesty ===  
+* '''Zesty - Mild: [[Meatballs]]'''
+* '''Zesty - Soft: [[Shell Tacos]]'''
+* '''Zesty - Sweet: [[Potato Casserole]]'''
+* '''Zesty - Flakey: [[Phyllo]]''' 
+* '''Zesty - Dry: [[Rub Steak]]'''
+
+=== Refined ===  
+* '''Refined - Mild: [[Mille-Feuille]]'''
+* '''Refined - Soft: [[Cheesecake]]'''
+* '''Refined - Sweet: [[Cream Puffs]]'''
+* '''Refined - Flakey: [[Crepes]]'''
+* '''Refined - Dry: [[Rub Pork Chops]]'''
+
+[[Category:Proposed content]]

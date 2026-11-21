@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=154
+|TXMN Blurb=The user launches a volley of sharp, wooden darts with incredible speed and accuracy.
+|TXMN Completed=Complete
+|TXMN Category=Reliable
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Venom
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2.9
+|TXMN Recharge=3
+|TXMN Animation Target=1
+|Tags=Toxic
+|Sources=Jaskrendix
+}}

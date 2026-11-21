@@ -1,0 +1,66 @@
+{{Monster
+|Alternative Names=Ramewe
+|First URL=https://www.deviantart.com/watertrainer/art/Help-me-get-home-895026449
+|Sources=Jaskrendix, WaterTrainer, freshreplicant
+|Source Explanation=Front and back sprites by WaterTrainer. Name by freshreplicant. Face sprites by Jaskrendix.
+|Species=Cranky
+|Evolves=Caper
+|Name Origin=''Krampus'' and ''cranky''
+|Design Origin=A ram.
+|SpyderCampaign=Evolves from Caper.
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost, Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Landrace
+|TXMN ID=276
+|TXMN Blurb=From one mountaintop to another, CRANKUS can be heard bleating to one another in running arguments that end only with the spring thaws.
+|TXMN Height=180
+|TXMN Weight=102
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Boreal/Snow, Grassland, Mountains
+|Tags=Ice, Fury, Megafauna
+|Fusion First=Cran
+|Fusion Second=kus
+}}
+{{Technique Allocation
+|Has_Technique=Goad
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Snowball
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Geyser
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Lock Horns
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Flow
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Horn
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Starfall
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Tsunami
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Ice Storm
+|Technique_Level=37
+}}

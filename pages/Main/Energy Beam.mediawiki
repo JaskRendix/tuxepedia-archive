@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=191
+|TXMN Blurb=The user fires a beam of energy that burns all in its path.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Earth
+|TXMN Type 2=Fire
+|TXMN Sub-Elements=Normal
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=95%
+|TXMN Power=3
+|TXMN Healing Power=0
+|TXMN Potency=50%
+|TXMN Recharge=4
+|TXMN Target Condition=Burn
+|TXMN Animation Target=1
+|Tags=Calamity, Fury
+|Sources=HippasusTwo
+}}

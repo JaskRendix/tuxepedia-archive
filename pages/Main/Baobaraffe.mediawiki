@@ -1,0 +1,64 @@
+{{Monster
+|First URL=https://www.deviantart.com/princess-phoenix/art/Baobaraffe-890199408
+|Sources=Princess-phoenix
+|Source Explanation=Name, art, sprites and blurb by princess-phoenix.
+|Species=Tree Giraffe
+|Evolves=Baoby
+|Name Origin=''baobab'' + ''giraffe''
+|Design Origin=A giraffe and a baobab tree - particularly how baobab trunks have huge fat trunks to store water, but collapse in drought.
+|SpyderCampaign=Used by a trainer in Dojo.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Landrace
+|TXMN ID=193
+|TXMN Blurb=It stores mass amounts of water in its huge body so that it can travel long distances across hot, dry deserts. It will also share water with thirsty creatures. When it has no water stored it is skinny.
+|TXMN Height=320
+|TXMN Weight=302
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Plant, Water, Megafauna
+|Fusion First=Baobar
+|Fusion Second=baraffe
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Stick
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Negation
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Clairaudience
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Overfeed
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Trample
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Fluff Up
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Cutting Leaves
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=55
+}}

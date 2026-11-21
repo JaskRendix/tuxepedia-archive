@@ -1,0 +1,10 @@
+== Summary ==
+Altered from a charge effect (originally by Kelvin Shadewing [[Category:Kelvin Shadewing]], Original
+Charge effect from https://opengameart.org/content/elemental-charge-effects) by HippasusTwo
+spacing/padding added + color alteration and a swirl effect.
+[[Category:64px]] [[Category:Technique Animation]]
+[[Category:HippasusTwo]]
+[[Category:Shade Shield]]
+[[Category:Summon Shadows]]
+[[Category:Main]]
+[[Category:Used Technique Animation]]

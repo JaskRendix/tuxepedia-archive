@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=254
+|TXMN Blurb=The user calls upon their inner power to unleash an attack of the same type.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=2
+|TXMN Effects=move_type user
+|TXMN Recharge=1
+|TXMN Animation Target=0
+|Tags=Universal
+|Main Details=Can be learned by any monster via tutor, but limited number available? Good for both mid and late game due to low cooldown and high accuracy.
+Would be mirrored by a ranged move called something like 'External Power' or 'Elemental Breath'.
+|Sources=HippasusTwo
+}}

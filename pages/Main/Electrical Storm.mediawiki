@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=76
+|TXMN Blurb=The user summons a raging thunderstorm, striking the opponent with lightning bolts.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Fire
+|TXMN Type 2=Earth
+|TXMN Sub-Elements=Lightning
+|TXMN Family=Powerful
+|TXMN Is fast=Very Slow
+|TXMN Accuracy=75%
+|TXMN Power=3
+|TXMN Effects=splash
+|TXMN Recharge=2
+|TXMN Animation Target=3
+|Tags=Electricity, Weather
+|Sources=Sanglorian, Daneeklu
+|Source Explanation=Technique by Sanglorian. "Lightning claw" animation by Daneeklu.
+|TXMN Is area=True
+}}

@@ -1,0 +1,71 @@
+{{Monster
+|Sources=tamashihoshi
+|Source Explanation=Original design and sprites by tamashihoshi.
+|Species=Hermit
+|SpyderCampaign=Used by trainers in Side Route E.
+|TXMN Types=Water
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Grub
+|TXMN ID=109
+|TXMN Blurb=These hermits will wrap themselves in whatever is closest. In the desert, that is the burial shrouds of long-dead pharaohs.
+|TXMN Height=37
+|TXMN Weight=7
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Ground, Sharp
+|Fusion First=Dune
+|Fusion Second=Pincher
+|TXMN_FR Name=Pince-Dune
+|TXMN_FR Blurb=Ces ermites s'envelopperont dans tout ce qui est le plus proche. Dans le désert, ce sont les linceuls funéraires des pharaons morts depuis longtemps.
+|TXMN_PT Name=Pinçador de Duna
+}}
+{{Technique_Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Refresh
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Poison Courtship
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Mobbing
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Ice Shield
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Chill Mist
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Muck
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Kraken
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=37
+}}
+{{Technique_Allocation
+|Has_Technique=Goad
+|Technique_Level=40
+}}

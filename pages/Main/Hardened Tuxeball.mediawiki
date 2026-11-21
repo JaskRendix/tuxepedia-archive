@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Capture Item
+|TXMN Effects=capture
+|TXMN Cost=350
+|TXMN Usable In=combat
+|TXMN Description=Captures Tuxemon and it doesn't break when it fails.
+|TXMN Consumable=yes
+|Sources=Tamashihoshi, Jaskrendix
+|Source Explanation=Original sprite by tamashihoshi. Adapted by Jaskrendix.
+}}

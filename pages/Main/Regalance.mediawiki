@@ -1,0 +1,76 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2251#p2251
+|Sources=Jaskrendix, JustinNuggets, Piacarrot
+|Source Explanation=Design and original sprite by JustinNuggets and Piacarrot. Back sprite and face sprites by Jaskrendix. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Terracotta
+|Evolves=Claymorior
+|Design Origin=Terracotta warriors
+|Main Details=Has ancient runes on its cloak.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=318
+|TXMN Blurb=It can summon a halberd whenever it needs.
+|TXMN Height=182
+|TXMN Weight=137
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|TXMN Terrains=Ruins, Urban
+|Tags=Soldier, Sharp, Ground, Rock, Gadgets, Leadership, Gemstone
+|Fusion First=Rega
+|Fusion Second=lance
+}}
+{{Technique Allocation
+|Has_Technique=Rock
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mending
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Strike
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Muck
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Boxing
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Stonehenge
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Saber
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Undertaker
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Earthquake
+|Technique_Level=43
+}}
+{{Technique Allocation
+|Has_Technique=Rocky Barrage
+|Technique_Level=55
+}}

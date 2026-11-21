@@ -1,0 +1,26 @@
+{{Monster
+|First URL=https://www.deviantart.com/jai-ti/art/FKM-115-Pipehide-116-Batuskin-117-Rokushigon-579273316
+|Sources=Andre Doruk, Jai-Ti, Jaskrendix
+|Source Explanation=Designed and illustrated by Jai-Ti. Sprites by Andre Doruk. Face sprites by Jaskrendix.
+|Species=Naked Dragon
+|Evolves=Pipehide
+|Name Origin=''batu'' (rock in Indonesian) + ''skin''
+|Design Origin=A panpipe and a little dragon
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Body Shape=Dragon
+|TXMN Blurb=As it grows it overcomes its shyness and begins to play music for anyone to hear.
+|TXMN Height=50
+|TXMN Weight=25
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|TXMN Terrains=Mountains
+|Tags=Rock
+|Fusion First=Batu
+|Fusion Second=skin
+}}
+{{Evolutions
+|Has Evolution=Rokushigon
+|Evolution Level=45
+}}

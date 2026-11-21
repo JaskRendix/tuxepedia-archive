@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=50
+|TXMN Blurb=The tongue is jabbed into the opponent, and their blood drained.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Normal
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2.5
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN Target Condition=lifeleech
+|TXMN Animation Target=1
+|Tags=Bug, Tongue
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. "Ice lance" animation by Superpowers Asset Packs, resized by Sanglorian.
+}}

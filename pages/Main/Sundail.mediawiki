@@ -1,0 +1,10 @@
+{{Monster
+|First URL=https://www.reddit.com/r/Tuxemon/comments/51yber/timekeeper_family_sundail_andglass_anolog/
+|Sources=MobocraticEgoist,
+|TXMN Types=Metal
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}
+{{Evolutions
+|Has Evolution=Andglass
+}}

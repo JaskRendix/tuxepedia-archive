@@ -1,0 +1,66 @@
+{{Monster
+|Sources=Georg Eckert, HippasusTwo
+|Source Explanation=Designed and sprited by Georg Eckert.
+|Species=Parasitized
+|Evolves=Duggot
+|Name Origin=''bee'' + ''worm''
+|Design Origin=Inspired by parasitic worms, to explain why the original creator had a worm evolving into a bee.
+|TXMN Types=Earth, Wood
+|TXMN Sub-Elements=Venom
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=344
+|TXMN Blurb=It punctures fruit to place new DUGGOT in them by night. By day it pretends to be a normal bee.
+|TXMN Height=100
+|TXMN Weight=25
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Plant, Toxic, Bug, Sharp
+|Fusion First=Bree
+|Fusion Second=eem
+|TXMN_ES Name=Abejagusano
+|TXMN_DE Name=Bienwurm
+|TXMN_FR Name=Abeillever
+|TXMN_PT Name=Abelhaverme
+}}
+{{Technique Allocation
+|Has_Technique=Sting
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Poison Courtship
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Buzz
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Needle
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Viper
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Combat Clone
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Thorn Burst
+|Technique_Level=34
+}}
+{{Technique Allocation
+|Has_Technique=Damage Division
+|Technique_Level=40
+}}

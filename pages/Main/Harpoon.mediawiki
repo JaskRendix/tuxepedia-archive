@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=247
+|TXMN Blurb=A well aimed harpoon that can take down even a white whale.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=85%
+|TXMN Power=2.8
+|TXMN Potency=90%
+|TXMN Recharge=2
+|TXMN Target Condition=Harpooned
+|TXMN Animation Target=3
+|Tags=Ice, Water, Gadgets
+|Main Details=I made it for Baluby (though other mons could probably use it as well). OK recharge and status but lousy accuracy.
+|Sources=HippasusTwo
+}}

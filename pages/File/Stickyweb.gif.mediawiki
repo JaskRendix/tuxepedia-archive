@@ -1,0 +1,9 @@
+== Summary ==
+[[Category:64px]]
+[[Category:Technique Animation]]
+[[Category:Web Trip]]
+[[Category:Main]]
+[[Category:HippasusTwo]]
+[[Category:Web]]
+[[Category:Used Technique Animation]]
+Optimized version of a gif I made, so it looks worse but has smaller file weight by about 50%.

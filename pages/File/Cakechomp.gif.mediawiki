@@ -1,0 +1,13 @@
+== Summary ==
+[[Category:64px]]
+[[Category:Technique Animation]]
+[[Category:HippasusTwo]]
+[[Category:Main]]
+[[Category:Catch Challenger]]
+[[Category:Gourmet]]
+[[Category:Potluck]]
+[[Category:Overfeed]]
+[[Category:Piece of Cake]]
+[[Category:Heavenly Desserts]]
+[[Category:Used Technique Animation]]
+Modified from a sprite by [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule. Animated by HippasusTwo for the purpose of food themed moves.

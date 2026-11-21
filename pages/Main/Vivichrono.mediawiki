@@ -1,0 +1,57 @@
+{{Monster
+|Sources=Jaskrendix
+|Species=Temporal Serpent
+|Evolves=Vivipere
+|Name Origin=Vivi + Chrono
+
+Vivi – "Vivipere"
+
+Chrono – Greek for "time"
+|Main Details=Vivichrono coils through the fabric of time like a whisper in the void. Its shimmering, clockwork-like scales pulse with a rhythm not bound to the present, and its gaze seems to pierce through moments yet to come. Wherever it slithers, clocks tick erratically and memories blur, as if reality itself struggles to anchor its presence. Ancient texts speak of Vivichrono as a keeper of forgotten futures — timelines that never came to pass, yet linger in its aura like echoes.
+|TXMN Sub-Elements=Cosmic, Shadow
+|TXMN Body Shape=Serpent
+|TXMN Blurb=It exists in a state of flux, its very presence causing subtle ripples in the flow of time. Legends say it holds fragments of forgotten futures.
+|TXMN Height=240
+|TXMN Weight=38
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Fusion First=Vivi
+|Fusion Second=Chrono
+}}
+{{Technique Allocation
+|Has_Technique=Stone Rot
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Quicksand
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Mind Vise
+|Technique_Level=21
+}}
+{{Technique Allocation
+|Has_Technique=Neuroshock
+|Technique_Level=27
+}}
+{{Technique Allocation
+|Has_Technique=Rift Dash
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Sands of Time
+|Technique_Level=33
+}}

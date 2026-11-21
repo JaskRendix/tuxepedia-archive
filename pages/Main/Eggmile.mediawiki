@@ -1,0 +1,20 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?id=317
+|Sources=SingingMagpie,
+|Species=The smiling baby tuxemon
+|Name Origin=Egg + Smile
+|Design Origin=A dark strange creature with a big smile poping from an egg
+|Main Details=It's a dark creature with a long neck. The head has only a big happy smile that let the teeth visible. No eyes, noses, etc... There is a fragment of the egg on its head.
+The other parts of its body are hidden in the egg.
+|TXMN Types=Earth
+|TXMN Body Shape=Grub
+|TXMN Blurb=It's always ravenous.
+Never let your fingers near its mouth...
+|TXMN Height=60
+|TXMN Weight=5
+|TXMN Catch Resistance=1
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|Fusion First=Egg
+|Fusion Second=mile
+}}

@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=207
+|TXMN Blurb=The user delivers a powerful blow with its staff.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Metal
+|TXMN Type 2=Wood
+|TXMN Sub-Elements=Metal, Wood
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2.5
+|TXMN Recharge=3
+|TXMN Animation Target=0
+|Tags=Staff
+|Sources=Jaskrendix
+}}

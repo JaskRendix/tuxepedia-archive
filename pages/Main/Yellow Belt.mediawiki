@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Sanglorian, KinGabe
+|Source Explanation=Created by Sanglorian from the Isometric Template by KinGabe.
+|Genre=Modern
+|Combat Type=1 vs 1
+}}

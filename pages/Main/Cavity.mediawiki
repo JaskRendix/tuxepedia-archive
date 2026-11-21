@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=118
+|TXMN Blurb=The user strikes with pinpoint accuracy, targeting the opponent's weak points.
+|TXMN Completed=Complete
+|TXMN Category=Reliable
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Family=Reserved
+|TXMN Is fast=Normal
+|TXMN Accuracy=70%
+|TXMN Power=2.9
+|TXMN Recharge=3
+|TXMN Animation Target=1
+|Tags=Reserved
+|Main Details=[[Reserved technique]] for [[Gliffary]]. [[Category:Reserved technique]]
+|Sources=Jaskrendix
+}}

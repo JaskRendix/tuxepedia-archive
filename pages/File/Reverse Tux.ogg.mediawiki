@@ -1,0 +1,12 @@
+== Summary ==
+Every monster call sound effect has a reverse (for the fainting noise), but reverse_Tux is unusual in that it is also used as a main call. 
+
+[[Category:Hyperdriveguy]]
+[[Category:Call]]
+[[Category:Main]]
+[[Category:soundbytez]]
+
+[[Category:Babysnitch]] [[Category:Blasdoor]] [[Category:Hoarseshoo]] [[Category:Loliferno]] [[Category:Lunight]]
+
+
+CC BY based upon magellanic penguin: http://www.freesound.org/people/soundbytez/sounds/111079/

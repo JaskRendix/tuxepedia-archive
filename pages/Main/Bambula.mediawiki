@@ -1,0 +1,16 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Bambula-007-677418019
+|Sources=TheBritanniaRegion,
+|Species=Vampire Fawn
+|Name Origin=''Bambi'' + ''Dracula''
+|Design Origin=Fawns and the Chinese water deer. The alternative colouration is based on blood and the concept of vampires.
+|Main Details=Its wings are actually made of a rubber-like material, allowing the tuxemon to float on water.
+|TXMN Types=Water
+|TXMN Blurb=Despite their cute appearance, they are actually rather dangerous. They crave blood, and need to drink at least one gallon per day in order to keep their rubber collar 'inflated'. There have been many incidents in the past where inexperienced first time trainers have fallen captive to the fangs of this little deer.
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Emperula
+|Evolution Level=16
+}}

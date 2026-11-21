@@ -1,0 +1,3 @@
+{{Effect
+|Details=Evolves the target.
+}}

@@ -1,0 +1,107 @@
+'''Stats''' are values that all tuxemon individuals have, that affect their power in combat. 
+
+= The Stats =
+
+The game has been designed with six Stats:
+
+* ''HP:'' How much damage you can take
+* ''Melee:'' How much damage your Melee attacks do
+* ''Ranged:'' How much damage your Ranged attacks do
+* ''Armor:'' How well you resist damage from Melee attacks
+* ''Dodge:'' How well you resist damage from Ranged attacks
+* ''Speed:'' Whether you act before your opponent in battle
+
+A monster's stats are based on its [[Body Shape]] and level, according to the following formula: 
+
+    Body Shape Multiplier * (7 + Tuxemon Level)
+
+With Body Shape Multipliers ranging from 4 to 8, that means that tuxemon of the same level could have Stats that are at most twice as high as another. 
+
+== Tastes ==
+
+A tuxemon has two tastes, a warm one and a cold one. The warm one increases its associated stat by 10%. The cold one decreases its associated stat by 10%. There are no tastes associated with HP.
+
+{| class="wikitable sortable"
+! Taste !! Stat Affected !! Effect !! Flavor Description !! Rarity
+|-
+| Peppy || Speed || +10% (Warm) || A burst of fizzy energy, like popping candy that makes you twitch with anticipation. || 1.0
+|-
+| Mild || Speed || -10% (Cold) || A gentle, calming flavor, like warm milk that slows the world around you. || 1.0
+|-
+| Salty || Melee || +10% (Warm) || A briny taste, like seawater on a storm-tossed deck, that strengthens your resolve. || 1.0
+|-
+| Sweet || Melee || -10% (Cold) || A cloying, sugary flavor, like melted candy that makes your limbs heavy. || 1.0
+|-
+| Hearty || Armor || +10% (Warm) || A rich, earthy taste, like dense bread that fortifies your defenses. || 1.0
+|-
+| Soft || Armor || -10% (Cold) || A delicate, airy flavor, like whipped cream that leaves you feeling vulnerable. || 1.0
+|-
+| Zesty || Ranged || +10% (Warm) || A sharp, tangy taste, like citrus sparks that ignite your focus. || 1.0
+|-
+| Flakey || Ranged || -10% (Cold) || A crumbly, light flavor, like dry pastry that makes your aim waver. || 1.0
+|-
+| Refined || Dodge || +10% (Warm) || A subtle, elegant taste, like fine tea that sharpens your reflexes. || 1.0
+|-
+| Dry || Dodge || -10% (Cold) || A parched, dusty flavor, like stale crackers that dull your senses. || 1.0
+|-
+| Savory || HP || +5% (Warm) || A rich, slow-roasted flavor, like smoky mushrooms and caramelized onions that settle warmly in your core. || 0.4
+|-
+| Bland || HP || -5% (Cold) || A vague, chalky taste, like powdered mashed potatoes made with a sigh instead of water. || 0.4
+|}
+
+A tuxemon can have a warm and a cold taste affecting the same stat, resulting in little net change (the -10% is applied before the +10%, so the net effect is that the stat is 99% what it would be if no tastes were applied). 
+
+See [[Taste Food]].
+
+= Training Points =
+At the end of each battle, for every tuxemon that participated, compare its calculated stats to those of each opponent it faced. For each stat where the opponent's value is higher, the tuxemon gains '''1 Training Point (TP)''' in that stat.
+
+For example, if the protagonist's Memnomnom has Speed 20 and Melee 30, and it battles a wild Spighter with Speed 30 and Melee 25, then Memnomnom receives '''1 TP in Speed''' (because its Speed was lower) but '''no TP in Melee''' (because its Melee was higher).
+
+Each tuxemon has two TP limits:
+* '''Per-stat cap:''' A maximum of '''150 TP''' can be earned in any individual stat.
+* '''Total TP cap:''' A maximum of '''300 TP''' can be earned across all stats combined.
+
+Once a tuxemon reaches its total TP cap, it no longer gains training points from battle. If a stat has already reached its individual cap, no further TP will be awarded in that stat even if the opponent's value is higher.
+
+Training Points are scaled by level during stat calculation, meaning higher-level tuxemon benefit more from earned TP. This ensures that stat growth remains balanced and meaningful throughout progression.
+
+Training Points are scaled by level during stat calculation, with a stat increasing according to this formula:
+
+<pre>
+Stat Increase = Stat TPs × ( level / 100 )
+</pre>
+
+= IVs =
+
+A monster's starting stats are increased by a random number per stat, generated for that particular monster, from between 1 and 31.
+
+= Speed =
+
+Speed determines which monster acts first. A monster's Speed stat is multiplied by a number between 0.25 and 1.75 depending on how fast or slow their chosen technique is. A further random component is applied as a tie-breaker. 
+
+== Temporary stat changes ==
+Stats can be adjusted in battle by "steps up" and "steps down".
+
+At step 0, the stat is multiplied by "2/2", in other words there is no change.
+
+For each step up, increase the numerator by one.
+
+For each step down, increase the denominator by one.
+
+You cannot move beyond +6 steps or -6 steps.
+
+== Escape, Retreat, Run ==
+
+The player can escape combat with a wild monster. Players cannot escape combat with NPCs. 
+
+Escaping consumes the monster's turn for the round and occurs before item use or techniques. 
+
+The odds of success are:
+
+* 40% + 
+* 15% for each unsuccessful prior attempt +
+* 15% for each level higher the active monster is compared to the wild monster (-15% per level if the wild monster is higher level than the active monster).
+
+= See also =
+* [[Stats Expansion]]

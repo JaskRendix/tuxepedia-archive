@@ -1,0 +1,46 @@
+{{Monster
+|Sources=Georg Eckert, HippasusTwo, Jaskrendix, Sanglorian
+|Source Explanation=Designed and sprited by Georg Eckert. Resized by Sanglorian. Front and back sprites by HippasusTwo. Face sprites by Jaskrendix.
+|Species=Muscly Crab
+|Evolves=Sheye
+|Name Origin=''shell'' + ''eye''
+|TXMN Types=Water
+|TXMN Sub-Elements=Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Polliwog
+|TXMN ID=286
+|TXMN Blurb=When a SHEYE frees its mind from always contemplating serious thoughts, it becomes a SHRAB, free in body to wander the world.
+|TXMN Height=100
+|TXMN Weight=100
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Coastal, Freshwater, Sea
+|Tags=Mental, Bite, Shielded
+|Fusion First=Shr
+|Fusion Second=rab
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ice Shield
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Terror
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Phantasmal Force
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Mind Vise
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Flow
+|Technique_Level=19
+}}

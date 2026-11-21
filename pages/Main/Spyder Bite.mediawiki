@@ -1,0 +1,18 @@
+{{Condition
+|Positive or Negative=N/A
+|Replacement Conditions=Is separate to other conditions - not replaced or replaced by them.
+|Text When Gained=NAME begins to sniffle.
+|Details=Affected tuxemon cannot be traded or swapped off your team once infected. 1/8th of the time, on turn, just sneezes (infecting target with Spyder Bite) instead of taking turn.
+|TXMN ID=100
+}}
+This is the tuxemon disease in the draft plot of [[The Spyder in the Cathedral]].
+
+== Prevalence ==
+* The tuxemon of Enforcers and Bosses are immune to Spyder Bite (this is not announced by the game, but it just does not infect them). This is because Spyder Bite is an invention of [[Scoop]], and as part of their plan they immunised whoever is in on it. 
+
+== Dialogue ==
+* Ah ... Ah ... Ah. NAME held in a sneeze. (Turn then continues without the tuxemon losing their action)
+* Ah ... Ah ... Ahchoo! NAME1 sneezed on NAME2. (If NAME2 is already infected:) NAME2 wiped it off. (If NAME2 was not already infected:) NAME2 begins to sniffle.
+
+PC (if you try to box an infected tuxemon):
+* Virus detected. For the safety of all tuxemon in our system, you cannot store an infected tuxemon.

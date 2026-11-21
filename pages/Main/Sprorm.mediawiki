@@ -1,0 +1,48 @@
+{{Monster
+|Sources=Georg Eckert, Jaskrendix
+|Source Explanation=Designed and sprited by Georg Eckert. Back and face sprites by Jaskrendix.
+|Species=Galvanized
+|Name Origin=''spring'' + ''worm''
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN ID=303
+|TXMN Blurb=SPRORM is fed on by CARDINALE, which can melt it down.
+|TXMN Height=30
+|TXMN Weight=10
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|Tags=Steel, Ground
+|Fusion First=Spro
+|Fusion Second=rm
+}}
+{{Evolutions
+|Has Evolution=Sphake
+|Evolution Level=32
+}}
+{{Technique Allocation
+|Has_Technique=Wall of Steel
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mudslide
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Take Cover
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Roll
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Rust Bomb
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Earthquake
+|Technique_Level=28
+}}

@@ -1,0 +1,7 @@
+{{Item
+|Item Category=Ingredient Item
+|TXMN Description=Flexible shoots used as edible wrappers. Springy and infused with latent spice—favored in soft, foldable dishes.
+|TXMN Consumable=yes
+|Main Details=A cooking ingredient employed when crafting dishes at the player's station, triggered by <code>crafting_station player,cooking</code>
+|Sources=Jaskrendix
+}}

@@ -1,0 +1,5 @@
+{{Monster
+|First URL=https://opengameart.org/content/50-monsters-pack-2d
+|Sources=Isaiah658
+|Source Explanation=Sprites by Isaiah658.
+}}

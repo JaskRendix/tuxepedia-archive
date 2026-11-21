@@ -1,0 +1,10 @@
+{{Monster
+|First URL=https://www.deviantart.com/piacarrot/art/Fakemon-Free-for-use-Batch-668006857
+|Sources=Piacarrot, JustinNuggets,
+|Source Explanation=Design and original sprite by JustinNuggets and Piacarrot. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Design Origin=Based on flies.
+|Main Details=It floats because of gas.
+|TXMN Types=Metal, Wood
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}

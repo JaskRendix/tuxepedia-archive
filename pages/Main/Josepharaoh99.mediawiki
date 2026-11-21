@@ -1,0 +1,5 @@
+{{Contributor
+|Main Website=https://www.youtube.com/channel/UCxBymsALxL2TdnaCPoI1pog
+|Main Details=Joseph Levesque
+|Contributor Types=Contributed to Tuxemon project
+}}

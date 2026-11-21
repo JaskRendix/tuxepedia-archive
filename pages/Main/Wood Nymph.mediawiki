@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=JosephSeraph, Catch Challenger
+|Source Explanation=Front sprites by JosephSeraph. Overland sprites by Catch Challenger.
+|Genre=Fantasy Historical
+|Combat Type=1 vs 1
+}}

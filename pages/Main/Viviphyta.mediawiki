@@ -1,0 +1,59 @@
+{{Monster
+|Sources=Catch Challenger
+|Source Explanation=Catch Challenger is an open source project, with assets under Creative Commons Attribution. Original design and sprites by Catch Challenger. Face sprites tweaked by Sanglorian.
+|Species=Germinated
+|Evolves=Vivipere
+|SpyderCampaign=Used by trainers in Hospital, Dojo, Dryad's Grove, Route 4, Route 6 and Side Route A.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Serpent
+|TXMN ID=134
+|TXMN Blurb=It is the king of snakes - or at least believes itself to be such.
+|TXMN Height=87
+|TXMN Weight=9
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Grassland, Jungle, Ruins, Woodland
+|Tags=Shapeshifter, Bite, Plant, Leadership
+|Fusion First=Vivi
+|Fusion Second=phyta
+|TXMN_FR Name=Viviphyte
+}}
+{{Technique Allocation
+|Has_Technique=Stone Rot
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Quicksand
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Fester
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Infectious Bite
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Flower Armor
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Flower Bloom
+|Technique_Level=31
+}}

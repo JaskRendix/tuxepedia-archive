@@ -1,0 +1,11 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert,
+|Evolves=Ferrell,
+|Name Origin=''ferret'' + ''armor''
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}
+{{Evolutions
+|Has Evolution=Ferrior
+}}

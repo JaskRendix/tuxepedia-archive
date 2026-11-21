@@ -1,0 +1,4 @@
+{{Item
+|Item Category=Held Item, No Current Use
+|TXMN Description=Attacks made by a tuxemon holding this item will never reduce a foe below 1 HP.
+}}

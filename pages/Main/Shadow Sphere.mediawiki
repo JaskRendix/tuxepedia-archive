@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=269
+|TXMN Blurb=The shadows ooze and blob.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Shadow
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.5
+|TXMN Recharge=1
+|TXMN Animation Target=2
+|Tags=Darkness
+|Main Details=Decent shadow move for early-mid and beyond, giving a little more move variety.
+|Sources=HippasusTwo
+}}

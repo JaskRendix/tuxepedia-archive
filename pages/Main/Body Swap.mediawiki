@@ -1,0 +1,8 @@
+{{Technique
+|TXMN Blurb=They try to swap bodies with another.
+|TXMN Category=Special
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Special
+|TXMN Recharge=4
+|Main Details=Unfinished. could be a condition swap with target, a type swap with target, or even a species swap with target (altho' that would be pretty bizarre, it might be a lot of fun).
+}}

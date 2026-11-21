@@ -1,0 +1,73 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Sanglorian, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Original design and sprites by Spalding004. Back sprite by Sanglorian. Face sprites tweaked by Sanglorian.
+|Species=Brains
+|Main Details=Originally intended to be an evolution of [[Sampsack]], but re-imagined as one half of a pair.
+== The Spyder in the Cathedral == 
+The protagonist can choose between [[Sampsage]] and [[Sampsack]] as a gift for completing the [[Dojo of the Elements]].
+|SpyderCampaign=Used by a trainer in Dojo and Walled Garden. The player can choose between receiving Sampsack and receiving Sampsage.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Cosmic
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=98
+|TXMN Blurb=A scientist took a drug that made him clever by day and violent by night.
+|TXMN Height=180
+|TXMN Weight=122
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Urban
+|Tags=Mental
+|Fusion First=Samp
+|Fusion Second=sage
+}}
+{{Technique_Allocation
+|Has_Technique=Punch
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Mind Vise
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Strike
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Shuriken
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Bullet
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Wall of Steel
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Muddle
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Terror
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Undertaker
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Lineage
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Time Crisis
+|Technique_Level=37
+}}
+{{Technique_Allocation
+|Has_Technique=Slice
+|Technique_Level=40
+}}

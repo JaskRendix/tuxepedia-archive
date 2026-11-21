@@ -1,0 +1,30 @@
+
+== Finishing off already-designed trainers ==
+As well as designing your own trainers from scratch, another way of contributing is to add something for a trainer that someone else has designed.
+
+* [https://forum.tuxemon.org/thread.php?id=179 Sprint 2] has our priorities for trainers, although at this point there are no priorities
+* If there are any entries on our [[:Category:Trainer|list of trainers]] that are missing either a front sprite or an overland sprite, it would be good to have them added
+
+== Sprite requirements ==
+
+Trainers all need their overland sprites - 16px wide by about 20px high (up to 24px), or 16px high for children. If they're stationary, they only need one forward-facing, one back-facing, one left-facing and one right-facing sprite. If they're going to walk (including anyone that'll battle the protagonist), they'll need an extra two for each direction.
+
+[[File:FT Trainer.gif]]
+
+Trainers that'll battle the protagonist also need a battle sprite - a 64 by 64 pixel sprite, facing forward and a little to the player's left (just like monster sprites).
+
+[[File:FT Front (64x64).png]]
+
+Protagonists also need a back sprite - a 64 by 64 pixel sprite, facing away from the screen and a little to the right. 
+
+[[File:Back.png]]
+
+== Skin tones ==
+
+Example skin tones are available in this reference sprite: 
+
+[[File:Skin tones.gif]]
+
+== Overland sprites ==
+
+* [https://forum.tuxemon.org/thread.php?id=195 Build-Your-Own-Protagonist]

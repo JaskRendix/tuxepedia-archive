@@ -1,0 +1,79 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Design and front sprite by Spalding004. Back and face sprites by Jaskrendix, based on the front sprite by Spalding004.
+|Species=Aggregate
+|Evolves=Slichen
+|Main Details=Name is from ''conglomeration'' and ''rock''
+|SpyderCampaign=N/A
+|TXMN Types=Earth, Wood
+|TXMN Sub-Elements=Earth, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=273
+|TXMN Blurb=It stores its memories in its rocky shell. If some fall off, it is forgetful.
+|TXMN Height=87
+|TXMN Weight=35
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|Tags=Plant, Rock, Ground, Toxic, Mental
+|Fusion First=Glom
+|Fusion Second=broc
+}}
+{{Evolutions
+|Has Evolution=Conglolem
+|Evolution Level=50
+}}
+{{Technique_Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Slime
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Sylvan
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Stonehenge
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Clairaudience
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Negation
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Greenstone
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Breath
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Fester
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Surge
+|Technique_Level=34
+}}
+{{Technique_Allocation
+|Has_Technique=Mudslide
+|Technique_Level=37
+}}
+{{Technique_Allocation
+|Has_Technique=Earthquake
+|Technique_Level=52
+}}
+{{Technique_Allocation
+|Has_Technique=Thunderball
+|Technique_Level=55
+}}

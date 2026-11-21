@@ -1,0 +1,89 @@
+== Connections ==
+=== [[Leather Town]] ===
+
+== Event: First visit ==
+
+[[Maniac]]
+
+* Welcome to the museum of natural history! It's free, but depends on your generous donations. Would you consider a donation of $50? Y/N
+* Please explore our five sections, and make sure to read about our five sponsors
+
+== Event: Subsequent visits ==
+
+''If the player did not donate the first time, when they return to the museum:''
+
+[[Maniac]]
+* Unfortunately we now need to charge for tickets. $100 please. Y/N
+* Please explore our five sections, and make sure to read about our five sponsors
+
+''If the player did donate the first time, dialogue is unchanged''
+
+[[Maniac]]
+
+* Welcome to the museum of natural history! It's free, but depends on your generous donations. Would you consider a donation of $50? Y/N
+* Please explore our five sections, and make sure to read about our five sponsors
+
+[[Professor]]
+
+* I'm trying to research the history of our world, but it's like they're erasing it.
+* I've been trying to get access to the archives for months, but Nimrod's people keep stonewalling me.
+* I'm starting to feel like I'm running out of time.
+
+[[Security]]
+
+* I've seen a lot of changes over the years, but this one feels different.
+* I've worked with some great people who've left because of the new direction the museum is taking.
+* It's hard to see the place I love changing in ways that don't feel right to me.
+
+[[Florist]]
+
+* I'm not sure I like this. I've seen it happen before - a big sponsor comes in, and suddenly the museum's focus changes.
+* I hope they're not going to start prioritizing profit over preservation.
+
+== Room: Geology and Paleontology ==
+Sign: 
+
+* Sponsored by Shaft 
+
+Six displays with six gemstones:
+
+* Ruby is just the term for any corundum that is red! When corundum comes in other colors like blue, pink and clear, it is called a sapphire.
+* When tuxemon eat rubies, they become passionate and vigorous, making them better at physical attacks like slaps, claws and bites. 
+.
+* Opals show flashes of colored light. They form in fissues and dips in rock when water evaporates leaving behind silica.
+* Tuxemon that eat opals benefit from its magical warding are better able to escape magical distant attacks like blasts, sprays and rays.
+.
+* An emerald is a green variety of beryl. Beryl that is blue is called aquamarine instead. A one-carat emerald is larger but less dense than a one-carat diamond. 
+* Tuxemon that eat emeralds have their sight and intuition heighten, making their ranged attacks like shots, sprays and blasts more potent.
+.
+* Agate is a rock, often formed by volcanoes and often banded with parallel lines. It features a great variety of colors: browns, grays, creams, reds, oranges and even blues.
+* Feeding agate to a tuxemon can increase its speed and agility, making it faster to react in battle.
+.
+* Famously the hardest gemstone in the world, diamonds are great on necklaces, engagement rings and earrings! If your fiance doesn't buy a Shaft diamond ring for you, he doesn't love you!
+* Feed diamonds to your tuxemon to harden their skin, making them better able to resist physical blows.
+.
+* Quartz is one of the most abundant minerals on the planet, but some of its varieties - like onyx, amethyst and carnelian - are rarer and more precious. Quartz is used in clocks to keep very precise time.
+* Tuxemon that eat quartz have their fortitude and vitality increased, making them able to endure more attacks before being kocked out. 
+.
+[[Postboy]]:
+
+* Did you know that the first spectacles were made of beryl, not glass?
+* I learned that last year from a guide at this museum! But there aren't any guides around this place any more.
+
+== Room: Military history and technology == 
+Sign: 
+* Sponsored by Nimrod
+
+* Tuxemon are powerful weapons that have fought alongside humans for as long as there has been war.
+* Rock paintings found in caves show prehistoric humans training saber-toothed Rockats to fight wild Wolffsky.
+* The symbol of an ancient empire was the Eaglace, because when the empire invaded from the icy north their generals and scouts rode on Eaglace.
+* Today, medic teams in our mighty republic are training with Agnidon for protection and transport. 
+* But soon, tuxemon and humans may be rendered obsolete. Our corporate sponsors Nimrod are developing robot technology that could make war a bloodless affair. 
+* In the meantime, sign up for the Nimrod Enforcers for good pay, free education and a life of adventure.
+* At Nimrod, we believe that technology has the power to transform the world for the better.
+* Our unwavering commitment to innovation drives us to develop groundbreaking solutions that address the challenges of today and tomorrow.
+* From advancing healthcare to protecting our planet, Nimrod is dedicated to creating a brighter future for all.
+
+[[Miner]]:
+
+* There used to be a whole section here on the history of our world! But when Nimrod became the sponsor, they replaced it with just military history! Now everyone is just inventing their own theories of world history!

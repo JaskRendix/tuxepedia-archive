@@ -1,0 +1,13 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Heal
+|TXMN Usable In=world
+|TXMN Description=Its scent hits first. Then the flavor finishes the job mercilessly.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* A culinary catastrophe born from reckless enthusiasm and questionable technique. Accidentally delicious… or disturbingly edible? No one truly knows.
+
+Effects:
+* Feeding this to a monster causes it to lose 100 HP
+|Sources=Jaskrendix
+}}

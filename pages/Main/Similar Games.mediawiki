@@ -1,0 +1,241 @@
+''See also [[Related Projects]] for open source monster catching games in progress.''
+
+==Proprietary ==
+=== EvoCreo ===
+[[File:Screenshot 20180328-180334.png|thumbnail]] 
+
+[https://forum.tuxemon.org/thread.php?id=212 Original thread]
+
+EvoCreo is the best mobile game in the monster catching-and-fighting genre that I've seen so far. 
+
+Although there are lots of things Tuxemon does better (for one thing, choosing 16px tiles means more of the map fits on screen), it's definitely worth playing. They've clearly put a lot of thought into making it easy to play on the mobile: buttons are in sensible places, things respond to being clicked on as you'd expect them to, etc (although there's still too much clicking to get to the next bit of text, which is something Tuxemon and Pokemon also struggle with).
+
+Some things that are worth thinking about/work really well for EvoCreo are:
+
+* They have some monsters wandering around the overworld, as well as tall grass encounters. This adds a nice mix, where you can chase/run away from some visible creatures, while also getting random results from the grass. For example, if there's just one creature you haven't grabbed in an area, you can wade through the long grass or you can just keep an eye out for one wandering around.
+* Information about the battling creatures is visible if you tap on their HP bar: it tells you their name, level, what conditions they are subject to, their typing, exact HP, etc. Then that information is hidden again until you request it, giving a beautiful large battle arena (which looks pretty). You can even click each condition and it tells you what it is and what its effect is.
+* There's an auto-battle option. It plays an ad, which is a clever way to monetise the game. You don't see the battle in progress (because the ad is playing) or what XP you get, you just get told at the end if you win or not.
+* There are no PP. Instead, each move has a number of rounds until it is available again (including "1", in which case it is always available). This is a really nice element to the game, and it adds a tactical touch missing from PP.
+* Related to there being no PP is that a creature knows all the techniques it's ever learned. It can still only use four in battle, but out of battle you can switch these for any other techniques.
+* All stat changes come from conditions, so you never have a technique that gives you Defence +1. Instead, the technique gives you Shell, which gives you Defence +1.
+* Conditions continue beyond a single battle, even positive ones like Shell. They can be upgraded, so e.g. if you would get Shell twice you instead get Hardened Shell.
+* There are nice little touches, like the home screen having a little scene that features you active creature.
+* There are Traits, which I think are like Pokemon's Abilities (except you can swap them out) and Abilities, which I think are out-of-combat benefits. Just like techniques, you can swap out any you have learned. These serve as that game's equivalent to HMs, so you never need to waste a technique slot on Surf or Cut.
+* Five rather than six creatures in the party. I don't know why EvoCreo did this, but I think it'd make sense for Tuxemon as well, because with only five elements it's already going to be easier to cover all types.
+* Arenas where you have to fight three trainers in a row, without being able to go to a medical center in between. Requires different strategies for success.
+* Healing potions that heal a percentage of total HP, + a fixed amount of HP. This makes them useful at any level.
+* Separate move slots for Elite Moves, which have a really powerful effect but a slow recovery, and Heal Moves. There are a variety of Heal Moves, some of which have benefits other than just healing. I feel like these open up a similar design space to Mega Evolutions and Z-Moves in Pokemon.
+* In Trainer battles you can choose to retreat, but it's a forfeit (i.e. I think just like losing by another means).
+* There's a button you can press to find out what your current quest is.
+* You can "Glide" across voids and canyons, and have random encounters while you do so.
+
+==== Types and Classes ====
+
+[https://ksr-ugc.imgix.net/projects/141845/posts/383647/image-200197-original.png?ixlib=rb-2.1.0&w=560&v=1357836678&auto=format&frame=1&q=92&s=569937d88c8bce93115b5e5d1e034022]
+
+On top of the "elements" (Normal, Air, Water, Earth, Fire, Electric, Nature, Light and Dark), there are "classes" like Massive, Ice, Radiation and Insect which each adds a type strength and a type weaknesses. For example the Flying class is weak to Electric and strong to Earth. ([https://aminoapps.com/c/mario/page/blog/war-of-the-alphites-what-a-really-confusing-challenge/vdVi_nunaZkoW5LvEva2YaR6zoj83jP Details]).
+
+=== Dynamons World ===
+[[File:Dynamons.png|thumbnail]]
+
+[https://forum.tuxemon.org/thread.php?id=228 Original thread]
+
+''Dynamons World'' is a free-to-play (with microtransactions) mobile game.
+
+The first thing that stands out is that this has been designed as a micro-transactions mobile game. There's two in-game resources, gold and gems. Gold can be bought for money (or you can get a small amount by watching an ad). You can buy gems with gold, or win them (slowly) in the game. You spend gold on items, and gems on healing your monsters and levelling them up.
+
+''EvoCreo'' included a few microtransactions, but they had clearly been bolted on. Dynamons World is built around microtransactions, so the game already has a feel very different to what we'd want for Tuxemon.
+
+That said, there are some very interesting features in ''Dynamons World'' that I've observed:
+
+==== Maps ====
+
+There isn't really a map/overland. There are different areas on a world map, and you can travel to those areas as they unlock. When you travel to an area, you are on a point on the map that's connected to a network of other points that you can click to.
+
+The game has a very simple plot (or no plot at all), but I don't think that's the fault of this simple map structure.
+
+==== Techniques ====
+
+There's a card system for skills (i.e. moves/techniques). As a monster levels up, they add skills to their deck of skills. Often they'll be skills the monster already has, so they'll have e.g. 2 x Scratch, 2 x Power Up, x1 Fireball, and they'll level up and get 1 x Burn and 1 x Scratch.
+
+At the start of combat, you get dealt three skills. Each round, when you use one, you get dealt another one.
+
+There's a little bit of tactics involved, e.g. do I use Power Up now and risk getting knocked out before I make an attack, or make an attack now knowing it won't do enough damage to knock out the enemy? But it's not very impressive - even though I think there's something there in the card-based system.
+
+==== Teams ====
+
+You can bring three monsters into each battle with you. All the rest can be swapped into your team of three at any other time. Monsters take time to heal based on how much damage they have, so if you've been fighting a few battles you might have to use your weaker monsters - or browse Facebook for 10 minutes until you get a notification that everyone's healed up.
+
+(Or you can pay to quick-heal them).
+
+==== Conditions ====
+
+Buffs and debuffs displace each other. So if you're Sick (i.e. poisoned), you can use Power Up to get the temporary Powered Up buff. Woo! You're no longer Sick. Of course, it works the other way as well: you can make your enemy waste their Power Up by making them Sick before they get a chance to use it.
+
+Like a lot of the game, this is pretty simplistic in practice ... but I think it shows promise. Imagine if you had a system of terrain, buffs, attacks and blocks (or something). Your enemy might be setting up a devastating attack that depends on having Lava terrain. You foil him by using Rain Dance, which changes the terrain to Slick! Or maybe you give yourself a Buff, Flying, that means you're not touching the ground and therefore can't be affected by certain forms of attack, including the ones that work well with Lava terrain. But your enemy has anticipated this, and Poisons you, so you lose Flying, and now you're vulnerable to his next attack.
+
+This works well with the card-based system Dynamons World uses, because you can't spam the same skill over and over.
+
+==== GUI ====
+
+The game is just designed really nicely for mobile.
+
+==== Stats ====
+
+They have an Aim stat that affects accuracy (although I'm not sure exactly how, and there's no Evasion stat that Aim is compared against). ShadowApex suggested this feature for Tuxemon.
+
+They use only Attack and Defence as the other stats. The player always acts first (one player), and a coin is flipped when it's two player.
+
+I have to say, collapsing Melee and Ranged into one stat and Armour and Dodge into one stat has occurred to me from time to time. However, I think keeping them separate does offer an interesting other area for team building.
+
+==== Art ====
+
+It uses vector art rather than pixel art. I think it works very nicely, and vector assets are more adaptable. (Obviously I don't think Tuxemon should switch!)
+
+==== Items ====
+
+Items don't take a turn to use. As a consequence, they have smaller effects. I think this is also to encourage them being used more often, since they can also be bought via microtransactions.
+
+I also think the names are cute: Focus Fongus (improve Aim), Powder Pepper (improve Attack), Bunker Berry (improve Defence) and Rage Root (give Rage, which is a buff).
+
+There are also items that give you a new skill (technique) for one battle. That seems pretty interesting, although I haven't used them yet.
+
+==== Collecting ====
+
+You get a prize when you've caught all the monsters found in a particular area. There are variations of some monsters, e.g. in the winter area one of the monsters is wearing a cardigan. A bug is Wood type in one area but Water type in another.
+
+==== Social media ====
+
+There's an option to share on social media every time you catch a monster, win an important battle, etc.   
+
+---
+
+If we ever make a mobile-focused follow up to Tuxemon, I think there's a lot that could be learned from Dynamons World. Its focus on microtransactions definitely comes at the expense of game play, but aside from that the game feels very satisfying to play on the mobile - it's clearly designed for touch rather than a keypad, for example.
+
+==== Types ====
+[[File:Type-chart.png|thumbnail]]
+
+They use a type pentagram like us! Although their system is that you resist damage against the same elements that you do extra damage against, and you resist two elements and do extra damage against two elements. That leaves just skills of your own element and skills with no element ("Normal") that do the standard amount of damage. However, every monster has lots of Normal skills, so you will be doing unmodified damage most of the time. Monsters only ever learn skills from their own element and Normal skills.
+
+The element chart is:
+
+Grass > Lightning > Water > Dark > Fire > Grass
+
+With every type resisting the two in front of it and weak to the two behind it (so Water resists Dark and Fire and is weak to Lightning and Grass).
+
+=== Neo Monsters ===
+[[File:Screenshot 20180328-180711.png|thumbnail]]
+
+[https://forum.tuxemon.org/thread.php?id=242 Original thread]
+
+[https://play.google.com/store/apps/details?id=com.pockettrend.neomonsters&hl=en Google Play store]
+
+''Neo Monsters'' has surprised and impressed me. Initially i assumed it would be simplistic and obsessed with monetisation. I found the interface baffling and many elements totally unnecessary - or implemented so lazily as to be useless.
+
+Now, after quite a few hours of play, i am fascinated with a great deal of things that it does differently from other games. A lot of the choices seem to be deliberately chosen to make the game easier to program, but there are lessons there for Tuxemon too.
+
+In Neo Monsters, the player starts with a base of operations: a ranch. Altho there is a top down overland map in some parts of the game, most parts of the game are point-and-click, through a GUI with buttons and lists.
+
+For example, I can train my monsters, pursue a number of different storylines and engage in challenging puzzle battles all without travelling on the overland map.
+
+In fact, the overland map is something of a disappointment. Really its only purpose is to provide pacing, so there is at least a risk of random encounters between qualifying battles.
+
+On the other hand, the side quests and other storylines are really interesting. They're just displayed in lists, with each stage in the quest having dialogue and a battle. The plot - which involves time travel, a murder mystery and a lot of suspense - is actually pretty compelling, and you can explore different elements of it at your own pace by choosing which storylines you pursue at any particular time.
+
+This must make new content very easy to make: just set dialogue and the battle for each stage, and the story's done. You could support any number of stories this way, without worrying about where to place them on the map.
+
+There's also stand alone stories where you're given a fixed team. These are fascinating because they are tests of skill and problem solving - you can't just grind till your team is over levelled.
+
+Another element is that a number of stories let you bring along a monster borrowed from anyone else who's currently online. That lets you try out other monsters.
+
+There are no in battle items, and your monsters heal between most battles. Captures are still suspenseful, despite not consuming an item, because if the capture fails then that monster cannot be caught. Often, this is more gripping to watch than a Pokeball, since you can usually throw another.
+
+All monsters of a particular type have the same four or fewer moves.  There are also abilities that can trigger,  including when the monster enters battle or is knocked out.  The game also highlights moves that have conditions that are currently met,  like ones that are only usable after the monster has been in battle a certain time.
+
+Monsters fight up to four against four,  and you can have about 16 on your team. Each move puts the monster back in the initiative order a certain number of seconds - so the upcoming monsters order can change with each move.
+
+---
+
+I think Neo Monsters is a template we should seriously consider for any spin off games we create. It is simpler than Pokemon in many ways that are conducive to programming, stripping away a lot of sub-systems. It is also extensible in a way that suits a community project: any number of related, partly related or unrelated storylines can be added very elegantly to Neo Monsters; the same cannot be said for Pokemon.
+
+Add in the layout and mobile-friendliness of Dynamons World, and you'd have a compelling game!
+
+==== Elements ====
+Each monster can have one element. There's a square:
+
+Fire strong vs Earth strong vs Storm strong vs Water strong vs Fire
+
+Holy and Shadow are both strong against each other.
+
+=== Monster Racers ===
+[https://forum.tuxemon.org/thread.php?id=240 Original thread]
+
+''Monster Racers'' is a charming game for the Nintendo DS, released about 10 years ago. So far, it's the only catching game I've played that doesn't involve battling - instead, you race monsters against one another on a sidescrolling platformer.
+
+I adore it. I haven't finished it, but it's the most novel and clever of the games that I've played. It also makes me daydream about a potential alternative reality where it's a racing game - instead of a battling game like Pokemon - that became the break-out hit. Imagine all the racing imitators, each having a different spin on the genre.
+
+* The game is set in the real world. Each continent has different tournaments ("cups", including multiple cups with different entry criteria in each continent - encouraging you to use more than one 'mon), and monsters mostly based on the actual flora and fauna of that continent. This is really exciting, and each location has a genuinely different feel to it. It also demonstrates how you could do a multi-region game: you'd have key locations in each region, rather than the whole region map. 
+* There are different-coloured orbs that boost your monsters' stats. You can adjust your monsters' palette based on how many orbs you've given them. This is a simple idea that's lot of fun.  
+* 'Types' are the terrain types that the monster does better on. You can also try to breed monsters to give them better terrain type coverage. 
+* You can race against one or many opponents, and catch wild opponents by "shooting" stars at them (these slow you down and require some manoeuvering and timing to do right). 
+* After a power up is collected, it refreshes at the next highest level - so there's an elastic band effect where those that are losing get better boosts. 
+* You feel like you're progressing because you develop a fan base. 
+* There are recurring characters, like a bickering family that's found at every destination that you visit. 
+* There's a single hub for shops, the breeder, etc., instead of having them spread out across many towns like in Pokemon. 
+* You're a member of an elite band of racers. 
+* Because the tournament runs through the entire game, you keep bumping into your rivals at different stages, and race against them several times. It feels much more like being in a League than Pokemon, where you fight most trainers just once. 
+* You meet the "Elite 4" equivalents early and often, so they're known quantities you can anticipate beating in the future. Sometimes you don't even realise they're the Elite 4 when you first meet them!
+* Because there are recurring characters, they have portraits with different expressions. You also have expressions when responding to others' dialogue - better than just having "...". When you race, your portrait changes expression based on what's happening in the race.  
+* You get Tools kept in your inventory instead of HMs (people have wanted this in Pokemon for a long time)
+
+Someone's done a [https://www.youtube.com/watch?v=yAbdGqffB9s Let's Play on YouTube] if you're interested.
+
+=== Curio Quest ===
+[[File:Curio Quest.png|thumbnail]]
+[[File:Curio_Quest_3.png|thumbnail]]
+
+Curio Quest is a mobile game that's great fun, with a gloriously silly but satisfying plot. 
+
+I really like the story structure. This is something I've been thinking a lot about recently because most monster catching mobile games don't involve overland maps like Pokemon or Tuxemon. Avoiding the overland map would make it easier to program, require a less extensive plot, and allow others to contribute their own plots and mini-plots. 
+
+The plot itself is charming and zany - you're transported to another world because your parents are interdimensional criminals. You are swallowed by a giant monster and have to make your way through its stomach, fighting people along the way (a monster rights activist who says the sea beast should be able to eat, a motorbike stuntwoman who got swallowed too, a monster plushie collector for no good reason, etc). 
+
+Interesting features:
+
+* Teams of three monsters, but they heal fully within battles. Wild encounters can be against one to three monsters as well. 
+* Some powers - the most powerful - need to recharge
+* There's also a mana pool that some powers use, although battles are typically short enough that it is not exhausted
+* "Capturing" takes place after the battle, and is only an option in a minority of wild battles. There's still a chance of failure, and you have to pay for it. (It's described as "DNA sampling")
+* After each battle you choose which of the monsters in your team you want to distribute XP between. You can also sometimes get a pool of extra XP you can distribute as you like.
+* After a monster evolves, it returns to level 1 and has to get leveled up again. 
+* There's a log you can click on that tells you everything that happened in the battle so far. 
+* You can spend technique points to learn and upgrade techniques along a technique tree, including more than four (but you can only have four active ones usable in battle) 
+* You can play through each chapter multiple times, on increasing difficulties each time. 
+* As well as fighting monsters, you can battle machines, gun towers and even ordinary people. 
+
+The GUI is impressive with the extra information it communicates:
+
+* A monster's portrait is framed in a coloured border that reflects its Element, communicating that information immediately
+* Your opponents' frames are shown even if the monster hasn't been revealed yet (you just see one to three empty frames), letting you know what elements their monsters belong to before the monsters themselves are revealled 
+* Techniques that are strong or weak against the enemy have a + or - minus sign beneath them, again making this information readily available
+
+==== Elements ====
+It has an unnecessarily large and unsatisfyingly simplistic type chart.
+
+[[File:Curio Quest Types.png]]
+
+=== Wizmagonster ===
+
+A monster collecting game without combat. When obstacles and monsters are encountered, the player must choose a monster on their team to overcome the hazard or befriend the monster. Whether it succeeds depends on the monster's traits (sneaky, agile, fluffy, sharp, tiny, sparkly, creepy, etc), personality (brave, noisy, mature, dozy, rowdy, etc), statuses (fragrant, dizzy, wet, charged, muddy, fatigued, etc) and current energy level. 
+
+=== Pokemon ===
+[[File:PKMN_Red.png|thumbnail]]
+
+=== Temtem ===
+A recent popular monster-catching game, Temtem has a number of interesting features:
+
+* A stamina (mana pool) system instead of power points or recharging powers.
+* All battles are [[2 vs 2]] battles.
+* An original type chart:
+
+[https://oyster.ignimgs.com/mediawiki/apis.ign.com/temtem/f/f4/Temtem_type_Chart.jpg?width=1920 View here]

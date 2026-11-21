@@ -1,0 +1,1 @@
+{{#if: {{{Has Technique|}}} | {{#if: {{{Technique Level|}}} | {{{Has Technique}}} {{{Technique Level}}} | {{{Has Technique}}}} | }}

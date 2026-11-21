@@ -1,0 +1,7 @@
+{{Item
+|Item Category=Ingredient Item
+|TXMN Description=Tiny glowing berries that ripen only under starlight. Fiery but sweet, they burn with a warmth that tickles rather than scorches.
+|TXMN Consumable=yes
+|Main Details=A cooking ingredient employed when crafting dishes at the player's station, triggered by <code>crafting_station player,cooking</code>
+|Sources=Jaskrendix
+}}

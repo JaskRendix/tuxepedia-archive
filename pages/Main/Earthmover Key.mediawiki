@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Story Item
+|TXMN Key Item=yes
+|TXMN Usable In=world
+|TXMN Description=Could come in handy if there's a giant earthmover blocking the path.
+|Sources=Catch Challenger
+|Source Explanation=Main sprite from Catch Challenger, art director Jordan Brule. Project developer Herman Brule.
+}}

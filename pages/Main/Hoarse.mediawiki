@@ -1,0 +1,53 @@
+{{Monster
+|Sources=HippasusTwo, Rsg167
+|Source Explanation=Designed and sprited by Rsg167. Front and back sprites by HippasusTwo.
+|Species=Field-Dweller
+|Name Origin=''hoarse'' (rough), evoking ''horse''
+|Main Details=Hoarse has an infectious bite, but most of its strength is in its kick. All forms of this creature have toxic saliva. Don't pet its snout!
+|TXMN Types=Earth
+|TXMN Sub-Elements=Normal, Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Landrace
+|TXMN ID=309
+|TXMN Blurb=It appears to be a farm animal, but it was mistreated by its owner.
+|TXMN Height=130
+|TXMN Weight=130
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Tags=Megafauna
+|Fusion First=Hoa
+|Fusion Second=rse
+}}
+{{Evolutions
+|Has Evolution=Equill
+|Evolution Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hibernate
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Mudslide
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Infectious Bite
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Sphere
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Earthquake
+|Technique_Level=31
+}}

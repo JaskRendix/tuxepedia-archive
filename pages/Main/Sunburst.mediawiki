@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=159
+|TXMN Blurb=The user channels the energy of the sun, unleashing a blindingly bright attack.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Fire
+|TXMN Type 2=Metal
+|TXMN Sub-Elements=Fire
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=90%
+|TXMN Power=1.1
+|TXMN Potency=90%
+|TXMN Recharge=1
+|TXMN Target Condition=Blinded
+|TXMN Animation Target=1
+|Tags=Celestial, Flame
+|Sources=Jaskrendix
+}}

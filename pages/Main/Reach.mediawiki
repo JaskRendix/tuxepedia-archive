@@ -1,0 +1,2 @@
+Multiply damage by User Ranged/Target Armor
+[[Category:Attack category]]

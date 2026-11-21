@@ -1,0 +1,60 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/68-69-Pickoon-Raccscal-669261777
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Face sprites adapted by Jaskrendix. Back by HippasusTwo.
+|Species=Raccoon
+|Evolves=Pickoon
+|Name Origin=The name "Raccscal" is definitively derived from the combination of the words "rascal" and "raccoon". The prefix "Racc-" is a shortened form of "raccoon", which is the basis for the monster's design and characteristics. The suffix "-scal" is a reference to the word "rascal", which means a mischievous or cunning person. The wordplay between "rascal" and "raccoon" is intentional, as stated, and reflects the monster's mischievous and cunning nature.
+|Design Origin=Raccoon + thief.
+|TXMN Types=Earth, Metal
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Varmint
+|TXMN ID=368
+|TXMN Blurb=It has a baglike tail on its back that it can open and close, and even detach and throw at enemies.
+|TXMN Height=80
+|TXMN Weight=20
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Urban
+|Tags=Bomber, Gadgets, Claws, Darkness
+|Fusion First=Racc
+|Fusion Second=scal
+}}
+{{Technique Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Slice
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Constrict
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Revenge Stance
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Ruby
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Rust Bomb
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Pouch
+|Technique_Level=34
+}}

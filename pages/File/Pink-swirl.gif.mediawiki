@@ -1,0 +1,9 @@
+== Summary ==
+Altered from a charge effect (originally by Kelvin Shadewing [[Category:Kelvin Shadewing]], 
+Charge effect from https://opengameart.org/content/elemental-charge-effects) by HippasusTwo
+spacing/padding added + color alteration and a swirl effect.
+[[Category:64px]] [[Category:Technique Animation]]
+[[Category:Used Technique Animation]]
+[[Category:Psychic Puppets]]
+[[Category:Body Swap]]
+[[Category:Main]]

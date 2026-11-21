@@ -1,0 +1,17 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Emperula-008-677599524
+|Sources=TheBritanniaRegion,
+|Species=Gowned Deer
+|Evolves=Bambula,
+|Name Origin=''emperor'' + ''Dracula''
+|Design Origin=Fawns, the Chinese water deer and traditional Chinese gowns.
+|Main Details=The rubber collar around its neck has developed in a more wing-like shape, allowing better lift in flight and defence in battle.
+|TXMN Types=Water
+|TXMN Blurb=They will often find abandoned churches and monuments, and will hang upside down from the wooden beams. They are worshipped by the local people. Due to their serene grace and royal appearance, many will often go to their territory to bring them gifts of food and comfort. It is illegal to kill this tuxemon due to its religious symbolism.
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}
+{{Evolutions
+|Has Evolution=Jiquid,
+|Evolution Level=34
+}}

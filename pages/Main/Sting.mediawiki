@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=1
+|TXMN Blurb=The user inflicts a painful sting, injecting poison into the opponent's body.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Venom
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=95%
+|TXMN Power=1.25
+|TXMN Potency=40%
+|TXMN Recharge=1
+|TXMN Target Condition=poisoned
+|TXMN Animation Target=1
+|Tags=Toxic, Bug
+|Sources=Sanglorian, Tamashihoshi
+|Source Explanation=Technique by Sanglorian. "Pound" animation by Tamashihoshi.
+}}

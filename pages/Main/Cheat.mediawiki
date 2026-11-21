@@ -1,0 +1,10 @@
+{{Technique
+|TXMN Blurb=The user employs a deceptive tactic, randomly bestowing a beneficial effect upon a random target. The higher the opponent's level, the greater the likelihood of the target being the opponent itself.
+|TXMN Category=Special
+|TXMN Type 1=Metal
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|Main Details=Casts a random buff to a random target. The higher the level, the higher chance the buff targets himself!
+|Sources=ProfessorGreen
+|Source Explanation=https://forum.tuxemon.org/thread.php?id=143
+}}

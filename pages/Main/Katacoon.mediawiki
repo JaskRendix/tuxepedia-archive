@@ -1,0 +1,59 @@
+{{Monster
+|Sources=Adam Fegarido, Leo, Tamashihoshi
+|Source Explanation=Original design by Leo. Sprites by tamashihoshi. Main art by Adam Fegarido.
+|Species=Stance
+|Evolves=Katapill
+|Name Origin=''kata'' + ''cocoon'', evoking ''catacomb''
+|SpyderCampaign=Evolves from Katapill.
+|TXMN Types=Metal, Wood
+|TXMN Sub-Elements=Metal, Venom
+|TXMN Completed=Complete
+|TXMN Body Shape=Grub
+|TXMN ID=57
+|TXMN Blurb=It stays in a meditative pose for its chrysalis, moving only to jab enemies.
+|TXMN Height=58
+|TXMN Weight=12
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Woodland
+|Tags=Fists, Bug
+|Fusion First=Kata
+|Fusion Second=coon
+}}
+{{Evolutions
+|Has Evolution=Dynastor
+|Evolution Level=12 (if Dodge is equal to Speed)
+}}
+{{Evolutions
+|Has Evolution=Bugnin
+|Evolution Level=12 (if Dodge is greater than Speed)
+}}
+{{Evolutions
+|Has Evolution=Sumchon
+|Evolution Level=12 (if Speed is greater than Dodge)
+}}
+{{Technique_Allocation
+|Has_Technique=Clamp On
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Buzz
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Splinter
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Font
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Evasion
+|Technique_Level=10
+}}
+{{Technique_Allocation
+|Has_Technique=Sting
+|Technique_Level=13
+}}

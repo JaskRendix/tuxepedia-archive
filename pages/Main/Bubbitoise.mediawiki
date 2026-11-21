@@ -1,0 +1,19 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/journal/Fakemon-for-Sale-680318198
+|Sources=TheBritanniaRegion
+|Species=Little Squirt
+|Name Origin=''bubble'' + ''tortoise''
+|Design Origin=Turtle hatchlings
+|Main Details=Their eyes bulge when they stay in the water for more than 20 minutes at a time.
+|TXMN Types=Water
+|TXMN Body Shape=Polliwog
+|TXMN Blurb=On warm summer nights, the eggs hatch to reveal the vunerable Bubbitoise hatchlings trying their best to crawl to the water as quickly as possible. Predator tuxemon will often stay put near these shores to nab the hatchlings for a quick snack.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Coastal, Sea
+|Fusion First=Bubbi
+|Fusion Second=toise
+}}
+{{Evolutions
+|Has Evolution=Wisturtle
+}}

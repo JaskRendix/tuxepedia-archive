@@ -1,0 +1,9 @@
+{{Monster
+|First URL=https://www.reddit.com/r/fakemon/comments/b35551/a_couple_months_back_i_came_upon_an_opensource/
+|Sources=Chairry-Art,
+|Source Explanation=Design and front sprite by Chairry-Art.
+|Evolves=Grubble,
+|Main Details=Based on [[Grinflare]] by [[Spalding004]] and [[Royaba]].
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}

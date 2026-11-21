@@ -1,0 +1,13 @@
+{{Item
+|Item Category=Medicine
+|TXMN Effects=heal user 50%, revive
+|TXMN Target=player
+|TXMN Cost=1000
+|TXMN Requirements=target unconscious
+|TXMN Usable In=world, combat
+|TXMN Description=Revives an unconscious monster and restores half HP.
+|TXMN Consumable=yes
+|SpyderCampaign=Sold at Paper, Cotton, Leather, Flower, Timber, and Candy Scoop
+|Sources=ryanhanli
+|Source Explanation=Sprite by ryanhanli.
+}}

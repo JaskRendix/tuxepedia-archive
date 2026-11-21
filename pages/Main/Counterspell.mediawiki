@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=262
+|TXMN Blurb=Protection against ranged attacks like other spells.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Special
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=100%
+|TXMN Effects=Cooldown enemy_monster,2,melee,special
+|TXMN Recharge=3
+|TXMN Animation Target=0
+|Tags=Celestial, Staff
+|Main Details=Counterpart to Magic Spell. Acts similar to but not identical to the move Protect from Pokemon, as you need to predict which version, Counterspell or Magic Spell, is the most useful for the situation or risk getting hit regardless.
+|Sources=HippasusTwo
+}}

@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=192
+|TXMN Blurb=A ray of divinity blinds those who look upon it.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Type 2=Wood
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=95%
+|TXMN Power=3
+|TXMN Healing Power=0
+|TXMN Potency=50%
+|TXMN Recharge=4
+|TXMN Target Condition=Blinded
+|Tags=Celestial, Calamity
+|Sources=HippasusTwo
+}}

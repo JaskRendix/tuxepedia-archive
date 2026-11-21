@@ -1,0 +1,73 @@
+{{Monster
+|Sources=Bonny John, Chairry-Art, DevilDman, Levaine, Sanglorian, Smiley-Fakemon
+|Source Explanation=Original design by Sanglorian. Front sprite by Levaine and Chairry-Art. Other art by Smiley-Fakemon, DevilDman and Bonny John. Other sprites by Sanglorian and Levaine.
+|Species=Gumnut
+|Name Origin=''Lambertia'' (mountain devil shrub)
+|Design Origin=Inspired by the mountain devil shrub and the GIMP mascot Wilbur.
+
+[[Category:Based on open source mascots]]
+|Main Details=[[Category:Starting Tuxemon]]
+|SpyderCampaign=Starting tuxemon for players. Found in the wild in Dryad's Grove.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN ID=10
+|TXMN Blurb=It is placed in its nut by its parent, who then sends it into the world.
+|TXMN Height=69
+|TXMN Weight=37
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Tags=Plant, Fists
+|Fusion First=Lam
+|Fusion Second=bert
+}}
+{{Evolutions
+|Has Evolution=Legko
+|Evolution Level=24
+}}
+{{Technique_Allocation
+|Has_Technique=Sting
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Blossom
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Poison Courtship
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Splinter
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Boulder
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Overgrowth
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Peregrine
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=34
+}}
+{{Technique_Allocation
+|Has_Technique=Thunderball
+|Technique_Level=43
+}}
+{{Technique_Allocation
+|Has_Technique=Shadow Boxing
+|Technique_Level=46
+}}
+{{Technique_Allocation
+|Has_Technique=Invictus
+|Technique_Level=52
+}}

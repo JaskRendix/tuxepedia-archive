@@ -1,0 +1,4 @@
+{{Contributor
+|Preferred Attribution=xirsoi
+|Contributor Types=Contributed to Tuxemon project
+}}

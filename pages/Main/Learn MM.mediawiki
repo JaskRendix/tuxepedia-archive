@@ -1,0 +1,3 @@
+{{Effect
+|Details=Teaches the target a random type technique.
+}}

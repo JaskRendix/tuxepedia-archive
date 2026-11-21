@@ -1,0 +1,9 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert, Jaskrendix
+|Source Explanation=Designed and sprited by Georg Eckert. Front and back sprites by Jaskrendix.
+|Evolves=Spall
+|Name Origin=''grim'' + ''ball''
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}

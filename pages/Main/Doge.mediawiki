@@ -1,0 +1,57 @@
+{{Monster
+|Sources=Jaskrendix
+|Species=Wow
+|Name Origin=Derived from the iconic "Doge" meme, a misspelling of "dog" popularized by Shiba Inu images with Comic Sans captions like "such wow" and "very scare".
+|Main Details=Doge is a small, agile Tuxemon known for its unpredictable behavior and meme-charged aura. Originally found near digital hubs and forested outskirts, it thrives in environments where human culture and nature intersect. Though its stats are modest, Doge's erratic battle style and expressive face often leave opponents confused or distracted. It's said that Doge can sense emotional tension and respond with spontaneous gestures—sometimes helpful, sometimes hilariously off-script. Trainers who bond with Doge must learn to embrace chaos and charm in equal measure.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Lightning, Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Landrace
+|TXMN ID=419
+|TXMN Blurb=Its gaze is oddly expressive. It often ignores commands, acting on impulse with unpredictable flair.
+|TXMN Height=90
+|TXMN Weight=15
+|TXMN Catch Resistance=5
+|TXMN Sexes=Male
+|TXMN Stages=Basic
+|TXMN Terrains=Extraplanar, Urban
+|Tags=Bite, Tail, Love
+|Fusion First=Do
+|Fusion Second=Ge
+}}
+{{Evolutions
+|Has Evolution=Dogeroid
+|Evolution Level=Metal Booster
+}}
+{{Technique Allocation
+|Has_Technique=Lick Lash
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Kiss
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Cat Calling
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Barking
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Crushing Bite
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=External Power
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Sockpuppet
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Electric Multibite
+|Technique_Level=31
+}}

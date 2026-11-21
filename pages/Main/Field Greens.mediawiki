@@ -1,0 +1,7 @@
+{{Item
+|Item Category=Ingredient Item
+|TXMN Description=Wild leaves that shift color with the wind. Bright, peppery, and often eaten fresh—or warmed just enough to curl.
+|TXMN Consumable=yes
+|Main Details=A cooking ingredient employed when crafting dishes at the player's station, triggered by <code>crafting_station player,cooking</code>
+|Sources=Jaskrendix
+}}

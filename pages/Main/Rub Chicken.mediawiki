@@ -1,0 +1,18 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=700
+|TXMN Usable In=world
+|TXMN Description=Sky feather cutlets rubbed in starpepper mix. Light, crispy, and boldly seasoned.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Sky Feather]]: 1
+* [[Glowfat]]: 1
+* [[Crackle Salt]]: 1
+* [[Starpepper]]: 1
+
+Possible Outputs:  
+* [[Rub Chicken]], 1, 0.9  
+* [[Bite Of Despair]], 1, 0.1
+|Sources=Jaskrendix
+}}

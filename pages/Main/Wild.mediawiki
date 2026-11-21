@@ -1,0 +1,9 @@
+{{Condition
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME has gone wild.
+|End of Round Text=NAME is still wild.
+|Details=1/4 chance each turn that instead of using the chosen technique, you take 1/8 your maximum HP in unmodified damage.
+|TXMN ID=26
+}}

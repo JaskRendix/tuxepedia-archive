@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=245
+|TXMN Blurb=They jab powerfully but wildly with a horn, risking many misses.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Family=Powerful
+|TXMN Is fast=Slow
+|TXMN Accuracy=75%
+|TXMN Power=2.5
+|TXMN Recharge=1
+|TXMN Animation Target=2
+|Tags=Megafauna
+|Main Details=For Beluby and other horned critters.
+|Sources=HippasusTwo
+}}

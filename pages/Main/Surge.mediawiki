@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=19
+|TXMN Blurb=A powerful electric discharge that shocks the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Fire
+|TXMN Type 2=Earth
+|TXMN Sub-Elements=Lightning
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.25
+|TXMN Effects=negate own monster's positive condition
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Animation Target=3
+|Tags=Electricity
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. "Lightning bolt" animation by Superpowers Asset Packs.
+}}

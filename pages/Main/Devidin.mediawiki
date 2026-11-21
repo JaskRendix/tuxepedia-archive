@@ -1,0 +1,65 @@
+{{Monster
+|Sources=Georg Eckert, HippasusTwo, Jaskrendix
+|Source Explanation=Designed and sprited by Georg Eckert. Front and back by HippasusTwo, face sprites by Jaskrendix.
+|Species=Dog-Toothed
+|Name Origin=''devil'' + ''dinosaur''
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth, Fire
+|TXMN Completed=Complete
+|TXMN Body Shape=Landrace
+|TXMN ID=292
+|TXMN Blurb=A dicynodont that came back to life and decided to become the dinosaur everyone always mistakes it for.
+|TXMN Height=73
+|TXMN Weight=36
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Grassland, Jungle, Underground
+|Tags=Ghost, Rock, Bite, Shapeshifter, Darkness
+|Fusion First=Devi
+|Fusion Second=din
+}}
+{{Evolutions
+|Has Evolution=Devidra
+|Evolution Level=18
+}}
+{{Technique Allocation
+|Has_Technique=Invictus
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mind Vise
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Stonehenge
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Phantasmal Force
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Terror
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Earthquake
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Supernova
+|Technique_Level=55
+}}

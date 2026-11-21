@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=86
+|TXMN Blurb=A corrosive projectile that explodes on impact, dealing damage and poisoning the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=60%
+|TXMN Power=2.25
+|TXMN Effects=splash
+|TXMN Potency=50%
+|TXMN Recharge=2
+|TXMN Target Condition=poisoned
+|TXMN Animation Target=3
+|Tags=Bomber, Steel
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. "Smoke bomb puff" animation by Superpowers Asset Packs.
+|TXMN Is area=True
+}}

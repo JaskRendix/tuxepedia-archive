@@ -1,0 +1,197 @@
+''See also [[Similar Games]] for completed, proprietary monster catching games.''
+
+== RavaR ==
+
+GPL 3.0 licence
+
+Uses a lot of [[Open Game Art]] assets. However, the monster art is proprietary.
+
+* [https://github.com/trdillon/ravar Github]
+
+== Zoonami ==
+
+By [[isaiah658]].
+
+A [[Minetest]] mod that adds monsters and battling. Sounds and textures are under CC0, the code is under MIT License. 
+
+* [https://opengameart.org/content/isaiah658s-pixel-pack-2 OGA], [https://opengameart.org/content/50-monsters-pack-2d More than 50 monsters], [https://opengameart.org/content/50-monsters-pack-3d 3D versions]
+* [https://notabug.org/isaiah658/zoonami Git]
+* [https://forum.minetest.net/viewtopic.php?f=9&t=25356 Thread]
+
+Only a handful of Zoonami monsters have been added to the Tuxemon wiki to date.
+
+== Floraverse ==
+
+A Creative Commons Attribution-ShareAlike open world.
+
+The [https://floraverse.com/wiki/elements/ Floraverse element system] has five primary elements. Two primary elements can be combined (including two of the same element) to make the fifteen secondary elements. One primary and one secondary element or two secondary elements can be combined to make 125 tertiary elements (although these are not spelled out).
+
+=== Primary elements ===
+
+* Fire
+* Water
+* Air
+* Earth
+* Spirit
+
+=== Secondary elements ===
+
+* Plasma (Fire x Fire)
+* Acid (Fire x Water)
+* Light (Fire x Air)
+* Lava (Fire x Earth)
+* Aura (Fire x Spirit)
+* Ice (Water x Water)
+* Cloud (Water x Air)
+* Clay (Water x Earth)
+* Poison (Water x Spirit)
+* Storm (Air x Air)
+* Sand (Air x Earth)
+* Sound (Air x Spirit)
+* Crystal (Earth x Earth)
+* Magnet (Earth x Spirit)
+* Psi (Spirit X Spirit)
+
+=== Tertiary elements (examples) ===
+
+* Hail (Ice x Cloud)
+* Acid Rain (Acid x Cloud)
+
+=== Links ===
+
+* [https://floraverse.com/ Main site]
+
+== AndHeGames ==
+[[File:More creatures.png]]
+
+Doodles created by an artist on OpenGameArt.
+
+There are 292 monsters so far.
+
+* [https://opengameart.org/users/andhegames OGA page]
+* [[AndHeGames|On the wiki]]
+
+== Megupets ==
+[[File:Idoobz.png|50px]]
+
+An art project with numbered monsters.
+
+* [https://www.megupets.com/public-domain-assets/ Main site]
+* [https://opengameart.org/users/megupets OGA page]
+
+== Color Monster ==
+[[File:Colormonster paint.png|thumbnail]]
+
+[[Color Monster]] is a GPL game under development by Tuxemon contributor [[Dulsi]] in which you colour the monsters that you catch. 
+
+* [http://identicalsoftware.com/games/colormonster Main site]
+* [https://github.com/dulsi/colormonster Github page]
+
+== Catch Challenger ==
+[[File:Mix-catchchallenger.png|thumbnail]]
+
+[[Catch Challenger]] is a contributor to the Tuxemon project, as we are using some of their open source assets. 
+
+''Licence:'' GPL3 (code); GPL3, CC BY, LGPL (datapack)
+
+[[File:Conileaf Back.png]] [[File:Coleorus front.png]] [[File:Cervix front.png]] [[File:Elostorm Front 64px.png]] [[File:Galnec front.png]]
+
+* [[Catch Challenger]]
+* [https://catchchallenger.first-world.info/ Main site]
+* [https://github.com/alphaonex86/CatchChallenger-datapack Datapack git]
+* [https://github.com/alphaonex86/CatchChallenger-site Site git]
+* [https://github.com/alphaonex86/CatchChallenger Client git]
+
+=== Details ===
+* Catch Challenger has 14 types: Normal, Electric, Bird, Fire, Water, Stone, Ground, Plant, Ice, Fight, Poison, Psy, Spectre, Steal (Steel)
+
+== OPMon ==
+[[File:Titlescreen.png|thumbnail]]
+
+[[OPMon]] is a contributor to the Tuxemon project, as we use some of their open source assets. 
+
+The code is under GNU GPL 3.0 and the art is under CC BY-SA 4.0 ([https://github.com/cyrioncentori/OpMon/blob/master/LICENSE.md licence details]). Original music is also under CC BY-SA 4.0 ([https://github.com/cyrioncentori/OpMon/tree/master/Resources/Musics see here]).
+
+[[File:36-1 64px.png]] [[File:37-1 96px.png]] [[File:Gouachtiti front 64.png]] [[File:Magmortis face.png]] [[File:Calcinours face.png]]
+
+* [[OPMon]]
+* [http://opmon-game.ga Main site]
+* [https://github.com/OpMonTeam/OpMon-Website Website Github] (CC BY)
+* [https://github.com/OpMonTeam/OpMon Original Game Github] (GPL or CC BY-SA)
+* [https://github.com/OpMonTeam/OpMon-Godot Godot Remake Github] (licence not specified)
+* [https://github.com/OpMonTeam/OpMon/wiki Github wiki]
+
+=== Details ===
+* OPMon has 18 types: Bad, Bug, Burning, Cold, Dragon, Electron, Fight, Ghost, Ground, Liquid, Magic, Mental, Metal, Mineral, Neutral, Sky, Toxic, Vegetal
+* The game is called OPMon Lazuli
+* [https://github.com/OpMonTeam/OpMon/wiki/Commonalities-and-differences-with-Pokemon Similarities and differences with Pokemon]
+* Some of the sprites are modified versions of proprietary sprites (for example, [https://github.com/OpMonTeam/OpMon/blob/develop/Resources/NPCs/Team_Mystare/SbireTM_G/sprite_STMG_Combat.png Team Mystare grunt] includes parts from the Team Plasma grunt sprite)
+* Some [https://github.com/OpMonTeam/OpMon-Website/tree/master/images OPMon art] and [https://github.com/OpMonTeam/OpMon/wiki/OpMons-(creatures) monsters] are not yet added to this wiki
+
+== Guardian Monsters ==
+: See also [[Guardian Monsters on wiki]]
+
+Formerly known as Friends with Monsters. 
+
+[[File:23 1.png]] [[File:20 1.png]] [[File:18 1.png]] [[File:17 1.png]] [[File:100 1.png]]
+
+* [[Georg Eckert]]
+* [https://github.com/limbusdev/guardian_monsters_artwork Art Github page]
+
+=== Friends with Monsters ===
+Friends with Monsters had five types: Earth, Water, Fire, Air and Light (or Energy)
+
+* [https://bitbucket.org/gemlion/monsterworld Bitbucket]
+* [https://bitbucket.org/gemlion/monsterworld/src/9b62def75c66a16f22b051e692cd7fe302a59146/Wiki/Guardians.md Current monsters page]
+* [https://bitbucket.org/gemlion/monsterworld/wiki/Sprites Older sprites 1], [https://bitbucket.org/gemlion/monsterworld/wiki/Monsters 2]
+
+== Monster Trainer RL ==
+
+A monster catching roguelike with procedurally generated maps. The creator has confirmed that it is under the MIT Licence.
+
+* [http://slashie.net/mtrl/ Play online]
+* [https://github.com/slashman/monster-trainer-rl Github]
+
+== Project Uranium Godot ==
+
+An MIT-licensed remake of the Pokemon Uranium game in the open source Godot engine.
+
+* [https://github.com/acedogblast/Project-Uranium-Godot Github]
+
+== Open source JRPGs ==
+
+While not monster-catching games specifically, these are notable for being open source JRPGs.
+
+* [https://github.com/LibreGamesArchive/monster-rpg-2 Monster RPG 2]
+* [https://github.com/ValyriaTear/ValyriaTear Valyria Tear]
+* [https://github.com/GDquest/godot-open-rpg Godot OpenRPG]: A tool and demo for turn-based RPGs in the open source Godot game engine.
+* [http://rpg.hamsterrepublic.com/ohrrpgce/Main_Page OHRRPGCE]
+
+== Other uses of Tuxemon assets ==
+=== CS50's Introduction to Game Development ===
+Harvard's CS50 open course on game design, "CS50's Introduction to Game Development", features Tuxemon sprites.
+
+* [https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/ Course]
+* [https://www.youtube.com/watch?v=OUDNncXB950 Lecture]
+
+=== Creature Chess ===
+An auto-battler under the MIT License. 
+
+* [https://github.com/Jameskmonger/creature-chess GitHub]
+
+=== Juxemon ===
+[[File:Sc61gh.jpg|thumbnail]]
+Juxemon is a vaporware project that was apparently on Steam at some point. It used Tuxemon assets. 
+
+== MK Starter Kit == 
+
+A planned open source Pokemon-style RPG maker.
+
+* [https://github.com/Marin-MK/MK-Starter-Kit GitHub (Kit)]
+* [https://github.com/Marin-MK/RPG-Studio-MK GitHub (Editor)]
+
+== Proprietary ==
+
+=== PhoenixDex ===
+
+[http://phoenixdex.alteredorigin.net/ A collection of fakemon] under a Creative Commons Attribution-NonCommercial licence.

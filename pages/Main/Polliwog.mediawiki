@@ -1,0 +1,10 @@
+{{Body Shape
+|Speed Multiplier=7
+|HP Multiplier=5
+|Melee Multiplier=4
+|Ranged Multiplier=8
+|Armour Multiplier=4
+|Dodge Multiplier=8
+|Dodge Modifier=6
+}}
+Represents aquatic molluscs (crustaceans, bivalves and cephalopods like squid and octopuses) and amphibians like salamanders and frogs.

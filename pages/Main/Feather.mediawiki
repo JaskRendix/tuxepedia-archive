@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Held Item
+|TXMN Effects=Immune Grabbed
+|TXMN Target=player
+|TXMN Usable In=combat
+|TXMN Description=Tickle your assailant and force them to relinquish their grip!
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Sprite adapted by Sanglorian from the Superpowers Asset Packs.
+}}

@@ -1,0 +1,72 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Sanglorian, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Original design and sprites by Spalding004. Face and back sprites tweaked by Sanglorian.
+|Species=Climbing
+|Evolves=Anoleaf
+|Name Origin=''gecko'' + ''reptile''
+|SpyderCampaign=Found in the wild in Route 5. Used by trainers in Mansion and Route 7.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=66
+|TXMN Blurb=It is so quick and light that it can walk on leaves.
+|TXMN Height=54
+|TXMN Weight=7
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Jungle, Woodland
+|Tags=Plant, Speed
+|Fusion First=Gec
+|Fusion Second=tile
+}}
+{{Evolutions
+|Has Evolution=Velocitile
+|Evolution Level=36
+}}
+{{Technique Allocation
+|Has_Technique=Leaf Stab
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Feint
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Assault
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Chameleon
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Whirlwind
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Splinter
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Revenge Stance
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Leaf Barrage
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Needle
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=43
+}}
+{{Technique Allocation
+|Has_Technique=Thorn Burst
+|Technique_Level=46
+}}

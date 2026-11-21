@@ -1,0 +1,39 @@
+{{Monster
+|First URL=https://github.com/Tuxemon/Tuxemon/discussions/2468
+|Sources=Davidliang11292
+|Source Explanation=" Its original form is a single puzzle piece; after its first evolution, it becomes a partially completed puzzle; and its final evolved form is a complete puzzle. There are many types of these puzzle Tuxemon, each with different colors and attributes (for example, an orange puzzle is a fire-type Tuxemon, while a blue puzzle is a water-type Tuxemon), but their stats are generally low."
+|Species=Jigsaw
+|Design Origin=Jigsaw
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Body Shape=Sprite
+|TXMN Height=12
+|TXMN Weight=2
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Urban
+|Tags=Weak
+|Fusion First=Puzzl
+|Fusion Second=emon
+}}
+{{Evolutions
+|Has Evolution=Puzzlekey
+|Evolution Level=In Party 2 Puzzlemon
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mudslide
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Mystic Blending
+|Technique_Level=13
+}}

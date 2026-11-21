@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Held Item
+|TXMN Target=player
+|TXMN Usable In=world, combat
+|TXMN Description=Confused? Roll the die and do whatever it says!
+|Main Details=At the beginning of combat, the player gains either the [[Enraged]] or the [[Sniping]] conditions at random.
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Sprite adapted by Sanglorian from the Superpowers Asset Packs.
+}}

@@ -1,0 +1,50 @@
+{{Monster
+|Sources=Adam Fegarido, Leo, Sanglorian, tamashihoshi
+|Source Explanation=Original design by Leo. Art by Adam Fegarido. Sprites by tamashihoshi. Sprites tweaked by Sanglorian.
+|Species=Beat
+|Name Origin=''kata'' + ''caterpillar''
+|SpyderCampaign=Found in the wild in Route 4 and Side Route A. Used by trainers in Route 4 and Side Route A.
+|TXMN Types=Metal, Wood
+|TXMN Sub-Elements=Metal, Venom
+|TXMN Completed=Complete
+|TXMN Body Shape=Grub
+|TXMN ID=56
+|TXMN Blurb=It is born fighting. It has to punch out of its eggshell or be trapped.
+|TXMN Height=32
+|TXMN Weight=3
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Woodland
+|Tags=Fists, Bug
+|Fusion First=Kata
+|Fusion Second=pill
+}}
+{{Evolutions
+|Has Evolution=Katacoon
+|Evolution Level=9
+}}
+{{Technique_Allocation
+|Has_Technique=Clamp On
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Buzz
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Splinter
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Font
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Evasion
+|Technique_Level=10
+}}
+{{Technique_Allocation
+|Has_Technique=Sting
+|Technique_Level=13
+}}

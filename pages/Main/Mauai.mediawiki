@@ -1,0 +1,59 @@
+{{Monster
+|First URL=https://www.deviantart.com/chairry-art/art/Tuxemon-Re-Imagined-020-021-827755250
+|Sources=Chairry-Art, Jaskrendix
+|Source Explanation=Design and front sprite by Chairry-Art. Back and face sprites by Jaskrendix.
+|Species=Anubis
+|Evolves=Memnomnom
+|Design Origin=Based on [[Miaownolith]] by [[Sanglorian]] and [[Pyraminx]] by [[Leo]]. Based on the Egyptian God Anubis, as well as the ancient Egyptian sport of stick fighting.
+|SpyderCampaign=N/A
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal, Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=22
+|TXMN Blurb=MAUAI gives itself over to the spirits of lost warriors trapped inside its weapon.
+|TXMN Height=203
+|TXMN Weight=139
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Ground, Claws, Summoner, Ghost, Darkness, Staff
+|Fusion First=Mau
+|Fusion Second=ai
+}}
+{{Technique Allocation
+|Has_Technique=Riposte
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Feint
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Slice
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Insanity
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Lineage
+|Technique_Level=22
+}}
+{{Technique Allocation
+|Has_Technique=Staff Smash
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=40
+}}

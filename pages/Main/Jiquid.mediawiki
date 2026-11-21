@@ -1,0 +1,19 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Jiquid-Male-and-Female-009-677808409
+|Sources=TheBritanniaRegion,
+|Species=Vampire Stag/Vampire Doe
+|Evolves=Emperula,
+|Name Origin=''jiangshi'' + ''liquid''
+|Design Origin=Stags, does and the jiangshi. Alternative colourations are based on Dracula and blood.
+|Main Details=Sexual dimorphism. 
+
+In the mating season, Male Jiquid becomes very hormonal and aggressive, and will fight other males to prove their strength to the females
+
+Female Jiquids are very aggressive when caring for their young, they can only have 1-3 fawns per year, and since the species is endangered she must do everything she can to protect her descendants.
+
+Alternative blurb: Male Jiquid will often prowl through gravesyards and around churches, protecting the dead and searching for victims to satisfy its thirst for blood. They are worshipped by the people, as they symbolise strength, resiliance and grace.
+|TXMN Types=Water
+|TXMN Blurb=Female Jiquid are often seen guarding the gravestones of babies and children, caring for their spirits in death and acting as a mother figure for the lost souls. They are worshipped by the people, as they symbolise kindness, protection and motherly love.
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage2
+}}

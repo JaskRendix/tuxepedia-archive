@@ -1,0 +1,9 @@
+{{Condition
+|TXMN ID=19
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Response to Technique Use={target} gets muddled and does not use {name}!
+|Text When Gained=NAME is confused.
+|Details=Instead of the technique chosen, the Confused monster uses a random technique (from the ones they have available, other than the one chosen) 50% of the time.
+}}

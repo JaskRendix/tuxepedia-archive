@@ -1,0 +1,62 @@
+{{Monster
+|First URL=https://www.deviantart.com/jai-ti/art/FKM-115-Pipehide-116-Batuskin-117-Rokushigon-579273316
+|Sources=Jai-Ti
+|Source Explanation=Designed and illustrated by Jai-Ti.
+|Species=Panpipe
+|Name Origin=''panpipe'' + ''hide''
+|Design Origin=A panpipe hidden in a rock
+|Main Details=Pipehide is a little dragon hiding in a rock. Pipehide will morph into [[Batuskin]] after breaking out of his rock, which is why Batuskin is naked!
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Body Shape=Blob
+|TXMN Blurb=A shy little dragon, when it tucks itself sideways into a rock pile it can sometimes get stepped on by accident as it looks just like one when the bagpipes are hidden.
+|TXMN Height=40
+|TXMN Weight=20
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Mountains, Underground
+|Tags=Rock
+|Fusion First=Pipe
+|Fusion Second=hide
+}}
+{{Evolutions
+|Has Evolution=Batuskin
+|Evolution Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Rock
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Nursery Song
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mudslide
+|Technique_Level=5
+}}
+{{Technique Allocation
+|Has_Technique=Heavy Metal
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=15
+}}
+{{Technique Allocation
+|Has_Technique=Crushing Bite
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Earth Charge
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Rocky Barrage
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Siren
+|Technique_Level=50
+}}

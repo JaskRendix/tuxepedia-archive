@@ -1,0 +1,71 @@
+{{Monster
+|Alternative Names=Samuraibug, Katchon
+|First URL=https://forum.tuxemon.org/thread.php?pid=657
+|Sources=Adam Fegarido, Cavalcadeur, Josepharaoh99, Leo, tamashihoshi
+|Source Explanation=Original design by Leo. Front sprite by Leo and Cavalcadeur. Back sprite by tamashihoshi and josepharaoh99. Face sprites by josepharaoh99. Main art by Adam Fegarido. Other art by tamashihoshi.
+|Species=Honor
+|Evolves=Katacoon
+|Name Origin=''bug'' + ''ronin''
+
+Katchon: ''katana'' + ''piao chong'' (ladybug)
+|SpyderCampaign=Evolves from Katacoon.
+|TXMN Types=Metal, Wood
+|TXMN Sub-Elements=Metal, Venom
+|TXMN Completed=Complete
+|TXMN Body Shape=Brute
+|TXMN ID=58
+|TXMN Blurb=Its sword is actually an antenna grown and snapped off for that purpose.
+|TXMN Height=150
+|TXMN Weight=52
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Woodland
+|Tags=Fists, Bug, Sharp
+|Fusion First=Bug
+|Fusion Second=nin
+}}
+{{Technique Allocation
+|Has_Technique=Clamp On
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Buzz
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Splinter
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Font
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Evasion
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Sting
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Undertaker
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Perfect Cut
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Blade
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Sleep Bomb
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Vorpal
+|Technique_Level=46
+}}

@@ -1,0 +1,11 @@
+{{Item
+|Item Category=Story Item
+|TXMN Usable In=world
+|TXMN Description=It looks like, well, poo ... but it's hard as stone.
+|TXMN Consumable=yes
+|TXMN Key Item=yes
+|Main Details=Turns into [[Coproblight]]. [[Category:Fossil]]
+|SpyderCampaign=Found in Cotton Tunnel (box); bring to the De-Fossilator in Greenwash to revive a Coproblight, or use directly to evolve Vivipere into Vividactil.
+|Sources=Tricoelacanth
+|Source Explanation=Sprite by Tricoelacanth.
+}}

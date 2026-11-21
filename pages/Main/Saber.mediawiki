@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=102
+|TXMN Blurb=The user strikes with a swift and powerful sword-like attack.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Fire
+|TXMN Sub-Elements=Metal
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2.2
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Sharp, Steel
+|Sources=Jaskrendix
+}}

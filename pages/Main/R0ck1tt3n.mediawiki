@@ -1,0 +1,61 @@
+{{Monster
+|Sources=Mircea Kitsune
+|Source Explanation=Based on Rockitten. Adapted by Mircea Kitsune.
+|Species=Glitched
+|Main Details=[[Category:Glitch]]
+|TXMN Types=Earth
+|TXMN Completed=Complete Threat
+|TXMN Body Shape=Hunter
+|TXMN Height=0
+|TXMN Weight=25
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}
+{{Technique_Allocation
+|Has_Technique=Ram
+|Technique_Level=2
+}}
+{{Technique_Allocation
+|Has_Technique=Boulder
+|Technique_Level=2
+}}
+{{Technique_Allocation
+|Has_Technique=Thunderball
+|Technique_Level=6
+}}
+{{Technique_Allocation
+|Has_Technique=Lust
+|Technique_Level=8
+}}
+{{Technique_Allocation
+|Has_Technique=Thunderclap
+|Technique_Level=12
+}}
+{{Technique_Allocation
+|Has_Technique=Fester
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Crystal
+|Technique_Level=20
+}}
+{{Technique_Allocation
+|Has_Technique=Cavity
+|Technique_Level=24
+}}
+{{Technique_Allocation
+|Has_Technique=Tsunami
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Meltdown
+|Technique_Level=32
+}}
+{{Technique_Allocation
+|Has_Technique=Pit
+|Technique_Level=36
+}}
+{{Technique_Allocation
+|Has_Technique=Avalanche
+|Technique_Level=40
+}}

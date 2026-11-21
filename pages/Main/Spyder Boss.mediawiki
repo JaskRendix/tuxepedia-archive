@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Catch Challenger, Sanglorian
+|Source Explanation=Overland sprites by Catch Challenger. Front sprite by Sanglorian.
+|Genre=Modern
+|Combat Type=1 vs 1
+}}

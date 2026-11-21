@@ -1,0 +1,8 @@
+{{Condition
+|Positive or Negative=Positive
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=When attacked, NAME will take revenge.
+|Details=If the monster with this condition is hit with an attack, its attacker takes that much damage and then the monster with this condition heals that much damage.
+|TXMN ID=32
+}}

@@ -1,0 +1,4 @@
+{{Contributor
+|Main Details=Contributed to [[Piacarrot]]'s sprite collection.
+|Contributor Types=Released works under a free and open licence
+}}

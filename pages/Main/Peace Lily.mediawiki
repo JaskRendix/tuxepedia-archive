@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Morph Item
+|TXMN Effects=evolve
+|TXMN Cost=2000
+|TXMN Usable In=world
+|TXMN Description=A hardy indoor plant for someone special.
+|TXMN Consumable=yes
+|SpyderCampaign=Sold at the Candy Scoop tech counter
+}}

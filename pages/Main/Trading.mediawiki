@@ -1,0 +1,5 @@
+Two trainers (two players or one player and an NPC) can trade one monster for another. A monster that is traded may earn [[Experience]] more quickly. 
+
+A traded monster brings across any [[:Category:Item]] it is holding.
+
+Instructions for adding a trade are on the [[Event_Reference#Trading|Event Reference]] page.

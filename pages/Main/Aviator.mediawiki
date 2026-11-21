@@ -1,0 +1,8 @@
+{{Trainer
+|Sources=Sanglorian, Catch Challenger
+|Source Explanation=Front sprite by Sanglorian from the AV8R design by Leo. Overland sprites by Catch Challenger.
+|Genre=Gijinka
+|Combat Type=1 vs 1
+|Main Details=A gijinka of [[Birdbot]]
+}}
+[[Category:Birdbot]]

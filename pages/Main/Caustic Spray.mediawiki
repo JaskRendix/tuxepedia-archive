@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=153
+|TXMN Blurb=The user secretes a corrosive acid that burns the opponent upon contact.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Venom
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=90%
+|TXMN Power=2.2
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Toxic
+|Sources=Jaskrendix
+}}

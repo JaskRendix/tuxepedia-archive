@@ -1,0 +1,2 @@
+Multiply damage by 1
+[[Category:Attack category]]

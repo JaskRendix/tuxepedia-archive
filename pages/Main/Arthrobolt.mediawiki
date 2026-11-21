@@ -1,0 +1,68 @@
+{{Monster
+|Alternative Names=Carabolt,
+|First URL=https://forum.tuxemon.org/thread.php?id=72
+|Sources=Leo, josepharaoh99
+|Source Explanation=Original design by josepharaoh99. Sprites by josepharaoh99. Other art by Leo.
+|Species=Foreman
+|Evolves=Bolt
+|Main Details=Inspired [[Forthrobo]].
+|SpyderCampaign=Evolution of a starting monster. Used by a trainer in Dragon's Cave.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Lightning, Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=6
+|TXMN Blurb=It feels uncomfortable commanding its fellow NUT and BOLT, and usually runs away. But then the NUT and BOLT have no one to instruct them.
+|TXMN Height=110
+|TXMN Weight=125
+|TXMN Catch Resistance=35
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage2
+|Tags=Machine, Bomber, Gadgets, Light, Electricity
+|Fusion First=Arthro
+|Fusion Second=bolt
+}}
+{{Technique Allocation
+|Has_Technique=Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Static Field
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Clamp On
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Beam
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Surge
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Thunderclap
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Magnetic Body
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Laser Beam
+|Technique_Level=43
+}}

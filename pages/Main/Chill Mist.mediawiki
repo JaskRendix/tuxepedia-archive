@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=77
+|TXMN Blurb=The user releases a freezing mist that lowers the opponent's stats.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Frost
+|TXMN Family=Basic
+|TXMN Is fast=Slow
+|TXMN Accuracy=80%
+|TXMN Power=1.5
+|TXMN Effects=splash
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Weather
+|Sources=Sanglorian, Tamashihoshi
+|Source Explanation=Technique by Sanglorian. "Waterspurt" animation by Tamashihoshi.
+|TXMN Is area=True
+}}

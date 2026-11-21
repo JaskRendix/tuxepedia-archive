@@ -1,0 +1,18 @@
+{{#default_form:Condition}}
+
+[http://sanglorian.github.io/downloads/Tuxemon/Conditions%20spec.pdf Detailed spec]
+
+<table><tr><td>
+<table class="invisitable"><tr><td>{{#ask:[[Category:Condition]] 
+|?MainImage
+|?MainImage9px
+|?Positive or Negative
+|?Details
+|order=asc
+}}</td></tr></table>
+</td></tr></table>
+
+
+= Former proposal =
+
+* [[Former condition system]]

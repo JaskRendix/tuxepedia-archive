@@ -1,0 +1,9 @@
+[[Category:Overland Sprite]]
+[[Category:Magician]]
+[[Category:16px]]
+[[Category:Catch Challenger]]
+[[Category:Sanglorian]]
+[[Category:Jaskrendix]]
+[[Category:Alternative]]
+
+Recolored by Jaskrendix. Adapted from a sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.

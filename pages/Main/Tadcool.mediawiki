@@ -1,0 +1,66 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Front sprite by Spalding004. Back and face sprites by Jaskrendix.
+|Species=Alarm
+|Name Origin=Presumably, ''tadpole'' + ''cool''
+|SpyderCampaign=Found in the wild in Lion Mountain. Fished with the Fishing Rod and Neptune.
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Polliwog
+|TXMN ID=268
+|TXMN Blurb=It croaks to warn people when they are walking near thin ice.
+|TXMN Height=25
+|TXMN Weight=1
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Tags=Ice
+|Fusion First=Tad
+|Fusion Second=cool
+}}
+{{Evolutions
+|Has Evolution=Fribbit
+|Evolution Level=32
+}}
+{{Technique_Allocation
+|Has_Technique=Goad
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Geyser
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Grinding
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Flow
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Font
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Starfall
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Tsunami
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Ice Storm
+|Technique_Level=37
+}}

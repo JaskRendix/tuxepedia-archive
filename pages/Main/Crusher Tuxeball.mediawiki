@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Capture Item
+|TXMN Effects=capture
+|TXMN Cost=400
+|TXMN Usable In=combat
+|TXMN Description=This Tuxeball breaks through defenses and increases the catch rate the higher the opposing Tuxemon's defense is. It will fail to catch if a protective condition is in place.
+|TXMN Consumable=yes
+|Sources=Tamashihoshi, Jaskrendix
+|Source Explanation=Original sprite by tamashihoshi. Adapted by Jaskrendix.
+}}

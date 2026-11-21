@@ -1,0 +1,48 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Front sprite by Spalding004. Back and face sprites by Jaskrendix.
+|Species=Roaming
+|Evolves=Thumpurn
+|Name Origin=''volcano'' + ''coney'' (archaic word for rabbit)
+|Design Origin=May be a reference to volcano rabbits, although those animals apparently squeak rather than thump.
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire, Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Varmint
+|TXMN ID=299
+|TXMN Blurb=When VOLCONEY thump the earth with their gigantic feet, they call more and more THUMPURN and VOLCONEY to the warren. But when enough strike the earth at once, it is said to cause volcanic eruptions.
+|TXMN Height=85
+|TXMN Weight=32
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Desert, Grassland, Woodland
+|Tags=Flame, Ground, Calamity
+|Fusion First=Volco
+|Fusion Second=ney
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Mudslide
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Earthquake
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=19
+}}

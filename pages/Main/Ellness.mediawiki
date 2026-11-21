@@ -1,0 +1,61 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/journal/Fakemon-for-Sale-680318198
+|Sources=TheBritanniaRegion
+|Species=Skull
+|Name Origin=''eel'' + ''illness''
+|Design Origin=Eels
+|Main Details=They will often try to steal bones from other Ellness, often resulting in conflict
+|TXMN Types=Water
+|TXMN Sub-Elements=Lightning, Water
+|TXMN Body Shape=Piscine
+|TXMN Blurb=Residing at the bottom of the sea, this tuxemon inhabits the remains of long lost sailors and pirates lost to the ocean. They swarm bodies floating on the surface, before collecting their flesh-stricken bones to add to their collection.
+|TXMN Height=100
+|TXMN Weight=14
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Sea
+|Tags=Darkness, Water, Ghost, Bite
+|Fusion First=Ell
+|Fusion Second=ness
+}}
+{{Evolutions
+|Has Evolution=Moranide
+|Evolution Level=Thunderstone
+}}
+{{Technique Allocation
+|Has_Technique=Buzz
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Infectious Bite
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Water Bullet
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Sphere
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Charge
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Electric Multibite
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Kraken
+|Technique_Level=50
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=55
+}}

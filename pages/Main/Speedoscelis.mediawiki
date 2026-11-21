@@ -1,0 +1,11 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2416
+|Sources=GolanTreviz,
+|Evolves=Quiptail,
+|Name Origin=''speed'' + ''Aspidoscelis'' (scientific name of whiptail lizard genus)
+|Design Origin=Legless lizards
+|Main Details=The Speedoscelis builds itself legs when it evolves.
+|TXMN Types=Earth, Wood
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}

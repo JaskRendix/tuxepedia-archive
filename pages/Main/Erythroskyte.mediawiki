@@ -1,0 +1,77 @@
+{{Monster
+|Alternative Names=Erythrosky
+|First URL=Github
+|Sources=HippasusTwo
+|Species=Erythrocyte
+|Evolves=Doctsky
+|Name Origin=Erythroskyte is a play on 'Erythrocyte' + Doctsky's name containing sky.
+|Design Origin=Hyena, syringes and red blood cells.
+|Main Details=Its metal syringe tail gives it access to a broader TM move pool than its earlier form, however, it loses some of its darker side, so the trainer will have to be careful choosing when to evolve it.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal, Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=361
+|TXMN Blurb=It has a friendly demeanor, but its giant syringe tail nonetheless scares many away.
+|TXMN Height=200
+|TXMN Weight=70
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Grassland, Urban
+|Tags=Healing, Gadgets, Bite, Love, Steel
+|Fusion First=Erythro
+|Fusion Second=skyte
+}}
+{{Technique Allocation
+|Has_Technique=Barking
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ram
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Revenge Stance
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Canine
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Hibernate
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Mystic Blending
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Take Cover
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Life Surge
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Blood Nets
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Fluff Up
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Needle
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=55
+}}

@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Leo, Sanglorian, Superpowers Asset Packs
+|Source Explanation=Front sprite by Leo. Overland sprite by Superpowers Asset Packs, tweaked by Sanglorian.
+|Genre=Sci-Fi
+|Combat Type=1 vs 1
+}}

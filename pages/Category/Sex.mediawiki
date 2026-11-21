@@ -1,0 +1,1 @@
+Tuxemon has three gender types - [[Male]], [[Female]] and [[Neuter]].

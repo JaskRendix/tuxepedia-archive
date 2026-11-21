@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=59
+|TXMN Blurb=A violent explosion of sleeping powder threatens to send both combatants into a doze.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Fire
+|TXMN Type 2=Metal
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=75%
+|TXMN Power=2.25
+|TXMN Effects=noddingoff own_team:enemy_team
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Animation Target=3
+|Tags=Bomber
+|Sources=Sanglorian, Clint Bellanger
+|Source Explanation=Technique by Sanglorian. "Sparks white" animation by Clint Bellanger.
+}}

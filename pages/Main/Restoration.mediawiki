@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Medicine
+|TXMN Effects=restore
+|TXMN Target=player
+|TXMN Cost=400
+|TXMN Usable In=world, combat
+|TXMN Description=Remove any condition currently affecting the target.
+|TXMN Consumable=yes
+|SpyderCampaign=Found in City Park (box); given after the bee-sting event at Cott's Candy Inn; given randomly by Eliane in Candy Town
+}}

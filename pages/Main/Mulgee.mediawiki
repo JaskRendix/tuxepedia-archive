@@ -1,0 +1,57 @@
+{{Monster
+|First URL=https://opengameart.org/content/50-monsters-pack-2d
+|Sources=Isaiah658
+|Source Explanation=Sprites by Isaiah658.
+|Species=Symbiote Shroom
+|TXMN Types=Wood
+|TXMN Sub-Elements=Venom, Wood
+|TXMN Body Shape=Landrace
+|TXMN Blurb=Like the mushrooms it carries, all Mulgee are hermaphrodites.
+|TXMN Height=140
+|TXMN Weight=80
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Woodland
+|Tags=Spore, Toxic
+}}
+{{Technique Allocation
+|Has_Technique=Fungal Spore
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Muck
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Poison Courtship
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Leaf Stab
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Hallucinogen Spore
+|Technique_Level=12
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Amnesia
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Caustic Spray
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Poisonous
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Mind Explosion
+|Technique_Level=32
+}}

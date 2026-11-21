@@ -1,0 +1,7 @@
+{{Condition
+|Positive or Negative=Neither
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Details=The absence of a condition.
+|TXMN ID=0
+}}

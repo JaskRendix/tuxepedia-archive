@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=142
+|TXMN Blurb=The user creates a pit beneath the opponent, causing them to fall and take damage.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Family=Simple
+|TXMN Is fast=Very Slow
+|TXMN Accuracy=80%
+|TXMN Power=2.1
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN Target Condition=Harpooned
+|TXMN Animation Target=1
+|Tags=Ground, Summoner
+|Sources=Jaskrendix
+}}

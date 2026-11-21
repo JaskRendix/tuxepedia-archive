@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=197
+|TXMN Blurb=The user generates a close-ranged blast of electromagnetic energy from its body, striking the opponent with a burst of electric force, dealing damage.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Wood
+|TXMN Type 2=Metal
+|TXMN Sub-Elements=Lightning
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.2
+|TXMN Potency=50%
+|TXMN Recharge=2
+|TXMN Target Condition=Flinching
+|TXMN Animation Target=1
+|Tags=Electricity, Bug
+|Sources=Sanglorian
+}}

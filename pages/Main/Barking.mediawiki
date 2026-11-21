@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=112
+|TXMN Blurb=The user lets out a powerful, intimidating roar that makes the opponent flinch.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=80%
+|TXMN Recharge=2
+|TXMN Target Condition=Flinching
+|TXMN Animation Target=1
+|Tags=Shapeshifter, Fury
+|Sources=Jaskrendix
+}}

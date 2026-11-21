@@ -1,0 +1,143 @@
+<noinclude>
+This is the "Technique" template.
+It should be called in the following format:
+<pre>
+{{Technique
+|TXMN ID=
+|TXMN Blurb=
+|TXMN Completed=
+|TXMN Tech Completed Exists=
+|TXMN Category=
+|TXMN Type 1=
+|TXMN Type 2=
+|TXMN Sub-Elements=
+|TXMN Accuracy=
+|TXMN Power=
+|TXMN Effects=
+|TXMN Healing Power=
+|TXMN Potency=
+|TXMN Recharge=
+|TXMN Is fast=
+|TXMN Is area=
+|TXMN User Condition=
+|TXMN Target Condition=
+|TXMN Animation Target=
+|TXMN Family=
+|Tags=
+|Main Details=
+|Sources=
+|Source Explanation=
+|TXMN_ES Name=
+|TXMN_ES Blurb=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Technique Animation]]
+[[Category:Main]]}} | [[MainAnimation::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Technique Animation]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|thumb]] | [[MainAnimation::Missing| ]] }}
+{| style="width: 30em; font-size: 90%; border: 1px solid #aaaaaa; background-color: #f9f9f9; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: 0.2em; float: right; clear: right; text-align:left;"
+! style="text-align: center; background-color:#ccccff;" colspan="2" |<span style="font-size: larger;">{{PAGENAME}} ([[Tuxemon Episode 1]])</span>
+|-
+! ID
+| [[TXMN ID::{{{TXMN ID|}}}]]
+|-
+! Blurb
+| [[TXMN Blurb::{{{TXMN Blurb|}}}]]
+|-
+! Is completed?
+| [[TXMN Tech Completed::{{{TXMN Completed|}}}]] {{#if: {{{TXMN Completed|}}} | | {{#set:TXMN Tech Completed Exists=No}} }} 
+|-
+! [[Technique Category]]
+| [[TXMN Category::{{{TXMN Category|}}}]]
+|-
+! [[Types]]
+| [[TXMN Type 1::{{{TXMN Type 1|}}}]], [[TXMN Type 2::{{{TXMN Type 2|}}}]]
+|-
+! Element(s)
+| {{#arraymap:{{{TXMN Sub-Elements|}}}|,|x|[[TXMN Element::x]]}}
+|-
+! Call
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Call]]
+[[Category:Main]]}} | [[MainCall::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Call]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}]] | [[MainCall::Missing| ]] }}
+|-
+! [[Technique Family]]
+| {{#arraymap:{{{TXMN Family|}}}|,|x|{{#set:TXMN Family=x}}x}}
+|-
+! [[Tags]]
+| {{#arraymap:{{{Tags|}}}|,|x|[[Tags::x]]}}
+|-
+! Is [[fast]]?  
+| [[TXMN Is fast::{{{TXMN Is fast|}}}]]
+|-
+! Accuracy
+| [[TXMN Accuracy::{{{TXMN Accuracy|}}}]]
+|-
+! Power
+| [[TXMN Power::{{{TXMN Power|}}}]]
+|-
+! Effects
+| [[TXMN Effects::{{{TXMN Effects|}}}]]
+|-
+! Healing Power
+| [[TXMN Healing Power::{{{TXMN Healing Power|}}}]]
+|-
+! Potency
+| [[TXMN Potency::{{{TXMN Potency|}}}]]
+|-
+! Recharge
+| [[TXMN Recharge::{{{TXMN Recharge|}}}]]
+|-
+! User Condition
+| [[TXMN User Condition::{{{TXMN User Condition|}}}]]
+|-
+! Target Condition
+| [[TXMN Target Condition::{{{TXMN Target Condition|}}}]]
+|-
+! [[Animation Target]]
+| [[TXMN Animation Target::
+{{#switch: {{{TXMN Animation Target|}}}
+ | 0 = User
+ | 1 = Target
+ | 2 = Both
+ | 3 = Middle of the screen
+ | #default = Unknown
+}}
+]]
+|}
+{{{Main Details|}}}
+
+== Monsters using this technique ({{#ask: [[Has_Technique::{{PAGENAME}}]] | ? | format=count }}) ==
+{{#ask: [[Has_Technique::{{PAGENAME}}]] | ? | format=list | sep=<br> | link=subject }}
+
+== Attribution ==
+{{#arraymap:{{{Sources|}}}|,|x|[[Sources::x]]}}
+
+[[Source Explanation::{{{Source Explanation|}}}]] 
+
+== In other languages ==
+
+{| class="formtable"
+! Language
+| Name
+| Blurb
+|-
+! Spanish
+| [[TXMN_ES Name::{{{TXMN_ES Name|}}}]]
+| [[TXMN_ES Blurb::{{{TXMN_ES Blurb|}}}]]
+|}
+
+[[Category:Technique]]
+[[Category:{{PAGENAME}}]]
+</includeonly>

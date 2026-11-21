@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Out of Combat Consumable
+|TXMN Cost=1800
+|TXMN Usable In=world
+|TXMN Description=Rest as if you were at a proper healing center. Consumed on use.
+|TXMN Consumable=yes
+|Sources=OceansDream
+|Source Explanation=Sprite by OceansDream.
+}}

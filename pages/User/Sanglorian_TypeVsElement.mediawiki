@@ -1,0 +1,6 @@
+{{#ask:[[TXMN Completed::Complete]] |limit=1000
+|?FrontSprite
+|?TXMN Type
+|?TXMN Element
+|?TXMN ID
+}}

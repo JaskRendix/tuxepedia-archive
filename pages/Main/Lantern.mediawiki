@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=133
+|TXMN Blurb=The user damages the target with bright light.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Heroic
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=90%
+|TXMN Power=1
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Gadgets, Light, Leadership
+|Sources=Jaskrendix
+}}

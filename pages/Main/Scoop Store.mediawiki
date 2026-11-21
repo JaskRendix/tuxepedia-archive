@@ -1,0 +1,151 @@
+== Item Shops ==
+
+=== spyder_paper_scoop ===
+* '''Background''': gfx/ui/item/item_menu_bg.png
+* '''Resale Multiplier''': 0.5
+
+{| class="wikitable"
+! Item !! Cost !! Price
+|-
+| potion || 5 || 20
+|-
+| revive || 20 || 100
+|-
+| tuxeball || 10 || 50
+|}
+
+=== spyder_cotton_scoop ===
+* '''Background''': gfx/ui/item/item_menu_bg.png
+* '''Resale Multiplier''': 0.5
+
+{| class="wikitable"
+! Item !! Cost !! Price
+|-
+| potion || 5 || 20
+|-
+| revive || 20 || 100
+|-
+| tuxeball || 10 || 50
+|}
+
+=== spyder_cotton_tech ===
+* '''Background''': gfx/ui/item/item_menu_bg.png
+* '''Resale Multiplier''': 0.5
+
+{| class="wikitable"
+! Item !! Cost !! Price !! Inventory
+|-
+| miaow_milk || 400 || 2000 ||
+|-
+| pyramidion || 400 || 2000 ||
+|-
+| ox_stick || 400 || 2000 ||
+|-
+| tm_avalanche || 400 || 2000 || 1
+|-
+| tm_blossom || 200 || 1000 || 1
+|}
+
+=== spyder_leather_scoop ===
+* '''Background''': gfx/ui/item/item_menu_bg.png
+* '''Resale Multiplier''': 0.5
+
+{| class="wikitable"
+! Item !! Cost !! Price
+|-
+| super_potion || 10 || 50
+|-
+| revive || 20 || 100
+|-
+| cureall || 50 || 250
+|-
+| tuxeball_noble || 30 || 150
+|-
+| tuxeball_lavish || 40 || 200
+|}
+
+=== spyder_flower_scoop ===
+* '''Background''': gfx/ui/item/item_menu_bg.png
+* '''Resale Multiplier''': 0.5
+
+{| class="wikitable"
+! Item !! Cost !! Price
+|-
+| super_potion || 10 || 50
+|-
+| mega_potion || 50 || 200
+|-
+| revive || 20 || 100
+|-
+| cureall || 50 || 250
+|-
+| tuxeball_lavish || 40 || 200
+|-
+| tuxeball_grand || 50 || 250
+|}
+
+=== spyder_timber_scoop ===
+* '''Background''': gfx/ui/item/item_menu_bg.png
+* '''Resale Multiplier''': 0.5
+
+{| class="wikitable"
+! Item !! Cost !! Price !! Variables
+|-
+| super_potion || 10 || 50 ||
+|-
+| mega_potion || 50 || 200 ||
+|-
+| revive || 20 || 100 ||
+|-
+| cureall || 50 || 250 ||
+|-
+| tuxeball_grand || 50 || 250 ||
+|-
+| tuxeball_majestic || 80 || 400 ||
+|-
+| tuxeball_diurnal || 60 || 300 || daytime=true
+|-
+| tuxeball_nocturnal || 60 || 300 || daytime=false
+|}
+
+=== spyder_candy_scoop ===
+* '''Background''': gfx/ui/item/item_menu_bg.png
+* '''Resale Multiplier''': 0.5
+
+{| class="wikitable"
+! Item !! Cost !! Price !! Variables
+|-
+| mega_potion || 50 || 200 ||
+|-
+| imperial_potion || 100 || 500 ||
+|-
+| revive || 20 || 100 ||
+|-
+| cureall || 50 || 250 ||
+|-
+| tuxeball_majestic || 80 || 400 ||
+|-
+| tuxeball_diurnal || 60 || 300 || daytime=true
+|-
+| tuxeball_nocturnal || 60 || 300 || daytime=false
+|}
+
+=== spyder_candy_tech ===
+* '''Background''': gfx/ui/item/item_menu_bg.png
+* '''Resale Multiplier''': 0.5
+
+{| class="wikitable"
+! Item !! Cost !! Price !! Inventory
+|-
+| peace_lily || 400 || 2000 ||
+|-
+| lucky_bamboo || 400 || 2000 ||
+|-
+| tm_frostbite || 400 || 2000 || 1
+|-
+| tm_supernova || 400 || 2000 || 1
+|-
+| tm_vorpal || 400 || 2000 || 1
+|-
+| tm_acid || 400 || 2000 || 1
+|}

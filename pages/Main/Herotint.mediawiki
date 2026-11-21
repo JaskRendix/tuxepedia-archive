@@ -1,0 +1,27 @@
+{{Monster
+|First URL=https://www.reddit.com/r/fakemon/comments/b35551/a_couple_months_back_i_came_upon_an_opensource/
+|Sources=Chairry-Art, Jaskrendix
+|Source Explanation=Design and front sprite by Chairry-Art. Face sprites by Jaskrendix.
+|Evolves=Delichick
+|Main Details=Based on [[Heronquak]] by [[Leo]].
+
+Comes in two colours. White morphs into Blancron. Blue morphs into Azuron. [[Category:Variant]]
+|TXMN Types=Wood
+|TXMN Body Shape=Flier
+|TXMN Blurb=Eastern-originating Herotint have developed a strong set of aggressive tactics for mauling their prey. Their confrontational nature is in contrast to their delicate bodies.
+
+Western-originating Herotint have developed their evasion in order to trick predators as well as prey, taking advantage of their lithe frames.
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Fusion First=Hero
+|Fusion Second=tint
+}}
+{{Evolutions
+|Has Evolution=Blancron
+|Evolution Level=If white Herotint
+}}
+{{Evolutions
+|Has Evolution=Azuron
+|Evolution Level=If blue Herotint
+}}

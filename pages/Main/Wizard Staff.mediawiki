@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Held Item
+|TXMN Cost=5000
+|TXMN Usable In=combat
+|TXMN Description=The user's ranged strikes are channeled through its touch.
+|Main Details=The user's Ranged techniques become Touch instead.
+|Sources=Ocean, Sanglorian
+|Source Explanation=Sprite by Ocean, recolored and tweaked by Sanglorian.
+}}

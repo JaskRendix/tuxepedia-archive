@@ -1,0 +1,10 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/25-26-Skullorm-Bonetula-665603739
+|Sources=Serpexnessie,
+|TXMN Types=Metal
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Bonetula
+}}

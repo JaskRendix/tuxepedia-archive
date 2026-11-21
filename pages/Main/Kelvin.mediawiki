@@ -1,0 +1,22 @@
+{{Monster
+|First URL=https://github.com/Tuxemon/Tuxemon/issues/410
+|Sources=bitcraft, Kelvin Shadewing,
+|Name Origin=[[Kelvin Shadewing]]
+|Design Origin=Kelvin Shadewing, glitches
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|Main Details=bitcraft had the idea for a Kelvin tuxemon that "corrupts the game in amusing ways as long as you are carrying it. This monster would use a kelvin sprite and would only appear in certain conditions and just for amusement." [[Category:Glitch]]
+
+Kelvin himself made a suggestion: 
+
+The glitchiness will be proportional to my level.
+
+* 8 (start) - Sixth item slot will be negative 1.
+* 16 - Every time a warp is used, the game has a chance of entering/leaving reverse mode, which causes all entities to walk backwards and turn their backs when talking, including the player.
+* 24 - Chance of finding only tuxemon you've caught when entering a new area instead of its assigned encounter list.
+* 32 - All moves have a chance of having their effectiveness randomized.
+* 48 - Main and pause menu items are spelled backwards. Also, player money is randomized every time they open a buy menu.
+* 64 - Player can now walk through walls.
+* 128 - All other tuxemon have level caps raised to 255 permanently.
+* 256 - Tiles are randomized. All warps other than inside your house lead home. Only the player's bedroom is uncorrupted. Placing me in the box does not end corruption. I must be deleted. It is the only way.
+}}

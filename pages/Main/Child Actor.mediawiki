@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Pboop
+|Source Explanation=Overland sprites by pboop.
+|Genre=Modern, Fantasy Historical
+|Combat Type=1 vs 1
+}}

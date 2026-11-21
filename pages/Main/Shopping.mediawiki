@@ -1,0 +1,86 @@
+What shops can buy and sell, and the prices they charge and pay, are set in "economy" files. These are yaml files, which can contain the entries for multiple shops. For example, spyder_scoops.yaml has the inventories of all the [[Scoop Store]]s in [[The Spyder in the Cathedral]] campaign. 
+
+== Example store ==
+
+Here is an example store: 
+
+<pre>
+- background: gfx/ui/item/item_menu_bg.png
+  items:
+  - cost: 50
+    slug: repellent
+    price: 100
+  - cost: 50
+    slug: potion
+    price: 100
+  - cost: 50
+    slug: tuxeball
+    price: 100
+  - cost: 200
+    slug: restoration
+    price: 400
+  - cost: 300
+    slug: escape_key
+    price: 600
+  monsters: []
+  resale_multiplier: 0.5
+  slug: spyder_cotton_scoop
+</pre>
+
+== Explanation ==
+
+=== For the shop as a whole ===
+
+* '''background''': Is the path to the background sprite. The default is "gfx/ui/item/item_menu_bg.png"
+* '''slug''': Unique identifier for the shop itself (example: "spyder_cotton_scoop"). In map files, this slug is used to assign the economy to an NPC and then open the shop when the player interacts with the NPC. The slug must have a translation entry in base.po with msgid = slug.
+* '''items''': List of items available in this economy
+* '''monsters''': List of monsters available in this economy
+* '''resale_multiplier''': When the player sells an item to the shop, the amount the shop pays is the item's default cost times by this number. For example, if the shop's resale_multiplier is 0.5, then the player only gets $50 for selling an item with a value of $100. 
+
+=== For each item ===
+
+* '''slug''': Slug of the item (must exist in the item database)
+* '''price''': How much the player must pay to purchase the item
+* '''cost''': How much the player makes from selling the item to that shopkeeper. This over-rules the shop's generic resale_multiplier, so for example you could have a shop pay 50% of value for most items, but 100% of value for certain rare or sought-after items.
+* '''inventory''': Quantity available (if unspecified or set to -1, unlimited number available)
+* '''variables''': Optional list of GameCondition entries affecting the item (must be non-empty if provided)
+
+Variables can be used to make items available only under certain conditions, for example only during daytime or nighttime, only if the player has completed a certain part of the game, only 
+
+=== Monsters ===
+Shops can also sell monsters, which works similarly to selling items: 
+
+* '''slug''': Slug of the monster (must exist in the monster database)
+* '''price''': How much the player must pay to purchase the item
+* '''cost''': How much the player makes from selling the item to that shopkeeper. 
+* '''inventory''': Quantity available (if unspecified, only 1 is available)
+* '''level''': Minimum level of the monster (must be greater than 0)
+* '''variables''': Optional list of GameCondition entries affecting the monster (must be non-empty if provided)
+
+== Map Events ==
+When it comes to map events (see also [[Event Reference Action]]), economies are assigned to an NPC and then interactions with that NPC open the shop:
+
+<pre>
+  Create Shopkeeper:
+    actions:
+    - create_npc spyder_shopassistant,1,6
+    - char_face spyder_shopassistant,right
+    - set_economy spyder_shopassistant,spyder_flower_scoop
+    conditions:
+    - not char_exists spyder_shopassistant
+    type: event
+</pre>
+
+<pre>
+  Open Shop 1:
+    actions:
+    - char_face spyder_shopassistant,right
+    - translated_dialog spyder_scoop_welcome
+    - open_shop spyder_shopassistant,both_item
+    conditions:
+    - is char_facing_tile player
+    - is button_pressed INTERACT
+    type: event
+    x: 2
+    y: 6
+</pre>

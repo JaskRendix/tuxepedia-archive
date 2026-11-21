@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=48
+|TXMN Blurb=The user draws energy from a mystical font to heal itself.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Water
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.25
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN User Condition=recovering
+|TXMN Animation Target=0
+|Tags=Water, Healing
+|Sources=Sanglorian, Tamashihoshi
+|Source Explanation=Technique by Sanglorian. "Waterspurt" animation by Tamashihoshi.
+}}

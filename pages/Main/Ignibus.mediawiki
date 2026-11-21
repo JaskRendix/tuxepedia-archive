@@ -1,0 +1,64 @@
+{{Monster
+|Alternative Names=Amgam, Magmaturtle, Turibus
+|First URL=https://forum.tuxemon.org/thread.php?id=43
+|Sources=Cavalcadeur, HippasusTwo, Leo, Sanglorian
+|Source Explanation=Originally design by Cavalcadeur. Other art by Leo. Front sprite by Leo. Back and face sprites by Sanglorian. Other sprites by Cavalcadeur, HippasusTwo and Sanglorian. Name by josepharaoh99.
+|Species=Hot Rock
+|Name Origin=''ignite'' + ''turturibus'' (Latin, ''turtle'')
+|Main Details=[[Category:Starting Tuxemon]]
+== The Spyder in the Cathedral ==
+One of the [[new releases]].
+|SpyderCampaign=Starting tuxemon for the Rival. Used by trainers in Route 3, Route 6 and Tunnel B. Traded in Flower City. Fished with the Fishing Rod or Neptune.
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Completed=Complete
+|TXMN Body Shape=Leviathan
+|TXMN ID=30
+|TXMN Blurb=When threatened it retreats into its shell and cools down dramatically by venting steam. It could be mistaken for a rock.
+|TXMN Height=68
+|TXMN Weight=27
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Desert, Mountains
+|Tags=Flame, Rock, Bite, Bomber
+|Fusion First=Igni
+|Fusion Second=bus
+|TXMN_FR Blurb=Quand elle se sent menacée, elle se cache dans sa carapace et se refroidit très vite en expulsant de la vapeur. On pourrait la prendre pour un rocher.
+}}
+{{Evolutions
+|Has Evolution=Eruptibus
+|Evolution Level=Earth Booster
+}}
+{{Evolutions
+|Has Evolution=Embazook
+|Evolution Level=Metal Booster
+}}
+{{Evolutions
+|Has Evolution=Eruptibus
+|Evolution Level=Tectonic Drill
+}}
+{{Evolutions
+|Has Evolution=Embazook
+|Evolution Level=Stovepipe
+}}
+{{Technique Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Boulder
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Tinder
+|Technique_Level=13
+}}

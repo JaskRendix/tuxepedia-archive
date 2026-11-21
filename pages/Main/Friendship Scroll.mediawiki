@@ -1,0 +1,7 @@
+{{Item
+|Item Category=Functional Item
+|TXMN Description=It allows to deepen your relationship with the monsters.
+|TXMN Key Item=yes
+|Main Details=When given to the player, this item enables the [[Bonding]] mechanic.
+|SpyderCampaign=Given at the start of the first rival battle in Paper Town
+}}

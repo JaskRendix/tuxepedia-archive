@@ -1,0 +1,15 @@
+{{Monster
+|Sources=Georg Eckert
+|Source Explanation=Designed and sprited by Georg Eckert.
+|Species=Wormwolf
+|Evolves=Wuppy
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire, Shadow
+|TXMN Body Shape=Hunter
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}
+{{Evolutions
+|Has Evolution=Deemog
+|Evolution Level=30
+}}

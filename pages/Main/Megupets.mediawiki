@@ -1,0 +1,4 @@
+{{Contributor
+|Main Website=https://opengameart.org/users/megupets
+|Contributor Types=Released works under a free and open licence
+}}

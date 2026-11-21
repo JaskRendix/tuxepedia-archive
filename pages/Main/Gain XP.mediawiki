@@ -1,0 +1,3 @@
+{{Effect
+|Details=Gain power XP.
+}}

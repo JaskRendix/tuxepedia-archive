@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Superpowers Asset Packs, Tamashihoshi, Sanglorian, Catch Challenger
+|Source Explanation=Original design by Superpowers Asset Packs. Front sprite by tamashihoshi. Overland sprite by Catch Challenger, tweaked by Sanglorian.
+|Genre=Modern
+|Combat Type=1 vs 1
+}}

@@ -1,0 +1,238 @@
+'''Chimaera & Manticore Campaigns'''
+
+Both versions share the same 13‑Gym League, but differ in encounter tables, version exclusives, and late‑game narrative details.
+
+= Gym League Overview =
+
+The League is distributed across '''six major cities''', each hosting '''two Gyms''', plus a final Heroic Gym located in a dedicated end‑game area.  
+This structure reduces mapping workload while keeping progression clear and consistent across both campaigns.
+
+Collecting all '''13 Badges''' grants access to the '''Champion’s Tournament''', replacing the traditional Elite Four.
+
+= City Structure =
+
+Below are the cities used in both campaigns, with short etymology notes and flavour descriptions.
+
+* '''Hearthrock City''' — Normal & Earth  
+: *Etymology:* “Hearth” for warmth, “rock” for stability.  
+
+* '''Steamshore City''' — Water & Fire  
+: *Etymology:* “Steam” from heat, “shore” from the coast.  
+
+* '''Thornwood City''' — Wood & Venom  
+: *Etymology:* “Thorn” for sharp growth, “wood” for the forest.  
+
+* '''Stormpeak City''' — Frost & Lightning  
+: *Etymology:* “Storm” for rough weather, “peak” for height.  
+
+* '''Aerolume City''' — Metal & Sky  
+: *Etymology:* “Aero” for air, “lume” for shine.  
+
+* '''Umbrastar City''' — Shadow & Cosmic  
+: *Etymology:* “Umbra” for shade, “star” for the night sky.  
+
+* '''Valorhold City''' — Heroic (Final Area)  
+: *Etymology:* “Valor” for courage, “hold” for a strong place.  
+
+= Map Progression =
+
+Below is the full travel order used in both campaigns, listing each city and the route that follows it.  
+All maps use the naming format: ''mods/tuxemon/maps/classic_<name>.tmx''
+
+== City and Route Layout ==
+
+=== Main path (Hearthrock → Umbrastar) ===
+* '''Hearthrock City''' → ''mods/tuxemon/maps/classic_hearthrock_city.tmx''
+* '''Route 1''' → ''mods/tuxemon/maps/classic_route_1.tmx''
+* '''Steamshore City''' → ''mods/tuxemon/maps/classic_steamshore_city.tmx''
+* '''Route 2''' → ''mods/tuxemon/maps/classic_route_2.tmx''
+* '''Thornwood City''' → ''mods/tuxemon/maps/classic_thornwood_city.tmx''
+* '''Route 5''' → ''mods/tuxemon/maps/classic_route_5.tmx''
+* '''Aerolume City''' → ''mods/tuxemon/maps/classic_aerolume_city.tmx''
+* '''Route 6''' → ''mods/tuxemon/maps/classic_route_6.tmx''
+* '''Umbrastar City''' → ''mods/tuxemon/maps/classic_umbrastar_city.tmx''
+
+=== Northern branch (from Thornwood to Stormpeak) ===
+* '''Route 3''' → ''mods/tuxemon/maps/classic_route_3.tmx''
+* '''Route 4''' → ''mods/tuxemon/maps/classic_route_4.tmx''
+* '''Stormpeak City''' → ''mods/tuxemon/maps/classic_stormpeak_city.tmx''
+
+=== Southern loop (Hearthrock ↔ Valorhold) ===
+* '''Route 8''' → ''mods/tuxemon/maps/classic_route_8.tmx''
+* '''Valorhold City''' → ''mods/tuxemon/maps/classic_valorhold_city.tmx''
+* '''Route 7''' → ''mods/tuxemon/maps/classic_route_7.tmx''
+
+== Region Map ==
+<pre>
+                     [ Stormpeak City ]
+                            |
+                            |
+                        [ Route 4 ]
+                            |
+                            |
+                        [ Route 3 ]
+                            |
+                            |
+                    [ Thornwood City ]----[ Route 5 ]----[ Aerolume City ]----[ Route 6 ]----[ Umbrastar City ]
+                            ^
+                            |
+                        [ Route 2 ]
+                            |
+                            |
+                     [ Steamshore City ]
+                            |
+                            |
+                        [ Route 1 ]
+                            |
+                            |
+                     [ Hearthrock City ]
+                            |
+                            |
+                        [ Route 8 ]
+                            |
+                            |
+                     [ Valorhold City ]
+                            |
+                            |
+                        [ Route 7 ]
+                            |
+                            |
+                    (returns to Thornwood City)
+</pre>
+
+= Gyms =
+
+== 1. Normal Gym ==
+* '''Leader:''' Mila  
+* '''Badge:''' Harmony Badge  
+* '''Map:''' ''classic_gym_mila.tmx''  
+* '''Order:''' 1st Gym  
+* '''City:''' Hearthrock City  
+* '''Notes:'''  
+''' Monster roster: '''TBD'''  
+''' Dialogue keys: ''classic_gym_leader_mila_pre'', ''classic_gym_leader_mila_post''
+
+== 2. Earth Gym ==
+* '''Leader:''' Granite  
+* '''Badge:''' Bedrock Badge  
+* '''Map:''' ''classic_gym_granite.tmx''  
+* '''Order:''' 2nd Gym  
+* '''City:''' Hearthrock City  
+* '''Notes:'''  
+''' Monster roster: '''TBD'''  
+''' Dialogue keys: ''classic_gym_leader_granite_pre'', ''classic_gym_leader_granite_post''
+
+== 3. Water Gym ==
+* '''Leader:''' Marin  
+* '''Badge:''' Tidal Badge  
+* '''Map:''' ''classic_gym_marin.tmx''  
+* '''Order:''' 3rd Gym  
+* '''City:''' Steamshore City  
+* '''Notes:'''  
+''' Monster roster: '''TBD'''  
+''' Dialogue keys: ''classic_gym_leader_marin_pre'', ''classic_gym_leader_marin_post''
+
+== 4. Fire Gym ==
+* '''Leader:''' Pyra  
+* '''Badge:''' Inferno Badge  
+* '''Map:''' ''classic_gym_pyra.tmx''  
+* '''Order:''' 4th Gym  
+* '''City:''' Steamshore City  
+* '''Notes:'''  
+''' Monster roster: '''TBD'''  
+''' Dialogue keys: ''classic_gym_leader_pyra_pre'', ''classic_gym_leader_pyra_post''
+
+== 5. Wood Gym ==
+* '''Leader:''' Sylva  
+* '''Badge:''' Everleaf Badge  
+* '''Map:''' ''classic_gym_sylva.tmx''  
+* '''Order:''' 5th Gym  
+* '''City:''' Thornwood City  
+* '''Notes:'''  
+''' Monster roster: '''TBD'''  
+''' Dialogue keys: ''classic_gym_leader_sylva_pre'', ''classic_gym_leader_sylva_post''
+
+== 6. Venom Gym ==
+* '''Leader:''' Vyre  
+* '''Badge:''' Venomthorn Badge  
+* '''Map:''' ''classic_gym_vyre.tmx''  
+* '''Order:''' 6th Gym  
+* '''City:''' Thornwood City  
+* '''Notes:'''  
+''' Monster roster: '''TBD'''  
+''' Dialogue keys: ''classic_gym_leader_vyre_pre'', ''classic_gym_leader_vyre_post''
+
+== 7. Frost Gym ==
+* '''Leader:''' Astra  
+* '''Badge:''' Frostbite Badge  
+* '''Map:''' ''classic_gym_astra.tmx''  
+* '''Order:''' 7th Gym  
+* '''City:''' Stormpeak City  
+* '''Notes:'''  
+''' Monster roster: '''TBD'''  
+''' Dialogue keys: ''classic_gym_leader_astra_pre'', ''classic_gym_leader_astra_post''
+
+== 8. Lightning Gym ==
+* '''Leader:''' Voltessa  
+* '''Badge:''' Thundercoil Badge  
+* '''Map:''' ''classic_gym_voltessa.tmx''  
+* '''Order:''' 8th Gym  
+* '''City:''' Stormpeak City  
+* '''Notes:'''  
+''' Monster roster: '''TBD'''  
+''' Dialogue keys: ''classic_gym_leader_voltessa_pre'', ''classic_gym_leader_voltessa_post''
+
+== 9. Metal Gym ==
+* '''Leader:''' Ferrum  
+* '''Badge:''' Alloy Badge  
+* '''Map:''' ''classic_gym_ferrum.tmx''  
+* '''Order:''' 9th Gym  
+* '''City:''' Aerolume City  
+* '''Notes:'''  
+''' Monster roster: '''TBD'''  
+''' Dialogue keys: ''classic_gym_leader_ferrum_pre'', ''classic_gym_leader_ferrum_post''
+
+== 10. Sky Gym ==
+* '''Leader:''' Zephra  
+* '''Badge:''' Stratos Badge  
+* '''Map:''' ''classic_gym_zephra.tmx''  
+* '''Order:''' 10th Gym  
+* '''City:''' Aerolume City  
+* '''Notes:'''  
+''' Monster roster: '''TBD'''  
+''' Dialogue keys: ''classic_gym_leader_zephra_pre'', ''classic_gym_leader_zephra_post''
+
+== 11. Shadow Gym ==
+* '''Leader:''' Shade  
+* '''Badge:''' Nightfall Badge  
+* '''Map:''' ''classic_gym_shade.tmx''  
+* '''Order:''' 11th Gym  
+* '''City:''' Umbrastar City  
+* '''Notes:'''  
+''' Monster roster: '''TBD'''  
+''' Dialogue keys: ''classic_gym_leader_shade_pre'', ''classic_gym_leader_shade_post''
+
+== 12. Cosmic Gym ==
+* '''Leader:''' Orion  
+* '''Badge:''' Nebula Badge  
+* '''Map:''' ''classic_gym_orion.tmx''  
+* '''Order:''' 12th Gym  
+* '''City:''' Umbrastar City  
+* '''Notes:'''  
+''' Monster roster: '''TBD'''  
+''' Dialogue keys: ''classic_gym_leader_orion_pre'', ''classic_gym_leader_orion_post''
+
+== 13. Heroic Gym ==
+* '''Leader:''' Sir Bravion  
+* '''Badge:''' Valor Badge  
+* '''Map:''' ''classic_gym_bravion.tmx''  
+* '''Order:''' 13th Gym (Final Badge)  
+* '''Location:''' Valorhold Citadel  
+* '''Notes:'''  
+''' Monster roster: '''TBD'''  
+''' Dialogue keys: ''classic_gym_leader_bravion_pre'', ''classic_gym_leader_bravion_post''
+
+= Champion’s Tournament =
+
+After earning all '''13 Badges''', the player gains access to the '''Champion’s Tournament''', a multi‑round competition held in the League’s central arena.  
+This serves as the final challenge of both the Chimaera and Manticore campaigns.

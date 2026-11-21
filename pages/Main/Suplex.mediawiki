@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=184
+|TXMN Blurb=A powerful grappling move that throws the opponent to the ground, inflicting damage and granting the user increased resilience.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Metal
+|TXMN Family=Reserved
+|TXMN Is fast=Fast
+|TXMN Accuracy=95%
+|TXMN Power=2
+|TXMN Potency=50%
+|TXMN Recharge=3
+|TXMN User Condition=Diehard
+|TXMN Target Condition=Exhausted
+|TXMN Animation Target=1
+|Tags=Reserved
+|Main Details=[[Reserved technique]] for [[Sumchon]]. [[Category:Reserved technique]]
+|Sources=Sanglorian
+}}

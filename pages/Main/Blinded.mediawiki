@@ -1,0 +1,10 @@
+{{Condition
+|TXMN ID=17
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME is blinded.
+|Speed Multiplier=0.5
+|Dodge Multiplier=0.5
+|Details=Speed and Dodge halved.
+}}

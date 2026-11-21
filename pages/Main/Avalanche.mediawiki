@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=33
+|TXMN Blurb=The user gathers momentum before unleashing a devastating avalanche of ice and rock.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Family=Powerful
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=80%
+|TXMN Power=2.25
+|TXMN Effects=splash
+|TXMN Potency=80%
+|TXMN Recharge=3
+|TXMN Target Condition=exhausted
+|TXMN Animation Target=3
+|Tags=Calamity, Ice, Rock
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. Animation by Superpowers Asset Packs.
+|TXMN Is area=True
+}}

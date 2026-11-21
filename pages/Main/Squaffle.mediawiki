@@ -1,0 +1,48 @@
+{{Monster
+|Sources=Jaskrendix, Kelvin Shadewing
+|Species=Waffled
+|Evolves=Bakorn
+|Name Origin="Squaffle" combines squirrel and waffle, directly referencing its appearance and lore. The name evokes whimsy and nostalgia, perfect for a creature that bridges nature and culinary history.
+|Main Details=Squaffle's waffle-patterned body is a marvel of nature and inspiration. Legends say its unique texture inspired the invention of waffles centuries ago. Despite its bulky form, it’s surprisingly agile and emits a warm, syrupy scent when content.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Normal, Wood
+|TXMN Body Shape=Varmint
+|TXMN Blurb=Over two centuries ago, Squaffle inspired what we now know as the waffle.
+|TXMN Height=110
+|TXMN Weight=18
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Ruins, Urban, Woodland
+|Tags=Food
+|Fusion First=Squaf
+|Fusion Second=Fle
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Roll
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Food Fight
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Tail Lash
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Shapechange
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Burrow Blast
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Woodsmash
+|Technique_Level=40
+}}

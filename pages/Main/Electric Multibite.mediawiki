@@ -1,0 +1,23 @@
+{{Technique
+|TXMN ID=220
+|TXMN Blurb=The user bites repeatedly while channeling electricity. May shock the target.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Water
+|TXMN Type 2=Fire
+|TXMN Sub-Elements=Lightning
+|TXMN Family=Exotic
+|TXMN Is fast=Fast
+|TXMN Accuracy=90%
+|TXMN Power=1.2
+|TXMN Effects=Multi attack 2
+|TXMN Potency=15%
+|TXMN Recharge=3
+|TXMN Target Condition=Slow
+|TXMN Animation Target=1
+|Tags=Bite, Electricity
+|Main Details=Eels have two jaws, the tuxemon Snaki evolutionary line also has multiple heads and there is an eel tuxemon.
+
+So if it hits 2 times, it will do 2.4 power. This is a decent middle-game move, or if we made it hit 3 times it would be a powerful endgame move with effectively 3.6 power (I'd lower the accuracy for that in that instance).
+|Sources=Jaskrendix, HippasusTwo
+}}

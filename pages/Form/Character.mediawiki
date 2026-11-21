@@ -1,0 +1,30 @@
+<noinclude>
+This is the "Character" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Character}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Character}}}
+{| class="formtable"
+! Trainer Class: 
+| {{{field|Trainer Class}}}
+|-
+! Sources: 
+| {{{field|Sources}}}
+|-
+! Source Explanation: 
+| {{{field|Source Explanation|rows=3|autogrow|input type=textarea|}}}
+|-
+! Main Details: 
+| {{{field|Main Details|rows=6|autogrow|input type=textarea|}}}
+|}
+{{{end template}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

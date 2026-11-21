@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=180
+|TXMN Blurb=Fly high out of reach, then dive with a powerful attack.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Wood
+|TXMN Type 2=Earth
+|TXMN Sub-Elements=Sky
+|TXMN Family=Special
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=80%
+|TXMN Power=1
+|TXMN Effects=Disappear Hawk
+|TXMN Potency=100%
+|TXMN Recharge=4
+|TXMN Animation Target=0
+|Tags=Bird
+|Main Details=[[Altitude]] is flying off and it's followed by [[Hawk]] where the monster lands. The monster is unable to fly off if under the effect [[Stuck]] or [[Grabbed]].
+|Sources=Jaskrendix, Sanglorian
+}}

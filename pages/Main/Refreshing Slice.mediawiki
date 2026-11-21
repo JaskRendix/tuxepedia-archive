@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Held Item
+|TXMN Effects=Immune Exhausted
+|TXMN Target=player
+|TXMN Usable In=world, combat
+|TXMN Description=Take a juicy bite and feel the fatigue melt away. Exhaustion doesn’t stand a chance against this revitalizing treat!
+|SpyderCampaign=Given randomly by Eliane in Candy Town
+|Sources=Sanglorian, Henrique Lazarini
+|Source Explanation=Adapted by Sanglorian from a sprite by Henrique Lazarini
+}}

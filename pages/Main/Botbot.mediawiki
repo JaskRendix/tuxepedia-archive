@@ -1,0 +1,64 @@
+{{Monster
+|Sources=Leo, Sanglorian
+|Source Explanation=Original design by Leo. Sprites by Sanglorian.
+|Species=Socket
+|Main Details=When Botbot is equipped with Booster Tech, it evolves into the evolution of your choice. When it stops holding the Booster Tech for whatever reason, it devolves to Botbot again.
+
+The names of several morphs of Botbot are [https://en.wikipedia.org/wiki/Gramogram gramograms] or other rebuses, where the letters/numbers spell out the name when read.
+|SpyderCampaign=Used by a trainer in Wayfarer Inn. Offered in Wayfarer Inn.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Grub
+|TXMN ID=125
+|TXMN Blurb=It is a universal robot that can be adapted for any purpose.
+|TXMN Height=40
+|TXMN Weight=4
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Urban
+|Tags=Machine
+|Fusion First=Bot
+|Fusion Second=bot
+}}
+{{Evolutions
+|Has Evolution=K9
+|Evolution Level=Booster Tech
+}}
+{{Evolutions
+|Has Evolution=B-ver.1
+|Evolution Level=Booster Tech
+}}
+{{Evolutions
+|Has Evolution=PiCC
+|Evolution Level=Booster Tech
+}}
+{{Evolutions
+|Has Evolution=mRmOswitch
+|Evolution Level=Booster Tech
+}}
+{{Evolutions
+|Has Evolution=AV8R
+|Evolution Level=Booster Tech
+}}
+{{Technique_Allocation
+|Has_Technique=Beam
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Levitate
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Strike
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Radiance
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Battery Discharge
+|Technique_Level=13
+}}

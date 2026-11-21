@@ -1,0 +1,20 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=1400
+|TXMN Usable In=world
+|TXMN Description=Flaky wrap filled with tangy beastmoss. Delicate layers with a bold, earthy center.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Meal Dust]]: 1
+* [[Sweetroot]]: 1
+* [[Mistflour Eggs]]: 1
+* [[Suncrust Butter]]: 1
+* [[Zestsap]]: 1
+* [[Crackle Salt]]: 1
+
+Possible Outputs:  
+* [[Phyllo]], 1, 0.9  
+* [[Bite Of Despair]], 1, 0.1
+|Sources=Jaskrendix
+}}

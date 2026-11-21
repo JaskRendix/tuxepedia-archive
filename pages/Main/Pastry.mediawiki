@@ -1,0 +1,19 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=1200
+|TXMN Usable In=world
+|TXMN Description=Flaky pastry filled with a spicy sweetroot swirl. Buttery folds with a firecracker heart.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Meal Dust]]: 2
+* [[Sweetroot]]: 1
+* [[Mistflour Eggs]]: 2
+* [[Suncrust Butter]]: 1
+* [[Spice Dust]]: 1
+
+Possible Outputs:  
+* [[Pastry]], 1, 0.9  
+* [[Bite Of Despair]], 1, 0.1
+|Sources=Jaskrendix
+}}

@@ -1,0 +1,3 @@
+Multiply damage by User Melee/Target Dodge
+
+[[Category:Attack category]]

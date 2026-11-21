@@ -1,0 +1,55 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/007-009-Nebufin-Galasces-Novaquarius-665601928
+|Sources=HippasusTwo, Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Back and face sprites adapted by Jaskrendix.
+|Species=Sea Angel
+|Name Origin=''nebula'' + ''fin''
+|Design Origin=The sea angel (a type of sea slug).
+|TXMN Types=Metal, Water
+|TXMN Sub-Elements=Venom, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Polliwog
+|TXMN ID=319
+|TXMN Blurb=NEBUFIN's angelic appearance is deceptive, as the monster is predatory.
+|TXMN Height=20
+|TXMN Weight=0.5
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Sea
+|Tags=Celestial, Water, Toxic, Gemstone
+|Fusion First=Nebu
+|Fusion Second=fin
+}}
+{{Evolutions
+|Has Evolution=Galasces
+|Evolution Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Rot
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Crystal
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Venomous Tentacle
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Poisonous
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Summon Water Spirits
+|Technique_Level=30
+}}

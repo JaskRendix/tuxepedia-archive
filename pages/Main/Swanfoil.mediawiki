@@ -1,0 +1,20 @@
+{{Monster
+|First URL=https://www.deviantart.com/mjco/art/Fakemon-Sale-Adoption-788243398
+|Sources=Jaskrendix, mjco
+|Source Explanation=Design and front sprites by mjco. Face sprites adapted by Jaskrendix.
+|Species=Aluminium
+|Evolves=Foilett
+|Name Origin=''swan'' + ''foil''
+|Design Origin=A tinfoil swan (for leftovers)
+|Main Details=SWANFOIL is a swan, featuring a sleek, elongated neck and a shimmering body adorned with elegant swirls.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Body Shape=Flier
+|TXMN Height=60
+|TXMN Weight=15
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|Fusion First=Swan
+|Fusion Second=foil
+}}

@@ -1,0 +1,8 @@
+{{Monster
+|Sources=Georg Eckert, Jaskrendix, Sanglorian
+|Source Explanation=Designed and sprited by Georg Eckert. Resized by Sanglorian. Face sprites by Jaskrendix.
+|Evolves=Eggatch
+|Name Origin=''owl'' + ''lock''
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}

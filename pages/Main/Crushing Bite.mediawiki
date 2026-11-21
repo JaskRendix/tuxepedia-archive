@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=216
+|TXMN Blurb=The user bites down with bone-crushing force. May leave the target unable to act.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Family=Simple
+|TXMN Is fast=Very Slow
+|TXMN Accuracy=90%
+|TXMN Power=1.8
+|TXMN Potency=20%
+|TXMN Recharge=2
+|TXMN Target Condition=Stuck
+|TXMN Animation Target=1
+|Tags=Bite
+|Main Details=Could be a good move for Shammer? Feel free to tweak the move.
+|Sources=Jaskrendix, HippasusTwo
+}}

@@ -1,0 +1,16 @@
+'''Bonding''' measures how fond a monster is of its owner. It ranges between 0 and 100. 
+
+A monster gains 1 bond for every 1,000 [[Steps]] taken, and loses 10 bond every time it faints in battle.
+
+A newly-captured or traded monster has a Bond of 25. 
+
+The bonding mechanics need to be activated for each campaign, by giving the [[Friendship Scroll]] to the player. 
+
+On a tuxemon's info page, their level of bond is shown with an icon:
+[[File:Bond-Sheet.png]]
+
+=== Ideas ===
+
+* Bond is not displayed, but a general sentence is: "X despises [player name]" (Bond 0-20), "X is wary of [player name]" (Bond 21-50), "X gets along with [player name]" (Bond 51-75), "X adores [player name]" (Bond 76-100). 
+* Items that improve or worsen Bond
+* Mini-games you can play with your monsters to improve their Bond

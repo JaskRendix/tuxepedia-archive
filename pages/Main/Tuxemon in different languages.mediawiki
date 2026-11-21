@@ -1,0 +1,12 @@
+There are {{#ask:[[TXMN Completed::Complete]] | format=count}} completed tuxemon so far.
+
+If you have any proposal, feel free to share (Discord or GitHub)
+
+== Main languages names (DE - ES - FR - PT) ==
+
+<table class="invisitable"><tr><td>{{#ask:[[TXMN Completed::Complete]] |limit=300
+|?TXMN_DE Name
+|?TXMN_ES Name
+|?TXMN_FR Name
+|?TXMN_PT Name
+}}</td></tr></table>

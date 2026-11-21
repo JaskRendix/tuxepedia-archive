@@ -1,0 +1,12 @@
+{{Item
+|Item Category=Out of Combat Consumable
+|TXMN Effects=Increase Speed
+|TXMN Target=player
+|TXMN Cost=10000
+|TXMN Usable In=world
+|TXMN Description=Learn the reflexes of the spinel. Train Speed.
+|TXMN Consumable=yes
+|Main Details=Raises Speed by 50 Training Points.
+|Sources=Clint Bellanger
+|Source Explanation=Sprite by Clint Bellanger.
+}}

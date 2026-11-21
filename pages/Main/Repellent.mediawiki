@@ -1,0 +1,11 @@
+{{Item
+|Item Category=Out of Combat Consumable
+|TXMN Effects=repellent
+|TXMN Target=player
+|TXMN Usable In=world
+|TXMN Description=Deter wild encounters with this stinky spray.
+|TXMN Consumable=yes
+|SpyderCampaign=For sale in Cotton, Leather, Timber and Candy stores.
+|Sources=Sanglorian, JaskRendix
+|Source Explanation=Effect programmed by JaskRendix.
+}}

@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Capture Item
+|TXMN Effects=capture
+|TXMN Cost=300
+|TXMN Usable In=combat
+|TXMN Description=This odd Tuxeball increases the chance of succeeding if the opposing Tuxemon is a different type than yours, but has a decreased chance if they are the same type.
+|TXMN Consumable=yes
+|Sources=Tamashihoshi, Jaskrendix
+|Source Explanation=Original sprite by tamashihoshi. Adapted by Jaskrendix.
+}}

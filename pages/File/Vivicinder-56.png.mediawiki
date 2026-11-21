@@ -1,0 +1,9 @@
+== Summary ==
+[[Category:56px]]
+[[Category:Main]]
+[[Category:Front Sprite]]
+[[Category:Catch Challenger]]
+[[Category:Vivicinder]]
+[[Category:Sanglorian]]
+
+Devamped by Sanglorian from a sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.

@@ -1,0 +1,10 @@
+{{Condition
+|TXMN ID=8
+|Positive or Negative=Positive
+|Response to Positive Condition=(Charging remains)
+|Response to Negative Condition=(Charging remains)
+|Response to Technique Use=Charged Up
+|Response to Item Use=Charged Up
+|Text When Gained=NAME is charging power.
+|Details=Only role is to delay Charged Up.
+}}

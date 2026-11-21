@@ -1,0 +1,69 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert, HippasusTwo
+|Source Explanation=Designed and sprited by Georg Eckert. Front sprite by HippasusTwo.
+|Species=Flower Mage
+|Evolves=Macat
+|Name Origin=''wizard'' + ''mane''
+|TXMN Types=Earth, Wood
+|TXMN Sub-Elements=Cosmic, Wood
+|TXMN Body Shape=Hunter
+|TXMN Blurb=It steadily grows more panther-like as it approaches its final form.
+|TXMN Height=100
+|TXMN Weight=12
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Extraplanar, Urban
+|Tags=Claws, Tongue, Tail, Summoner
+|Fusion First=Wiz
+|Fusion Second=ane
+}}
+{{Evolutions
+|Has Evolution=Wizereign,
+|Evolution Level=55
+}}
+{{Technique Allocation
+|Has_Technique=Stick
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Conjurer
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Kiss
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Mystic Blending
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Curse
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Inner Power
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Counterspell
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Flower Armor
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Sands of Time
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Flower Bloom
+|Technique_Level=40
+}}

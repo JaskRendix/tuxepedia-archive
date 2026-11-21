@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=10
+|TXMN Blurb=The user summons a powerful flood that washes over the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Water
+|TXMN Family=Basic
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=80%
+|TXMN Power=1.5
+|TXMN Effects=splash
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Water
+|Sources=Sanglorian, Tamashihoshi
+|Source Explanation=Technique by Sanglorian. "Watershot" animation by Tamashihoshi.
+|TXMN Is area=True
+}}

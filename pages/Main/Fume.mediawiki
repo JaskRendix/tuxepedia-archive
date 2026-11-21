@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=28
+|TXMN Blurb=The user becomes enraged.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=1
+|TXMN User Condition=enraged
+|TXMN Animation Target=0
+|Tags=Fury
+|Sources=Sanglorian, Henrique Lazarini
+|Source Explanation=Technique by Sanglorian. "Buff rage" animation by Henrique Lazarini, adapted by Sanglorian.
+}}

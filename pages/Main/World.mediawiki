@@ -1,0 +1,1 @@
+'''World''' is one of the two places items are usable in (the other is [[combat]]). You may instead want [[The World]], the World of Tuxemon.

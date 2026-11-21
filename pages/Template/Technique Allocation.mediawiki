@@ -1,0 +1,1 @@
+<ul><li>{{PAGENAME}} learns [[Has_Technique::{{{Has_Technique|}}}]] at level [[Technique_Level::{{{Technique_Level|}}}]]</li></ul>

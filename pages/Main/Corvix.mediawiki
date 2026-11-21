@@ -1,0 +1,74 @@
+{{Monster
+|Alternative Names=Cervix
+|Sources=Catch Challenger, Sanglorian
+|Source Explanation=Catch Challenger is an open source project, with assets under Creative Commons Attribution. Original design and sprites by Catch Challenger. Sprites tweaked by Sanglorian. Name from Catch Challenger, tweaked by Sanglorian.
+|Species=Horned Raptor
+|Evolves=Flacono
+|Name Origin=''corvid'' (crow family) + ''Cervix'' (original name)
+
+In Catch Challenger, is called Cervix, possibly from the French word ''cerf'' (deer). Because cervix has a different meaning in English, name was changed.
+|SpyderCampaign=N/A
+|TXMN Types=Metal
+|TXMN Sub-Elements=Sky
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=157
+|TXMN Blurb=It arms its wings with bone shards from its victims.
+|TXMN Height=55
+|TXMN Weight=4
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Desert, Grassland, Mountains, Woodland
+|Tags=Bird, Sharp, Shielded
+|Fusion First=Cor
+|Fusion Second=vix
+}}
+{{Evolutions
+|Has Evolution=Gryfix
+|Evolution Level=36
+}}
+{{Technique Allocation
+|Has_Technique=Wing Tip
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Peck
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Lineage
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Slice
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Amnesia
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Rust Bomb
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=One Million Talons
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Perfect Cut
+|Technique_Level=43
+}}
+{{Technique Allocation
+|Has_Technique=Tornado
+|Technique_Level=46
+}}

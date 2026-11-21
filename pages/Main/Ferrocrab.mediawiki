@@ -1,0 +1,24 @@
+{{Monster
+|Sources=Jaskrendix
+|Species=Sturdy Crab
+|Name Origin=''Ferris'' + ''Crab''
+|Design Origin=Ferris Rust mascot
+|Main Details=​Ferrocrab is a docile Tuxemon known for its incredible durability. Its shell, which is as hard as tempered steel, is its most defining feature. This shell grows stronger with age and is almost completely impervious to physical attacks. Due to its dense, metallic body, it moves slowly but with immense force. Ferrocrab is often found near mines or quarries, where it feeds on iron ore and other trace minerals to maintain the strength of its armor. It is a calm and stubborn creature that will not back down from a threat but prefers to solve problems with patience rather than aggression.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Body Shape=Leviathan
+|TXMN Blurb=It's known to build unshakeable dens with its powerful claws. Its shell is as hard as iron.
+|TXMN Height=50
+|TXMN Weight=40
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Desert, Ruins, Underground
+|Tags=Shielded, Water, Steel, Claws
+|Fusion First=Ferro
+|Fusion Second=crab
+|TXMN_ES Name=Ferrijito
+|TXMN_DE Name=Ferribotz
+|TXMN_FR Name=Craboustech
+|TXMN_PT Name=Ferricrabo
+}}

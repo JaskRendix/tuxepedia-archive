@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Morph Item
+|TXMN Effects=Evolve
+|TXMN Cost=2000
+|TXMN Usable In=world
+|TXMN Description=A tasty cake baked from lima berries.
+|TXMN Consumable=yes
+|Sources=Catch Challenger
+|Source Explanation=Sprite from Catch Challenger.
+}}

@@ -1,0 +1,51 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us.
+|Species=Virtue
+|Name Origin=''forthrightness''
+|Main Details=It is the spirit of god-kings, pontifexes and crusaders.
+
+One of the [[Four Sovereigns]]. [[Category:Four Sovereigns]]
+|TXMN Types=Wood
+|TXMN Sub-Elements=Cosmic, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN ID=431
+|TXMN Blurb=FORIGHNESS is the divine spirit of spiritual and political authority, embodying the ideals of a higher power and leading through faith and conviction.
+|TXMN Height=210
+|TXMN Weight=105
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|Fusion First=Forigh
+|Fusion Second=ness
+}}
+{{Technique Allocation
+|Has_Technique=Leaf Stab
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Flower Armor
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mind Vise
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Healing Herb
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Wind Leaf Blade
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Woodsmash
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Psychic Puppets
+|Technique_Level=50
+}}

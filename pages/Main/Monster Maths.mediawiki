@@ -1,0 +1,14 @@
+<table class="invisitable"><tr><td>{{#ask:[[TXMN Completed::Complete]] |limit=300
+|?TXMN ID
+|?TXMN Type
+|?Default64px
+|?OverlandSprite
+|?TXMN Height
+|?TXMN Weight
+|?TXMN Body Shape
+|?Fusion First
+|?Fusion Second
+|?Sources
+|?Source Explanation
+
+}}</td></tr></table>

@@ -1,0 +1,87 @@
+When creating content, you might want to add your own cool item to the game. This page will walk you through creating your own item and discuss how you can use it in the game.
+
+== Creating Item Graphics ==
+
+Item sprites should be PNG images that are '''24 x 24''' pixels in size. Here is an example of some item sprites:
+
+[[File:BANANA_2.png]] [[File:Bug_gym_badge.png]]
+
+After creating your item sprite, put your graphic under <code>mods/tuxemon/gfx/items</code>.
+
+== Using your item in Tuxemon ==
+You can add your item to the player's inventory by creating an *action event* with an action type of "add_item" using the [[Tiled map editor]]. For more information on adding event actions and conditions to a map, check out the [[Map Editor Events]].
+
+== Item Design ==
+Items in Tuxemon can be created by adding a JSON file to the <code>mods/tuxemon/db/item</code> directory. With each new item, the following data must be specified:
+
+{| class="wikitable"
+|-
+! Name
+! Description
+|-
+| conditions
+| Conditions are the prerequisites on which an item can be used or not. By using the example below: "is current_hp <,1.0", and "is current_hp >,0" means that the item can be used on a monster with more than 0 HP (not fainted) and less that the total (not healthy).
+|-
+| effects
+| Effects can change some characteristics of the monster on which the item is used. By using the example below: "heal 20" means to heal 20 HP.
+|-
+| slug
+| The slug identifier of the item. It defines the name of the item and there is a translation in the PO file (msgid "potion" - msgstr "Potion") as well as the description (msgid "potion_description" - msgstr "Heals a monster by 20 HP."). 
+|-
+| sort
+| It can be "food", "potion", "utility" or "quest".
+|-
+| sprite
+| The sprite / image of the item.
+|-
+| category
+| It can be "none", "badge", "booster", "elements", "fossil", "morph", "revive", "potion", "technique", "phone", "fish", "destroy", "capture" or "stats".
+|-
+| type
+| It can be '''KeyItem''' or '''Consumable''', or neither. KeyItems should generally not be able to be sold. If used, then '''Consumable''' is going to remove 1 quantity.
+|-
+| usable_in
+| Possibilities are: "MainCombatMenuState" (during battle), "WorldState" (in the world) or "" (never)
+|-
+| use_failure
+| Corresponding msgid (translation PO file) will appear if the item fails.
+|-
+| use_item
+| Corresponding msgid (translation PO file) will appear when the item is used.
+|-
+| use_success
+| Corresponding msgid (translation PO file) will appear if the item is used successfully (depending on effects).
+|-
+| visible (optional)
+| Boolean (True/False) whether the item is visible or not inside the bag.
+|-
+| menu (optional)
+| it allows to show a button in the world menu: <code>["0","menu_tuxepedia","JournalChoice"]</code> where '''0''' is the position (0 = up), '''menu_tuxepedia''' is a msgid (translation PO file) and '''JournalChoice''' is the class that will appear if someone click on it.
+|}
+
+Here is an example of what an item file might look like:
+
+`mods/tuxemon/db/item/potion.json`
+
+  json
+  {  
+  "conditions": [
+    "is current_hp <,1.0",
+    "is current_hp >,0"
+  ],
+  "effects": [
+    "heal 20"
+  ],
+  "slug": "potion",
+  "sort": "potion",
+  "sprite": "gfx/items/potion.png",
+  "category": "potion",
+  "type": "Consumable",
+  "usable_in": [
+    "MainCombatMenuState",
+    "WorldState"
+  ],
+  "use_failure": "generic_failure",
+  "use_item": "combat_used_x",
+  "use_success": "generic_success"
+  }

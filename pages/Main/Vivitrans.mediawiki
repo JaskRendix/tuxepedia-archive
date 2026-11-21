@@ -1,0 +1,55 @@
+{{Monster
+|Sources=Catch Challenger, Sanglorian
+|Source Explanation=Catch Challenger is an open source project, with assets under Creative Commons Attribution. Original design and sprites by Catch Challenger. Face sprites tweaked by Sanglorian.
+|Species=Sublimated
+|Evolves=Vivipere
+|SpyderCampaign=Used by a trainer in Dryad's Grove.
+|TXMN Types=Metal, Water
+|TXMN Sub-Elements=Frost
+|TXMN Completed=Complete
+|TXMN Body Shape=Serpent
+|TXMN ID=136
+|TXMN Blurb=The cold focuses VIVITRANS' mind to a keen edge.
+|TXMN Height=98
+|TXMN Weight=11
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Grassland, Jungle, Mountains, Ruins, Underground
+|Tags=Shapeshifter, Bite, Mental, Ice
+|Fusion First=Vivi
+|Fusion Second=trans
+|TXMN_FR Name=Vivitrans
+}}
+{{Technique_Allocation
+|Has_Technique=Stone Rot
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Quicksand
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Wallow
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Chill Mist
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Frostbite
+|Technique_Level=25
+}}

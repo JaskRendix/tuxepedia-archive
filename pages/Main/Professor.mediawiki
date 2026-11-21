@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Leo
+|Genre=Modern
+|Combat Type=1 vs 1
+|Main Details=Copenhagen_Bram suggested that professors are named after [https://www.penguinworld.com/types/ types of penguin:] Professor Gentoo, Professor King, Professor Little, etc.
+}}

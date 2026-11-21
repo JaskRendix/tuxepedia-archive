@@ -1,0 +1,20 @@
+{{#default_form:Trainer}}
+There are {{#ask:[[Category:Trainer]]
+| format=count}} so far. See also [[Characters]], for individuals that belong to these classes, and [[Classes by Genre]] for trainers sorted by genre.
+
+'''Skin tone reference'''
+
+[[File:Skin tones.gif]]
+
+'''Skin and hair references'''
+
+[[File:Faces of tuxemon.gif]]
+
+<table class="invisitable"><tr><td>{{#ask:[[Category:Trainer]] |limit=150
+|?MainImage
+|?Default64px
+|?Genre
+|?Combat Type
+|?Sources
+|?Source Explanation
+}}</td></tr></table>

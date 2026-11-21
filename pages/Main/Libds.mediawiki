@@ -1,0 +1,28 @@
+{{Monster
+|Sources=Jaskrendix
+|Species=Modular Daemon
+|Name Origin=Lib + BDS
+
+Lib – Derived from library, a common prefix in software development (e.g., libc, libpng). It represents modularity, shared functionality, and the open-source ethos. It also subtly nods to liberation, hinting at freedom from proprietary systems—a core BSD philosophy.
+
+BDS – A stylized twist on BSD (Berkeley Software Distribution), the Unix-like operating system known for its stability, permissive licensing, and daemon mascot. Swapping the letters gives it a more creature-like name while preserving the reference.
+|Design Origin=BDS Mascot
+|Main Details=Libds is a mischievous pixel-born daemon that thrives in open-source environments. With its stubby horns, flickering tail, and trident forged from raw code, it roams digital landscapes seeking broken dependencies to patch—or exploit. Despite its impish size, Libds is known for its uncanny ability to "link" with other Tuxemon, sharing functions and evolving rapidly when exposed to new libraries.
+
+Potential evolutions:
+* Libdevd (Stage 1) - Gains developer tools and debugging powers; starts compiling attacks
+* Libcoreds (Stage 2) - A fully linked system entity with root access and devastating command-line moves.
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Body Shape=Sprite
+|TXMN Blurb=A living library of chaos, this entity compiles mischief and executes it with fiery precision.
+|TXMN Height=60
+|TXMN Weight=12.4
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Extraplanar
+|Tags=Soldier, Flame, Fury, Tail, Darkness
+|Fusion First=Lib
+|Fusion Second=Bds
+}}

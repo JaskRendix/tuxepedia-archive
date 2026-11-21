@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Story Item
+|TXMN Description=A peculiar egg. If you plant it, maybe it will hatch.
+|TXMN Key Item=yes
+|Main Details=Hatches into [[Chloragon]].
+|SpyderCampaign=Given by random event by Eliane in Candy Town
+|Sources=Josepharaoh99, Georg Eckert
+|Source Explanation=Main art by Georg Eckert. Sprite by josepharaoh99.
+}}

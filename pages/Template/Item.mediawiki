@@ -1,0 +1,130 @@
+<noinclude>
+This is the "Item" template.
+It should be called in the following format:
+<pre>
+{{Technique
+|TXMN ID=
+|Item Category=
+|TXMN Effects=
+|TXMN Target=
+|TXMN Cost=
+|TXMN Type=
+|TXMN Requirements=
+|TXMN Usable In=
+|TXMN Description=
+|TXMN Consumable=
+|TXMN Key Item=
+|Main Details=
+|SpyderCampaign=
+|Sources=
+|Source Explanation=
+|TXMN_ES Name=
+|TXMN_ES Description=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Main Sprite]]
+[[Category:Main]]}} | [[MainSprite::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Main Sprite]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|thumb]] | [[MainSprite::Missing| ]] }}
+{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+[[Category:Main]]}} | [[MainImage::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|thumb]] | [[MainImage::Missing| ]] }}
+
+{| style="width: 30em; font-size: 90%; border: 1px solid #aaaaaa; background-color: #f9f9f9; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: 0.2em; float: right; clear: right; text-align:left;"
+! style="text-align: center; background-color:#ccccff;" colspan="2" |<span style="font-size: larger;">{{PAGENAME}}</span>
+|-
+! ID
+| [[TXMN ID::{{{TXMN ID|}}}]]
+|-
+! Item Category
+| {{#arraymap:{{{Item Category|}}}|,|x|[[Item Category::x]]}}
+|-
+! Effects
+| {{#arraymap:{{{TXMN Effects|}}}|,|x|[[TXMN Effects::x]]}}
+|-
+! Target
+| [[TXMN Target::{{{TXMN Target|}}}]]
+|-
+! Standard Retail Price
+| [[TXMN Cost::{{{TXMN Cost|}}}]]
+|-
+! Type
+| [[TXMN Type::{{{TXMN Type|}}}]]
+|-
+! Requirements
+| [[TXMN Requirements::{{{TXMN Requirements|}}}]]
+|-
+! Usable In
+| [[TXMN Usable In::{{{TXMN Usable In|}}}]]
+|-
+! Description
+| [[TXMN Description::{{{TXMN Description|}}}]]
+|-
+! Consumable?
+| [[TXMN Consumable::{{{TXMN Consumable|}}}]]
+|-
+! Key Item?
+| [[TXMN Key Item::{{{TXMN Key Item|}}}]]
+|-
+! Sources
+| {{#arraymap:{{{Sources|}}}|,|x|[[Sources::x]]}}
+|-
+! Source Explanation
+| [[Source Explanation::{{{Source Explanation|}}}]] 
+|}
+{{{Main Details|}}}
+
+== In Game ==
+=== In [[The Spyder in the Cathedral]] Campaign ===
+
+[[SpyderCampaign::{{{SpyderCampaign|}}}]]
+
+== Variations ==
+{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+[[Category:Alternative]]
+|?=#
+|format=gallery
+|link=all
+|searchlabel=… further results
+|navigation=nav
+|autocaptions=1
+|intro=Other art
+}}
+{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Main Sprite]]
+[[Category:Alternative]]
+|?=#
+|link=all
+|searchlabel=… further results
+|navigation=nav
+|intro=<strong style="text-align: center;">Alternative sprites</strong>
+}}
+
+== In other languages ==
+
+{| class="formtable"
+! Language
+| Name
+| Description
+|-
+! Spanish
+| [[TXMN_ES Name::{{{TXMN_ES Name|}}}]]
+| [[TXMN_ES Description::{{{TXMN_ES Description|}}}]]
+|}
+
+[[Category:Item]]
+[[Category:{{PAGENAME}}]]
+{{#arraymap:{{{Item Category|}}}|,|x|[[Category:x]]}}
+</includeonly>

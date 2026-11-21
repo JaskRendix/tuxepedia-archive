@@ -1,0 +1,17 @@
+[[File:Set 1, A3 pixel.png|thumbnail|link=Set 1|'''Check out the 154 completed tuxemon in [[Set 1]]''']]
+[[File:Tuxemon-banner.png|500px]]
+
+The Tuxemon Project has two objectives: 
+* create an open source monster catching game and
+* design and illustrate open source monsters and describe the world in which they live
+
+All contributions are welcome! 
+
+== About the Game ==
+
+* [[Game Bible]]
+* [[How to Contribute]]
+* [[How to Upload Content to the Wiki]]
+* [https://github.com/Tuxemon/Tuxemon/discussions Forum]
+* [https://github.com/Tuxemon/Tuxemon Github]
+* [[Other media]]

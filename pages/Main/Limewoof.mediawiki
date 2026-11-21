@@ -1,0 +1,18 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Limewoof-and-Ignebark-656162823
+|Sources=Giovani rubio, TheBritanniaRegion
+|Source Explanation=Design and original art by TheBritanniaRegion. Other art by giovani_rubio.
+|Species=Limestone
+|Name Origin=''limestone'' + ''woof''
+|Main Details=Their teeth can grow back very quickly, which is useful when you mostly munch on limestone!
+
+They are often seen in packs of around 25-35 individuals
+|TXMN Types=Earth
+|TXMN Blurb=Their constant and persistent excitable energy causes them to run round in circles for most of the day - and after a while cause huge sandstorms! They are quite the playful little pupper, and love to munch on limestone, hence their name.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Ignebark
+|Evolution Level=27
+}}

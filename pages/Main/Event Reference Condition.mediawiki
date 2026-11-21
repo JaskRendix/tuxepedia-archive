@@ -1,0 +1,1064 @@
+== Conditions ==
+
+=== AFKStateCondition ===
+Check if one or more AFK states (thresholds) have been met.
+
+'''Usage'''
+<code>
+
+is afk_state <level>
+
+</code>
+'''Examples'''
+* is afk_state example
+* <code>is afk_state warn</code>: kick
+
+=== BattleOutcomeCondition ===
+Checks if a character has achieved a specific battle outcome
+against an opponent.
+
+'''Usage'''
+<code>
+
+is battle_outcome <fighter>,<outcome>,<opponent>
+
+</code>
+'''Parameters'''
+* <code>fighter_slug</code>: The slug of the battle participant (e.g., "player").
+* <code>outcome</code>: The desired battle outcome ("won", "lost", or "draw").
+* <code>opponent_slug</code>: The slug of the opponent (e.g., "npc_maple").
+
+* <code>Example</code>: 
+`is battle_outcome player,won,npc_maple`
+Checks if the 'player' has won against 'npc_maple'.
+
+=== BattleOutcomeCountCondition ===
+Checks if a character has achieved a specific battle outcome a minimum number of times
+against a specific opponent.
+
+'''Usage'''
+
+<code>
+
+is battle_outcome_count <fighter>,<outcome>,<opponent>,<count>
+
+</code>
+'''Parameters'''
+
+* <code>fighter_slug</code>: 
+The slug of the battle participant (e.g., "player").
+
+* <code>outcome</code>: 
+The desired battle outcome ("won", "lost", or "draw").
+
+* <code>opponent_slug</code>: 
+The slug of the opponent (e.g., "npc_maple").
+
+* <code>count</code>: 
+Minimum number of times the outcome must have occurred.
+
+* <code>Example</code>: 
+
+<code>
+
+is battle_outcome_count player,won,npc_maple,2
+
+Checks if the 'player' has won at least 2 times against 'npc_maple'.
+</code>
+
+=== BillExistsCondition ===
+Check to see if a bill exists.
+
+'''Usage'''
+<code>
+
+is bill_exists <character>,<bill_slug>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>bill_slug</code>: The slug of the bill
+
+eg. "is bill_exists player,my_bill"
+
+=== BillIsCondition ===
+Check to see if a bill exists and has a certain amount.
+
+'''Usage'''
+<code>
+
+is bill_is <character>,<operator>,<bill_slug>,<amount>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>bill_slug</code>: The slug of the bill
+* <code>operator</code>: Numeric comparison operator. Accepted values are "less_than",
+"less_or_equal", "greater_than", "greater_or_equal", "equals"
+and "not_equals".
+* <code>amount</code>: Amount of money or value stored in variable
+
+eg. "is bill_is player,bill_slug,equals,50"
+* <code>eg. "is bill_is player,bill_slug,equals,name_variable" (name_variable</code>: 75)
+
+=== ButtonComboCondition ===
+Check to see if a particular sequence of buttons was pressed.
+
+'''Usage'''
+<code>
+
+is button_combo <buttons>
+
+</code>
+'''Parameters'''
+* <code>buttons</code>: A sequence of button/intention keys (E.g. "up:down:interact").
+
+=== ButtonCountCondition ===
+Check to see how many time a particular button was pressed.
+
+'''Usage'''
+<code>
+
+is button_count <button>,<operator>,<amount>
+
+</code>
+'''Parameters'''
+* <code>button</code>: A button/intention key (E.g. "up").
+* <code>operator</code>: Numeric comparison operator. Accepted values are "less_than",
+"less_or_equal", "greater_than", "greater_or_equal", "equals"
+and "not_equals".
+* <code>amount</code>: The number of times the button was pressed.
+
+=== ButtonHeldCondition ===
+Check to see if a particular key was held for a certain number of frames.
+
+'''Usage'''
+<code>
+
+is button_held <button>,<frames>
+
+</code>
+'''Parameters'''
+* <code>button</code>: A button/intention key (E.g. "up").
+* <code>frames</code>: The number of frames the button must be held.
+
+=== ButtonPressedCondition ===
+Check to see if a particular key was pressed.
+
+'''Usage'''
+<code>
+
+is button_pressed <button>
+
+</code>
+'''Parameters'''
+* <code>button</code>: A button/intention key (E.g. "INTERACT").
+
+=== CameraAtCondition ===
+Check to see if the camera is at the position on the map.
+
+'''Usage'''
+<code>
+
+is camera_at <tile_pos_x>,<tile_pos_y>
+
+</code>
+'''Parameters'''
+* <code>pos_x</code>: X position of the camera.
+* <code>pos_y</code>: Y position of the camera.
+
+=== CelestialIsCondition ===
+Evaluates a comparison against the current phase of a celestial body
+(e.g., moon, sun) as provided by the session's CelestialManager.
+
+This allows scripts to react to fictional astronomical cycles defined
+in `celestial_cycles.yaml`, such as checking whether the moon is full,
+waxing, waning, etc.
+
+'''Usage'''
+<code>
+
+is celestial_is <body>,<operation>,<phase>
+
+</code>
+'''Parameters'''
+* <code>body</code>: 
+The name of the celestial body to evaluate. This must match one
+of the cycle names defined in `celestial_cycles.yaml`, such as
+"moon" or "sun".
+
+* <code>operation</code>: 
+A comparison operator. Only string-based comparisons are valid
+* <code>for celestial phases</code>: 
+* "equals" or "=="
+* "not_equals" or "!="
+
+* <code>phase</code>: 
+The expected phase name to compare against. This must match one
+of the phase labels defined for the celestial body in the YAML
+configuration.
+
+'''Examples'''
+<code>
+
+is celestial_is moon,equals,full
+is celestial_is moon,not_equals,new
+is celestial_is sun,equals,high
+</code>
+
+=== CharAtCondition ===
+Check to see if the character is at the condition position on the map.
+
+'''Usage'''
+<code>
+
+is char_at [character]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+
+=== CharAtPositionCondition ===
+Check to see if the character is at the position on the map.
+
+'''Usage'''
+<code>
+
+is char_at_position <character>,<tile_pos_x>,<tile_pos_y>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>tile_pos_x</code>: X position to set the character to.
+* <code>tile_pos_y</code>: Y position to set the character to.
+
+=== CharDefeatedCondition ===
+Check to see the character has at least one tuxemon, and all tuxemon in their
+party are defeated.
+
+'''Usage'''
+<code>
+
+is char_defeated <character>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple")
+
+=== CharExistsCondition ===
+Check to see if a character object exists in the current list of NPCs.
+
+'''Usage'''
+<code>
+
+is char_exists <character>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+
+=== CharFacingCondition ===
+Check to see where a character is facing.
+
+'''Usage'''
+<code>
+
+is char_facing <character>,<direction>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>direction</code>: One of "up", "down", "left" or "right".
+
+=== CharFacingCharCondition ===
+Check to see the character is next to and facing a particular character.
+
+'''Usage'''
+<code>
+
+is char_facing_char <character1>,<character2>
+
+</code>
+'''Parameters'''
+* <code>character1</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>character2</code>: Either "player" or character slug name (e.g. "npc_maple").
+
+=== CharFacingTileCondition ===
+Check to see if a character is facing a tile position.
+
+This is checked against all the tiles included in the condition object.
+
+'''Usage'''
+<code>
+
+is char_facing_tile <character>[,value]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>value</code>: value (eg surfable) inside the tileset.
+
+=== CharGenderCondition ===
+Check whether a character's gender matches the expected value.
+
+'''Usage'''
+<code>
+
+is char_gender <character> <gender>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or an NPC slug (e.g. "npc_maple")
+* <code>gender</code>: Expected gender string to compare against the character's gender
+
+=== CharHealedCondition ===
+Check whether all monsters in the character's party are healed.
+
+'''Usage'''
+<code>
+
+is char_healed <character>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or NPC slug name (e.g. "npc_maple")
+
+=== CharInCondition ===
+Check to see if the character is on a specific set of tiles.
+
+'''Usage'''
+<code>
+
+is char_in <character>,<value>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple")
+* <code>value</code>: value (eg surfable) inside the tileset.
+
+=== CharInBoundaryCondition ===
+Checks if a character is within a specific named boundary.
+
+'''Usage'''
+<code>
+
+is char_in_boundary <character_name>,<boundary_name>
+
+</code>
+'''Parameters'''
+* <code>character_name</code>: "player" or an NPC slug.
+* <code>boundary_name</code>: The name of the boundary to check (e.g., "safe_zone").
+
+=== CharMovedCondition ===
+Check to see the player has just moved into this tile.
+
+Using this condition will prevent a condition like "char_at" from
+constantly being true every single frame.
+
+* Check if player destination collides with event
+* If it collides, wait until destination changes
+* Become True after collides and destination has changed
+
+These rules ensure that the event is true once player in the tile
+and is only true once.  Could possibly be better, IDK.
+
+'''Usage'''
+<code>
+
+is char_moved <character>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple")
+
+=== CharSpriteCondition ===
+Check the character's sprite
+
+'''Usage'''
+<code>
+
+is char_sprite <character>,<sprite>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple")
+* <code>sprite</code>: NPC's sprite (eg maniac, florist, etc.)
+
+=== CheckCharParameterCondition ===
+Check the parameter's value of the character against a given value.
+
+'''Usage'''
+<code>
+
+check_char_parameter <character>,<parameter>,<value>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (eg. "npc_maple").
+* <code>parameter</code>: Name of the parameter to check (eg. "name", "steps", etc.).
+* <code>value</code>: Given value to check.
+
+eg. "player,name,alpha" -> is the player named alpha? true/false
+
+=== CheckEvolutionCondition ===
+Check to see the player has at least one tuxemon evolving.
+If yes, it'll save the monster and the evolution inside a list.
+The list will be used by the event action "evolution".
+
+'''Usage'''
+<code>
+
+is check_evolution <character>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+
+eg. "is check_evolution player"
+
+=== CheckMaxTechCondition ===
+Condition to check whether a character (player or NPC) has at least one
+Tuxemon with more techniques than a specified threshold.
+
+This condition is used in event scripting to trigger actions based on
+the number of techniques a Tuxemon possesses. If the condition is met,
+the matching monsters are stored in the session's `event_data` dictionary
+under the key `"check_max_tech"`.
+
+'''Usage'''
+<code>
+
+is check_max_tech <character>[,nr]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or NPC slug name (e.g. "npc_maple").
+* <code>nr</code>: Optional integer specifying the minimum number of techniques.
+Defaults to the config_monster.max_moves.
+
+'''Examples'''
+* "is check_max_tech player"
+* "is check_max_tech npc_maple,2"
+
+=== CheckMissionCondition ===
+Check mission status for one or more missions.
+
+'''Usage'''
+<code>
+
+is check_mission <character>,<method>,<status>[,<mode>]
+
+</code>
+* <code>Parameters</code>: 
+* <code>character</code>: Either "player" or NPC slug (e.g. "npc_maple")
+* <code>method</code>: Mission slug(s), colon-separated (e.g. "mission1:mission2") or "all"
+* <code>status</code>: One of ["pending", "completed", "failed"]
+* <code>mode (optional)</code>: "any" (default) or "all"
+"any" returns True if at least one mission matches status
+"all" returns True only if all listed missions match status
+
+'''Examples'''
+* "is check_mission player,mission1,completed"
+* "is check_mission player,mission1:mission2,completed,all"
+* "is check_mission player,all,pending"
+* "is check_mission npc_maple,missionA:missionB,failed,any"
+
+=== CheckPartyParameterCondition ===
+Check the given attribute of the party.
+
+'''Usage'''
+<code>
+
+check_party_parameter <character>,<attribute>,<value>,<operator>,<times>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>attribute</code>: Name of the monster attribute to check (e.g. level).
+* <code>value</code>: Value to check (related to the attribute) (e.g. 5 - level).
+* <code>operator</code>: Numeric comparison operator. Accepted values are "less_than",
+"less_or_equal", "greater_than", "greater_or_equal", "equals"
+and "not_equals".
+* <code>times</code>: Value to check with operator (how many times in the party?).
+
+eg. "check_party_parameter player,level,5,equals,1"
+* <code>translated</code>: "is there 1 monster in the party at level 5? True/False"
+
+=== CheckTeleportFaintCondition ===
+Check to see if check_teleport_faint exists and has a particular value.
+
+If the teleport_faint does not exist it will return ``False``.
+
+'''Usage'''
+<code>
+
+is check_teleport_faint character,[map_name],[x],[y]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>map_name</code>: The name of the map to validate against.
+* <code>x</code>: The x-coordinate to validate against.
+* <code>y</code>: The y-coordinate to validate against.
+
+=== CheckWorldCondition ===
+Evaluates specific world conditions against expected values.
+
+This condition can check various parameters of the game world, such as
+overlay colors (layer) and speech bubbles (bubble).
+
+'''Usage'''
+<code>
+
+check_world <parameter>,<value>
+
+</code>
+'''Parameters'''
+* <code>parameter</code>: The name of the world attribute to check.
+* <code>value</code>: The expected value to compare against.
+
+'''Examples'''
+* "check_world layer"
+* Ensures the overlay color is empty.
+
+* "check_world bubble,npc_maple"
+* Checks if NPC "npc_maple" currently has a speech bubble.
+
+=== CooldownDaysCondition ===
+Checks if a specified number of days has passed since the event last ran.
+
+'''Usage'''
+<code>
+
+is cooldown_days <timeframe>,<variable>
+
+</code>
+'''Parameters'''
+* <code>timeframe</code>: The number of days the event should be on cooldown.
+* <code>variable</code>: The game variable where the cooldown date is stored.
+
+=== CurrentStateCondition ===
+Check to see if one or multiple state/states has/have
+been started or not.
+
+'''Usage'''
+<code>
+
+is current_state <state>
+
+</code>
+'''Parameters'''
+* <code>state</code>: Either "CombatState", "DialogState", etc
+
+* <code>eg</code>: "is current_state CombatState"
+* <code>eg</code>: "is current_state CombatState:DialogState"
+
+=== EnvironmentIsCondition ===
+Check that the currently active environment slug corresponds to the expected value.
+
+'''Usage'''
+<code>
+
+is environment_is <slug>
+
+</code>
+'''Parameters'''
+* <code>slug</code>: The environment slug to check against the active environment.
+
+'''Examples'''
+* is environment_is grass
+* is environment_is cave
+
+=== FactionReputationCondition ===
+Checks if an NPC's reputation meets a threshold.
+
+'''Usage'''
+<code>
+
+is faction_reputation <character>,<faction_slug>,<operator>,<threshold>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>operator</code>: Numeric comparison operator. Accepted values are "less_than",
+"less_or_equal", "greater_than", "greater_or_equal", "equals"
+and "not_equals".
+* <code>threshold</code>: A string representation of an integer (e.g. "30", "-100").
+Will be parsed and used as a numeric threshold in comparison.
+
+=== HasBagCondition ===
+Check to see how many items are in the character's bag.
+
+'''Usage'''
+<code>
+
+is has_bag <character>,<operator>,<value>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>operator</code>: Numeric comparison operator. Accepted values are "less_than",
+"less_or_equal", "greater_than", "greater_or_equal", "equals"
+and "not_equals".
+* <code>value</code>: The value to compare the bag with.
+
+=== HasItemCondition ===
+Check to see if a character inventory contains something.
+
+'''Usage'''
+<code>
+
+is has_item <character>,<item>[,operator][,quantity]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>item</code>: The item slug name (e.g. "item_cherry").
+* <code>operator</code>: Numeric comparison operator. Accepted values are "less_than",
+"less_or_equal", "greater_than", "greater_or_equal", "equals"
+and "not_equals".
+* <code>quantity</code>: Quantity to compare with.
+
+=== HasKennelCondition ===
+Check to see how many monsters are in the character's kennel.
+
+'''Usage'''
+<code>
+
+is has_kennel <character>,<kennel>,<operator>,<value>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>kennel</code>: The kennel name.
+* <code>operator</code>: Numeric comparison operator. Accepted values are "less_than",
+"less_or_equal", "greater_than", "greater_or_equal", "equals"
+and "not_equals".
+* <code>value</code>: The value to compare the party with.
+
+=== HasMonsterCondition ===
+Check to see if a character has a monster in its party.
+
+'''Usage'''
+<code>
+
+is has_monster <character>,<monster>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>monster</code>: Monster slug name (e.g. "rockitten").
+
+=== HasPartyBreederCondition ===
+Check to see if the character has a male and female
+monsters not basic (first evolution stage) in the party.
+
+'''Usage'''
+<code>
+
+is has_party_breeder <character>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+
+=== HasTechCondition ===
+Check to see if the player has a technique in his party.
+
+'''Usage'''
+<code>
+
+is has_tech <technique>
+
+</code>
+'''Parameters'''
+* <code>technique</code>: Technique slug name (e.g. "bullet").
+
+=== HasTuxepediaCondition ===
+Check if a monster is registered in Tuxepedia.
+
+'''Usage'''
+<code>
+
+is has_tuxepedia <character>,<monster>,<label>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>monster</code>: Monster slug name (e.g. "rockitten").
+* <code>label</code>: Either "seen" or "caught".
+
+=== KennelCondition ===
+Check if a kennel is hidden, visible, or exists.
+
+'''Usage'''
+<code>
+
+is kennel <character>,<kennel>,<option>
+
+</code>
+'''Parameters'''
+* <code>character</code>: The character to check (either "player" or an NPC slug
+name, e.g. "npc_maple").
+* <code>kennel</code>: The name of the kennel to check.
+* <code>option</code>: The expected visibility of the kennel ("hidden" or
+"visible") or existence of it ("exist").
+
+=== LocationInsideCondition ===
+Check to see if the player is in a certain location type.
+
+'''Usage'''
+<code>
+
+is location_inside
+
+</code>
+eg. "is location_inside"
+
+=== LocationNameCondition ===
+Check to see if the player is in a certain location name.
+
+'''Usage'''
+<code>
+
+is location_name <slug>
+
+</code>
+'''Parameters'''
+* <code>slug</code>: Slug name. It's the name inside the maps.
+eg. "<property name="slug" value="routeb"/>"
+slug = routeb
+
+eg. "is location_name routeb"
+* <code>eg. "is location_name routeb</code>: routea"
+
+=== LocationTypeCondition ===
+Determines whether the player is currently in a specified location type.
+
+'''Usage'''
+<code>
+
+is location_type <slug>
+
+</code>
+'''Parameters'''
+* <code>slug</code>: A string identifier for the location type.
+* <code>Acceptable values</code>: "all" (matches any location)
+
+* <code>Example usages</code>: 
+* "is location_type clinic"  -> Checks if the player is in a clinic.
+* "is location_type town:shop"  -> Checks if the player is in either
+a town or a shop.
+
+The condition evaluates whether the player's current map type matches
+any of the specified location types.
+
+=== MoneyIsCondition ===
+Check to see if the character has a certain amount of money (pocket).
+
+'''Usage'''
+<code>
+
+is money_is <character>,<operator>,<amount>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>operator</code>: Numeric comparison operator. Accepted values are "less_than",
+"less_or_equal", "greater_than", "greater_or_equal", "equals"
+and "not_equals".
+* <code>amount</code>: Amount of money or value stored in variable
+
+eg. "is money_is player,equals,50"
+* <code>eg. "is money_is player,equals,name_variable" (name_variable</code>: 75)
+
+=== MonsterFlairCondition ===
+Check if any monster in the character's party has a flair matching the
+given category and name.
+
+'''Usage'''
+<code>
+
+is monster_flair <character>,<category>,<name>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or an NPC slug name (e.g. "npc_maple").
+* <code>category</code>: Category of the flair to check.
+* <code>name</code>: Name of the flair to match.
+
+* <code>Behavior</code>: 
+* Returns True if any monster in the character's party has a flair
+in the given category with the specified name.
+* Returns False if no match is found or the character is invalid.
+
+=== MusicPlayingCondition ===
+Check to see if a particular piece of music is playing or not.
+
+'''Usage'''
+<code>
+
+is music_playing <music_filename>
+
+</code>
+'''Parameters'''
+* <code>music_filename</code>: Name of the music.
+
+=== OneOfCondition ===
+Check to see if at least 1 among multiple values in a variable
+is True.
+
+If the variable does not exist it will return ``False``.
+
+'''Usage'''
+<code>
+
+is one_of <variable>[,values]
+
+</code>
+'''Parameters'''
+* <code>variable</code>: The variable to check.
+* <code>values</code>: Value to check for (multiple values separated by ":").
+
+* <code>eg. "is one_of name_variable,option1</code>: option2:option3"
+
+=== PartyInfectedCondition ===
+Check to see how many monster are infected in the character's party.
+
+'''Usage'''
+<code>
+
+is party_infected <character>,<plague_slug>,<value>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>plague_slug</code>: The slug of the plague to target.
+* <code>value</code>: all, some or none.
+
+=== PartySizeCondition ===
+Check the character's party size.
+
+'''Usage'''
+<code>
+
+is party_size <character>,<operator>,<value>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>operator</code>: Numeric comparison operator. Accepted values are "less_than",
+"less_or_equal", "greater_than", "greater_or_equal", "equals"
+and "not_equals".
+* <code>value</code>: The value to compare the party size with.
+
+=== PartyStatusCondition ===
+Check how many monsters in a character's party have a specific status.
+
+'''Usage'''
+<code>
+
+is party_status <character>,<operator>,<value>,<status_name>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>operator</code>: Numeric comparison operator. Accepted values are "less_than",
+"less_or_equal", "greater_than", "greater_or_equal", "equals"
+and "not_equals".
+* <code>value</code>: Integer to compare against.
+* <code>status_name</code>: Slug of the status to check (e.g. "poison").
+
+=== StepTrackerCondition ===
+Evaluates whether a step tracker exists for a character
+and if a milestone has been triggered and not yet marked as shown.
+
+'''Usage'''
+<code>
+
+is step_tracker character,tracker_id,milestone
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or an NPC slug name (e.g., "npc_maple").
+* <code>tracker_id</code>: Unique name for identifying the step tracker.
+* <code>milestone</code>: Step milestone to check.
+
+=== TilePropertyUpdatedCondition ===
+Checks whether all relevant tiles in the world have been
+modified with a specific property.
+
+'''Usage'''
+<code>
+
+is tile_property_updated <label>,<moverate>
+
+</code>
+'''Parameters'''
+* <code>label</code>: The property name to check (e.g., terrain type).
+* <code>moverate</code>: The expected movement rate value.
+
+=== TimeIsCondition ===
+Evaluates a comparison against a real-time property provided by the
+session's TimeHandler. This allows scripts to react to the current
+hour, season, weekday, stage of day, and other time-based values.
+
+'''Usage'''
+<code>
+
+is time_is <property>,<operation>,<value>
+
+</code>
+'''Parameters'''
+* <code>property</code>: 
+* <code>The name of a time property to evaluate. Valid options include</code>: 
+"date", "hour", "day_of_year", "year", "weekday", "leap_year",
+"daytime", "month", "day", "stage_of_day", and "season".
+
+* <code>operation</code>: 
+A comparison operator supported by the `compare` helper
+(e.g., "equals", "not_equals", "greater_than", "less_than").
+
+* <code>value</code>: 
+A literal value to compare against. Numeric values are compared
+numerically (e.g., hour > 17), while non-numeric values are
+compared as strings (e.g., season equals winter).
+
+* <code>Example</code>: 
+<code>
+
+is time_is hour,greater_than,17
+is time_is season,equals,winter
+is time_is stage_of_day,equals,dusk
+is time_is date,equals,4-30
+</code>
+
+=== TimestampCooldownCondition ===
+Checks if a specified number of seconds has passed since the event last ran.
+
+This allows for more precise cooldowns than the "once per day" check.
+
+'''Usage'''
+<code>
+
+is timestamp_cooldown <timeframe>,<variable>
+
+</code>
+'''Parameters'''
+* <code>timeframe</code>: The number of seconds the event should be on cooldown.
+* <code>variable</code>: The game variable where the cooldown timestamp is stored.
+
+=== ToUseTileCondition ===
+Check if we are attempting to interact with a map condition tile.
+
+'''Usage'''
+<code>
+
+is to_use_tile
+</code>
+
+=== TrackerCondition ===
+Check to see if tracker exists.
+
+'''Usage'''
+<code>
+
+is tracker character,map_name
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>map_name</code>: The name of the map to validate against.
+
+=== TrueCondition ===
+This condition always returns true.
+
+'''Usage'''
+<code>
+
+is true
+</code>
+
+=== TuxepediaCondition ===
+Check Tuxepedia's progress.
+
+'''Usage'''
+<code>
+
+is tuxepedia <operator>,<percentage>[,total]
+
+</code>
+'''Parameters'''
+* <code>operator</code>: Numeric comparison operator. Accepted values are "less_than",
+"less_or_equal", "greater_than", "greater_or_equal", "equals"
+and "not_equals".
+* <code>percentage</code>: Number between 0.1 and 1.0
+* <code>total</code>: Total, by default the tot number of tuxemon.
+
+=== VariableHighestCondition ===
+Check if a specific variable is the highest among the others.
+
+'''Usage'''
+<code>
+
+is variable_highest <key_to_check>,<keys_to_check>
+
+</code>
+'''Parameters'''
+* <code>key_to_check</code>: Key to check.
+* <code>keys_to_check</code>: List of the keys among to check separated by ':'
+
+* <code>Example</code>: 
+* <code>is variable_highest jimmy,arthur</code>: jimmy:clara
+
+=== VariableIsCondition ===
+Check an operation over a variable.
+
+'''Usage'''
+<code>
+
+is variable_is <value1>,<operation>,<value2>
+
+</code>
+'''Parameters'''
+* <code>value1</code>: Either a variable or a number.
+* <code>operation</code>: Numeric comparison operator. Accepted values are "less_than",
+"less_or_equal", "greater_than", "greater_or_equal", "equals"
+and "not_equals".
+* <code>value2</code>: Either a variable or a number.
+
+=== VariableLowestCondition ===
+Check if a specific variable is the lowest among the others.
+
+'''Usage'''
+<code>
+
+is variable_lowest <key_to_check>,<keys_to_check>
+
+</code>
+'''Parameters'''
+* <code>key_to_check</code>: Key to check.
+* <code>keys_to_check</code>: List of the keys among to check separated by ':'
+
+* <code>Example</code>: 
+* <code>is variable_lowest jimmy,arthur</code>: jimmy:clara
+
+=== VariableSetCondition ===
+Checks if one or more player game variables exist and optionally match
+specified values.
+
+If a variable does not exist, the condition returns `False`.
+
+'''Usage'''
+<code>
+
+is variable_set <variable>[:value],[<variable>[:value] ...]
+
+</code>
+'''Parameters'''
+* <code>variable</code>: The variable to check.
+* <code>value</code>: Optional value to check against. If omitted, the condition
+only checks for the variable's existence.
+
+The condition returns `True` if all specified variables exist and
+match their given values (if provided). Otherwise, it returns `False`.

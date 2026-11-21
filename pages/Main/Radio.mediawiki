@@ -1,0 +1,56 @@
+Interacting with a '''radio''' allows you to tune it, and if you land on a station's frequency it plays a short broadcast as dialogue.
+
+What plays can be set based on time of day, location, day of the week, and any other game variable. 
+
+=== Tuning ===
+
+The tuner covers the FM band from '''88.0 to 108.0 MHz''' in steps of 0.1 MHz, and shows '''Signal Strength''':
+
+{| class="wikitable"
+! Distance from station !! Signal !! Result
+|-
+| Exactly on 94.7 || Strong (100%) || The broadcast plays
+|-
+| 0.1 MHz off || Moderate (50%) || Static
+|-
+| 0.2 MHz or more || Weak / No Signal || Static
+|}
+
+[[Radio App]] for the Nu Phone opens a list of the stations available at your current location. 
+
+=== [[The Spyder in the Cathedral]] ===
+
+Two radio sets:
+
+* '''[[Paper Town]]''' - the rival's bedroom
+* '''[[Leather Town]]''' - House 1
+
+Both are tuned to '''Route 101 Rhythms''' on '''94.7 MHz''', the only broadcasting station in the game so far. 
+
+{| class="wikitable"
+! Stage of day !! Hours !! Paper Town (rival's bedroom) !! Leather Town (House 1)
+|-
+| Dawn || 04:00&ndash;07:59 || Metal &ndash; ''Dragon's Roar: Percussive Fury'' || Country &ndash; ''Heavyhearted At Losing My Rockat''
+|-
+| Morning || 08:00&ndash;11:59 || Pop &ndash; ''Omni Love: A Journey Through Channels of the Heart'' || R&B &ndash; ''Possessuns, Part I''
+|-
+| Afternoon || 12:00&ndash;15:59 || Rock &ndash; ''Rise to Dominate: The Ultimate Trainer's Anthem'' || R&B &ndash; ''Possessuns, Part II''
+|-
+| Dusk || 16:00&ndash;19:59 || Country &ndash; ''Breaking Chains, Finding Strength: From Fear to Enforcer'' || Electronic &ndash; ''Beats Of BotBot''
+|-
+| Night || 20:00&ndash;03:59 || Techno &ndash; ''Bot Revolution: Rise of the Botbots'' || ''Fondent Tango''
+|}
+
+=== Modding ===
+
+* <code>radio_map_lists.yaml</code> specifies which stations can be picked up on which map.
+* <code>radio_data.yaml</code> is each station's frequency, its <code>default</code> broadcast, and a list of <code>conditional_broadcasts</code>. Each conditional broadcast can be limited based on <code>map_slugs</code> and game <code>variables</code> (such as <code>stage_of_day</code>). A conditional broadcast can also <code>set_variables</code> once the dialogue closes, allowing for one-off broadcasts. 
+
+The first conditional broadcast whose conditions all match is the one that plays; if none match, the station falls back to its <code>default</code>, and a station with no frequency (like the Scrambled Frequency) can never be reached with the dial.
+
+Place a radio event with <code>tune_radio</code> event action:
+
+<pre>
+tune_radio player          # opens the station list
+tune_radio player,94.7     # opens the tuner, already on 94.7 MHz
+</pre>

@@ -1,0 +1,15 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert, Jaskrendix
+|Source Explanation=Designed and sprited by Georg Eckert. Front sprites by Jaskrendix.
+|Name Origin=''transparent'' + ''gastronomy'' or ''trans'' ("through") + ''gastro'' ("stomach")
+|Main Details=TRASTO is a mysterious, transparent blob-like Tuxemon.
+|TXMN Body Shape=Blob
+|TXMN Blurb=TRASTO's digestive apparatus is visible through its clear body, giving it a fascinating yet unsettling appearance. TRASTO's ability to digest a wide variety of foods makes it a valuable ally in battle.
+|TXMN Height=110
+|TXMN Weight=5
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|Fusion First=Tra
+|Fusion Second=Sto
+}}

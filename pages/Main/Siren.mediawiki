@@ -1,0 +1,16 @@
+{{Technique
+|TXMN Blurb=They attempt to lure the target to their doom, even at cost to themself.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Water
+|TXMN Family=Exotic
+|TXMN Is fast=Fast
+|TXMN Accuracy=100%
+|TXMN Effects=Sacrifice
+|TXMN Recharge=5
+|TXMN Animation Target=3
+|Tags=Calamity, Water
+|Main Details=Music themed move. Based on the legends of watery sirens.
+|Sources=HippasusTwo
+}}

@@ -1,0 +1,54 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/58-60-Stonifly-Cocrune-Runesquito-666806337
+|Sources=Serpexnessie
+|Species=Diptera
+|Evolves=Cocrune
+|Name Origin=''rune'' + ''mosquito''
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth, Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=334
+|TXMN Blurb=The blood-red marking is RUNESQUITO. The rest is just a rocky shell it rides alongside.
+|TXMN Height=66
+|TXMN Weight=6
+|TXMN Catch Resistance=35
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage2
+|TXMN Terrains=Freshwater, Ruins, Swamp
+|Tags=Rock, Shielded, Bug, Summoner, Mental, Shapeshifter, Darkness
+|Fusion First=Rune
+|Fusion Second=squito
+}}
+{{Technique Allocation
+|Has_Technique=Boulder
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Buzz
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Petrify
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Rock
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Stonehenge
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Take Cover
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Electroplate
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=40
+}}

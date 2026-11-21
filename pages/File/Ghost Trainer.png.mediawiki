@@ -1,0 +1,9 @@
+Our wiki can't deal with transparencies in GIFs, so here's the sheet as a PNG. 
+
+[[Category:Overland Sprite]]
+[[Category:Ghost]]
+[[Category:Alternative]]
+[[Category:Catch Challenger]]
+[[Category:16px]]
+
+A sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.

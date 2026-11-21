@@ -1,0 +1,253 @@
+'''This is a grab-bag of technique ideas that have gathered over the years, from many contributors, some of whom are no longer involved in the project. Before implementing any particular idea, we should discuss on GitHub and Discord whether it's helpful.'''
+
+== Move lists and techniques ==
+''[https://forum.tuxemon.org/thread.php?id=141 Original thread]''
+
+[https://drive.google.com/file/d/1pwxFTn8HwAt9HcqGX5PhJkurJeCwtWzn/view?usp=sharing On Google Drive]
+
+== Battlefield Effect ==
+
+Some techniques cause battlefield effects, which apply to both monsters in play, and remain in place until replaced by another battlefield effect. 
+
+* '''Resist X (Resist Fire, Resist Water, Resist Wood, Resist Metal, Resist Fire):''' Both monsters halve damage from the specified type. 
+
+== Technique Riders ==
+* Charge Up: The technique has no effect this turn. The rest of the technique takes place on the attacker's next turn.
+* Shelter: The technique has no effect this turn, except the attacker cannot be hit by attacks except Area attacks. The rest of the technique takes place on the attacker's next turn.
+* Backlash #: The user takes #/16 of their hit point maximum in damage (unmodified).
+* Recoil #: The user takes #/16 of their hit point maximum in damage (unmodified), if they hit. 
+* Disarm: The target loses its item, and the other creature picks it up if it is not holding an item. Otherwise, it is not accessible until the end of the battle. In any case, all items are returned to their original owner at the end of the battle.
+* 1HKO: If the target is lower level than the attacker, they are reduced to 0 HP. 
+
+=== Vaguer ideas ===
+* Stall or stop swap-outs, or punish them
+* High critical hit ratio (currently we don't have any critical hits)
+* Change the user’s Type to (a) the target’s Type, (b) this technique’s Type, (c) the Type of the last technique used on the user
+* Interact with items - eating your opponent's consumable item, stop opponent from using items, etc
+* Target: Own Team (target one or all of your benched creatures)
+* Switch out one monster for another 
+
+== Conditions ==
+
+* Enlarged: Your maximum and current HP increase by 1/4, but when this condition ends, you take damage equal to that amount.
+* Charmed: Techniques have a 50% chance of failing if they target an opponent.
+* Frightened: Each turn, there is a 1/8 chance you will automatically swap out for a random alternative Tuxemon from your team. If no replacements are available, you attempt to retreat. 
+* Delay: Do nothing on the first turn that you become Slow. On each later round, do the thing that you were commanded to do one round earlier. '''(changed into "delay", the original was "slow", already used)'''
+
+== Expanding the Concept ==
+* “if” statements, e.g. “if target Asleep, user heals 4 maximum HP” . If enemy attacks this round, X. Otherwise Y. If attack misses, user takes X damage
+* fields, e.g. “user heals DAMAGE DONE BY THIS ATT” or “do 50% of enemy’s CURRENT HP in dmg” or “user heals USER’S CURRENT DAMAGE and enemy takes USER’S CURRENT DAMAGE”)
+* tags, e.g. Aerial (can hit Swooping), Underground (can hit Hibernate), Gaze, Light, Sound (some are immune to conditions/pseudo-c/pro-c from Sound techniques, and take half damage from them), etc
+
+= Ideas for particular techniques =
+* Verdigris (Resist Metal), Drought (Resist Water), Salt (Resist Wood), Sinkhole (Resist Earth), Steel Beams (Resist Fire). All Aether techniques with accuracy 100% and no recharge time. 
+* '''Evil Eye:''' Damage. If you have previously used [[Glower]] this combat, do an additional 50% damage.
+* '''Eruption:''' The attack occurs as normal in the first round, and then in each of the following four rounds, unless interrupted (e.g. by a miss). Each subsequent attack has double the power of the one before it. Each attack has a 10% chance of imposing the Burn condition.
+* '''Swallow:''' The attack occurs as normal in the first round, and then in each of the following four rounds, unless interrupted (e.g. by a miss). Each subsequent attack has double the power of the one before it.
+* '''Reclaim Relic (Memnomnom):''' If the opponent uses an item this turn, Memnomnom receives the effect instead of the target (or there is no effect if Memnomnom is not an eligible target). The item is consumed if it would normally be consumed. 
+
+= Field techniques =
+
+[[Beyond_Episode_1#Field_techniques|Field techniques]] would be usable outside of combat.
+
+== Sandy's technique ideas ==
+Aaardorn/aardart
+
+Going to be based around slowing down your opponent and dealing mid-range damage
+
+Main moves:
+
+* All In
+* Hibernate
+* Overfeed
+* Reckless Abandon
+
+Abesnaki
+
+High Attack with debuffs for opponents but low defense
+
+Main Moves:
+
+* Dash
+* Envision
+* Poison Bite
+* Retalliate
+
+Agnite/Agnidon/Agnigon
+
+Powerful, but has alot of moves that damage itself.
+
+Main Moves:
+
+* Combustion
+* Heated Fury
+* Fume
+* Fire Claw
+* Reckless Abandon
+
+Allagon:
+
+Going to have very heavy hitting moves but with very low accuracy, at level 12 will learn a move called "lock on" which makes the next move a guaranteed hit
+
+Main moves:
+
+* Rust Bomb
+* Shrapnel
+* Lock on
+
+Angrito/Sadito:
+
+Angrito has High attack, Low defense, Can transform into Sadito which has Low Attack, high defense with the move Rewire
+
+Main Moves:
+
+* Rewire
+* Duelists Inversion
+* Rust Bomb
+
+Anoleaf:
+
+High Speed and Attack, with Lots of attacks with the is_fast priority 
+
+Main Moves:
+
+* Dash
+* Retalliate
+* Thorn Lash
+
+Anu:
+
+More powerful when it just took damage
+
+Main Moves:
+
+* Retalliate
+* Revenge of Shadows
+* Lock On
+* Dash
+
+Araiginee:
+
+Fast and Slows down opponents
+
+Main Moves:
+
+* Web
+* Overfeed
+* Posion bite
+
+Arthrobolt:
+
+Low Defense,but more powerful with lower HP.
+
+Moves:
+
+* Electrostatic
+* Retalliate
+* Shrapnel
+* Lock On
+* Self Destruct
+
+AV8R:
+
+More Powerful in Sunlight(needs weather implemented):
+
+Moves:
+
+* peck
+* Dash
+* Solar Charge
+* Bright Flash
+* Fly
+
+Axlyghtl:
+
+High Defense, uses the move Lure to force opponents to use certain types of moves
+
+Moves:
+
+* Lure
+* Envision
+* Solar Charge
+* Pressure Wash
+
+Bamboon:
+
+Based around lifeleech and wearing down the opponent and healing itself
+
+Moves:
+
+* Thwack
+* Lifeleech
+* Bamboo Sweep
+* Poison Bite
+
+Bigfin:
+
+Big, Slow, and Tough, low attack.
+
+* All In
+* Ram
+* Pressure Wash
+
+Birdling:
+
+very low in most stats, but high HP, can use hatch to heal and shellshock to prevent damage.
+
+* Peck
+* Fly
+* Hatch
+* Shell Shock
+
+High Defense
+Budaye:
+
+* Scratch
+* Fluff Up
+
+Cateye:
+
+Going to be based around looking at and predicting your opponents moves to make it work effectively
+
+Main Moves:
+
+* Scratch
+* Envision
+* Seal in
+* Dark Prophecy
+
+Sumchon:
+
+Going to be based around have a heavy weight with moves that are propritionate to tuxemons weight. Very Slow.
+main moves:
+
+* All in
+* Overfeed
+* Heavy Armor
+* Slam Throw
+
+yinaang:
+
+going to have moves that switch its stats with eachother and moves that buff and debuff stats
+
+main moves:
+
+* All_In
+* Amnesia
+* Duelists Inversion
+* Heavy Armor
+* Mediate
+* Supernova
+
+Finished Moves:
+
+* Amnesia(fix bug)
+* levitate
+* overfeed
+* Poison bite
+* lifeleech
+* lock on
+* fume
+* combustion
+
+[[Category:Proposed content]]

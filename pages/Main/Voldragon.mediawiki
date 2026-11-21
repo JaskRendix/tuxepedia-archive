@@ -1,0 +1,8 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2251#p2251
+|Sources=Piacarrot,
+|Source Explanation=Design and original sprite by Piacarrot. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|TXMN Types=Fire
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+}}

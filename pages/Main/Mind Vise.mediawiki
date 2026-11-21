@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=185
+|TXMN Blurb=The user traps the opponent's mind, preventing them from acting.
+|TXMN Category=Melee
+|TXMN Type 1=Metal
+|TXMN Type 2=Fire
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1
+|TXMN Potency=100%
+|TXMN Recharge=1
+|TXMN Target Condition=Stuck
+|Tags=Ghost, Mental
+|Sources=Sanglorian
+}}

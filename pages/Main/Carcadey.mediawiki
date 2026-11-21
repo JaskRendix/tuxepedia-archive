@@ -1,0 +1,22 @@
+{{Monster
+|Sources=BrasioPkmn
+|Evolves=Carfey
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}
+{{Evolutions
+|Has Evolution=Carcarino
+|Evolution Level=36
+}}
+{{Technique Allocation
+|Has_Technique=Gust
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Taunt
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Wind Leaf Blade
+|Technique_Level=16
+}}

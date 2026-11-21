@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=278
+|TXMN Blurb=They begin taking control of others as puppets or creating psychic spirits and using them to attack, then join the fray themselves.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Fire
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Powerful
+|TXMN Is fast=Slow
+|TXMN Accuracy=80%
+|TXMN Power=2.5
+|TXMN Effects=foresight 3
+|TXMN Recharge=5
+|TXMN Animation Target=3
+|Tags=Summoner, Mental
+|Main Details=more late game move variety + fix dearth of summoner moves that are actually about summoning.
+|Sources=HippasusTwo
+}}

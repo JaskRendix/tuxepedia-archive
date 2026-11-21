@@ -1,0 +1,3 @@
+{{Effect
+|Details=Permanently increase the recipient's Ranged by the item's power.
+}}

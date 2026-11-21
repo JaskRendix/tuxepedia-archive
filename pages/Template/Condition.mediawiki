@@ -1,0 +1,119 @@
+<noinclude>
+This is the "Condition" template.
+It should be called in the following format:
+<pre>
+{{Condition
+|TXMN ID=
+|Positive or Negative=
+|Response to Positive Condition=
+|Response to Negative Condition=
+|Response to Technique Use=
+|Response to Item Use=
+|Response to End of Round=
+|Replacement Conditions=
+|Text When Gained=
+|End of Round Text=
+|Speed Multiplier=
+|Melee Multiplier=
+|Ranged Multiplier=
+|Armour Multiplier=
+|Dodge Multiplier=
+|Details=
+|TXMN_ES Name=
+|TXMN_ES Text When Gained=
+|TXMN_ES End of Round Text=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:16px]]
+[[Category:Main]]}} | [[MainImage::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:16px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|thumb]] | [[MainImage::Missing| ]] }}{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:9px]]
+[[Category:Main]]}} | [[MainImage9px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:9px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|thumb]] | [[MainImage9px::Missing| ]] }}
+
+{| class="wikitable"
+! TXMN ID
+| [[TXMN ID::{{{TXMN ID|}}}]] 
+|-
+! Positive or Negative
+| [[Positive or Negative::{{{Positive or Negative|}}}]] 
+|-
+! Replacement Conditions
+| [[Replacement Conditions::{{{Replacement Conditions|}}}]] 
+|-
+! Response to Positive Condition
+| [[Response to Positive Condition::{{{Response to Positive Condition|}}}]] 
+|-
+! Response to Negative Condition
+| [[Response to Negative Condition::{{{Response to Negative Condition|}}}]] 
+|-
+! Response to Technique Use
+| [[Response to Technique Use::{{{Response to Technique Use|}}}]] 
+|-
+! Response to Item Use
+| [[Response to Item Use::{{{Response to Item Use|}}}]] 
+|-
+! Response to End of Round
+| [[Response to End of Round::{{{Response to End of Round|}}}]] 
+|-
+! Text When Gained
+| [[Text When Gained::{{{Text When Gained|}}}]] 
+|-
+! End of Round Text
+| [[End of Round Text::{{{End of Round Text|}}}]] 
+|-
+! Speed Multiplier
+| [[Speed Multiplier::{{{Speed Multiplier|}}}]] 
+|-
+! Melee Multiplier
+| [[Melee Multiplier::{{{Melee Multiplier|}}}]] 
+|-
+! Ranged Multiplier
+| [[Ranged Multiplier::{{{Ranged Multiplier|}}}]] 
+|-
+! Armor Multiplier
+| [[Armour Multiplier::{{{Armour Multiplier|}}}]] 
+|-
+! Dodge Multiplier
+| [[Dodge Multiplier::{{{Dodge Multiplier|}}}]] 
+|-
+! Details
+| [[Details::{{{Details|}}}]] 
+|}
+
+{{#ask:[[Category:{{PAGENAME}}]] [[Category:Main Sprite]]
+|?#
+|link=all
+|searchlabel=… further results
+|navigation=nav
+|intro=<strong style="text-align: center;">All sprites</strong>
+}}
+
+== In other languages ==
+
+{| class="formtable"
+! Language
+| Name
+| Text When Gained
+| End of Round Text
+|-
+! Spanish
+| [[TXMN_ES Name::{{{TXMN_ES Name|}}}]]
+| [[TXMN_ES Text When Gained::{{{TXMN_ES Text When Gained|}}}]]
+| [[TXMN_ES End of Round Text::{{{TXMN_ES End of Round Text|}}}]]
+|}
+
+[[Category:Condition]]
+[[Category:{{PAGENAME}}]]
+</includeonly>

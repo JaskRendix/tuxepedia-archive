@@ -1,0 +1,14 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Slentacle-and-Slenstalker-665919808
+|Sources=TheBritanniaRegion,
+|Species=Black-Eyed
+|Name Origin=''Slenderman'' + ''tentacle''
+|Design Origin=Black Eyed Children.
+|TXMN Types=Metal
+|TXMN Blurb=Often seen photobombing normal family photographs, it stares at the camera with its empty black eyes until the camera lens cracks.
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Slenstalker
+}}

@@ -1,0 +1,21 @@
+{{Monster
+|Sources=Seripha
+|Evolves=Duoflora
+|Name Origin=Quad + Flora
+
+Quad-: Latin for "four", implying four spinning blades.
+
+Flora: Latin for "plants" or "flowers", representing its botanical nature.
+|Main Details=Quadflora represents the pinnacle of solar synergy. Four distinct petal structures work in perfect harmony, allowing it to harness immense solar power. Its four synchronized rotors grant it exceptional speed, enabling rapid aerial movement and swift repositioning in battle. This Tuxemon is a living sun, radiating warmth and light, and its fiery attacks are said to be as intense as a solar flare.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Sky, Wood
+|TXMN Body Shape=Blob
+|TXMN Height=130
+|TXMN Weight=44
+|TXMN Catch Resistance=0
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Grassland, Woodland
+|Fusion First=Quad
+|Fusion Second=Flora
+}}

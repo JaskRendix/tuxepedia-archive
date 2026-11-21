@@ -1,0 +1,5 @@
+{{Environment
+|First URL=https://opengameart.org/content/isometric-64x64-medieval-building-tileset
+|Sources=Pixel32, Seth Galbraith
+|Source Explanation=Resized and adapted from Seth Galbraith's pixel art, using the base by pixel32
+}}

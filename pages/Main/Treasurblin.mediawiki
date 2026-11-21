@@ -1,0 +1,13 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/journal/Fakemon-for-Sale-680318198
+|Sources=TheBritanniaRegion,
+|Species=Treasure
+|Evolves=Gemblin,
+|Name Origin=''treasure'' + ''goblin''
+|Design Origin=Treasure chests and goblins
+|Main Details=They often snatch impending treasure hunters and eat them alive.
+|TXMN Types=Metal
+|TXMN Blurb=They are very greedy tuxemon, and will often attack those seeking to steal their supply of treasure. Their golden fan is covered in the dust from their gold and shiny treasure.
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}

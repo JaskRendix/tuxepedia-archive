@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=29
+|TXMN Blurb=The user assumes a defensive stance, increasing its accuracy.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=1
+|TXMN User Condition=sniping
+|TXMN Animation Target=0
+|Tags=Leadership, Shielded, Bug
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. "Smoke bomb" animation by Superpowers Asset Packs.
+}}

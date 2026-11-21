@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=283
+|TXMN Blurb=Disease doesn't care about your dodge skills or defenses. The user spreads it with malicious glee.
+|TXMN Completed=Complete
+|TXMN Category=Reliable
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Venom
+|TXMN Family=Powerful
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=70%
+|TXMN Power=3
+|TXMN Potency=50%
+|TXMN Recharge=4
+|TXMN Target Condition=Festering
+|TXMN Animation Target=1
+|Tags=Toxic, Spore, Bug
+|Main Details=For Nuenflu, but could also work well for microbe or death themed mons as a late game move, and perhaps mosquito mons.
+}}

@@ -1,0 +1,62 @@
+{{Monster
+|Sources=Leo
+|Source Explanation=Design by Leo.
+|Species=Log Equine
+|Evolves=Ekpine
+|Name Origin=''edinorog'' (Russian for unicorn) + ''log''
+|TXMN Types=Wood
+|TXMN Sub-Elements=Heroic, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Landrace
+|TXMN ID=406
+|TXMN Blurb=They say it only likes to appear in front of the innocent.
+|TXMN Height=180
+|TXMN Weight=1000
+|TXMN Catch Resistance=35
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage2
+|TXMN Terrains=Grassland
+|Tags=Megafauna, Plant
+|Fusion First=Edin
+|Fusion Second=olog
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Flower Armor
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Tail Lash
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Breath
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Trample
+|Technique_Level=12
+}}
+{{Technique Allocation
+|Has_Technique=Woodsmash
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Wind Leaf Blade
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Lock Horns
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Earth Charge
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Give All
+|Technique_Level=50
+}}

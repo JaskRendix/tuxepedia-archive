@@ -1,0 +1,34 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/Mk-01-CLAW-RIPPER-670512259
+|Sources=Serpexnessie
+|Species=Threat
+|Main Details==== Sanglorian writes ===
+I have a soft spot for Mk01 Proto because it coincidentally fits into the Spyder in the Cathedral plot really well! The plot has killer robots being fused with ancient dragons as part of an evil corporate scheme - and Mk01 Proto and its evolutions are robot-dragons!
+
+Other ways that Proto and family could be used are:
+
+* In an alternative dimension where all monsters are human-made
+* Artificial dragons built because all the living dragons have died out
+* In a future time when battling monsters is considered unethical, Protos could be the replacement
+|TXMN Completed=Complete Threat
+|TXMN Types=Metal
+|TXMN Body Shape=Dragon
+|TXMN ID=0
+|TXMN Blurb=A killer robot fused with a dragon. Don't ask us how.
+|TXMN Height=0
+|TXMN Weight=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|Fusion First=Mk01
+|Fusion Second=proto
+}}
+{{Evolutions
+|Has Evolution=Mk01 Alpha
+}}
+{{Evolutions
+|Has Evolution=Mk01 Beta
+}}
+{{Technique_Allocation|Has_Technique=Electrical Storm|Technique_Level=2}}
+{{Technique_Allocation|Has_Technique=Wall of Steel|Technique_Level=2}}
+{{Technique_Allocation|Has_Technique=Shrapnel|Technique_Level=6}}
+{{Technique_Allocation|Has_Technique=Amnesia|Technique_Level=8}}

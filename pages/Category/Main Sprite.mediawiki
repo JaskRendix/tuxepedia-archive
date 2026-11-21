@@ -1,0 +1,6 @@
+One sprite can apply to multiple items, and some items may not have a sprite.
+
+{{#ask:[[Category:Main Sprite]] 
+[[Category:24px]] |limit=300
+|sep= 
+}}

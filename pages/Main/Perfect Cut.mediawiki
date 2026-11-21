@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=61
+|TXMN Blurb=The user strikes with surgical precision, leaving no room for error.
+|TXMN Completed=Complete
+|TXMN Category=Reliable
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.6
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Sharp
+|Sources=Sanglorian, Tamashihoshi
+|Source Explanation=Technique by Sanglorian. "Slash power" animation by Tamashihoshi.
+}}

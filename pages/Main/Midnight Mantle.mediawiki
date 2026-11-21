@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=55
+|TXMN Blurb=The user shrouds itself in a cloak of darkness, striking out with shadowy tendrils that inflict damage and disorient the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Shadow
+|TXMN Family=Basic
+|TXMN Is fast=Very Fast
+|TXMN Accuracy=80%
+|TXMN Power=1.25
+|TXMN Effects=splash
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Darkness, Celestial
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. "Claw blue" animation by Superpowers Asset Packs.
+|TXMN Is area=True
+}}

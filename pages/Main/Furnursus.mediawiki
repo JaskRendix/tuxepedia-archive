@@ -1,0 +1,66 @@
+{{Monster
+|Alternative Names=Oursiflamme
+|First URL=https://opmon-game.ga/
+|Sources=OPMon, Sanglorian
+|Source Explanation=Design and front and back sprites from the open source game OPMon. Face sprites adapted from the front sprite by Sanglorian. English name by Sanglorian.
+|Species=Fireplace
+|Name Origin=''furnace'' + ''ursus'' (Furnursus)
+
+''ours'' + ''flamme'' (Oursiflamme)
+|Main Details=Abandoned Furnursus become [[Urcine]].
+
+FR blurb: Un si gentil ourson qui est tout feu tout flamme…
+
+The [[Bursa]] family are also fiery bears with a meditative side.
+|SpyderCampaign=Found in the wild in Cotton Tunnel.
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=190
+|TXMN Blurb=FURNURSUS are friendly, and often forget that their bodies are too hot for others to touch.
+|TXMN Height=110
+|TXMN Weight=47
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Tags=Flame
+|Fusion First=Furn
+|Fusion Second=ursus
+}}
+{{Evolutions
+|Has Evolution=Statursus
+|Evolution Level=18
+}}
+{{Technique_Allocation
+|Has_Technique=Rock
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=One-Two
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Give All
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Supernova
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Tinder
+|Technique_Level=31
+}}

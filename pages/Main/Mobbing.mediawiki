@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=115
+|TXMN Blurb=A swarm of small creatures emerges from the user, overwhelming the opponent with a flurry of attacks.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Shadow
+|TXMN Family=Simple
+|TXMN Is fast=Slow
+|TXMN Accuracy=100%
+|TXMN Power=1.8
+|TXMN Potency=10%
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Leadership
+|Sources=Jaskrendix
+}}

@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=21
+|TXMN Blurb=The user's claws become covered in ice as it delivers a freezing attack.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Earth
+|TXMN Type 2=Water
+|TXMN Sub-Elements=Frost
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.25
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Ice, Claws
+|Sources=Sanglorian, Daneeklu
+|Source Explanation=Technique by Sanglorian. "Icetacle" animation by Daneeklu, resized by Sanglorian.
+}}

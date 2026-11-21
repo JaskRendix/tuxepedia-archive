@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=90
+|TXMN Blurb=The user creates a treacherous patch of quicksand, trapping and damaging the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Family=Simple
+|TXMN Is fast=Very Slow
+|TXMN Accuracy=80%
+|TXMN Power=2.25
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Target Condition=stuck
+|TXMN Animation Target=1
+|Tags=Ground
+|Sources=Sanglorian, Daneeklu
+|Source Explanation=Technique by Sanglorian. "Spikes rock" animation by Daneeklu.
+}}

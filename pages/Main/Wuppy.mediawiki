@@ -1,0 +1,27 @@
+{{Monster
+|Sources=Georg Eckert
+|Source Explanation=Designed and sprited by Georg Eckert.
+|Species=Wormpuppy
+|Name Origin=''worm'' + ''puppy''
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire, Shadow
+|TXMN Body Shape=Grub
+|TXMN Height=100
+|TXMN Weight=20
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Underground, Woodland
+}}
+{{Evolutions
+|Has Evolution=Earog
+|Evolution Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Breath
+|Technique_Level=1
+}}

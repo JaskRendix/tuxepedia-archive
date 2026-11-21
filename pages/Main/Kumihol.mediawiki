@@ -1,0 +1,14 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert
+|Species=Ice Fox
+|Name Origin=''Kumiho'' (Korean legendary creature) + ''eol-eum'' ("ice" in Korean)
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Boreal/Snow, Mountains
+|Tags=Ice, Bite
+|Fusion First=Kumi
+|Fusion Second=hol
+}}

@@ -1,0 +1,18 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Folstein-002-675403483
+|Sources=TheBritanniaRegion,
+|Species=Tree Smasher
+|Evolves=Mooush,
+|Name Origin=''foliage'' + ''Holstein''
+|Design Origin=Water lilies, cows and swamp monsters. 
+
+Alternative colouration Folstein is based on trees, rotting leaves and the standard colour of the ox.
+|Main Details=They have a second pair of horns hidden under their thick coat, which allow them to scratch into trees to mark out their territory.
+|TXMN Types=Wood
+|TXMN Blurb=Through evolution, the tuxemon becomes much more aggressive and suddenly feels the need to smash down trees. They contribute significantly to the ecosystem of the region, as they can knock down dead trees and free up space for new plants to bloom
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}
+{{Evolutions
+|Has Evolution=Cowoad
+}}

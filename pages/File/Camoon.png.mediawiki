@@ -1,0 +1,16 @@
+The monsters and sprites listed here are under Creative Commons 4.0 (CC-BY-4.0). This means you are free to use them anywhere with only a few strings attached. This is to make sure the monsters are known everywhere under the same names. Rules:
+
+* always give proper credit to the author of the monsters: Georg Eckert
+* always use the monster names provided here
+* if you alter the sprites, make sure to still pass the original authors name on
+* the license only applies to the sprites, not to your code
+* otherwise do whatever you want
+
+[https://bitbucket.org/gemlion/monsterworld/src/67ca8714256bb522b02d5f900fc579a3cdb44dbb/Wiki/Guardians.md Source]
+
+[[Category:Georg Eckert]]
+[[Category:Camoon]]
+[[Category:128px]]
+[[Category:Front Sprite]]
+[[Category:Main]]
+[[Category:Art]]

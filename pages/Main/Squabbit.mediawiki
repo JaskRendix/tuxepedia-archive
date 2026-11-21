@@ -1,0 +1,66 @@
+{{Monster
+|Alternative Names=Ing-Ing
+|First URL=https://forum.tuxemon.org/thread.php?pid=1356#p1356
+|Sources=NikitaKurylev
+|Source Explanation=Original design and sprites by NikitaKurylev.
+|Species=Rabbit
+|Name Origin=''squirrel'' + ''rabbit''
+|Main Details=Squabbit's big tail helps it to stand on its hind legs.
+
+The [[Lapinou]] blurb says they are domesticated Squabbits.
+|SpyderCampaign=Found in the wild in City Park and Route 3. Trainers use Squabbit in Scoop HQ, Mansion, City Park, Wayfarer Inn, Nimrod HQ, Route 3, Side Route B and Omnichannel HQ. They seem to be particularly popular among Enforcers.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Heroic
+|TXMN Completed=Complete
+|TXMN Body Shape=Varmint
+|TXMN ID=44
+|TXMN Blurb=To prove themselves, they will fight tooth and nail over even the smallest thing.
+|TXMN Height=60
+|TXMN Weight=10
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Tags=Soldier, Fists, Ground
+|Fusion First=Squab
+|Fusion Second=bit
+}}
+{{Evolutions
+|Has Evolution=Rabbitosaur
+|Evolution Level=18
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Boxing
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Quicksand
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Fledgling
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Electrical Storm
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Snowstorm
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=40
+}}

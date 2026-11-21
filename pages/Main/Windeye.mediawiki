@@ -1,0 +1,54 @@
+{{Monster
+|Sources=DevilDman, Levaine, Sanglorian
+|Source Explanation=Original design by Sanglorian's former coworkers and donated to the project. Art and redesign by DevilDman. Front sprite by Levaine. Back sprite by Sanglorian.
+|Species=Tower
+|Evolves=Fancair
+|SpyderCampaign=Used by trainers in Side Route E and Datacenter.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Lightning, Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=180
+|TXMN Blurb=Like a mighty tree, WINDEYE plants itself on the top of hills to soak in the sun and wind. Recharged, it then leaves to find another place under the sky.
+|TXMN Height=300
+|TXMN Weight=600
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Machine, Weather, Electricity, Steel, Sharp
+|Fusion First=Wind
+|Fusion Second=eye
+|TXMN_FR Name=Ventœil
+}}
+{{Technique_Allocation
+|Has_Technique=Whirlwind
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Slice
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Bullet
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Muddle
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Wall of Steel
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Adamantine
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Constrict
+|Technique_Level=28
+}}

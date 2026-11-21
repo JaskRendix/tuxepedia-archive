@@ -1,0 +1,6 @@
+<noinclude>
+This is the "TXMN Stats" form.
+
+Go to the Monster form, which incorporates the TXMN Stats form.
+</noinclude><includeonly>
+</includeonly>

@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=271
+|TXMN Blurb=A psychic electrical attack that targets the neurons.
+|TXMN Category=Touch
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Lightning, Cosmic
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=95%
+|TXMN Power=2.6
+|TXMN Potency=25%
+|TXMN Recharge=3
+|TXMN Target Condition=Confused
+|TXMN Animation Target=2
+|Tags=Mental, Electricity
+}}

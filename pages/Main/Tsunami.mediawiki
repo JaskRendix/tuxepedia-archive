@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=170
+|TXMN Blurb=The user summons a colossal wave that crashes down upon the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Water
+|TXMN Type 2=Earth
+|TXMN Sub-Elements=Water
+|TXMN Family=Powerful
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=75%
+|TXMN Power=2.7
+|TXMN Effects=areas
+|TXMN Recharge=3
+|TXMN Animation Target=1
+|Tags=Water, Calamity
+|Sources=Jaskrendix
+}}

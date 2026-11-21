@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=128
+|TXMN Blurb=The user fires a sharp, crystalline projectile at the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Earth
+|TXMN Type 2=Metal
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=90%
+|TXMN Power=1
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Gemstone
+|Sources=Jaskrendix
+}}

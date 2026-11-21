@@ -1,0 +1,15 @@
+{{Monster
+|First URL=https://www.reddit.com/r/fakemon/comments/b35551/a_couple_months_back_i_came_upon_an_opensource/
+|Sources=Chairry-Art,
+|Source Explanation=Design and front sprite by Chairry-Art.
+|Design Origin=Based on [[Grintot]] by [[Spalding004]] and [[Royaba]].
+|Main Details=Grubble evolves into either Gracklin or Gringite based on the gem it holds. If the gem is taken away, the evolution de-evolves back into Grubble.
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Gringite
+}}
+{{Evolutions
+|Has Evolution=Gracklin
+}}

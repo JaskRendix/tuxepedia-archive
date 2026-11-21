@@ -1,0 +1,68 @@
+== Licensing ==
+
+Posting any contributions (explicitly described as such) to this game on this web forum is a tacit acceptance of the fact that you are placing them under the Creative Commons Attribution-ShareAlike 4.0 International or any later version. You maintain your own full rights to the contributions, and may continue to do whatever you, the owner, wish to do with them, but you have given us the right to use them under the limitations of the CC BY-SA 4.0. You can read the details of the Creative Commons license here:
+https://creativecommons.org/licenses/by-sa/4.0/
+
+[https://forum.tuxemon.org/thread.php?id=83 Original post]
+
+== Roadmap ==
+
+The [[Roadmap]] has our overall plan for the Tuxemon project, and could be a useful reference.
+
+== Monsters ==
+
+The meat of the Tuxemon project is its [[:Category:Monster|monsters]]! You can design a monster and submit it to the project by drawing or painting it or by creating pixel art for it (called a "sprite") - or both! 
+
+See [[Creating Creatures]] for more. 
+
+You can also help us out by adding to existing monsters - mostly by creating pixel art for them if they are missing particular sprites. 
+
+See [[Completing Creatures]] for more. 
+
+== Trainers and Items ==
+
+As well as monsters, the world of Tuxemon is populated with [[:Category:Trainer|trainers]] and [[:Category:Item|items]]. 
+
+* [[Creating Items]]
+* [[Creating and Completing Trainers]]
+
+== Design, Art and Sprites ==
+
+* [[Creating Tilesets|Tilesets]] - the tiles used to create maps
+* [[Contributing Art|Art]]
+* [[Design Guide|Design Style Guide]]
+* [[Graphics Sizes|Graphic Sizes]]
+
+== If images appear blurry ... ==
+
+If your sprites appear blurry in the Tuxemon game, their "bit depth" is probably too high. Open them in GIMP, navigate to Image > Mode > Indexed and click convert
+
+See this image for the settings: 
+
+[[File:Reduce_bit_depth.png]]
+
+== Maps ==
+* [[Creating Maps|Maps]] - the world the player walks around in
+* [[Map Events]] - the events and stories that take place in the game
+
+== Music and Sound Effects ==
+* [[Creating Music|Music]]
+
+== Writing ==
+* [[Creating Writing|Writing]]
+* [[Creating Translations|Translations]]
+
+== Programming ==
+
+* [[Combat AI|Artificial Intelligence]] - how to create and modify AI behavior
+* [[Contributing Code|Code Contributions]]
+* [[Game Data|Game Data]]
+* [[Tuxemon Debug Console|Debug Console]]
+
+== Donations ==
+
+* [https://www.patreon.com/tuxemon Patreon page]
+* [https://tuxemon.org/donate.html PayPal donate page]
+
+== Game Rules ==
+* [[Creating Techniques|Techniques]]

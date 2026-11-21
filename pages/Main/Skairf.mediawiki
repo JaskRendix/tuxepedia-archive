@@ -1,0 +1,9 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Mystery-Adopt-for-Sanglorian-718425594
+|Sources=TheBritanniaRegion,
+|Evolves=Meanie,
+|Name Origin=''scare'' + ''scarf''
+|TXMN Types=Earth
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}

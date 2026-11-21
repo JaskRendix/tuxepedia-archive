@@ -1,0 +1,49 @@
+[[File:Tuxemon_harvest.png|thumbnail]]
+
+[https://forum.tuxemon.org/thread.php?id=117 Original thread]
+
+We already have a bunch of fruit and vegetable and other farm items, and animations for growing plants (many from [[Catch Challenger]])
+
+== Simple farming ==
+
+* Consumable items are mostly fruit, vegetables, seeds, and so on. For example, instead of an [[Antidote]], we could have an ANTIDOTE APPLE. Instead of [[Cure Burn]], we could have BURNBALM MELON.
+* There are fertile patches scattered around the world, especially in your backyard.
+* When you acquire the [[Hoe]] item, you can hoe a fertile patch.
+* You can plant a fruit/vegetable/seed, etc., in the hoed patch.
+* After X steps, the seed grows into the next stage. After another X steps, it grows into the next stage, and so on until you reach the final stage.
+* If you have a [[Watering Can]], you can water each patch. That halves the number of steps it takes until it grows into the next stage (then it dries out and has to be watered again for the next stage).
+* Then you can harvest the plant, and get multiple copies of whatever item you planted in the first place. The patch becomes bare, waiting to be hoed again.
+
+== Plants ==
+From [[Catch Challenger]].
+
+[[File:Moco berry tree.gif]]	[[File:Moco berry.png]]	Moco Berry - remove poison
+
+[[File:Mocochinchi tree.gif]]	[[File:Mocochinchi.png]]	Mocochinchi - heal
+
+[[File:Maracuya tree.gif]]	[[File:Maracuya.png]]	Maracuya - repulse, Maracuya jam: [[File:Maracuya-jam.png]]
+
+[[File:Lima_tree.gif]] [[File:Lima.png]]	Lima; Lima pie: [[File:Pielima.png]]
+
+[[File:Tuber tree.gif]]	[[File:Tuber.png]]	Tuber - cure burning
+
+[[File:Red mycota tree.gif]]	[[File:Red mycota.png]]	Red Mycota	
+
+[[File:Yellow pepper tree.gif]]	[[File:Yellow pepper.png]]	Yellow pepper	
+
+[[File:Pine cone tree.gif]]	[[File:Pine cone.png]]	Pine cone - cure flinching
+
+[[File:Red pepper tree.gif]]	[[File:Red pepper.png]]	Red pepper	
+
+[[File:Alban nut tree.gif]]	[[File:Alban nut.png]]	Alban nut	
+
+[[File:Areca seed tree.gif]]	[[File:Areca seed.png]] Areca seed
+
+[[File:Flower shrub.gif]] Flower
+
+[[File:Green bean shrub.gif]] Green bean
+
+[[File:Carrot.gif]] Carrot
+
+[[Category:Proposed content]]
+[[Category:Catch Challenger]]

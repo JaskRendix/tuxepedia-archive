@@ -1,0 +1,41 @@
+[[File:Spyder routee.png|thumbnail]]
+
+== Connections ==
+=== [[Timber Town]] ===
+=== [[Tunnel B]] ===
+=== [[Side Route B]] ===
+
+== Events ==
+=== Event 1 ===
+Before the player is intercepted.
+
+[[Enforcer Agent]] Calliope:
+* Stop right there! This place is off limits. 
+
+=== Event 2 ===
+After the event in the Cathedral center, you can battle.
+
+== Characters ==
+=== Trainers ===
+[[Enforcer Agent]] Calliope:
+* So you're the little squirt who crashed Omnichannel and blew up all our plans?
+* [[Tumblebee]] level 40, [[Windeye]] level 35
+* Mercy, please! 
+
+[[Enforcer Rookie]] Aiolos:
+* I was just about to start eating.
+* [[Dune Pincher]] level 35, [[Dinoflop]] level 40
+* My lunchtime is gone!
+
+== Locations ==
+
+Sign:
+* Do not swim downstream of the pump site.
+
+== Encounters ==
+=== [[Fishing]]/Surfing ===
+* [[Rhinocarpe]]
+* [[Urcheedle]]
+* [[Drashimi]]
+
+[[Category:Plot]] [[Category:Place]]

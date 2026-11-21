@@ -1,0 +1,87 @@
+/* CSS placed here will be applied to all skins */
+
+
+#cf3 {
+  position:relative;
+  height:26px;
+  width:26px;
+}
+
+#cf3 img {
+ 
+  position:absolute;
+ 
+  left:0;}
+
+
+@keyframes cf3FadeInOut2 {
+ 	  0% {  opacity:0;
+ 	}
+50% {opacity:0 }
+51% {opacity: 1 }
+ 	
+100% {
+opacity:1;
+ }
+ }
+
+@keyframes cf3FadeInOut1 {
+ 	  0% {  opacity:1;
+ 	}
+50% {opacity:1 }
+51% {opacity: 0 }
+ 	
+100% {
+opacity:0;
+ }
+ }
+ 
+#cf3 img.top {
+animation-name: cf3FadeInOut2;
+animation-iteration-count: infinite;
+animation-duration: .66s;
+animation-direction: alternate;
+}
+#cf3 img.bottom {
+animation-name: cf3FadeInOut1;
+animation-iteration-count: infinite;
+animation-duration: .66s;
+animation-direction: alternate;
+}
+
+#cf3 a:nth-of-type(2) img {
+animation-name: cf3FadeInOut1;
+animation-iteration-count: infinite;
+animation-duration: .66s;
+animation-direction: alternate;
+}
+#cf3 a:nth-of-type(1) > img {
+animation-name: cf3FadeInOut2;
+animation-iteration-count: infinite;
+animation-duration: .66s;
+animation-direction: alternate;
+}
+
+
+.invisitable { border: 0; background-color: #ffffff; text-align: center; vertical-align: middle; vertical-align: center; }
+
+.invisitable img { max-width: 64px; max-height: 64px;
+    display: block;
+    width: auto;
+    height: auto; }
+
+.invisitable > img { max-width: 64px; max-height: 64px; 
+    display: block;
+    width: auto;
+    height: auto;}
+
+.invisitable * img { max-width: 64px; max-height: 64px; 
+    display: block;
+    width: auto;
+    height: auto;}
+
+img { width: auto; height: auto}
+
+table img { width: auto; height: auto}
+
+table * img { width: auto; height: auto}

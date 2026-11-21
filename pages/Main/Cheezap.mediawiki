@@ -1,0 +1,15 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/journal/Fakemon-for-Sale-680318198
+|Sources=TheBritanniaRegion,
+|Species=Cheetah
+|Name Origin=''cheetah'' + ''zap''
+|Design Origin=Cheetahs
+|Main Details=Their helmets are attached to their heads from birth. They are bulletproof and can withstand huge amounts of energy.
+|TXMN Types=Metal
+|TXMN Blurb=They are often seen guarding high security areas and training in camps - although they are not quite as disciplined as they should be! They often mess about with other individuals, or nom on the security cameras and break their lenses.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Securipaw
+}}

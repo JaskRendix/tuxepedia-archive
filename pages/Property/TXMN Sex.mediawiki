@@ -1,0 +1,6 @@
+This is a property of type [[Has type::Page]].
+
+The allowed values for this property are:
+* [[Allows value::Male]]
+* [[Allows value::Female]]
+* [[Allows value::Neuter]]

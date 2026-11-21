@@ -1,0 +1,63 @@
+{{Monster
+|Sources=HippasusTwo, WDFA-Final
+|Source Explanation=Design and front and back sprites by WDFA-Final. Front, back and face sprites by HippasusTwo.
+|Species=Myrmidon
+|Evolves=Shull
+|Name Origin=''myrmidon'' + ''crimson''
+|Design Origin=Fire ant.
+|TXMN Types=Fire, Metal
+|TXMN Sub-Elements=Earth, Heroic
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=291
+|TXMN Blurb=MYRMISON queens will emerge on humid days to try to establish new colonies. This is a very dangerous time for them.
+|TXMN Height=120
+|TXMN Weight=50
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Grassland, Jungle, Mountains, Swamp, Urban, Woodland
+|Tags=Bug, Bite, Shielded, Sharp
+|Fusion First=Myrm
+|Fusion Second=ison
+}}
+{{Technique Allocation
+|Has_Technique=Clamp On
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ants
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Blood Nets
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Sting
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Hibernate
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Earthquake
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=46
+}}

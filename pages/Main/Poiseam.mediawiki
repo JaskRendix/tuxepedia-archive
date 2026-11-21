@@ -1,0 +1,17 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Poiseam-and-Vadampf-691919411
+|Sources=TheBritanniaRegion,
+|Species=Water Vapour
+|Name Origin=''poison'' + ''steam''
+|Design Origin=Steam and water vapour.
+|Main Details=Alternative blurb: They attack by spitting poison into the victims eyes. They often do this after someone has taken a hot bath or shower.
+|TXMN Types=Water
+|TXMN Blurb=It is most commonly found in bathrooms, lurking on flat surfaces (especially windows). This is normally after someone has used hot water.
+|TXMN_DE Name=Vagifta (Vergifter)
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Vadampf
+|Evolution Level=37
+}}

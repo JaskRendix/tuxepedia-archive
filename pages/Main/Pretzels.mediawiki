@@ -1,0 +1,20 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=900
+|TXMN Usable In=world
+|TXMN Description=Twisted field grain bites with starpepper hints. Salty, chewy, and playfully spicy.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Meal Dust]]: 2
+* [[Sweetroot]]: 1
+* [[Mistflour Eggs]]: 1
+* [[Glowfat]]: 1
+* [[Crackle Salt]]: 1
+* [[Starpepper]]: 1
+
+Possible Outputs:  
+* [[Pretzels]], 2, 0.9  
+* [[Bite Of Despair]], 1, 0.1
+|Sources=Jaskrendix
+}}

@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=226
+|TXMN Blurb=The user creates an armor out of flowers.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=1
+|TXMN User Condition=Elemental Shield
+|TXMN Animation Target=0
+|Tags=Plant
+|Sources=HippasusTwo
+}}

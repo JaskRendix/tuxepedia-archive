@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=64
+|TXMN Blurb=Fire bursts from the user's mouth, scorching the target.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2.25
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Flame
+|Sources=Sanglorian, Daneeklu
+|Source Explanation=Technique by Sanglorian. "Fire lion right" animation by Daneeklu, resized by Sanglorian.
+}}

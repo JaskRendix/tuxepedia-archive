@@ -1,0 +1,557 @@
+[[Techniques]] and [[monsters]] have one or two types (also called '''elements'''), reflecting their nature, behavior and structure. Tuxemon has thirteen types, although older versions of the game were limited to just five. 
+
+''See also [[Monster design space]], [[Technique design space]]''
+
+== Thirteen Elements ==
+
+Monsters have one or two elements, but techniques would have a maximum of one element (except as a special feature, perhaps). 
+
+{| class="wikitable" 
+|-
+! 
+! 
+! Target
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+! 
+|-
+| 
+| 
+| Cosmic
+| Earth
+| Fire
+| Frost
+| Heroic
+| Lightning
+| Metal
+| Normal
+| Shadow
+| Sky
+| Venom
+| Water
+| Wood
+|-
+| '''Technique'''
+| [[Cosmic]] [[File:I Sapphire.png]]
+| 
+| 
+| 
+| 
+| 2
+| 
+| 
+| 
+| 0.5
+| 
+| 2
+| 
+| 
+|-
+| 
+| [[Earth]] [[File:24px Element6.png]]
+| 
+| 
+| 2
+| 
+| 
+| 2
+| 
+| 
+| 
+| 0.5
+| 
+| 
+| 0.5
+|-
+| 
+| [[Fire]] [[File:24px Element1.png]]
+| 
+| 0.5
+| 0.5
+| 0.5
+| 
+| 
+| 2
+| 
+| 
+| 
+| 2
+| 0.5
+| 2
+|-
+| 
+| [[Frost]] [[File:Ice-cube.png]]
+| 
+| 2
+| 
+| 0.5
+| 
+| 
+| 0.5
+| 
+| 0.5
+| 2
+| 
+| 0.5
+| 2
+|-
+| 
+| [[Heroic]] [[File:S Light01.png]]
+| 0.5
+| 
+| 
+| 2
+| 
+| 
+| 
+| 2
+| 2
+| 
+| 0.5
+| 
+| 
+|-
+| 
+| [[Lightning]] [[File:24px Element3.png]]
+| 
+| 0.5
+| 
+| 
+| 
+| 0.5
+| 2
+| 
+| 
+| 2
+| 
+| 2
+| 0.5
+|-
+| 
+| [[Metal]] [[File:24px Element5.png]]
+| 2
+| 2
+| 0.5
+| 
+| 
+| 
+| 0.5
+| 
+| 
+| 
+| 
+| 0.5
+| 
+|-
+| 
+| [[Normal]] [[File:Tusk.png]]
+| 
+| 
+| 
+| 
+| 
+| 
+| 0.5
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+| 
+| [[Shadow]] [[File:S Light03.png]]
+| 2
+| 0.5
+| 
+| 
+| 0.5
+| 
+| 
+| 0.5
+| 
+| 2
+| 
+| 
+| 
+|-
+| 
+| [[Sky]] [[File:Feather .png]]
+| 
+| 2
+| 0.5
+| 
+| 2
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 2
+|-
+| 
+| [[Venom]] [[File:S_Poison01.png]]
+| 
+| 0.5
+| 
+| 
+| 
+| 
+| 0.5
+| 2
+| 
+| 
+| 0.5
+| 0.5
+| 2
+|-
+| 
+| [[Water]] [[File:24px Element2.png]]
+| 
+| 
+| 2
+| 0.5
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 0.5
+| 0.5
+|-
+| 
+| [[Wood]] [[File:I Leaf-24.png]]
+| 
+| 2
+| 0.5
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 0.5
+| 2
+| 0.5
+|}
+
+[[File:Heatmap_13.png]]
+
+==== Icons ====
+
+<table><tr><td>
+<table class="invisitable"><tr><td>{{#ask:[[Category:Type]] |limit=200
+|?Default12px
+|?Default24px
+|order=asc
+}}</td></tr></table>
+</td></tr></table>
+
+== Physical and Energy Sides to Elements ==
+
+The element system allows for thematic variation, meaning techniques of the same element may draw from different power sources. For example, two Wood techniques might differ in style—one rooted in physical plant growth, the other in magical nature manipulation.
+
+Below is a breakdown of each element's physical and magical interpretations:
+
+{| class="wikitable"
+! Element !! Physical Theme !! Magical Theme
+|-
+| Earth || Ground || Rock
+|-
+| Heroic || Martial Arts || Light
+|-
+| Sky || Bird || Wind
+|-
+| Water || Fish || Flowing Water
+|-
+| Frost || Ice || Cold
+|-
+| Cosmic || Energy || Psychic
+|-
+| Wood || Plant || Nature Magic
+|-
+| Normal || Physical Force || Sound
+|-
+| Shadow || Trickery || Shadow Magic / Specter
+|}
+
+''Note: These themes are conceptual and can guide technique design, monster aesthetics, and elemental lore without affecting core mechanics.''
+
+=== Type Cycles ===
+
+The elemental system includes strategic relationships between types, organized into cycles that define strengths and weaknesses. These cycles help determine how techniques interact with monsters of different elements.
+
+There are '''eight type triangles''', where '''type A''' is strong against '''type B''', '''type B''' is strong against '''type C''', and '''type C''' is strong against '''type A'''. These form closed loops of advantage.
+
+==== Reciprocal Triangles ====
+
+Four of these triangles are '''reciprocal''', meaning the reverse direction consistently results in a weakness (x0.5 damage). These cycles are symmetrical and easy to memorize:
+
+* '''Fire → Water → Wood:''' Each element deals x2 damage to the next. In reverse, each deals x0.5 damage.
+* '''Fire → Earth → Wood:''' Each element deals x2 damage to the next. In reverse, each deals x0.5 damage.
+* '''Shadow → Cosmic → Heroic:''' Each element deals x2 damage to the next. In reverse, each deals x0.5 damage.
+* '''Sky → Heroic → Frost:''' Each element deals x2 damage to the next. In reverse, all interactions are neutral (x1).
+
+These cycles reflect thematic contrasts drawn from each element’s physical and magical sides:
+
+* '''Fire → Water → Wood''' transitions from destructive flame (Fire) to fluid adaptability (Water) to organic growth (Wood).
+* '''Shadow → Cosmic → Heroic''' contrasts deception and trickery (Shadow) with psychic energy (Cosmic) and radiant martial prowess (Heroic).
+* '''Sky → Heroic → Frost''' blends aerial agility (Bird/Wind), valor (Martial Arts/Light), and elemental chill (Ice/Cold).
+
+==== Non-Reciprocal Triangles ====
+
+The remaining four triangles are '''non-reciprocal''': each element deals x2 damage to the next, but the reverse direction does '''not consistently result in x0.5 damage'''. These are directional and asymmetrical:
+
+* '''Metal → Earth → Fire'''
+* '''Lightning → Metal → Earth'''
+* '''Lightning → Sky → Earth'''
+* '''Shadow → Sky → Heroic'''
+
+These cycles emphasize tactical flow rather than mirrored weakness. For example:
+
+* '''Lightning → Metal → Earth''' reflects the progression from raw energy (Lightning), to forged strength (Metal), to grounded resilience (Earth).
+* '''Shadow → Sky → Heroic''' contrasts illusion and stealth (Shadow), aerial movement (Sky), and disciplined power (Heroic).
+
+==== Type Squares ====
+
+There are also '''three type squares''', where four elements form a loop of advantage. Each element deals x2 damage to the next in the sequence:
+
+* '''Venom → Wood → Earth → Fire'''
+* '''Venom → Wood → Water → Fire'''
+* '''Lightning → Sky → Wood → Earth'''
+
+These squares offer more complex strategic layering. For example:
+
+* '''Venom → Wood → Water → Fire''' blends toxic disruption (Venom), natural growth (Wood), fluid motion (Water), and destructive force (Fire).
+* '''Lightning → Sky → Wood → Earth''' transitions from raw energy (Lightning), to aerial finesse (Sky), to organic strength (Wood), to grounded defense (Earth).
+
+''Note: These cycles do not affect technique composition directly, but they define elemental effectiveness in combat. Combined with the physical vs magical themes of each element, they offer rich tactical and aesthetic diversity.''
+
+= The Five-Type System =
+
+Originally, Tuxemon had five types - [[Fire]], [[Earth]], [[Metal]], [[Water]] and [[Wood]], with a "sixth" type ([[Aether]]) to represent the absence of a type. 
+
+<table><tr><td>
+<table class="invisitable"><tr><td>{{#ask:[[Category:Type]] [[Category:Tuxemon]] |limit=200
+|?TXMN ID
+|?Default12px
+|?Default24px
+|?Default32px
+|?Default64px
+|sort=TXMN ID
+|order=asc
+}}</td></tr></table>
+</td></tr></table>
+
+=== Background ===
+
+The five types are based on the five-element/five-agent theory of [//en.wikipedia.org/wiki/Wu_Xing Wu Xing]. The doctrine of five phases describes this:
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wu_Xing.png/300px-Wu_Xing.png
+
+=== Overcoming Cycle === 
+* Wood parts Earth (such as roots; or, Trees can prevent soil erosion)
+* Earth dams (or muddles or absorbs) Water
+* Water extinguishes Fire
+* Fire melts Metal
+* Metal chops Wood
+
+=== Generating Cycle ===
+
+* Wood fuels Fire
+* Fire leaves behind Earth (ash)
+* Earth produces Metal
+* Metal fortifies Water (minerals in water)
+* Water nourishes Wood
+
+== Associations ==
+
+* '''Fire:''' Includes creatures associated with energy, like electricity, light and heat, dragons and other legendary beings, and poison.  
+* '''Water:''' Includes creatures associated with the sea, lakes and swamps, ice and snow, the weather, liquids like blood, and fish and amphibians. 
+* '''Wood:''' Includes creatures associated with plants, lichen and fungi, poison and venom, forests, the natural environment, the wind and flying, and the wilderness. 
+* '''Earth:''' Includes creatures associated with the ground and underground, dirt and soil, mountains and rocks, caves, and ancient and buried things.
+* '''Metal:''' Includes creatures associated with steel, light and darkness, mechanical and robotic things, psychic powers and other unnatural things, humankind, and the undead.
+
+=== How it works ===
+An attack is weak against the element that it Generates and strong against the element that it Overcomes.
+
+{| class="wikitable"
+! tech/target !! Wood !! Earth !! Water !! Fire !! Metal
+|-
+| Wood ||  || 2 ||  || 0.5 || 
+|-
+| Earth ||  ||  || 2 ||  || 0.5
+|-
+| Water || 0.5 ||  ||  || 2 || 
+|-
+| Fire ||  || 0.5 ||  ||  || 2
+|-
+| Metal || 2 ||  || 0.5 || ||
+|}
+
+[[File:Heatmap_basic.png]]
+
+=== Dual types/Pseudo-types ===
+
+While the game only has five types, the existence of two-type monsters and techniques allows for different vulnerability and resistance profiles. We can therefore represent other "types". 
+
+For example, Earth-Fire techniques do half damage to Earth monsters and double damage to Water monsters. Electricity-themed techniques like [[Electrical Storm]] can be given the types Earth and Fire, to reflect the idea that water conducts electricity well, but it is earthed when it hits the ground. 
+
+==== Earth-Fire ==== 
+
+Earth-Fire ("Lightning") techniques do half damage to Earth monsters and double damage to Water monsters.
+
+Earth-Fire monsters take half damage from Fire techniques and double damage from Water techniques. 
+
+Example Earth-Fire monsters:
+
+* [[Grinflare]]
+* [[Metesaur]]
+
+Example Earth-Fire techniques:
+
+* [[Electrical Storm]]
+* [[Surge]]
+* [[Thunderclap]]
+
+==== Earth-Water ====
+
+Earth-Water ("Frost") techniques do half damage to Wood and Metal monsters and double damage to Fire and Water monsters.
+
+Earth-Water monsters take half damage from Fire and Metal techniques and double damage from Wood and Earth techniques. 
+
+Example Earth-Water monsters:
+
+* [[Grumpi]]
+* [[Toufigel]]
+* [[Chillimp]]
+
+Example Earth-Water techniques:
+
+* [[Frostbite]]
+* [[Ice Claw]]
+* [[Snowstorm]]
+
+==== Earth-Wood ====
+
+Earth-Wood ("Toxin/Fungus") techniques do half damage to Fire and Metal monsters and double damage to Earth and Water monsters.
+
+Earth-Wood monsters take half damage from Fire and Water techniques and double damage from Wood and Metal techniques. 
+
+Example Earth-Wood monsters:
+
+* [[Coleorus]]
+* [[Cowpignon]]
+
+Example Earth-Wood techniques:
+
+* [[Fester]]
+
+==== Earth-Metal ====
+
+Earth-Metal ("Vermin") techniques do half damage to Metal monsters and double damage to Wood monsters.
+
+Earth-Metal monsters take half damage from Earth techniques and double damage from Wood techniques. 
+
+Example Earth-Metal monsters:
+
+* [[Grintrock]]
+* [[Happito]]
+* [[Miaownolith]]
+
+==== Fire-Water ====
+
+Fire-Water ("Cosmic") techniques do half damage to Earth and Wood monsters and double damage to Fire and Water monsters.
+
+Fire-Water monsters take half damage from Metal and Wood techniques and double damage from Water and Earth techniques. 
+
+Example Fire-Water monsters:
+
+* [[Seirein]]
+* [[Yiinaang]]
+
+==== Fire-Wood ====
+
+Fire-Wood ("Battle") techniques do half damage to Fire monsters and double damage to Metal monsters.
+
+Fire-Wood monsters take half damage from Wood techniques and double damage from Metal techniques. 
+
+Example Fire-Wood monsters:
+
+* [[Tikoal]]
+* [[Tikorch]]
+
+==== Fire-Metal ====
+
+Fire-Metal ("Psionic") techniques do half damage to Earth and Water monsters and double damage to Wood and Metal monsters.
+
+Fire-Metal monsters take half damage from Earth techniques and double damage from Fire techniques. 
+
+Example Fire-Metal monsters:
+
+* [[Embazook]]
+* [[Angrito]]
+* [[Ouroboutlet]]
+
+Example Earth-Fire techniques:
+
+* [[Amnesia]]
+* [[Bubble]]
+* [[Sleep Bomb]]
+
+==== Water-Wood ====
+
+Water-Wood techniques do half damage to Wood monsters and double damage to Earth monsters 
+
+Water-Wood monsters take half damage from Water techniques and double damage from Earth techniques. 
+
+Example Water-Wood monsters:
+
+* [[Conifrost]]
+* [[Sharpfin]]
+
+==== Water-Metal ====
+
+Water-Metal ("Darkness") techniques do half damage to Water monsters and double damage to Fire monsters.
+
+Water-Metal monsters take half damage from Metal techniques and double damage from Fire techniques. 
+
+Example Water-Metal monsters:
+
+* [[Hydrone]]
+* [[Sadito]]
+* [[Vivitrans]]
+
+==== Wood-Metal ====
+
+Wood-Metal ("Heaven") techniques do half damage to Fire and Water monsters and double damage to Earth and Wood monsters.
+
+Wood-Metal monsters take half damage from Water and Earth techniques and double damage from Metal and Fire techniques. 
+
+Example Wood-Metal monsters:
+
+* [[Katapill]]
+* [[Neutrito]]
+* [[Spycozeus]]
+
+== Alternative systems ==
+
+* [[Other element systems]]
+
+== List ==
+
+{{#default_form:Type}}

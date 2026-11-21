@@ -1,0 +1,51 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert
+|Name Origin=''ora'' ("time" in Greek)
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost, Cosmic
+|TXMN Body Shape=Landrace
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Boreal/Snow
+}}
+{{Technique Allocation
+|Has_Technique=Clock
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Snowball
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Frighten
+|Technique_Level=5
+}}
+{{Technique Allocation
+|Has_Technique=Ram
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Lock Horns
+|Technique_Level=15
+}}
+{{Technique Allocation
+|Has_Technique=Mind Vise
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Horn
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Snowstorm
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Frostbite
+|Technique_Level=35
+}}
+{{Technique Allocation
+|Has_Technique=Sands of Time
+|Technique_Level=40
+}}

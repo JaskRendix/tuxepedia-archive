@@ -1,0 +1,344 @@
+The game bible is intended to be an authoritative, up-to-date record of the community's agreed plan for the project. It is not the documentation for the actual game itself.
+
+Auto-generated documentation of the Tuxemon codebase can be found here:
+http://docs.tuxemon.org/
+
+= To Add =
+
+* Leveling up
+* Buying and selling items (distribution, price, etc.)
+* Random encounter rates
+* Money gained and lost from trainers after battles won or lost
+
+= The Project =
+
+To create an open source monster catching, collecting and battling game in Python, to run on Windows, Mac, Linux and Android devices.
+
+The flow on from this is that:
+
+* The Tuxemon game engine can be used for other games
+* The Tuxemon game engine can be used for sequels ("Tuxemon the Game" becomes "Tuxemon Episode 1", and we can go [[Beyond Episode 1]])
+* The Tuxemon monsters, characters, places, techniques and so on can be used in other media
+* The Tuxemon community is supportive and fun
+
+Tuxemon was begun by [[ShadowApex]] in 2012.  
+
+== Objectives ==
+
+Tuxemon is ...
+
+=== Legal ===
+
+Tuxemon should not breach anyone's copyright, trade marks or patents. It must not use other people's work, including adaptations of other people's work, unless those works in the public domain or are under free and open copyright licences like Creative Commons Attribution, Creative Commons Attribution-ShareAlike, and CC0. 
+
+=== Versatile ===
+
+Tuxemon should be easy to modify, so people can create their own creatures, items, techniques, stories, music, etc., and insert them into the game. Within the main story, [[The Spyder in the Cathedral]], there is even the [[Hunting Grounds]] that make inserting some of these things easier. 
+
+=== Original ===
+
+Tuxemon draws inspiration from a number of monster battling games, but it is not a direct clone of any of them. 
+
+=== Democratic ===
+
+As a project by the community, for the community, Tuxemon's creation should be directed by the volunteers who have contributed to its development. This means both respecting volunteers who disagree with a proposal, and respecting the volunteers who made the proposal.
+
+== The Forums ==
+[https://github.com/Tuxemon/Tuxemon/discussions GitHub Discussions]
+
+[https://forum.tuxemon.org/ Old forum] - some of the posts are recoverable through the Wayback Machine. 
+
+== Github ==
+[https://github.com/Tuxemon/Tuxemon Github page]
+
+Create a branch for every set of changes you make to the project (do not just let them build up into one big pull request).
+
+== The Wiki ==
+
+The wiki should be the main repository of information, assets, and so on for the Tuxemon project.
+
+A previous version of this wiki is archived at [[http://tuxemon.referata.com|Referata]].
+
+=== Tools ===
+
+A Python script (stored in the git repository) can download the images for specified tuxemon on the wiki, allowing for easy importing into the game.  
+
+=== Related projects ===
+There are other open source projects working on monster catching games. Many of Catch Challenger's assets have been added to the Tuxemon wiki. 
+
+See [[Related Projects]] for more. 
+
+See also [[Similar Games]] for proprietary examples of monster catching games, with reviews and reflections from Tuxemon project participants.
+
+= Contributing =
+See [[How to Contribute]]
+
+== Licensing ==
+
+Posting any contributions (explicitly described as such) to this game on this web forum is a tacit acceptance of the fact that you are placing them under the Creative Commons Attribution-ShareAlike 4.0 International or any later version. You maintain your own full rights to the contributions, and may continue to do whatever you, the owner, wish to do with them, but you have given us the right to use them under the limitations of the CC BY-SA 4.0. You can read the details of the Creative Commons license here:
+https://creativecommons.org/licenses/by-sa/4.0/
+
+== Maps ==
+* [[Creating Maps|Tutorial: Creating your own maps]]
+* [[Creating Map Events|Event Handling]]
+
+== Tuxemon ==
+
+* [[Creating Creatures]]
+* [[Monster Maker]]
+
+= Story =
+
+Tuxemon has a main story, but it should be easy to create new stories and add them (see "versatile", above).
+
+== Region ==
+
+There are many ideas for [[The Region]] that is the location of the first Tuxemon game. 
+
+The region is currently unnamed. 
+
+== Maps ==
+
+Tuxemon supports maps created with [http://www.mapeditor.org/ Tiled]. 
+=== Tilesets ===
+
+Tiles are 16x16 pixels. You can use any of the many [[:Category:Tileset|tilesets]] that we have on the wiki, or design your own.
+
+=== Map design ===
+There should be one sign for each map transition. These are in the form:
+
+dialogue 1: "Name of Location: Slogan for Location"
+dialogue 2: <- Name of Location --- Name of Location ->
+
+Use ^ for North and v for South. 
+
+If long grass appears on the map, you need to specify the encounters for that map in a JSON file. Likewise if water is reachable on the map. Surfing on and fishing in water always carries the chance of an encounter, even if it's in a settlement.
+
+=== Map implementation in Tiled ===
+
+All objects (events and collisions) should be rectangles (drawn with the rectangle tool) or straight lines (drawn with just two points), not polylines, polygons or other shapes. 
+
+Animations are supported.
+
+=== Types of location ===
+All locations can have water. 
+
+==== Land routes ====
+* 20x40 or 40x40 squares
+* Long grass with encounters
+* Trainer battles
+
+==== Sea routes ====
+* 20x40 squares
+* Trainer battles
+* Encounters while surfing
+* Any land could have long grass
+
+==== Dungeons ====
+* 20x40 squares or 40x40 squares
+* Trainer battles
+* Encounters while walking anywhere
+
+==== Settlements ====
+* 20x40 squares or 40x40 squares
+* No trainer battles
+* No long grass
+
+==== Interiors ====
+* Any size
+* Should have a back wall of two or three squares in height
+* Side walls optional (style varies)
+* Trainer battles okay, if it's a type of building that makes sense for them
+
+=== Buildings ===
+
+Each settlement should have some or all of the following:
+
+==== Scoop Store ====
+This is a general store.
+
+==== Cathedral Center ====
+This is a government-run building funded by your taxes, but it is increasingly becoming corporatised. For example, to receive healing you have to sit through an advertisement - unless you're a [[Gold Pass]] holder. Gold Passes cost $1 more than the maximum wallet capacity in the game, and entitle you to all the services that used to be free. 
+
+[[Cathedral ads]]
+
+At higher [[difficulties]], the Centers would charge for healing instead of playing ads.
+
+'''Other services:'''
+* [[Renaming]]
+* [[Retraining]]
+* Daycare 
+* [[Taste|Tastes]]-Changing
+* [[Breeding]]
+
+All are restricted to Gold Pass holders, so ordinary citizens end up providing these services in their own homes.
+
+==== Pillar HQ ====
+The pillars are the five major corporations in this region. Their HQs are where most of their staff are based. 
+
+==== Cafe ====
+These are informal meeting places, where you can re-battle trainers you've already fought, get new apps for your phone, get taught new techniques, trade tuxemon and receive free (and ad-free) healing.
+
+= Soundtrack and Sound Effects =
+
+The game has a [[Soundtrack]], which is currently mostly non-original music sourced from Open Game Art. There is no objection to having original music, but it hasn't been contributed so far.
+
+OGG is the preferred format for music and sound files, but WAV and MP3 are also permitted. 
+
+= Terminology =
+
+* ''Type'' or ''Element'' 
+* ''Morphing'' or ''evolving'' is what tuxemon do when they change from one life stage to another
+* A single example of a creature is called an '''individual''' or a '''character'''. For example, "[[Beachcomber]] Harry's level 5 [[Memnomnom]]" is an individual creature. 
+* A ''variety'' or ''species'' is all creatures of that category. For example, "[[Memnomnom]]" is a variety of tuxemon.
+* A ''family'' of creatures is a variety and all its morphs. For example, [[Memnomnom]], [[Miaownolith]], [[Criniotherme]] and [[Pyraminx]] are all varieties in the "[[Memnomnom family]]".
+
+= Creatures =
+[[Creatures]], also called '''tuxemon''' or '''monsters''', are the beings that the protagonist catches and battles. 
+
+We currently have complete sprites for over a hundred creatures, including all that we need for the game. Others are always welcome.
+
+== Variety ==
+Creatures of a particular variety have a number of things in common:
+
+* [[Species Stats]]
+* [[Type]] or Types
+* [[Body Type]] 
+* [[ID Number]]
+* [[Blurb]]
+* [[Life Stage]]
+* [[Call]]
+* [[Species Name]]
+* [[Techniques]] that are available to learn
+* What they [[Morphing|morph from and morph into]], and the circumstances of that morphing
+
+== Stats ==
+An individual tuxemon's [[Stats|stats]] are calculated in a formula that accounts for four factors:
+
+* [[Species Stat]]: The universal stat for that species, based on its [[Body Type]], [[Sub-Element]] and [[Life Stage]].
+* [[Taste]]: One of ten tastes that increase or decrease stats by 10%. 
+* [[Level]]: Which level the tuxemon is.
+
+There are six stats:
+
+* '''Speed:''' The higher your Speed, the quicker you act in a round. 
+* '''Melee:''' Increased damage from melee techniques
+* '''Armour:''' Reduced damage from melee techniques
+* '''Ranged:''' Increased damage from ranged techniques
+* '''Dodge:''' Reduced damage from ranged techniques
+* '''HP:''' How much damage you can take
+
+== Techniques ==
+[[Techniques]] are discrete attacks, blocks, tricks and other manoeuvres that tuxemon perform in combat. Every tuxemon knows between one and four techniques. Each creature learns techniques based on their variety. Some techniques are learned from leveling up ("nature techniques"), others require training ("nurture techniques"). That training can either come from an expensive, one-use [[Combat Codex]] or from another creature that also knows that technique ([[Technique Teachers]]).
+
+== Types ==
+[[Techniques]] and [[monsters]] have one or two types, reflecting their nature, behaviour and structure. Tuxemon has five types - [[Fire]], [[Earth]], [[Metal]], [[Water]] and [[Wood]] - and the non-type of [[Aether]].
+
+A creature's type determines which type of techniques it is '''vulnerable towards''', and which it is '''tough against'''. For example, a Wood creature that is hit by a Metal technique takes double damage. If it were hit by a Water technique, it would instead take half damage.
+
+Techniques can also have the Aether type, which means that they take the type(s) of their user. 
+
+=== Damage Multipliers ===
+When a technique is used on a monster, the type(s) of the technique is compared to the type(s) of the monster. In some cases, this results in the technique's damage being multiplied or divided. 
+
+== Sprites ==
+Tuxemon have four sprite sets:
+
+* '''Front Sprite:''' This 64x64 pixel sprite is what appears in the tuxemon's [[Tuxepedia]] entry, the individual creature's info page, and when you face the tuxemon in battle.
+* '''Back Sprite:''' This 64x64 pixel sprite is what appears when the tuxemon faces a creature in battle. 
+* '''Face Sprites:''' These two 24x24 pixel sprites make an animation, which is used in menus to provide a readily-identifiable icon for the tuxemon.
+* '''Overland Sprites:''' These 16x24 pixel sprites make walking animations, which are used if the tuxemon is ever wandering around the [[Overworld]] (i.e. the map). There are generic overland sprite sets that can be used for any tuxemon that need overland sprites that do not have their own. 
+
+At this time, there are no palette swaps, like for shiny and genetically engineered Creos in [[EvoCreo]].
+
+== Morphing ==
+''Main article:'' [[Morphing]]
+
+== Capturing tuxemon ==
+''Main article:'' [[Capturing]]
+
+[[File:Capture_1.gif|thumbnail]] [[File:Capture_3.gif|thumbnail]]
+[[Capture Device]]s can be used in battle to attempt to capture the tuxemon you are fighting (only if the tuxemon does not currently have a trainer). The device is consumed regardless of whether the capture is successful.
+
+== Fusions ==
+Fusions, based on a similar system to that used by [http://pokemon.alexonsager.net/ Alex Onsager], are a key part of the main plot but are not yet implemented. They would take the face of one tuxemon and the body of another, and apply the palette of the face to the rest of the body.
+
+The Onsager technique adjusts the size of the face before applying it, meaning it can no longer be displayed at its native pixel size. We haven't resolved this problem yet. 
+
+Some [[:Category:Fusion|manual fusions]] have been created as proofs of concept. 
+
+== Threats ==
+
+Although not yet fully developed, there is an idea that some entities may be able to be battled, but will not be tuxemon. For example, your tuxemon may fight a martial artist, a killer robot, or a gunslinger. 
+
+These would not be able to be caught (so they don't need back or face sprites), but would otherwise behave like tuxemon.
+
+= Battle =
+
+== Order ==
+''Main article:'' [[Combat Order]]
+
+Combat actions are sorted by category (healing, swapping, attacking, etc) and monster [[Speed]].
+
+To ensure that multiplayer is compatible, rules can't be things like "Protagonist goes first". 
+
+== Dual Duels ==
+A couple of places in the story anticipate that double battles will exist. On [[Route 5]] the [[Little Heirs]] and the [[Dynamic Dynasts]] represent two trainers each, and at [[Omnichannel HQ]] it's expected that you'll team up with your [[Rivals]] to fight a series of double battles. [[:Category:Duo]] is the category for sprites for double battles. 
+
+= People =
+
+The humans of the world - the [[protagonist]] and any NPCs. These fall into two classes: ordinary people and [[trainers]]. These behave differently. 
+
+Regardless, all people have a [[profession]], which determines their overland sprite and (if they are trainers) their battle sprite. They also all have dialogue. Trainers will also have a team, which is the tuxemon that they carry with them that they will battle you with. 
+
+There are currently sprites for dozens of professions.
+
+== Templates ==
+
+Trainers are written in the following template:
+
+Profession FIRSTNAME:
+* Dialogue when first confronted
+* Team of tuxemon
+* Dialogue when defeated
+
+No dialogue is needed if the trainer defeats the protagonist, because the protagonist just blacks out. 
+
+Ordinary people are written in the following template:
+
+Profession FIRSTNAME:
+* Dialogue
+* If dialogue is different after the first conversation, subsequent dialogue goes here
+
+== Character Maker ==
+
+The [[Character Maker]] allows you to design an overland sprite by picking and choosing different features.
+
+= Items =
+
+The protagonist has money, most of which comes from defeating other trainers in battle. This money can be used to buy certain [[item]]s; other items come from completing quests, or are found by exploring the map. 
+
+= Code, Programming and Technical =
+
+* The game is nominally 256 x 144 pixels, but is displayed at five times that size. Text is displayed at a higher resolution (so "five pixel high" text is actually 25 pixels high, with all the detail and nuance that that suggests). 
+
+== Features ==
+
+* In-game language translations
+* Allows up to three save files (for that retro GameBoy experience).
+
+== Combat ==
+
+* [[Combat State Overview|Combat State Overview]]
+* [[Combat AI|Combat AI]]
+
+== Networking ==
+
+* [[Neteria Networking|Neteria Networking]]
+
+== Tuxemon Mobile Controller Project ==
+
+Would allow you to use your Android phone or tablet as a controller for Tuxemon.
+
+= Related (open source) projects =
+* [http://catchchallenger.first-world.info/ Catch Challenger] (and accompanying [https://github.com/alphaonex86/CatchChallenger-datapack datapack])

@@ -1,0 +1,7 @@
+[[Category:ryanhanli]]
+[[Category:24px]]
+[[Category:Alternative]]
+[[Category:Revive]]
+[[Category:Main Sprite]]
+
+[https://github.com/Tuxemon/Tuxemon/pull/784/files#diff-5dc4548a73bed01e9154f3bc74a9f74e Source]

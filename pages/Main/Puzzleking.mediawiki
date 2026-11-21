@@ -1,0 +1,12 @@
+{{Monster
+|Sources=Davidliang
+|Evolves=Puzzlekey
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Body Shape=Blob
+|TXMN Height=40
+|TXMN Weight=2
+|TXMN Catch Resistance=35
+|TXMN Stages=Stage2
+|TXMN Terrains=Urban
+}}

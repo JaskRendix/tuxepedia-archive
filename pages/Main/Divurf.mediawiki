@@ -1,0 +1,73 @@
+{{Monster
+|First URL=https://www.deviantart.com/mjco/art/Fakemon-Sale-Adoption-788243398
+|Sources=Jaskrendix, mjco
+|Source Explanation=Design and front sprites by mjco. Face sprites adapted by Jaskrendix.
+|Species=Diving Beetle
+|Evolves=Pondive
+|Name Origin=''dive'' + ''surf''
+|Design Origin=Diving beetles (water beetles)
+|Main Details=DIVURF is the evolved form of PONDIVE.  DIVURF's exoskeleton is now a darker, more metallic color, and its eyes glow with a soft blue light.
+|TXMN Types=Water
+|TXMN Sub-Elements=Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=427
+|TXMN Blurb=Its body has grown larger and more streamlined, allowing it to dive even deeper and faster.
+|TXMN Height=80
+|TXMN Weight=40
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Freshwater, Swamp
+|Tags=Bug, Water, Weather, Shielded, Fists
+|Fusion First=Div
+|Fusion Second=urf
+}}
+{{Technique Allocation
+|Has_Technique=Hook
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Boulder
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Peck
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Water Bullet
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=12
+}}
+{{Technique Allocation
+|Has_Technique=Font
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Proboscis
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Tonguespear
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Surf
+|Technique_Level=32
+}}
+{{Technique Allocation
+|Has_Technique=Harpoon
+|Technique_Level=36
+}}
+{{Technique Allocation
+|Has_Technique=Depth Charge
+|Technique_Level=40
+}}

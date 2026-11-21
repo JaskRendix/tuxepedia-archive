@@ -1,0 +1,70 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Front sprite by Spalding004. Back and face sprites by Jaskrendix.
+|Species=Veiled
+|Evolves=Bumbulus
+|SpyderCampaign=N/A
+|TXMN Types=Water
+|TXMN Sub-Elements=Lightning, Sky
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=233
+|TXMN Blurb=NIMBULEX dresses itself in sparks and storm clouds to protect its delicate inner core.
+|TXMN Height=141
+|TXMN Weight=1
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|Tags=Water, Weather, Light, Electricity, Calamity
+|Fusion First=Nimbu
+|Fusion Second=lex
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Whirlwind
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Roll
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Midnight Mantle
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Muck
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Mobbing
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Kraken
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Poison Courtship
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Ice Shield
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Shapechange
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Chill Mist
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Tornado
+|Technique_Level=40
+}}

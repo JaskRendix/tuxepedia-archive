@@ -1,0 +1,58 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Sanglorian, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Original design and sprites by Spalding004. Back sprites by Sanglorian. Face sprites tweaked by Sanglorian.
+|Species=Gardener
+|Name Origin=''shy'' + ''bulb''
+|SpyderCampaign=Found in the wild in Dryad's Grove, Route 3 and Side Route A. Used by trainers in Citypark, Greenwash HQ, Mansion, Route 4, Route 6 and Side Route A.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN ID=77
+|TXMN Blurb=When a garden is neglected, a SHYBULB moves in and quietly tends the droopy plants.
+|TXMN Height=29
+|TXMN Weight=2
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Tags=Plant
+|Fusion First=Shy
+|Fusion Second=bulb
+}}
+{{Evolutions
+|Has Evolution=Narcileaf
+|Evolution Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Pseudopod
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Take Cover
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ants
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Sting
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Sleeping Powder
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Fester
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=31
+}}

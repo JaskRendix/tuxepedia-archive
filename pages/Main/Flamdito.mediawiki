@@ -1,0 +1,17 @@
+{{Monster
+|Alternative Names=Desperfowldo
+|First URL=https://serpexnessie.deviantart.com/art/014-016-Sandsprint-Fowltlaw-Desperfowldo-665602530
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Face sprites adapted by Jaskrendix.
+|Evolves=Fowltlaw
+|Name Origin=''flamboyant'' + ''bandito'' (Spanish for bandit)
+|Main Details=The final evolution of SNIPRINT, FLAMDITO is a majestic and imposing bird. It possesses an even longer beak and legs than its previous form, and its plumage has become more vibrant. The most striking feature of FLAMDITO is the fedora it wears, which it's believed to have stolen from an online moderator.
+|TXMN Types=Earth
+|TXMN Height=120
+|TXMN Weight=12
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|Fusion First=Flam
+|Fusion Second=dito
+}}

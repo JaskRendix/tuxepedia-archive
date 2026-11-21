@@ -1,0 +1,10 @@
+{{Condition
+|TXMN ID=14
+|Positive or Negative=Positive
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Remove
+|Text When Gained=NAME becomes focused.
+|End of Round Text=NAME is focused.
+|Dodge Multiplier=1.5
+|Details=Dodge improves by half. If you would gain a negative condition, you lose Focused but do not gain the negative condition.
+}}

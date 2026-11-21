@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=174
+|TXMN Blurb=A massive wave crashes down upon the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Water
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=60%
+|TXMN Power=2.6
+|TXMN Effects=splash
+|TXMN Recharge=3
+|TXMN Animation Target=1
+|Tags=Water
+|Sources=Jaskrendix
+|TXMN Is area=True
+}}

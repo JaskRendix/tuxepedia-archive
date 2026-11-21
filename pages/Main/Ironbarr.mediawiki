@@ -1,0 +1,11 @@
+{{Monster
+|Sources=Leo,
+|Source Explanation=Designed by Leo. Named by Sanglorian.
+|Evolves=Rebarr,
+|TXMN_DE Name=Eisenbärr (Eisenbarren + Bär + Eisbär)
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}
+{{Evolutions
+|Has Evolution=Panzbarr
+}}

@@ -1,0 +1,13 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Limewoof-and-Ignebark-656162823
+|Sources=TheBritanniaRegion,
+|Species=Quartz
+|Evolves=Limewoof,
+|Name Origin=''igneous'' + ''bark''
+|Main Details=* Crystals and quartz grows from the animal's body - hence its name
+* Its rocky tail is very hard and actually rather dangerous - happy wagging of the tail has caused owners to break their legs at contact with the tail
+|TXMN Types=Earth
+|TXMN Blurb=Many desert emergency teams use this tuxemon to track lost souls in the vast desert of the region - as they have both a keen sense of smell and great stamina. They can use their huge, padded paws to dig their way under the mountains of sand to find the missing.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}

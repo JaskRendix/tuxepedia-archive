@@ -1,0 +1,69 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=1720
+|Sources=Sanglorian, Serpexnessie
+|Source Explanation=Original design and sprites by Serpexnessie. Back sprite tweaked by Sanglorian.
+|Species=Nightmare Fuel
+|Evolves=Incandesfin
+|Name Origin=''light'' + ''nightmare''
+|SpyderCampaign=Used by a trainer in Dojo. Fished with the Poseidon.
+|TXMN Types=Water
+|TXMN Sub-Elements=Lightning, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Leviathan
+|TXMN ID=70
+|TXMN Blurb=It lurks in the depths of the ocean, luring any unsuspecting prey using its light right into its large, gaping mouth.
+|TXMN Height=300
+|TXMN Weight=200
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Sea
+|Tags=Water, Light, Bite
+|Fusion First=Light
+|Fusion Second=mare
+|TXMN_DE Name=Leuchtmahr (Leuchte + Nachtmahr + leucht' ma')
+}}
+{{Technique_Allocation
+|Has_Technique=Flow
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Sudden Glow
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Grinding
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Geyser
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Glower
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Goad
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Starfall
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Flood
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Static Field
+|Technique_Level=40
+}}
+{{Technique_Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=43
+}}
+{{Technique_Allocation
+|Has_Technique=Proboscis
+|Technique_Level=46
+}}

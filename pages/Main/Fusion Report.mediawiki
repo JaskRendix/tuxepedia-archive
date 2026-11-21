@@ -1,0 +1,6 @@
+{{Item
+|Item Category=Story Item
+|TXMN Description=The new TUXEMON fusion technology! You've scanned this and uploaded it to TUXEPEDIA.
+|TXMN Key Item=yes
+|Main Details=Gives access to [[Fusions]].
+}}

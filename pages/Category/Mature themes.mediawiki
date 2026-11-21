@@ -1,0 +1,1 @@
+Monsters are excluded from the random set of monsters that can appear anywhere because they contain adult themes. [[Category:Monster]]

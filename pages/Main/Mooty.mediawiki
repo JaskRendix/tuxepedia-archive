@@ -1,0 +1,10 @@
+{{Monster
+|Sources=Georg Eckert,
+|Source Explanation=Designed and sprited by Georg Eckert.
+|Name Origin=''cat'' + ''moon''
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Camoon
+}}

@@ -1,0 +1,12 @@
+{{Item
+|Item Category=Capture Item
+|TXMN Effects=capture
+|TXMN Cost=300
+|TXMN Usable In=combat
+|TXMN Description=Boasts a significantly higher capture rate than the Noble Tuxeball.
+|TXMN Consumable=yes
+|Main Details=Modifier is equal to 1.5 ([[Tuxeball]] is 1)
+|SpyderCampaign=Sold at Leather and Flower Scoop
+|Sources=Tamashihoshi, Jaskrendix
+|Source Explanation=Original sprite by tamashihoshi. Adapted by Jaskrendix.
+}}

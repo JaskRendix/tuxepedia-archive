@@ -1,0 +1,5 @@
+{{Monster
+|Sources=Guido Bos,
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+}}

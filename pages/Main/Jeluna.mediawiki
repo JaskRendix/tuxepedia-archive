@@ -1,0 +1,55 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=FrozenFeather, Jaskrendix, Piacarrot
+|Source Explanation=Design and original sprite by FrozenFeather and Piacarrot. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot ; Back and face sprites by JaskRendix
+|Species=Moon Phase
+|Name Origin=Presumably ''jellyfish'' + ''luna''
+|Main Details=Changes appearance based on the time of the month. [[Category:Variant]]
+|TXMN Types=Water
+|TXMN Sub-Elements=Cosmic, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=305
+|TXMN Blurb=The moon exercises its strange influence on Jeluna, causing these aerial jellyfish to change their forms over the course of a month.
+|TXMN Height=30
+|TXMN Weight=2
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Boreal/Snow, Extraterrestrial, Ruins, Sea
+|Tags=Celestial, Light, Darkness
+|Fusion First=Jel
+|Fusion Second=una
+}}
+{{Technique Allocation
+|Has_Technique=Midnight Mantle
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shooting Star
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Radiance
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Roll
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Sunburst
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Supernova
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Tsunami
+|Technique_Level=46
+}}
+{{Technique Allocation
+|Has_Technique=Tornado
+|Technique_Level=55
+}}

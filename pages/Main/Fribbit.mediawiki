@@ -1,0 +1,62 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Front sprite by Spalding004. Back and face sprites by Jaskrendix.
+|Species=Rueful
+|Evolves=Tadcool
+|SpyderCampaign=Used by trainers in Route 7. Fished with the Neptune or Poseidon.
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Polliwog
+|TXMN ID=269
+|TXMN Blurb=It is said that it was once a boy who licked a freezing lamp post.
+|TXMN Height=50
+|TXMN Weight=20
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Ice, Ghost
+|Fusion First=Frib
+|Fusion Second=bit
+}}
+{{Technique_Allocation
+|Has_Technique=Goad
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Geyser
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Grinding
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Flow
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Font
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Starfall
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Tsunami
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Ice Storm
+|Technique_Level=37
+}}

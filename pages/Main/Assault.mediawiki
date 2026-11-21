@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=94
+|TXMN Blurb=The user unleashes a flurry of rapid, powerful attacks.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Wood
+|TXMN Type 2=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Family=Simple
+|TXMN Is fast=Fast
+|TXMN Accuracy=90%
+|TXMN Power=1.7
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Speed, Fury
+|Sources=Jaskrendix
+}}

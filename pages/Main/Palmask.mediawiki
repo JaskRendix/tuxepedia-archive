@@ -1,0 +1,66 @@
+{{Monster
+|Sources=Leo, Sanglorian, JaskRendix
+|Source Explanation=Design by Leo. Named by Sanglorian. Sprites by JaskRendix.
+|Species=Watchful Tree
+|Name Origin=''palm'' + ''mask'', also evoking ''pall''
+|Main Details=Its body resembles a sun-bleached skeleton, textured like aged wood and marked with dark knots. From the top sprout broad, green fronds that sway unnaturally, even in still air. It stands with a wide-legged stance and hands on hips, exuding a strange mix of bravado and solemnity. Though its face is fixed in a hollow grin, its unmoving eyes seem to watch everything—quiet, patient, and unblinking. It's often found lingering near overgrown ruins, where the living rarely tread.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Shadow, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN ID=417
+|TXMN Blurb=A forgotten spirit that took root in a sun-bleached husk. Its fronds sway even when the air is still. It watches intruders with eyes that never blink.
+|TXMN Height=190
+|TXMN Weight=210
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Ruins
+|Tags=Spore, Ghost, Staff, Darkness, Plant
+|Fusion First=Palm
+|Fusion Second=ask
+}}
+{{Technique Allocation
+|Has_Technique=Leaf Stab
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shade Shield
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Pollen Blast
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Conjurer
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Hallucinogen Spore
+|Technique_Level=12
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Sphere
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Sylvan
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=26
+}}
+{{Technique Allocation
+|Has_Technique=Curse
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Thorn Burst
+|Technique_Level=34
+}}
+{{Technique Allocation
+|Has_Technique=Undertaker
+|Technique_Level=38
+}}

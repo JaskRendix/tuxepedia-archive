@@ -1,0 +1,13 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Crabin-and-Krabtain-661764224
+|Sources=TheBritanniaRegion,
+|Species=Pirate
+|Evolves=Crabin,
+|Name Origin=''crab'' + ''captain''
+|Design Origin=Pirates and crabs.
+|Main Details=They enjoy collecting shiny objects, and will often bury them to keep them safe.
+|TXMN Types=Water
+|TXMN Blurb=Through evolution, their panicky disposition simply disappears as they become strong and brave new leaders. They learn to discipline their cabin crew by hitting at them with its huge and powerful claws.
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}

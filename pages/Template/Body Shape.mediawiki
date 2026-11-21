@@ -1,0 +1,51 @@
+<noinclude>
+This is the "Body Shape" template.
+It should be called in the following format:
+<pre>
+{{Body Shape
+|Speed Multiplier=
+|HP Multiplier=
+|Melee Multiplier=
+|Ranged Multiplier=
+|Armour Multiplier=
+|Dodge Multiplier=
+|Main Details=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Overland Sprite]] [[Category:16px]]}} | [[OverlandSprite::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Overland Sprite]] [[Category:16px]]
+|?=#
+|mainlabel=-
+}}]] | [[OverlandSprite::Missing]] }}
+
+{| class="wikitable"
+! Speed Multiplier
+| [[Speed Multiplier::{{{Speed Multiplier|}}}]]
+|-
+! HP Multiplier
+| [[HP Multiplier::{{{HP Multiplier|}}}]]
+|-
+! Melee Multiplier
+| [[Melee Multiplier::{{{Melee Multiplier|}}}]]
+|-
+! Ranged Multiplier
+| [[Ranged Multiplier::{{{Ranged Multiplier|}}}]]
+|-
+! Armor Multiplier
+| [[Armour Multiplier::{{{Armour Multiplier|}}}]]
+|-
+! Dodge Multiplier
+| [[Dodge Multiplier::{{{Dodge Multiplier|}}}]]
+|-
+! Tuxemon
+| {{#ask:[[TXMN Body Shape::{{SUBJECTPAGENAME}}]]|format=list}}
+|-
+! Number of Tuxemon
+| [[Number of Members::{{#ask:[[TXMN Body Shape::{{SUBJECTPAGENAME}}]]|format=count}}]]
+|}
+
+[[Category:Body Shape]]
+</includeonly>

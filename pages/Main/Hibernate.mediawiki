@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=45
+|TXMN Blurb=The user falls into a restorative sleep.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=healing = 66% of target's maximum HP
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN User Condition=noddingoff
+|TXMN Animation Target=0
+|Tags=Megafauna
+|Sources=Sanglorian
+}}

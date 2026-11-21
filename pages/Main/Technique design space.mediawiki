@@ -1,0 +1,288 @@
+A way to have a 13-[[:Category:Type|type]] system for Tuxemon. 
+
+[[Technique Distribution]]
+
+A monster might get a basic technique and a condition imposer to start, then every few levels pick up a few simple techniques, the occasional exotic technique, and eventually more and more powerful techniques. 
+
+New ideas in ''italics''. 
+
+== Initial thoughts ==
+* Splash moves should all have low accuracy. 
+* We don't need symmetry. It's nice if different elements have different qualities. 
+* I am wondering if we should make touch, reach and reliable techniques quite rare - almost treating belonging to one of these ranges as a special feature of the technique. Or perhaps some elements should use reach or touch more often than others. 
+
+== Basic techniques ==
+Low damage (0.75-1.5), decent accuracy (90-100%) OR lower accuracy and splash, no recharge, no other effects (except splash).
+
+==== Normal ====
+* Strike (reliable Normal)
+* Ram (melee Normal) (somewhat higher damage, somewhat lower accuracy than Headbutt)
+
+==== Cosmic ====
+* Crystal (ranged Cosmic)
+* Lineage (reach Cosmic, long recharge)
+
+==== Heroic ====
+* Lantern (ranged Heroic)
+* Punch (melee Heroic)
+* Shadow Boxing (touch Heroic)
+
+==== Lightning ====
+* Lightning Spheres (ranged Lightning)
+
+==== Frost ====
+* Ice Claw (melee Frost)
+* Chill Mist (ranged Frost, splash)
+
+==== Metal ====
+* Slice (melee Metal)
+
+==== Sky ====
+* Gust (ranged Sky)
+* Hawk (melee Sky)
+* Peck (reach Sky)
+* Fledgling (ranged Sky)
+
+==== Venom ====
+* Acid (reliable Venom)
+
+==== Earth ====
+* Rock (touch Earth)
+* Hammerhead (melee *Earth*)
+
+==== Fire ====
+* Sunburst (ranged Fire)
+* Fire Ball (ranged Fire)
+
+==== Shadow ====
+* Phantasmal Force (melee Shadow)
+* Midnight Mantle (ranged Shadow, splash)
+
+==== Water ====
+* Flood (ranged Water, splash)
+* Flow (melee Water, splash)
+
+== Condition imposers ==
+No damage, high chance to impose a buff on the player or debuff on the enemy (but not both). Should have 100% accuracy unless it's a particularly powerful buff/debuff or it's fast or has another effect. 
+
+* Boulder (hard shell self)
+* Breath (nodding off)
+* Cat Calling (harpooned)
+* Sleeping Powder (area, nodding off)
+* Clock (confusion)
+* Insanity (diehard self)
+* Negation (festering)
+* Conjurer (grabbed)
+* Fume (enraged self)
+* Glower (softened)
+* Petrify (stuck)
+* Poison Courtship (poisoned)
+* Rot (poisoned)
+* Stone Rot (fast, poisoned)
+* Riposte (fast, retaliate)
+* Revenge Stance (revenge)
+* Fluff Up (recovering)
+* Feint (focused self, negate enemy monster's positive condition)
+* Take Cover (sniping self)
+* Evasion (focused self, fast)
+* Changeling (recovering self, Cosmic type switch)
+* Chameleon (hard shell self, Wood type switch)
+* Arcane Eye (elemental shield self)
+* Tinder (burn)
+* Blood Nets (lifeleech)
+* Canine (wild)
+* Feline (fast, wild)
+* Clairaudience (feedback self)
+* Terror (lockdown)
+* Overfeed (slow)
+* Barking (flinching)
+* Lust (exhausted)
+
+(blinded, charging, wasting, prickly)
+
+== Simple techniques ==
+Some damage, and a condition or other effect (reliable, fast, type change); or lots of damage (1.6-3). Accuracy should be good (80-100%, with 80% and 85% being reserved for the more powerful options).
+
+==== Normal ====
+* Proboscis (reach Normal, lifeleech)
+* Stampede (melee Normal, charging self)
+* Constrict (reliable Normal, grabbed)
+* Goad (melee Normal, fast, enraged)
+* Assault (melee Normal, fast)
+
+==== Venom ====
+* Slime (reach Venom, festering)
+* Pseudopod (reach Venom, festering)
+* Web (melee Venom, grabbed)
+* Spit Poison (ranged Venom, poisoned)
+* Sting (melee Venom, poisoned)
+* Venom (ranged Venom, higher damage)
+* Battery Acid (ranged Venom, higher damage, poisoned)
+* Muck (reach Venom, higher damage)
+
+==== Metal ====
+* Blade (melee Metal, fast)
+* Bullet (ranged Metal, fast)
+* Perfect Cut (reliable Metal, higher damage)
+* Shuriken (ranged Metal, diehard self)
+* Rust Bomb (ranged Metal, splash, poisoned)
+* Wall of Steel (melee Metal, fast, hard shell self)
+* Saber (melee Metal, higher damage)
+* Platinum (melee Metal, focused self, softened)
+* Tip (melee Metal, higher damage, festering)
+
+==== Wood ====
+* Blossom (ranged Wood, healing self)
+* Splinter (reach Wood, blinded)
+* Overgrowth (ranged Wood, grabbed)
+* Stabilo (ranged Wood, multi attack)
+
+==== Sky ====
+* Whirlwind (ranged Sky, fast)
+* Wingtip (melee Sky, fast)
+* Peregrine (melee Sky, fast, higher damage)
+* Biting Winds (ranged Sky, softened)
+* Air Chain (reach Sky, higher damage)
+
+==== Fire ====
+* Magma (ranged Fire, area)
+* Salamander (reach Fire, poisoned)
+* Fire Claw (reach Fire, burn)
+* Breathe Fire (ranged Fire, higher damage)
+* Flamethrower (ranged Fire, higher damage, burn, slow recharge)
+* Torch (reach Fire, flinching)
+* Wall of Fire (reach Fire, elemental shield self, burn)
+
+==== Frost ====
+* Ice Storm (ranged Frost, area, higher damage)
+* Icicle Spear (melee Frost, splash, higher damage)
+
+==== Shadow ====
+* Strangulation (melee Shadow, higher damage)
+* Mobbing (melee Shadow, higher damage)
+
+==== Cosmic ====
+* Muddle (ranged Cosmic, both focused)
+* Amnesia (reach Cosmic, higher damage, both exhausted)
+* Starfall (ranged Cosmic, focused self, negate enemy monster's positive condition)
+* Ruby (reach Cosmic, higher damage)
+* Mind Vise (melee Cosmic, stuck)
+* Shapechange (melee Cosmic, user changes type)
+
+==== Earth ====
+* Sand Spray (touch Earth, blinded)
+* Thunderball (melee Earth, flinching)
+* Mudslide (melee Earth, softened, higher damage)
+* Quicksand (touch Earth, stuck, higher damage)
+* Grinding (melee Earth, higher damage)
+* Pit (touch Earth, harpooned)
+* Walls (touch Earth, hard shell self)
+
+==== Water ====
+* Venomous Tentacle (reach Water, poisoned)
+* Font (ranged Water, recovering self)
+* Kraken (melee Water, higher damage)
+
+==== Lightning ====
+* Thunderclap (ranged Lightning, exhausted)
+* Battery Discharge (ranged Lightning, healing user)
+* Surge (ranged Lightning, charging self)
+
+==== Heroic ====
+* Invictus (touch Heroic, enraged self, grabbed)
+* Beam (ranged Heroic, blinded)
+* Berserk (melee Heroic, enraged self)
+* One-Two (touch Heroic, higher damage)
+* Radiance (ranged Heroic, higher damage)
+
+== Special == 
+
+These do unusual things, but are not necessarily uncommon. 
+
+* Altitude (and Hawk) - fly out of the way and then return for a powerful attack
+* Mending - healing
+* Pouch - refresh moves
+* Wallow - healing and become focused
+* Wiggle - do nothing
+
+== Exotic techniques ==
+These do strange things, fitting into a niche rather than being usable often. 
+
+==== Attacks ====
+* Energy Claws (melee Lightning, sniping) (melee attack that makes it harder to make melee attacks in future)
+* Kindling Flame (ranged Fire, enraged) (ranged attack that makes it harder to make ranged attacks in future)
+* Panjandrum (reliable Normal, fixed damage)
+* Sleep Bomb (reach Cosmic, both nodding off)
+* Blood Bond (touch Water, both lifeleech)
+* Bubble Trap (reach Cosmic, both grabbed)
+* Fester (reach Venom, area, both festering)
+* Orbs (ranged Aether, change user type to a random element)
+* Undertaker (melee Shadow, sacrifice)
+
+==== Special ====
+* Ants, Fiery, Geyser, Sylvan, Electroplate, Ubuntu (switch target element)
+* Gold Digger (take money from opponent)
+* Hibernate (heal, nodding off self)
+* Levitate (both sniping) (both monsters now benefit from making ranged attacks)
+* Life Surge (heal self, charged up) (heal self but at expense of empowering enemy)
+* Eyebite (fast, exhausted, slow recharge)
+* Scope (scope)
+* Clamp On (diehard self, grabbed)
+* Sudden Glow (healing user, recovering self, focused)
+* Mystic Blending (healing user, charging self, switch target element randomly, slow recharge)
+* Fire Shield (elemental shield self, burn)
+* Cloud Aether (switch user and target elements, new elements chosen randomly)
+* Ice Shield (elemental shield self, slow)
+* Neutralize (remove type changes and conditions from self and target)
+* Solar Synthesis (heal)
+* Shooting Star (heal)
+
+== Powerful techniques ==
+Lots of damage and a condition or other effect, and with shorter recharges than you would expect given their power. 
+
+==== Attacks ====
+
+* Firestorm (reach Fire, area, very high damage)
+* Supernova (ranged Fire, charged up, very high damage)
+* Lava (ranged Fire, area, burn both, very high damage)
+* Surf (ranged Water, splash, very high damage)
+* Tsunami (reach Water, area, very high damage)
+* Stonehenge (reach Earth, splash, very high damage)
+* Earthquake (touch Earth, area, very high damage)
+* Viper (reliable Venom, very high damage)
+* Electrical Storm (ranged Lightning, splash, very high damage)
+* Frostbite (reach Frost, poisoned, very high damage)
+* Snowstorm (melee Frost, splash, exhausted, very high damage)
+* Avalanche (ranged Frost, higher damage, splash, exhausted)
+* Shrapnel (ranged Metal, fast, splash, very high damage)
+* All In (touch Heroic, recovering self, very high damage)
+* Give All (melee Heroic, exhausted self, very high damage)
+* Tonguespear (melee Normal, lifeleech, higher damage)
+* Ten Thousand Feathers (ranged Sky, charging self, high damage)
+* One Million Talons (melee Sky, flinching, high damage)
+* Greenstone (touch Earth, high damage)
+* Meltdown (reach Venom, high damage, chance of flinching)
+* Time Crisis (ranged Cosmic, fast, slow)
+
+==== Special ====
+
+* Refresh (heal self, recovering self)
+* Energy Field (fast, charging self, exhausted)
+* Static Field (hard shell self, exhausted)
+* Nest (healing self, sniping self)
+
+== Reserved techniques ==
+These techniques are only used by a single monster family, or access to them through other methods is very limited. 
+
+* Tux Attack (melee Frost/Heroic, fast) (a rare double-element technique) - for [[Tux]]
+* Vorpal (melee Metal, revenge, fast, very high damage) - for [[Bugnin]]
+* Webs Wind (ranged Sky, slow, very high damage) - for [[Firomenis]]
+* Oedipus (reach Metal, revenge self, confused) - for [[Miaownolith]]
+* Demiurge (touch Cosmic, recovering self, confused) - for [[Altie]]
+* Adamantine (touch Metal, very high damage) - for [[Windeye]]
+* Ring (reach Wood, splash, recovering self) - for [[Tourbidi]]
+* Suplex (melee Earth, diehard, exhausted) - for [[Sumchon]]
+* Cavity (reliable Normal, very high damage) - for [[Gliffary]]
+* Suck Poison (melee Toxic, damage, transfers poisoned) - for [[Nudiflot]]
+
+[[Category:Proposed content]]

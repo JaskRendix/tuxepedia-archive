@@ -1,0 +1,11 @@
+{{Item
+|Item Category=Story Item
+|TXMN Usable In=world
+|TXMN Description=It looks like the skull of an ancient dog, but it's hard as stone.
+|TXMN Key Item=yes
+|Main Details=Turns into [[Shammer]]
+[[Category:Fossil]]
+|SpyderCampaign=Found in Greenwash and the Tunnel Below (boxes); bring to the De-Fossilator in Greenwash to revive a Shammer, or use directly to evolve Vivipere into Vividactil
+|Sources=Sanglorian, Redshrike
+|Source Explanation=Sprite adapted by Sanglorian from a sprite by Redstrike.
+}}

@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=69
+|TXMN Blurb=The user delivers a sharp, cutting attack with the tip of its wing.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Wood
+|TXMN Type 2=Metal
+|TXMN Sub-Elements=Sky
+|TXMN Family=Simple
+|TXMN Is fast=Fast
+|TXMN Accuracy=100%
+|TXMN Power=1.25
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Bird
+|Sources=Sanglorian, Tamashihoshi
+|Source Explanation=Technique by Sanglorian. "Pound" animation by Tamashihoshi.
+}}

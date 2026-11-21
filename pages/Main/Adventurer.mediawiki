@@ -1,0 +1,7 @@
+{{Trainer
+|Sources=tamashihoshi, leo
+|Source Explanation=Front sprite by Leo. Small back sprite by tamashihoshi. Large back sprite by Leo. Overland sprites by Catch Challenger, adapted by Sanglorian. Art by Leo.
+|Genre=Modern
+|Combat Type=1 vs 1
+|Main Details=One option for the [[Protagonist]].
+}}

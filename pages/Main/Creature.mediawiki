@@ -1,0 +1,29 @@
+[[Creatures]], also called '''tuxemon''' or '''monsters''', are the beings that the protagonist catches and battles. 
+
+== Terminology ==
+* A single example of a creature is called an '''individual''' or a '''character'''. For example, "[[Beachcomber]] Harry's level 5 [[Memnomnom]]" is an individual creature. 
+* A ''variety'' or ''species'' is all creatures of that category. For example, "[[Memnomnom]]" is a variety of tuxemon.
+* A '''family''' of creatures is a variety and all its morphs. For example, [[Memnomnom]], [[Miaownolith]] and [[Pyraminx]] are all varieties in the "[[Memnomnom family]]".
+
+== The origin of tuxemon ==
+[[The origin of tuxemon]] hasn't been settled yet, nor has the [[ethics]] of capturing and battling them.
+
+== Animals, Food and Tuxemon ==
+
+The question of whether real-world animals exist, and the related question of whether tuxemon are eaten as food by people, has been considered on the forums. Tentative agreement was that real-world animals do not exist, and that tuxemon are eaten at least by other tuxemon, and probably by people as well. 
+
+[[Scoop]], one of the villainous corporations in the main story, runs a factory farm, but it is not clear if this is just for milk and eggs, or for meat as well. However, for economic reason of cost, it is likely that killing occurs anyway (in the farm or elsewhere), as too much decreasing production of milk and eggs make less economically viable to continue to support life of exploited creatures.
+
+== Expansion ==
+=== Gijinka ===
+In a different story, the protagonist could find a shadow world where the tuxemon are people and the people are tuxemon. [[:Category:Gijinka|Some have already been sprited.]]
+
+=== Variants ===
+See [[:Category:Variant]]
+
+== See also ==
+* [[Art of Unidentified Monsters]]
+* [[:Category:Monster|List of all monsters]]
+* [[Creature Progress Tracker]]
+* [[Completed Tuxemon]]
+* [[Creating Creatures]]

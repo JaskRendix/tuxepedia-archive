@@ -1,0 +1,25 @@
+{{Monster
+|Sources=Seripha
+|Evolves=Heliflora
+|Name Origin=Duo + Flora
+
+Duo-: Latin for "two", likely indicating two blades used for flight.
+
+Flora: Latin for "plants" or "flowers", representing its botanical nature.
+|Main Details=Duoflora evolved from [[Heliflora]] when its maneuvering rotor system was restructured—replacing the single rear rotor with two upper rotors for enhanced aerial control. This shift enabled the development of dual heads, each specialized: one scans for threats, the other tracks optimal sunlight. Their synchronized flight and combined solar intake allow them to unleash more potent fiery attacks.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Sky, Wood
+|TXMN Body Shape=Blob
+|TXMN Height=78
+|TXMN Weight=17
+|TXMN Catch Resistance=60
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Grassland, Woodland
+|Fusion First=Duo
+|Fusion Second=Flora
+}}
+{{Evolutions
+|Has Evolution=Quadflora
+|Evolution Level=item to be defined
+}}

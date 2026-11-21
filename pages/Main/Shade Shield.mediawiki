@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=276
+|TXMN Blurb=They cloak themselves in shade and become one with the darkness, summoning shadows to themselves if no shade is available.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Shadow
+|TXMN Family=Special
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN User Condition=Elemental Shield
+|TXMN Animation Target=0
+|Tags=Darkness
+|Sources=HippasusTwo
+}}

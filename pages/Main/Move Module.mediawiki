@@ -1,0 +1,15 @@
+{{Item
+|Item Category=Technique Teaching Item
+|TXMN Effects=learn MM
+|TXMN Cost=(Varies)
+|TXMN Type=(Element)
+|TXMN Usable In=world
+|TXMN Description=Technique Manual that teaches a random technique.
+|TXMN Consumable=yes
+|Main Details=A '''Move Module''' is a consumable item from which you learn a random technique.
+
+Sprite sheet is in order: Earth (also usable for Venom and Sky), Fire (Lightning and Heroic), Metal (Cosmic and Shadow), Water (Frost), Wood (Normal).
+|SpyderCampaign=Not planned.
+|Sources=Catch Challenger
+|Source Explanation=Sprites by Catch Challenger
+}}

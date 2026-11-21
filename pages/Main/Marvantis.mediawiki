@@ -1,0 +1,59 @@
+{{Monster
+|Sources=Georg Eckert, HippasusTwo, Jaskrendix
+|Source Explanation=Designed and sprited by Georg Eckert. Front and back sprites by HippasusTwo. Face sprites by Jaskrendix.
+|Species=Mantid
+|Evolves=Marvillar
+|Name Origin=''marvellous'' + ''mantis''
+|Design Origin=A praying mantis
+|TXMN Types=Fire, Wood
+|TXMN Sub-Elements=Normal, Sky
+|TXMN Completed=Complete
+|TXMN Body Shape=Grub
+|TXMN ID=288
+|TXMN Blurb=When it evolves, the only trace of its original mimicry is its red ornaments.
+|TXMN Height=214
+|TXMN Weight=270
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Grassland, Woodland
+|Tags=Bug, Shapeshifter, Bite
+|Fusion First=Marva
+|Fusion Second=ntis
+}}
+{{Technique Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Changeling
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ants
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Blood Nets
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Clamp On
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Perfect Cut
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Tornado
+|Technique_Level=40
+}}

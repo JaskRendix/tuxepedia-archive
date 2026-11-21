@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=145
+|TXMN Blurb=The user conjures a ring that expands, engulfing the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Wood
+|TXMN Family=Reserved
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2.0
+|TXMN Effects=splash
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN User Condition=Recovering
+|TXMN Animation Target=1
+|Tags=Reserved
+|Main Details=[[Reserved technique]] for [[Tourbidi]]. [[Category:Reserved technique]]
+|Sources=Jaskrendix
+}}

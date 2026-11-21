@@ -1,0 +1,8 @@
+{{Condition
+|TXMN ID=20
+|Positive or Negative=Negative
+|Response to Positive Condition=Remove
+|Response to Negative Condition=Replace
+|Text When Gained=NAME's wounds fester.
+|Details=Cannot heal damage.
+}}

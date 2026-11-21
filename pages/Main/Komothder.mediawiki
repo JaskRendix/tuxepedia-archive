@@ -1,0 +1,29 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Komothder-012-678105984
+|Sources=TheBritanniaRegion
+|Species=Dragonball
+|Evolves=Cowool
+|Name Origin=''Komodo'' + ''moth'' + ''commander''
+|Design Origin=African pink silkmoth.
+|Main Details=There have been cases in which the tuxemon would eat their trainer in a furious temper, though this is rare.
+|TXMN Types=Wood
+|TXMN Blurb=A very controlling and moody tuxemon, which likes to be in charge of its team members and trainer. They are extremely dangerous, but loyal to their trainers, making them excellent tuxemon for a trainer who cares deeply for their team.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+}}
+{{Technique Allocation
+|Has_Technique=Fume
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Invictus
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Revenge Stance
+|Technique_Level=5
+}}
+{{Technique Allocation
+|Has_Technique=Wind Leaf Blade
+|Technique_Level=30
+}}

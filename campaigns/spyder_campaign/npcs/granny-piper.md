@@ -1,0 +1,22 @@
+# Character: Granny
+
+* **Trainer Class:** Granny
+* **Main Details:** Runs the **Daycare Center** in [Paper Town](../maps/paper-town.md). Grandmother of [Rival Billie](rival-billie.md).
+
+## Speech Style
+
+* **Familiar/Affectionate:** Uses terms of endearment like *"dearie"* and *"honey"*.
+* **Directly Business-Oriented:** Explains the Daycare service clearly and is strict about payment.
+* **Philosophical:** Offers measured advice on life and respect.
+
+## Tone
+
+Warm, Nurturing, and Business-Savvy. Her primary focus is on re-establishing her family fortune in the daycare business due to boredom in retirement. Her tone is generally very kind and supportive.
+
+## Focus
+
+Running the Daycare Center and supporting character progression. She emphasizes emotional wisdom and financial practicality.
+
+## Role & Actions
+
+Proprietor of the Daycare Center, a vital service for leveling up the player's Tuxemon. Acts as a wise mentor to the player (or **Rival Billie**) in flashbacks, offering emotional support and advice on difficult family relationships.

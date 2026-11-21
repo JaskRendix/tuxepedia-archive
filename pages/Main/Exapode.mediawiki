@@ -1,0 +1,53 @@
+{{Monster
+|Sources=Catch Challenger, Sanglorian
+|Source Explanation=Catch Challenger is an open source project, with assets under Creative Commons Attribution. Original design and sprites by Catch Challenger. Face sprites by Sanglorian.
+|Species=Big Frightfear
+|Evolves=Chenipode
+|SpyderCampaign=Used by trainers in Route 7 and Dryad's Grove.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Grub
+|TXMN ID=347
+|TXMN Blurb=It waves its legs to attract attention, but mostly people just run away.
+|TXMN Height=44
+|TXMN Weight=5
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Bug, Mental
+|Fusion First=Exa
+|Fusion Second=pode
+}}
+{{Technique Allocation
+|Has_Technique=Rock
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Clamp On
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Quicksand
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Take Cover
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Tonguespear
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Rocky Barrage
+|Technique_Level=31
+}}

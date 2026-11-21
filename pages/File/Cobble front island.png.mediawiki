@@ -1,0 +1,10 @@
+== Summary ==
+[[Category:Main]]
+[[Category:Back Island]]
+[[Category:Front Island]]
+[[Category:Cobblestones]]
+[[Category:Seth Galbraith]]
+[[Category:96px]]
+[[Category:pixel32]]
+
+Resized and adapted from [https://opengameart.org/content/isometric-64x64-medieval-building-tileset CC BY on OGA], using the base by pixel32

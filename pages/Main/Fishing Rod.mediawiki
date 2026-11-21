@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Exploration Item
+|TXMN Usable In=world
+|TXMN Description=Catch fish.
+|TXMN Key Item=yes
+|SpyderCampaign=Given by trainer Wanda on Route 3 after defeating them
+|Sources=Catch Challenger
+|Source Explanation=Main sprite from Catch Challenger, art director Jordan Brule. Project developer Herman Brule.
+}}

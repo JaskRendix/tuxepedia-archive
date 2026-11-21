@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=97
+|TXMN Blurb=The user changes its type to Wood, while also creating a protective shell around itself.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Wood
+|TXMN Type 2=Fire
+|TXMN Sub-Elements=Wood
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=Switch Wood User
+|TXMN Potency=100%
+|TXMN Recharge=4
+|TXMN User Condition=Hard Shell
+|TXMN Animation Target=1
+|Tags=Shapeshifter
+|Sources=Jaskrendix
+}}

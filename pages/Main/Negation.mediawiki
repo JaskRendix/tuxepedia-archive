@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=140
+|TXMN Blurb=The user cancels out the effects of the opponent's healing.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Target Condition=Festering
+|TXMN Animation Target=1
+|Tags=Healing, Mental, Toxic
+|Sources=Jaskrendix
+}}

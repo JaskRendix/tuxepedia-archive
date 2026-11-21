@@ -1,0 +1,17 @@
+# Character: Kyle
+
+* **Trainer Class:** Cool Dude
+* **Sources:** Qiangong2
+* **Main Details:** Kyle: Communication Profile
+
+## Speech Style
+
+Arrogant, mocking, and overly confident. Uses insulting rhetoric and dismissive language.
+
+## Tone
+
+Smug, Sadistic, and Antagonistic. His tone is consistently hostile, especially toward Misa and Speck, betraying a deep-seated contempt for them.
+
+## Focus
+
+Self-aggrandizement, mockery, and enforcing the ruthless reality of Omnichannel. He is there to provoke and put the contestants in their place.

@@ -1,0 +1,72 @@
+{{Monster
+|First URL=https://www.deviantart.com/piacarrot/art/Fakemon-Free-for-use-Batch-668006857
+|Sources=Jaskrendix, JustinNuggets, Piacarrot
+|Source Explanation=Design and original sprite by JustinNuggets and Piacarrot. Face sprites by Jaskrendix. Backsprite by HippasusTwo. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Fossil
+|Name Origin=from "Carcharodon", meaning "sharp-toothed," derived from Greek "karcharos" and "odous", combined with the English word "rock"
+|Design Origin=Carcharodon is the name of a great white shark, but also part of the name of Carcharodontosaurus, a large dinosaur of great size. The head could be interpreted as having very stylized fins, making it a land shark dinosaur.
+|Main Details=A sturdy, pink Tuxemon with a white underbelly and darker pink stripes. Its dinosaur-like build features a large head, short neck, long tail, and spiked back. It has a wide mouth and sharp teeth.
+
+Its heart aches with a deep longing for the world it once knew, where the rustle of leaves and the distant call of a long-lost predator echoed through the land. According to legend, the great rivers and coastlines that once teemed with the massive Carcharodon still exist, hidden deep within the lost jungle's primeval heart. Carcharock searches endlessly for this fabled land, driven by a fierce determination to rediscover the world it was born to inhabit.
+
+[[Category:Fossil]]
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Completed=Complete
+|TXMN Body Shape=Dragon
+|TXMN ID=385
+|TXMN Blurb=CARCHAROCK's ancient instincts are at odds with the modern world, where the scent of PHARFAN and the roar of PANTHERAFIRA have replaced the familiar sounds of its homeland.
+|TXMN Height=120
+|TXMN Weight=45
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Coastal, Jungle
+|Tags=Bite, Amphibian, Megafauna, Fury
+|Fusion First=Carcha
+|Fusion Second=rock
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Slice
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Ram
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Amnesia
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Berserk
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Clamp On
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=34
+}}
+{{Technique Allocation
+|Has_Technique=Earthquake
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=55
+}}

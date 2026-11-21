@@ -1,0 +1,653 @@
+'''Work in progress.'''
+
+Possible changes to [[:Category:Monster]], if we went with the 13-element system, we need to assign the existing monster (and future ones) to the right type. 
+
+Similar to: [[Technique design space‎]].
+
+It'll help to understand if we need to split / add / remove types: [[Other element systems]].
+
+== Now ==
+Completed monsters.
+
+==== Earth ====
+[[Aardart]], [[Aardorn]], [[Ambuwl]], [[Bricgard]], [[Brickhemoth]], [[Cairfrey]], [[Chenipode]], , [[Cochini]], [[Coleorus]], [[Conglolem]], [[Cowpignon]], [[Dinoflop]], [[Enduros]], [[Exapode]], [[Foofle]], [[Forturtle]], [[Fuzzina]], [[Fuzzlet]], [[Galnec]], [[Glombroc]], , [[Grintot]], [[Hampotamos]], [[Howl]], [[Imbrickcile]], [[Jemuar]], [[Polyrock]], [[Rabbitosaur]], [[Regalance]], [[Rhincus]], [[Rockat]], [[Rockitten]], [[Selket]], [[Selmatek]], [[Shammer]], [[Sludgehog]], [[Snarlon]], [[Squabbit]], [[Tumbledillo]], [[Tumblequill]], [[Vividactil]], [[Vivipere]], [[Ziggurat]]
+
+==== Earth mixed ====
+
+* [[Grinflare]], [[Metesaur]], [[Qetzlrokilus]] (Earth Fire) 
+* [[Chillimp]], [[Grumpi]], [[Toufigel]] (Earth Water)
+* [[Coleorus]], [[Cowpignon]], [[Glombroc]] (Earth Wood)
+
+==== Fire ====
+[[Abesnaki]], [[Agnidon]], [[Agnigon]], [[Agnite]], [[Bursa]], [[Cardiling]], [[Cardinale]], [[Cardiwing]], [[Criniotherme]], [[Djinnbo]], [[Drokoro]], [[Embra]], [[Eruptibus]], [[Firomenis]], [[Flambear]], [[Foxfire]], [[Furnursus]], [[Ignibus]], [[Joulraton]], [[Komodraw]], [[Loliferno]], [[Masknake]], [[Merlicun]], [[Mingdyn]], [[Pantherafira]], [[Prophetoise]], [[Ruption]], [[Statursus]], [[Teddisun]], [[Vivicinder]], [[Volcoli]], [[Volconey]]
+
+==== Metal ====
+[[AV8R]], [[Allagon]], [[Altie]], [[Anu]], [[Apeoro]], [[Araignee]], [[Arthrobolt]], [[B-ver.1]], [[Blasdoor]], [[Bolt]], [[Boltnu]], [[Botbot]], [[Boxali]], [[Brewdin]], [[Cataspike]], [[Cateye]], [[Cherubat]], [[Chromeye]], [[Corvix]], [[Cubfort]], [[Exclawvate]], [[Eyenemy]], [[Eyesore]], [[Fancair]], [[Ferricran]], [[Flacono]], [[Ghosteeth]], [[Graffiki]], [[Grimachin]], [[Gryfix]], [[Hotline]], [[K9]], [[Kernel]], [[Lapinou]], [[Lendos]], [[MRmOswitch]], [[Mauai]], [[Memnomnom]], [[Mystikapi]], [[Nut]], [[PiCC]], [[Pigabyte]], [[Possessun]], [[Potturmeist]], [[Potturney]], [[Propellercat]], [[Puparmor]], [[Pyraminx]], [[Pythock]], [[Pythwire]], [[Sampsack]], [[Sampsage]], [[Snock]], [[Sockeserp]], [[Tetrchimp]], [[Tigrock]], [[Tumblebee]], [[Tumbleworm]], [[UF0]], [[Uneye]], [[Viviteel]], [[Vivitron]], [[Weavifly]], [[Windeye]], [[Wrougon]], [[Zunna]]
+
+==== Metal mixed ====
+
+* [[Grintrock]], [[Happito]], [[Miaownolith]] (Metal Earth) 
+* [[Angrito]], [[Embazook]], [[Ouroboutlet]], [[Solight]] (Metal Fire) 
+* [[Hydrone]], [[Lunight]], [[Sadito]], [[Vivitrans]] (Metal Water) 
+* [[Bugnin]], [[Katacoon]], [[Katapill]], [[Neutrito]], [[Spycozeus]], [[Sumchon]] (Metal Wood)
+
+==== Water ====
+[[Angesnow]], [[Axolightl]], [[Bigfin]], [[Bumbulus]], [[Demosnow]], [[Dollfin]], [[Dracune]], [[Dune Pincher]], [[Eaglace]], [[Elofly]], [[Elostorm]], [[Elowind]], [[Flisces]], [[Fluoresfin]], [[Fluttaflap]], [[Fribbit]], [[Hectapod]], [[Heronquak]], [[Incandesfin]], [[Jelillow]], [[Lightmare]], [[Lucifice]], [[Manosting]], [[Nimbulex]], [[Noctalo]], [[Noctula]], [[Nostray]], [[Nudiflot ♀]], [[Nudiflot ♂]], [[Nudikill]], [[Nudimind]], [[Nuenflu]], [[Octabode]], [[Pharfan]], [[Poinchin]], [[Rhinocarpe]], [[Saurchin]], [[Seraphice]], [[Shelagu]], [[Shnark]], [[Skwib]], [[Snaki]], [[Snokari]], [[Snowrilla]], [[Squink]], [[Tadcool]], [[Taupypus]], [[Tsushimi]], [[Tux]], [[Tweesher]], [[Uglip]], [[Urcheedle]], [[Vamporm]], [[Vivisource]], [[Waysprite]]
+
+==== Water mixed ====
+* [[Medushock]], [[Seirein]], [[Yiinaang]] (Water Fire) 
+* [[Conifrost]], [[Drashimi]], [[Sharpfin]], [[Tobishimi]] (Water Wood) 
+
+==== Wood ====
+[[Anoleaf]], [[Bamboon]], [[Banling]], [[Baobaraffe]], [[Baoby]], [[Beenstalker]], [[Birdling]], [[Budaye]], [[Capinyah]], [[Capiti]], [[Chibiro]], [[Chloragon]], [[Conifrost]], [[Conileaf]], [[Dandicub]], [[Dandylion]], [[Dragarbor]], [[Drashimi]], [[Fordin]], [[Frondly]], [[Fruitera]], [[Gectile]], [[Hatchling]], [[Lambert]], [[Legko]], [[Moloch]], [[Narcileaf]], [[Pairagrim]], [[Pairagrin]], [[Pipis]], [[Rinocereed]], [[Rosarin]], [[Sapragon]], [[Sapsnap]], [[Sclairus]], [[Sharpfin]], [[Shybulb]], [[Slichen]], [[Spighter]], [[Spoilurm]] [[Strella]], [[Tarpeur]], [[Tobishimi]], [[Tourbidi]], [[Trapsnap]], [[Turnipper]], [[Urcine]], [[Velocitile]], [[Vigueur]], [[Viviphyta]], [[Woodoor]]
+
+==== Wood mixed ====
+* [[Dankush]], [[Tikoal]], [[Tikorch]] (Wood Fire) 
+
+== Future ==
+
+'''Tentative table'''
+
+{| class="wikitable"
+! Monster !! TXMN ID !! TXMN Type !! TXMN Type 2 !! New Type 1 !! New Type 2
+|-
+| Rockitten || 1 || Earth ||  || Earth || 
+|-
+| Rockat || 2 || Earth ||  || Earth || 
+|-
+| Jemuar || 3 || Earth ||  || Earth || Cosmic
+|-
+| Nut || 4 || Metal ||  || Metal || 
+|-
+| Bolt || 5 || Metal ||  || Metal || 
+|-
+| Arthrobolt || 6 || Metal ||  || Metal || Lightning
+|-
+| Tweesher || 7 || Water ||  || Frost || 
+|-
+| Heronquak || 8 || Water ||  || Frost || Sky
+|-
+| Eaglace || 9 || Water ||  || Frost || Sky
+|-
+| Lambert || 10 || Wood ||  || Wood || 
+|-
+| Legko || 11 || Wood ||  || Wood || 
+|-
+| Moloch || 12 || Wood ||  || Wood || Heroic
+|-
+| Agnite || 13 || Fire ||  || Fire || 
+|-
+| Agnidon || 14 || Fire ||  || Fire || 
+|-
+| Agnigon || 15 || Fire ||  || Fire || Shadow
+|-
+| Grintot || 16 || Earth ||  || Earth || 
+|-
+| Grinflare || 17 || Earth || Fire || Earth || Fire
+|-
+| Grintrock || 18 || Metal || Earth || Earth || Lightning
+|-
+| Memnomnom || 19 || Metal ||  || Normal || 
+|-
+| Miaownolith || 20 || Metal || Earth || Normal || Earth
+|-
+| Pyraminx || 21 || Metal ||  || Normal || Cosmic
+|-
+| Pantherafira || 22 || Fire ||  || Normal || Fire
+|-
+| Criniotherme || 23 || Fire ||  || Normal || Fire
+|-
+| Dollfin || 24 || Water ||  || Water || 
+|-
+| Bigfin || 25 || Water ||  || Water || 
+|-
+| Sharpfin || 26 || Water || Wood || Water || Heroic
+|-
+| Budaye || 27 || Wood ||  || Wood || 
+|-
+| Bamboon || 28 || Wood ||  || Wood || Heroic
+|-
+| Frondly || 29 || Wood ||  || Wood || Cosmic
+|-
+| Ignibus || 30 || Fire ||  || Fire || 
+|-
+| Embazook || 31 || Metal || Fire || Fire || Metal
+|-
+| Eruptibus || 32 || Fire ||  || Fire || Earth
+|-
+| Cataspike || 33 || Metal ||  || Venom || Metal
+|-
+| Puparmor || 34 || Metal ||  || Venom || Metal
+|-
+| Weavifly || 35 || Metal ||  || Metal || Sky
+|-
+| Vamporm || 36 || Water ||  || Venom || Shadow
+|-
+| Dracune || 37 || Water ||  || Venom || Shadow
+|-
+| Fluttaflap || 38 || Water ||  || Shadow || Sky
+|-
+| Elofly || 39 || Water ||  || Normal || Sky
+|-
+| Elowind || 40 || Water ||  || Normal || Sky
+|-
+| Elostorm || 41 || Water ||  || Normal || Sky
+|-
+| Aardorn || 42 || Earth ||  || Normal || 
+|-
+| Aardart || 43 || Earth ||  || Normal || 
+|-
+| Squabbit || 44 || Earth ||  || Heroic || 
+|-
+| Rabbitosaur || 45 || Earth ||  || Heroic || 
+|-
+| Eyenemy || 46 || Metal ||  || Cosmic || 
+|-
+| Eyesore || 47 || Metal ||  || Cosmic || 
+|-
+| Pipis || 48 || Wood ||  || Normal || Sky
+|-
+| Strella || 49 || Wood ||  || Normal || Sky
+|-
+| Noctula || 50 || Water ||  || Shadow || Sky
+|-
+| Noctalo || 51 || Water ||  || Shadow || Sky
+|-
+| Nudiflot ♂ || 52 || Water ||  || Venom || Water
+|-
+| Nudikill || 53 || Water ||  || Venom || Water
+|-
+| Nudiflot ♀ || 54 || Water ||  || Cosmic || Water
+|-
+| Nudimind || 55 || Water ||  || Cosmic || Water
+|-
+| Katapill || 56 || Metal || Wood || Metal || Venom
+|-
+| Katacoon || 57 || Metal || Wood || Metal || Venom
+|-
+| Bugnin || 58 || Metal || Wood || Metal || Venom
+|-
+| Sumchon || 59 || Metal || Wood || Metal || Heroic
+|-
+| Chenipode || 60 || Earth ||  || Normal || 
+|-
+| Exapode || 61 || Earth ||  || Normal || 
+|-
+| Cardiling || 62 || Fire ||  || Fire || Sky
+|-
+| Cardiwing || 63 || Fire ||  || Fire || Sky
+|-
+| Cardinale || 64 || Fire ||  || Fire || Sky
+|-
+| Anoleaf || 65 || Wood ||  || Wood || 
+|-
+| Gectile || 66 || Wood ||  || Wood || 
+|-
+| Velocitile || 67 || Wood ||  || Wood || 
+|-
+| Fluoresfin || 68 || Water ||  || Water || Lightning
+|-
+| Incandesfin || 69 || Water ||  || Water || Lightning
+|-
+| Lightmare || 70 || Water ||  || Water || Lightning
+|-
+| Cairfrey || 71 || Earth ||  || Normal || 
+|-
+| Possessun || 72 || Metal ||  || Shadow || 
+|-
+| Dandicub || 73 || Wood ||  || Wood || 
+|-
+| Dandylion || 74 || Wood ||  || Wood || Cosmic
+|-
+| Embra || 75 || Fire ||  || Fire || 
+|-
+| Ruption || 76 || Fire ||  || Fire || 
+|-
+| Shybulb || 77 || Wood ||  || Wood || 
+|-
+| Narcileaf || 78 || Wood ||  || Wood || 
+|-
+| Tikoal || 79 || Wood || Fire || Wood || Fire
+|-
+| Tikorch || 80 || Wood || Fire || Wood || Fire
+|-
+| Hatchling || 81 || Wood ||  || Sky || 
+|-
+| Birdling || 82 || Wood ||  || Sky || 
+|-
+| Bursa || 83 || Fire ||  || Fire || Cosmic
+|-
+| Flambear || 84 || Fire ||  || Fire || Cosmic
+|-
+| Trapsnap || 85 || Wood ||  || Shadow || Wood
+|-
+| Sapsnap || 86 || Wood ||  || Shadow || Wood
+|-
+| Forturtle || 87 || Earth ||  || Cosmic || 
+|-
+| Prophetoise || 88 || Fire ||  || Cosmic || Fire
+|-
+| Pythwire || 89 || Metal ||  || Metal || Lightning
+|-
+| Ouroboutlet || 90 || Metal || Fire || Metal || Lightning
+|-
+| Sockeserp || 91 || Metal ||  || Metal || Lightning
+|-
+| Komodraw || 92 || Fire ||  || Normal || 
+|-
+| Grimachin || 93 || Metal ||  || Metal || 
+|-
+| Tigrock || 94 || Metal ||  || Metal || 
+|-
+| Tumbleworm || 95 || Metal ||  || Venom || 
+|-
+| Tumblebee || 96 || Metal ||  || Venom || 
+|-
+| Sampsack || 97 || Metal ||  || Heroic || 
+|-
+| Sampsage || 98 || Metal ||  || Cosmic || 
+|-
+| Abesnaki || 99 || Fire ||  || Cosmic || 
+|-
+| Araignee || 100 || Metal ||  || Venom || 
+|-
+| Axolightl || 101 || Water ||  || Water || 
+|-
+| Capiti || 102 || Wood ||  || Normal || 
+|-
+| Cateye || 103 || Metal ||  || Cosmic || 
+|-
+| Cochini || 104 || Earth ||  || Normal || 
+|-
+| Coleorus || 105 || Earth || Wood || Lightning || Wood  
+|-
+| Conifrost || 106 || Water || Wood || Wood || Frost
+|-
+| Cowpignon || 107 || Earth || Wood || Cosmic || Wood
+|-
+| Djinnbo || 108 || Fire ||  || Fire || Shadow
+|-
+| Dune Pincher || 109 || Water ||  || Normal || 
+|-
+| Foofle || 110 || Earth ||  || Normal || 
+|-
+| Ghosteeth || 111 || Metal ||  || Shadow || 
+|-
+| Hydrone || 112 || Metal || Water || Water || Metal
+|-
+| Lapinou || 113 || Metal ||  || Normal || 
+|-
+| Manosting || 114 || Water ||  || Water || Venom
+|-
+| Masknake || 115 || Fire ||  || Cosmic || 
+|-
+| Pigabyte || 116 || Metal ||  || Normal || Metal
+|-
+| Polyrock || 117 || Earth ||  || Earth || Heroic
+|-
+| Propellercat || 118 || Metal ||  || Normal || Sky
+|-
+| Sclairus || 119 || Wood ||  || Wood || 
+|-
+| Sludgehog || 120 || Earth ||  || Wood || Earth
+|-
+| Spighter || 121 || Wood ||  || Venom || Shadow
+|-
+| Toufigel || 122 || Earth || Water || Normal || 
+|-
+| Tourbidi || 123 || Wood ||  || Wood || 
+|-
+| Volcoli || 124 || Fire ||  || Wood || Cosmic
+|-
+| Botbot || 125 || Metal ||  || Metal || 
+|-
+| AV8R || 126 || Metal ||  || Metal || Sky
+|-
+| PiCC || 127 || Metal ||  || Metal || Water
+|-
+| MRmOswitch || 128 || Metal ||  || Metal || Lightning
+|-
+| K9 || 129 || Metal ||  || Metal || Heroic
+|-
+| B-ver.1 || 130 || Metal ||  || Metal || Wood
+|-
+| Zunna || 131 || Metal ||  || Normal || 
+|-
+| Vivipere || 132 || Earth ||  || Normal || 
+|-
+| Vivicinder || 133 || Fire ||  || Fire || 
+|-
+| Viviphyta || 134 || Wood ||  || Wood || 
+|-
+| Viviteel || 135 || Metal ||  || Metal || 
+|-
+| Vivitrans || 136 || Metal || Water || Frost || 
+|-
+| Vivitron || 137 || Metal ||  || Lightning || 
+|-
+| Vividactil || 138 || Earth ||  || Earth || 
+|-
+| Vivisource || 139 || Water ||  || Water || 
+|-
+| Chloragon || 140 || Wood ||  || Wood || 
+|-
+| Sapragon || 141 || Wood ||  || Wood || 
+|-
+| Dragarbor || 142 || Wood ||  || Wood || Cosmic
+|-
+| Rhincus || 143 || Earth ||  || Earth || Sky
+|-
+| Shammer || 144 || Earth ||  || Earth || 
+|-
+| Drokoro || 145 || Fire ||  || Fire || 
+|-
+| Yiinaang || 146 || Water || Fire || Cosmic || Shadow
+|-
+| Snarlon || 147 || Earth ||  || Normal || Shadow
+|-
+| Conileaf || 148 || Wood ||  || Wood || 
+|-
+| Foxfire || 149 || Fire ||  || Fire || 
+|-
+| Hampotamos || 150 || Earth ||  || Earth || 
+|-
+| Pharfan || 151 || Water ||  || Water || 
+|-
+| Nostray || 152 || Water ||  || Water || 
+|-
+| Shnark || 153 || Water ||  || Water || 
+|-
+| Chillimp || 154 || Earth || Water || Frost || Heroic
+|-
+| Snowrilla || 155 || Water ||  || Frost || Heroic
+|}
+
+{| class="wikitable"
+! Monster !! TXMN ID !! TXMN Type !! TXMN Type 2 !! New Types !! New Type 2
+|-
+| Flacono || 156 || Metal ||  || Sky || 
+|-
+| Corvix || 157 || Metal ||  || Sky || 
+|-
+| Gryfix || 158 || Metal ||  || Sky || 
+|-
+| Wrougon || 159 || Metal ||  || Metal || 
+|-
+| Allagon || 160 || Metal ||  || Metal || 
+|-
+| Ferricran || 161 || Metal ||  || Metal || 
+|-
+| Seirein || 162 || Water || Fire || Shadow || Fire
+|-
+| Loliferno || 163 || Fire ||  || Shadow || Fire
+|-
+| Poinchin || 164 || Water ||  || Venom || 
+|-
+| Saurchin || 165 || Water ||  || Venom || 
+|-
+| Dinoflop || 166 || Earth ||  || Earth || 
+|-
+| Enduros || 167 || Earth ||  || Heroic || 
+|-
+| Galnec || 168 || Earth ||  || Earth || 
+|-
+| Fruitera || 169 || Wood ||  || Wood || 
+|-
+| Teddisun || 170 || Fire ||  || Normal || 
+|-
+| Anu || 171 || Metal ||  || Cosmic || 
+|-
+| Chromeye || 174 || Metal ||  || Metal || Cosmic
+|-
+| Angrito || 175 || Metal || Fire || Metal || Cosmic
+|-
+| Happito || 176 || Metal || Earth || Metal || Cosmic
+|-
+| Neutrito || 177 || Metal || Wood || Metal || Cosmic
+|-
+| Sadito || 178 || Metal || Water || Metal || Cosmic
+|-
+| Fancair || 179 || Metal ||  || Metal || Lightning
+|-
+| Windeye || 180 || Metal ||  || Metal || Lightning
+|-
+| Pairagrin || 181 || Wood ||  || Sky || 
+|-
+| Pairagrim || 182 || Wood ||  || Sky || 
+|-
+| Skwib || 183 || Water ||  || Normal || 
+|-
+| Octabode || 184 || Water ||  || Normal || Earth
+|-
+| Drashimi || 185 || Water || Wood || Wood || 
+|-
+| Tsushimi || 186 || Water ||  || Wood || 
+|-
+| Tobishimi || 187 || Water || Wood || Wood || 
+|-
+| Selket || 188 || Earth ||  || Earth || Venom
+|-
+| Selmatek || 189 || Earth ||  || Earth || Venom
+|-
+| Furnursus || 190 || Fire ||  || Fire || 
+|-
+| Statursus || 191 || Fire ||  || Fire || Cosmic
+|-
+| Baoby || 192 || Wood ||  || Wood || 
+|-
+| Baobaraffe || 193 || Wood ||  || Wood || 
+|-
+| Boltnu || 194 || Metal ||  || Metal || 
+|-
+| Exclawvate || 195 || Metal ||  || Metal || 
+|-
+| Tetrchimp || 196 || Metal ||  || Cosmic || Lightning
+|-
+| Apeoro || 197 || Metal ||  || Cosmic || Lightning
+|-
+| Turnipper || 198 || Wood ||  || Wood || 
+|-
+| Beenstalker || 199 || Wood ||  || Wood || 
+|-
+| Banling || 200 || Wood ||  || Wood || 
+|-
+| Altie || 201 || Metal ||  || Cosmic || 
+|-
+| Metesaur || 202 || Earth || Fire || Earth || Fire
+|-
+| Qetzlrokilus || 203 || Earth || Fire || Earth || Fire
+|-
+| Rosarin || 204 || Wood ||  || Wood || 
+|-
+| Graffiki || 205 || Metal ||  || Normal || 
+|-
+| Grumpi || 206 || Earth || Water || Normal || 
+|-
+| Jelillow || 207 || Water ||  || Cosmic || 
+|-
+| Medushock || 208 || Water || Fire || Lightning || Venom
+|-
+| Merlicun || 209 || Fire ||  || Normal || Cosmic
+|-
+| Bumbulus || 210 || Water ||  || Sky || 
+|-
+| Fordin || 211 || Wood ||  || Wood || 
+|-
+| Chibiro || 212 || Wood ||  || Normal || Wood
+|-
+| Boxali || 213 || Metal ||  || Heroic || Sky
+|-
+| Spoilurm || 214 || Wood ||  || Venom || 
+|-
+| Brewdin || 215 || Metal ||  || Shadow || Water
+|-
+| Urcine || 216 || Wood ||  || Heroic || Shadow
+|-
+| Tarpeur || 217 || Wood ||  || Wood || 
+|-
+| Vigueur || 218 || Wood ||  || Wood || Heroic
+|-
+| Taupypus || 219 || Water ||  || Normal || Water
+|-
+| Tumblequill || 220 || Earth ||  || Normal || Earth
+|-
+| Shelagu || 221 || Water ||  || Venom || Earth
+|-
+| Spycozeus || 222 || Metal || Wood || Wood || 
+|-
+| Mystikapi || 223 || Metal ||  || Cosmic || 
+|-
+| Nuenflu || 224 || Water ||  || Frost || Venom
+|-
+| Snock || 225 || Metal ||  || Normal || 
+|-
+| Pythock || 226 || Metal ||  || Normal || Shadow
+|-
+| Snaki || 227 || Water ||  || Normal || 
+|-
+| Snokari || 228 || Water ||  || Normal || 
+|-
+| Lunight || 229 || Metal || Water || Cosmic || Shadow
+|-
+| Solight || 230 || Metal || Fire || Cosmic || Fire
+|-
+| Tumbledillo || 231 || Earth ||  || Normal || Earth
+|-
+| Mauai || 232 || Metal ||  || Metal || Shadow
+|-
+| Nimbulex || 233 || Water ||  || Sky || Lightning
+|-
+| Capinyah || 234 || Wood ||  || Heroic || 
+|-
+| Howl || 235 || Earth ||  || Normal || Sky
+|-
+| Fuzzlet || 236 || Earth ||  || Normal || Cosmic
+|-
+| Fuzzina || 237 || Earth ||  || Normal || Cosmic
+|-
+| Flisces || 238 || Water ||  || Water || Sky
+|-
+| Mingdyn || 239 || Fire ||  || Fire || Sky
+|-
+| Uneye || 240 || Metal ||  || Shadow || Cosmic
+|-
+| Lendos || 241 || Metal ||  || Shadow || Cosmic
+|-
+| Ziggurat || 242 || Earth ||  || Normal || Earth
+|-
+| Urcheedle || 243 || Water ||  || Earth || Venom
+|-
+| Joulraton || 244 || Fire ||  || Lightning || 
+|-
+| Firomenis || 245 || Fire ||  || Metal || Cosmic
+|-
+| Uglip || 246 || Water ||  || Water || 
+|-
+| Dankush || 247 || Wood || Fire || Wood || Fire
+|-
+| Cherubat || 248 || Metal ||  || Cosmic || Sky
+|-
+| Ambuwl || 249 || Earth ||  || Cosmic || 
+|-
+| Woodoor || 250 || Wood ||  || Wood || 
+|-
+| Blasdoor || 251 || Metal ||  || Metal || 
+|-
+| Rhinocarpe || 252 || Water ||  || Water || Heroic
+|-
+| Kernel || 253 || Metal ||  || Metal || Lightning
+|-
+| Tux || 254 || Water ||  || Heroic || Frost
+|-
+| Hotline || 255 || Metal ||  || Metal || Fire
+|-
+| Rinocereed || 256 || Wood ||  || Wood || 
+|-
+| Potturmeist || 257 || Metal ||  || Earth || Shadow
+|-
+| Potturney || 258 || Metal ||  || Earth || Shadow
+|-
+| Imbrickcile || 259 || Earth ||  || Earth || Heroic
+|-
+| Bricgard || 260 || Earth ||  || Earth || Heroic
+|-
+| Brickhemoth || 261 || Earth ||  || Earth || Heroic
+|-
+| Waysprite || 262 || Water ||  || Frost || 
+|-
+| Angesnow || 263 || Water ||  || Frost || Cosmic
+|-
+| Demosnow || 264 || Water ||  || Frost || Shadow
+|-
+| Lucifice || 265 || Water ||  || Frost || Shadow
+|-
+| Seraphice || 266 || Water ||  || Frost || Cosmic
+|-
+| UF0 || 267 || Metal ||  || Metal || Cosmic
+|-
+| Tadcool || 268 || Water ||  || Water || Frost
+|-
+| Fribbit || 269 || Water ||  || Water || Frost
+|-
+| Squink || 270 || Water ||  || Water || 
+|-
+| Hectapod || 271 || Water ||  || Water || 
+|-
+| Slichen || 272 || Wood ||  || Wood || 
+|-
+| Glombroc || 273 || Earth || Wood || Wood || Earth
+|-
+| Conglolem || 274 || Earth ||  || Earth
+|-
+| Coproblight ||  || Earth ||  || Earth
+|-
+| Pilthropus ||  || Earth ||  || Earth
+|}
+
+== Threats ==
+
+{| class="wikitable"
+! Monster !! TXMN Type !! Type 2 !! New Type 1 !! New Type 2
+|-
+| Aardpill || Earth ||  || Normal || Metal
+|-
+| Agnsher || Water || Fire || Fire || Frost
+|-
+| Bearloch || Metal || Wood || Metal || Wood
+|-
+| Chrome Robo || Metal ||  || Metal || 
+|-
+| D0llf1n || Water ||  || Water || 
+|-
+| Dark Robo || Metal ||  || Metal || Shadow
+|-
+| F7u1t3ra || Wood ||  || Wood || 
+|-
+| Foxko || Wood || Fire || Fire || Wood
+|-
+| L3gk0 || Wood ||  || Wood || 
+|-
+| Mk01 Alpha || Metal ||  || Metal || Shadow
+|-
+| Mk01 Beta || Metal ||  || Metal || Frost
+|-
+| Mk01 Delta || Metal ||  || Metal || Shadow
+|-
+| Mk01 Gamma || Metal ||  || Metal || Venom
+|-
+| Mk01 Omega || Metal ||  || Metal || Heroic
+|-
+| Mk01 Proto || Metal ||  || Metal || 
+|-
+| R0ck1tt3n || Earth ||  || Earth || 
+|-
+| Rocktot || Earth ||  || Earth || 
+|-
+| Shade || Metal ||  || Shadow || 
+|-
+| Xeon || Metal || Fire || Metal || Heroic
+|-
+| Xeon-2 || Metal || Fire || Metal || Heroic
+|}
+
+[[Category:Proposed content]]

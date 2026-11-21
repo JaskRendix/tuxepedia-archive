@@ -1,0 +1,59 @@
+{{Monster
+|Sources=Georg Eckert, Jaskrendix
+|Source Explanation=Designed and sprited by Georg Eckert. Front and face sprites by Jaskrendix.
+|Species=Squinty Fishy
+|Evolves=Squish
+|Name Origin=''bag'' + ''fish''
+|Main Details=BAGISH is the evolved form of SQUISH. Its body has grown larger and taken on a donut-like shape, with its skeletal system visible through its transparent, orange skin. BAGISH's enormous eyes have moved to the top of its body, allowing it to see in all directions.
+|TXMN Types=Water
+|TXMN Sub-Elements=Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Piscine
+|TXMN ID=408
+|TXMN Blurb=Its skeletal system is visible through its transparent, orange skin. The color orange disappears entirely in the deepest depths of the sea.
+|TXMN Height=50
+|TXMN Weight=8
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Coastal, Sea
+|Tags=Gaze, Water
+|Fusion First=Bag
+|Fusion Second=ish
+}}
+{{Technique Allocation
+|Has_Technique=Bubbles
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Tail Lash
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ice Shield
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Water Bullet
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Kiss
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Neutralize
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Negation
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Depth Charge
+|Technique_Level=31
+}}

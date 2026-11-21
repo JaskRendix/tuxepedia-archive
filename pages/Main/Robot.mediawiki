@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Catch Challenger
+|Source Explanation=Overland sprites by Catch Challenger.
+|Genre=Sci-Fi
+|Combat Type=1 vs 1
+}}

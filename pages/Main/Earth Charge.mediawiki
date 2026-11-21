@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=275
+|TXMN Blurb=They charge power from the earth, then charge forward.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Family=Powerful
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=80%
+|TXMN Power=2.5
+|TXMN Effects=foresight 3
+|TXMN Recharge=5
+|TXMN User Condition=Charging
+|TXMN Animation Target=0
+|Tags=Megafauna
+|Sources=HippasusTwo
+}}

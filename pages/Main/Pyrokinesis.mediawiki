@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=208
+|TXMN Blurb=The user unleashes a wave of intense heat and flames that can scorch its opponents.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Fire
+|TXMN Sub-Elements=Fire, Cosmic
+|TXMN Family=Exotic
+|TXMN Is fast=Fast
+|TXMN Accuracy=80%
+|TXMN Power=2.5
+|TXMN Recharge=4
+|TXMN Animation Target=0
+|Tags=Flame, Mental
+|Sources=Jaskrendix
+}}

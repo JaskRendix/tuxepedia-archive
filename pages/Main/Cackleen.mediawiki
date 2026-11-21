@@ -1,0 +1,54 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2251#p2251
+|Sources=HippasusTwo, Jaskrendix, Piacarrot
+|Source Explanation=Design and original sprite by Piacarrot. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Witch Spirit
+|Design Origin=The spirit of a girl possessed by an evil spirit.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Cosmic, Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN ID=340
+|TXMN Blurb=Some say CACKLEEN is a possessed child, others that is the lost spirit of a girl.
+|TXMN Height=91
+|TXMN Weight=10
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Any
+|Tags=Ghost, Shapeshifter, Darkness, Mental, Gemstone
+|Fusion First=Cack
+|Fusion Second=leen
+}}
+{{Evolutions
+|Has Evolution=Brumi
+|Evolution Level=Time Night,16
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mind Vise
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Terror
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Time Crisis
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Phantasmal Force
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Changeling
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=40
+}}

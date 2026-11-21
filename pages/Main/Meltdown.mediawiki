@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=103
+|TXMN Blurb=The user unleashes a corrosive attack that damages the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Earth
+|TXMN Type 2=Metal
+|TXMN Sub-Elements=Venom
+|TXMN Family=Powerful
+|TXMN Is fast=Very Slow
+|TXMN Accuracy=70%
+|TXMN Power=2.8
+|TXMN Potency=20%
+|TXMN Recharge=2
+|TXMN Target Condition=Festering
+|TXMN Animation Target=1
+|Tags=Bomber, Calamity
+|Sources=Jaskrendix
+}}

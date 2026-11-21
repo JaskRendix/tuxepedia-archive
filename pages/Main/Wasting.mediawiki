@@ -1,0 +1,9 @@
+{{Condition
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME is afflicted by a wasting condition.
+|End of Round Text=NAME is wasting away.
+|Details=Take #/16 of your maximum HP in damage each turn, where # = the number of turns that you have had this condition.
+|TXMN ID=24
+}}

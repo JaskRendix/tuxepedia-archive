@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=3
+|TXMN Blurb=The user's claws ignite with fire as it delivers a burning attack.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=75%
+|TXMN Power=1.75
+|TXMN Potency=20%
+|TXMN Recharge=2
+|TXMN Target Condition=Burn
+|TXMN Animation Target=3
+|Tags=Flame, Claws
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. "Slash double" animation by Superpowers Asset Packs.
+}}

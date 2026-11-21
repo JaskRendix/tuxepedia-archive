@@ -1,0 +1,69 @@
+{{Monster
+|Sources=Cavalcadeur, Chickenshowman
+|Source Explanation=Original design by Cavalcadeur. Front sprite by Cavalcadeur. Other sprites by Chickenshowman.
+|Species=Weaver
+|SpyderCampaign=Used by a trainer in Dryad's Grove and Walled Garden.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Venom
+|TXMN Completed=Complete
+|TXMN Body Shape=Grub
+|TXMN ID=100
+|TXMN Blurb=Pedants who say all spiders have eight legs are strangely quiet on the case of ARAIGNEE.
+|TXMN Height=68
+|TXMN Weight=7
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Jungle, Ruins, Underground, Urban, Woodland
+|Tags=Toxic
+|Fusion First=Araig
+|Fusion Second=nee
+}}
+{{Technique Allocation
+|Has_Technique=Web
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Petrify
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shrapnel
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Beam
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Platinum
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Lineage
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Rust Bomb
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Perfect Cut
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Meltdown
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Insanity
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Needle
+|Technique_Level=40
+}}

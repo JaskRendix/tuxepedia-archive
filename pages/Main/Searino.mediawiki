@@ -1,0 +1,16 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=Caos-cepi, Piacarrot
+|Source Explanation=Design and original sprite by Piacarrot and Caos-cepi. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Name Origin=''sear'' + ''rhino''
+|Main Details=A baby rhino-like Tuxemon with a fiery tail. Its fur is a light brown color, and its eyes are black with white pupils. SEARINO has a short, pointed snout and small, triangular ears. It's known for its playful and curious nature, often getting into mischief by charging around with its tiny horn.
+|TXMN Types=Fire
+|TXMN Blurb=Trainers often joke that SEARINO's tail is so hot, it can melt the coldest of hearts.
+|TXMN Height=120
+|TXMN Weight=200
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Broilino
+}}

@@ -1,0 +1,54 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Sanglorian, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Original design and sprites by Spalding004. Face sprites tweaked by Sanglorian.
+|Species=Barbed
+|Evolves=Trapsnap
+|SpyderCampaign=Found in the wild in Dryad's Grove. Used by trainers in Dojo and Side Route A.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Shadow, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Brute
+|TXMN ID=86
+|TXMN Blurb=Its terrific anger is off putting, but it passes quickly.
+|TXMN Height=210
+|TXMN Weight=125
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Plant, Sharp, Fury
+|Fusion First=Sap
+|Fusion Second=snap
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Greenstone
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Assault
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Fluff Up
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Cutting Leaves
+|Technique_Level=40
+}}

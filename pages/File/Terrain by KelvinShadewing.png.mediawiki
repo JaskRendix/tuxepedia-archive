@@ -1,0 +1,4 @@
+[[Category:Tilesheet]]
+[[Category:Kelvin Shadewing]]
+
+Originally under XYG Open Source License v1.1. [https://github.com/KelvinShadewing/pixels New version under CC BY 3.0].

@@ -1,0 +1,24 @@
+{{Monster
+|Alternative Names=Snarinet
+|First URL=https://forum.tuxemon.org/thread.php?id=317
+|Sources=SingingMagpie
+|Species=The fluting snake tuxemon
+|Name Origin=It's a mix of Snake and saxophone
+|Design Origin=It's a snake mixed with a clarinet/Saxophone.
+|Main Details=It has a pending tongue.
+It has music score drawn on the body. It also has holes and piston like a saxophone/clarinet.
+
+On first concept, the end of the tail is the piece where you blow 
+In my second draw I added bells on its tail like a rattlesnake.
+|TXMN Types=Metal, Wood
+|TXMN Body Shape=Serpent
+|TXMN Blurb=Each Snax has different partition drawn on the body. When it grows new notes appears.
+|TXMN Height=80
+|TXMN Weight=8
+|TXMN Catch Resistance=0.8
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|Tags=Tongue
+|Fusion First=Sn
+|Fusion Second=ax
+}}

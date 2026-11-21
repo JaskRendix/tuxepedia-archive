@@ -1,0 +1,62 @@
+{{Monster
+|Sources=Georg Eckert, HippasusTwo, WDFA-Final
+|Source Explanation=Original design and sprite by Georg Eckert. Front, back and face sprites by HippasusTwo, based on art by WDFA-Final.
+|Species=Ant Mimic
+|Name Origin=''marvellous'' + ''caterpillar''
+|Design Origin=HippasusTwo: "Mantids don't tend to do dramatic changes, so it having one evolve from a caterpillar larvae is like having fire evolve into water. Sure, they're both 'elements'/'bugs', but that doesn't make them alike. An interesting exception however is mantids that mimic ant larvae. Therefore, I have redone Marvillar as an ant-larvae mimicking mantis. Ant mimics are never seen in games, yet make up a huge amount of life forms, so I think we should have at least one in Tuxemon, and Marvillar's name cries out for larvae mimickry."
+|TXMN Types=Fire, Wood
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Grub
+|TXMN ID=287
+|TXMN Blurb=MARVILLAR mimes an ant larva using scent. It convinces SCARLANT and MYRMISON to feed it, eating skeptics.
+|TXMN Height=30
+|TXMN Weight=2
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Grassland, Underground
+|Tags=Bug, Shapeshifter, Bite
+|Fusion First=Marv
+|Fusion Second=illar
+}}
+{{Evolutions
+|Has Evolution=Marvantis
+|Evolution Level=15
+}}
+{{Technique Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Changeling
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ants
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Blood Nets
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Clamp On
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Perfect Cut
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Tornado
+|Technique_Level=40
+}}

@@ -1,0 +1,167 @@
+<noinclude>
+This is the "Trainer" template.
+It should be called in the following format:
+<pre>
+{{Trainer
+|Alternative Names=
+|Sources=
+|Source Explanation=
+|Genre=
+|Combat Type=
+|Main Details=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+[[Category:Main]]}} | [[MainImage::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|thumb]] | [[MainImage::Missing| ]] }}
+{| style="width: 30em; font-size: 90%; border: 1px solid #aaaaaa; background-color: #f9f9f9; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: 0.2em; float: right; clear: right; text-align:left;"
+! Default64px
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Front Sprite]] [[Category:64px]]
+[[Category:Main]]}} | [[Default64px::{{#ask:[[Category:{{PAGENAME}}]] [[Category:64px]]
+[[Category:Front Sprite]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|64px]] | [[Default64px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|64x64px]] }}
+|-
+! Alternative Names
+| {{#arraymap:{{{Alternative Names|}}}|,|x|[[Alternative Names::x]]}}
+|-
+! Genre
+| {{#arraymap:{{{Genre|}}}|,|x|[[Genre::x]]}}
+|-
+! Combat Type
+| {{#arraymap:{{{Combat Type|}}}|,|x|[[Combat Type::x]]}}
+|}
+ __NOTOC__
+{| class="wikitable"
+! 48px
+| [[FrontSprite48px::{{#ask:[[Category:{{PAGENAME}}]] [[Category:48px]]
+[[Category:Front Sprite]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|48px]]
+| [[{{#ask:[[Category:{{PAGENAME}}]] [[Category:48px]]
+[[Category:Back Sprite]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|48px]]
+|-
+! 56px
+| [[FrontSprite56px::{{#ask:[[Category:{{PAGENAME}}]] [[Category:56px]]
+[[Category:Front Sprite]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|56px]]
+| [[{{#ask:[[Category:{{PAGENAME}}]] [[Category:56px]]
+[[Category:Back Sprite]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|56px]]
+|-
+! 64px
+| [[{{#ask:[[Category:{{PAGENAME}}]] [[Category:64px]]
+[[Category:Front Sprite]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|64px]]
+| [[{{#ask:[[Category:{{PAGENAME}}]] [[Category:64px]]
+[[Category:Back Sprite]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|64px]]
+|-
+! Overland
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Overland Sprite]] [[Category:16px]]
+[[Category:Main]]}} | [[OverlandSprite::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Overland Sprite]] [[Category:16px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}]] | }}
+| 
+|-
+! 80px
+| [[{{#ask:[[Category:{{PAGENAME}}]] [[Category:80px]]
+[[Category:Front Sprite]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|80px]]
+| [[{{#ask:[[Category:{{PAGENAME}}]] [[Category:80px]]
+[[Category:Back Sprite]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|80px]]
+|-
+! Face Sprite
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Face Sprite]]
+[[Category:Main]]}} | [[Face Sprite::{{#ask:[[Category:{{PAGENAME}}]] [[Category:Face Sprite]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}]] | }}
+| 
+|}
+
+{{{Main Details|}}}
+
+== Contributors ==
+{{#arraymap:{{{Sources|}}}|,|x|[[Sources::x]]}}
+
+[[Source Explanation::{{{Source Explanation|}}}]]
+
+== Characters of this class ==
+
+{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Character]]}} | [[Character::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Character]]
+|?=#
+|mainlabel=-
+}}]] | [[NoCharacter::Missing]] }}
+
+== Other Art ==
+{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+|format=gallery
+|link=all
+|searchlabel=… further results
+|navigation=nav
+}}
+
+== Other Sprites ==
+{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite||Back Sprite||Front Sprite||Other Sprite||Overland Sprite]]
+[[Category:Alternative]]
+|format=gallery
+|link=all
+|searchlabel=… further results
+|navigation=nav
+}}
+[[Category:Trainer]]
+[[Category:{{PAGENAME}}]]
+{{#arraymap:{{{Sources|}}}|,|x|[[Category:x]]}}
+{{#arraymap:{{{Genre|}}}|,|x|[[Category:x]]}}
+{{#arraymap:{{{Combat Type|}}}|,|x|[[Category:x]]}}
+</includeonly>

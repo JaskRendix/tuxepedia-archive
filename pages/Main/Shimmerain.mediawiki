@@ -1,0 +1,60 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=HippasusTwo, Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us.
+|Species=Percomorph Fish
+|Name Origin=The name "Shimmerain" is derived from the combination of the words "shimmer" and "rain". The prefix "shimmer" refers to the fish's sparkling or shining appearance, while the suffix "-rain" is a direct reference to its association with rainy seasons and the resulting rainbows.
+|Design Origin=Appears to be a teleost percomorph fish of some kind. The bream/porgie family Spariformes has a somewhat similar shape, and so do some Acanthuriformes (which compose many colorful reef-fish).
+|Main Details=Appearing in both fresh and salt waters implies it is likely a migratory fish, perhaps having preferred home streams and rivers that it appears at certain times of the year and not others. Spawning in a rainy season would give a good chance of rainbows, and would complement the name. It would give them a strong incentive for more powerful Shimmerain to learn how to control the weather if they only spawn in rain.
+|TXMN Types=Water
+|TXMN Sub-Elements=Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Piscine
+|TXMN ID=364
+|TXMN Blurb=They say that when a rainbow appears over water, the SHIMMERAIN are spawning.
+|TXMN Height=80
+|TXMN Weight=20
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Coastal, Freshwater, Sea
+|Tags=Weather, Water, Speed
+|Fusion First=Shimme
+|Fusion Second=rain
+}}
+{{Technique Allocation
+|Has_Technique=Biting Winds
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Bubbles
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Ice Storm
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Surf
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Tsunami
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Ice Shield
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Snowstorm
+|Technique_Level=34
+}}
+{{Technique Allocation
+|Has_Technique=Electrical Storm
+|Technique_Level=40
+}}

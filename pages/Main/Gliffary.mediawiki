@@ -1,0 +1,56 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=FrozenFeather, Jaskrendix, Piacarrot
+|Source Explanation=Design and original sprite by FrozenFeather and Piacarrot. Back and face sprites by Jaskrendix. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Toothsome
+|TXMN Types=Fire
+|TXMN Sub-Elements=Cosmic
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN ID=315
+|TXMN Blurb=A mischievous fey creature that is rarely seen, it gathers by mushroom rings and melts iron zealously.
+|TXMN Height=50
+|TXMN Weight=1.5
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|Tags=Mental, Summoner, Shapeshifter, Bite
+|Fusion First=Glif
+|Fusion Second=fary
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Phantasmal Force
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mind Vise
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Changeling
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Terror
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Orbs
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Cavity
+|Technique_Level=22
+}}
+{{Technique Allocation
+|Has_Technique=Fey Light
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Divinity Beam
+|Technique_Level=40
+}}

@@ -1,0 +1,205 @@
+= Provisional Soundtrack =
+== Original compositions ==
+
+[[Cavalcadeur]] has composed a battle theme for Tuxemon.
+
+[[File:Tuxemon Test 2 - PART 1.ogg]]
+[[File:Tuxemon_Test_2_-_PART_2.ogg]]
+
+== Event Music ==
+# Title screen; when you pick your first tuxemon: [http://opengameart.org/content/the-adventure-begins-8-bit-remix The Adventure Begins 8-bit Remix] 
+# While you ride your hoverboard: [http://opengameart.org/content/through-pixelated-clouds-8-bit-airship-remix Through Pixelated Clouds]
+# Win game; credits: [http://opengameart.org/content/jrpg-collection JRPG_princess]
+# Win battle: [http://opengameart.org/content/jrpg-collection JRPG_winBattle]
+# Win Pillar battle: [http://opengameart.org/content/jrpg-collection JRPG_winBattleBig]
+# When you go to sleep: [http://opengameart.org/content/jrpg-collection JRPG_goodNight]
+# When you receive healing at a Centre; when you wake up from sleep: [http://opengameart.org/content/jrpg-collection JRPG_goodMorning]
+# Morphing: [http://opengameart.org/content/jrpg-collection-2 JRPG_winBattleFinal]
+
+== Place Music (Generic) ==
+# Pillar HQs: [http://opengameart.org/content/jrpg-collection-2 JRPG_docks_loop]
+# Towns and Cities: [http://opengameart.org/content/jrpg-collection-2 JRPG_town_loop]
+# Pillar HQ: [http://opengameart.org/content/jrpg-collection-2 JRPG_battleBoss_loop]
+# Inside: JRPG_royalCourt_loop
+
+== Route Music (Generic) ==
+# Dungeon/cave route: [http://opengameart.org/content/stand-with-us Stand With Us]
+# Wild route: [http://opengameart.org/content/peasant-kingdom Peasant Kingdom]
+# Sea route: [http://opengameart.org/content/lunar-joyride-8-bit Lunar Joyride]
+
+== Place Music (Specific) ==
+# City Park: back34 
+# Abandoned Mansion: [http://opengameart.org/content/melody-eternal Melody Eternal]
+# Dojo of the Five Elements: [http://opengameart.org/content/taking-poison Taking Poison]
+# Omnichannel HQ: [http://opengameart.org/content/generic-8-bit-jrpg-soundtrack Why do the nations so furiously rage together]
+# Dryad's Grove: [http://opengameart.org/content/jrpg-collection-2 JRPG_mysticIsle]
+
+== Battle Music (Generic) ==
+# Legendary battles: [http://opengameart.org/content/boss-introduction Boss Introduction]
+# Pillar battles: [http://opengameart.org/content/valor-of-heroes Valor of Heroes]
+# Wild battles: [http://opengameart.org/content/jrpg-collection JRPG_battle]
+# Trainer battles: [http://opengameart.org/content/we-persist We Persist]
+# Rival battles: [http://opengameart.org/content/jrpg-collection-2 JRPG_battleFinal]
+
+== Battle Music (Specific) ==
+# Dojo battles: [http://opengameart.org/content/unending-strike Unending Strike]
+= Music Library =
+The purpose of this page is to identify all the music available for the game's sound track, as well as what we think the most effective use of it is. If a piece of music has an assigned role in the game, mention that here.
+
+Music can be identified by: 
+* Location: Town, wilderness, etc.
+* Risk: Is there a sense of danger, or challenge, or safety?
+* Mood: Spooky, industrious, weird, sad, etc.
+
+== Terms ==
+
+'''Domestic:''' Could suit a shop, cafe, town, etc.
+
+== 8bit style/chiptune music ==
+=== Aeitia ===
+[http://opengameart.org/content/peasant-kingdom Peasant Kingdom], CC BY 3.0
+
+* A village or town, especially one that feels a little old fashioned or medieval
+
+[http://opengameart.org/content/the-lobster-game-table-tennis-kinda The Lobster Game], CC0
+
+[http://opengameart.org/content/the-simplest-song-ever The Simplest Song Ever], CC BY 3.0
+
+[http://opengameart.org/content/boss-introduction Boss Introduction], CC BY 3.0
+
+=== Trevor D Lentz ===
+[http://opengameart.org/users/trevor-lentz Trevor Lentz]
+
+[http://opengameart.org/content/taking-poison Taking Poison], [http://opengameart.org/content/melody-eternal Melody Eternal], CC BY-SA 3.0
+
+* Creeping menace?
+* Spooky but exciting ruins?
+
+[http://opengameart.org/content/augmented Augmented]
+
+* Evolution?
+
+[http://opengameart.org/content/stand-with-us Stand with Us]
+
+* Action-adventure
+
+[http://opengameart.org/content/valor-of-heroes Valor of Heroes]
+
+* Battle?
+
+=== 8bit style music ===
+[http://opengameart.org/content/8bit-style-music Tom Peter], CC BY-SA 3.0
+
+# And I must follow if I can: Music for an exciting, upbeat moment, like a journey beginning
+# back34: Music for an exciting, upbeat moment, like a new route
+
+=== The Adventure Begins 8-Bit Remix ===
+[http://opengameart.org/content/the-adventure-begins-8-bit-remix bart], CC BY 3.0
+
+Music for general adventuring/journeying. Or perhaps unique music for the first town/a part of the first town?
+
+=== Lunar Joyride (8-Bit) ===
+[http://opengameart.org/content/lunar-joyride-8-bit FoxSynergy], CC BY 3.0
+
+Music for a scene where you're doing something unusual and new, but fun. 
+
+=== Through Pixelated Clouds ===
+[http://opengameart.org/content/through-pixelated-clouds-8-bit-airship-remix bart], CC BY 3.0
+
+Music for some kind of transportation - a barge or hoverboard or something.
+
+=== JRPG Collection ===
+[http://opengameart.org/content/jrpg-collection Yubatake], CC BY 3.0
+
+# battle_loop: Music for a battle
+# dungeon_loop: Music for a dungeon, or another place where battle is likely
+# fields_loop: Music for a bittersweet/old-fashioned/melancholic location, like a graveyard, flashback, return to previously visited place
+# gameOver: Sound effect for a sad, brief, final event
+# goodMorning: Sound effect for something starting, e.g. the game, or waking up
+# goodNight: Sound effect for something where the mood or intensity is going down
+# labyrinth_loop: Music for mysterious, spooky and dangerous places
+# mainTheme: Perhaps not upbeat enough for main Tuxemon theme
+# princess: Music for something a little out of the way, like a rest, or maze, or shrine or grove. Not dangerous, but unusual/secluded
+# royalCourt_loop: Music for a scene with action but not conflict
+# temple: Music for a place that is a bit off, but not creepy
+# town_loop: Music for a domestic place or a scene with industrious people
+# winBattle: Sound effect for a victory
+# winBattleBig: Sound effect for a victory
+
+=== JRPG Collection 2 ===
+[http://opengameart.org/content/jrpg-collection-2 Yubatake], CC BY 3.0
+
+# levelUp: Sound effect for a tuxemon leveling up, or an item being used
+# machineRoom_loop: Music for a puzzle room or factory
+# mysticIsle: Music for a location that is spooky, but not dangerous
+# shop_loop: Music for a domestic location
+# winBattleBoss: Sound effect for an important victory
+# winBattleFinal: Music for an important victory (longer than the other "wins")
+# battleBoss: Feels like it's trying too hard for a boss battle. Maybe could be the music for a dangerous, spooky place with machinery
+# battleFinal: Music for an important battle; it changes dramatically in mood - maybe too much
+# characterRevived: Sound effect for healing
+# discovery: Sound effect for something being uncovered or found
+# docks_loop: Music for a domestic location, or for a place with battles - like a Pillar or a route with enemy trainers
+# inn_loop: Music for a domestic location
+# joinParty: Sound effect for a successful capture of a tuxemon
+
+=== Generic 8-bit JRPG Soundtrack ===
+[http://opengameart.org/content/generic-8-bit-jrpg-soundtrack avgvsta], CC BY 3.0
+
+# Opening: Not sure
+# BWV 1007 - Prelude: Music that is moody but not dangerous, like the soundtrack for the backstory
+# Why do the nations ...: Not sure
+# Santuary: Music for a safe place
+# Reunion: Music for a reunion, or inside an important house
+# Rebels Be: Music for a scene with freinds or allies, or when putting a plan in motion
+# Town: Music for a unique town
+# Overworld: Music for a route (or all routes)
+# Here the Deities Approve: Music for a unique location
+# The Empire: Music for inside a Pillar
+# Ostrich: Music for journeying, but quite short - so while passing through a gateway/rest stop, or something?
+# Timeworm Pagoda: Music for the dojo, or an alien location
+# Danger: Music for a challenge or dangerous place
+# Barbarian King: Music for a town, or a serious flashback
+# Dungeon: Music for when the action intensifies. Quite short.
+# Enter the Empire: Music for a slow procession/ceremony, e.g. a wedding or something being awarded near the end of the game
+# Victory: Bit melancholic for a victory, I think
+# Nighttide Waltz: Music for mysterious and strange stuff with a bit of action too, e.g. coming across a legendary
+# Courtesan: Music for a domestic scene
+# Game Over: Music for the end of the game
+
+== Other music ==
+=== Random Encounter ===
+[http://opengameart.org/content/random-encounter Aeitia], CC BY 3.0
+
+I think this track is incredible. For a battle.
+
+=== Monster RPG 2 Soundtrack ===
+[http://opengameart.org/content/42-monster-rpg-2-music-tracks Monster RPG 2 soundtrack], CC0
+=== Boss Battle Theme ===
+[http://opengameart.org/content/boss-battle-theme Doppelganger], CC BY-SA 3.0
+
+Music for a battle
+
+=== Messenger Boy soundtrack===
+[http://opengameart.org/content/10-tracks-messenger-boy CC BY-SA 3.0]
+
+=== Red Doors v2.0 ===
+[http://opengameart.org/content/red-doors-v20 matthew.pablo], CC BY 3.0, although Matthew has quite specific preferences for how he is credited
+
+Music for a battle
+
+=== The Last Encounter ===
+[http://opengameart.org/content/rpg-battle-theme-the-last-encounter-0 matthew.pablo], CC BY 3.0, although Matthew has quite specific preferences for how he is credited
+
+Music for a battle
+
+=== [[HydroGene]] 8-bit tracks ===
+[https://hydrogene.itch.io/high-quality-8-bit-musics High-quality 8-bit/chiptune musics], CC0
+
+* Jester Theme is used in [[Mansion]]
+
+[https://hydrogene.itch.io/monstervania-8bit-pack-1 MonsterVania 8-bit Pack #1], CC0
+
+== Further exploration ==
+* [http://opengameart.org/users/yubatake More by Yubatake]
+* [https://github.com/sparklinlabs/superpowers-asset-packs Superpowers Asset Packs music folders]

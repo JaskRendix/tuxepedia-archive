@@ -1,0 +1,62 @@
+{{Monster
+|Sources=Jaskrendix
+|Species=Free-Spirit
+|Name Origin=''Gnu'' + ''Unix''
+|Design Origin=GNU mascot
+|Main Details=Gnunix is a highly intelligent and independent. Its large head and shaggy beard give it a distinguished appearance, and it is known for its mischievous yet wise grin. Gnunix are rarely found in one place for long, preferring to roam vast plains in small, loose-knit groups. They are fiercely protective of their freedom and will challenge any authority that tries to restrict them. Gnunix possess a unique psychic ability that allows them to communicate with a trainer by projecting ideas and complex logic rather than simple thoughts. They are known for their playful nature but can become stubborn if they feel their code of ethics is being compromised.
+|TXMN Types=Fire, Metal
+|TXMN Sub-Elements=Cosmic
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=400
+|TXMN Blurb=A free-roaming creature that is hard to tame but a loyal friend. Its complex horns can manipulate unseen forces.
+|TXMN Height=120
+|TXMN Weight=145
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Grassland
+|Tags=Mental, Megafauna, Summoner, Fists
+|Fusion First=Gnu
+|Fusion Second=unix
+}}
+{{Technique Allocation
+|Has_Technique=Lock Horns
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hook
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=5
+}}
+{{Technique Allocation
+|Has_Technique=Mind Vise
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Energy Field
+|Technique_Level=15
+}}
+{{Technique Allocation
+|Has_Technique=Horn
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Rift Dash
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Counterspell
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Trample
+|Technique_Level=35
+}}
+{{Technique Allocation
+|Has_Technique=Divinity Beam
+|Technique_Level=40
+}}

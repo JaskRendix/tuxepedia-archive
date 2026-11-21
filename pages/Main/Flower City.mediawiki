@@ -1,0 +1,117 @@
+[[File:Flower City.png|thumbnail]]
+
+== Connections ==
+=== A. [[Route 4]] ===
+
+=== B. [[Route 5]] ===
+After Event 1.
+
+=== C. [[Side Route A]] ===
+
+=== D. [[Riverboat Station]] ===
+
+After [[Timber Town]].
+
+=== E. [[Side Route D]] ===
+
+== Encounters ==
+=== [[Fishing]]/Surfing ===
+* [[Rhinocarpe]]
+* [[Urcheedle]]
+* [[Drashimi]]
+
+== Locations ==
+=== [[Nimrod HQ]] ===
+An [[Enforcer]] blocks the way to [[Nimrod HQ]] until the player defeats the [[Dojo of the Elements]].
+
+=== Outdoors ===
+[[Cat Girl]] Mieke
+* It's exciting for us to visit the country of X! You have such unique tuxemon here ... Hey, do you want to trade? My [[Conileaf]] for a creature that we don't have back home ... how about [[Budaye]]? Y/N
+
+[[Beachcomber]] Fez
+* Everyone in our region has to pick from one of the same five boring tuxemon. I know like a hundred people with a [[Foxfire]] ... Hey, do you want to trade? My [[Foxfire]] for an [[Ignibus]]? Y/N
+
+[[Snugglepot]] Cady
+* Oh I'd just love to have a souvenier to take back home with me. I just adore those sweet little [[Grintot]]. Could you get me one? I could give you my [[Hampotamos]] in exchange? Y/N
+
+[[Picnicker]] Teach
+* Oh where has my other student gotten to?
+
+[[Child Actor]] Sandy
+* This [[Pharfan]] keeps spraying me with water. What a drag! Hey, do you want it? You'd have to give me a [[Tweesher]] in return. Y/N
+
+[[Fisher]]
+If player has [[Fishing Rod]]:
+* It's a slow pleasure, but there's nothing nicer than fishing by the water. 
+* Just select your Rod from the Bag while facing the river.
+
+If player does not:
+* Get yourself a Fishing Rod so you can enjoy the water as I do.
+
+=== Pet Shop ===
+[[Shop Assistant]]
+* Hello and welcome to the Pet Shop! Are you interested in buying a tuxemon?
+(if the player has $500)
+* Each for $500
+
+* [[Ziggurat]] (level 10)
+* [[Woodoor]] (level 10)
+* [[Fuzzlet]] (level 10)
+* [[Potturmeist]] (level 10)
+* [[Squink]] (level 10)
+
+[[Shopkeeper]]
+* ''(First time spoken to)'' I found these eggs in the bough of a tree, and hatched them! They appear to be a previously unknown tuxemon. I call them [[Vivipere]]! I wonder what they morph into. 
+* ''(Then, and in the future if refused the first time)'' Tell you what, why don't I give you one and you can come back and tell me what it morphs into! Y/N
+
+''(If the player returns having morphed it)''
+* ... You got it to morph? ... And you did it in that particular way? ... I see ... Hmmm, I don't really like the look of that morph. If I give you another [[Vivipere]], can you bring it back if it ever morphs into something different? Y/N
+
+''(This continues for as long as there are [[Vivipere]] morphs yet to be found.)''
+
+[[Conileaf]] and [[Rockitten]] wander around outside. 
+
+=== House 1 ===
+[[TV]]
+* Two mons are having a fight. "I'm not your friend, Budaye", one says.
+
+[[Firefighter]]
+* The five Pillars are the only big companies in this region. They have a lot of sway.
+
+[[Granny]]
+* Scoop has managed to cut the price of beef yet again! I don't know how they do it.
+
+=== House 2 ===
+[[Soldier]]
+* I worked for Nimrod during the war. Not that I got a medal. Or a parade. They don't hand those out to mercenaries.
+
+[[Scientist]]
+* [[Radio FUD]] wakes me up every morning. Not sure I care for their politics, but at least they call it how they see it!
+
+=== [[Scoop Store]] ===
+[[Shopkeeper]]
+* Yesterday night, something incredible happened.\n I'm still trying to process it all. Would you like to hear about it? (Y/N)
+if yes [[Flashbacks Spyder#O Captain! My Captain!]]
+
+Stock:
+* [[Repellent]] — $100
+* [[Super Potion]] — $300
+* [[Lavish Tuxeball]] — $300
+* [[Diurnal Tuxeball]] — $300 (daytime only)
+* [[Nocturnal Tuxeball]] — $300 (night only)
+* [[Restoration]] — $400
+* [[Majestic Tuxeball]] — $600
+* [[Escape Key]] — $600
+* [[Revive]] — $1,000
+* [[Cureall]] — $1,500
+
+Tech counter:
+* [[Flintstone]] — $2,000
+* [[Thunderstone]] — $2,000
+* [[Grintot]] — $4,000 (level 10)
+
+=== Dojo of the Elements ===
+
+[[Dojo of the Elements]]
+
+[[Category:Plot]] [[Category:Place]]

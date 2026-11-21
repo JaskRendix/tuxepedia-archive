@@ -1,0 +1,7 @@
+[[Category:Main Sprite]]
+[[Category:Tuxepedia App]]
+[[Category:Owlblocks]]
+[[Category:24px]]
+[[Category:Main]]
+
+[https://github.com/Tuxemon/Tuxemon/issues/452 Original source]

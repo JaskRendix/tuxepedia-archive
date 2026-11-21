@@ -1,0 +1,19 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=600
+|TXMN Usable In=world
+|TXMN Description=Field wrap tacos with zestroot fillings and moo bloom sauce. Fresh, springy, and packed with zip.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Zestroot Wraps]]: 2
+* [[Zestsap]]: 1
+* [[Moo Bloom]]: 1
+* [[Field Greens]]: 1
+* [[Crackle Salt]]: 1
+
+Possible Outputs:  
+* [[Shell Tacos]], 1, 0.9  
+* [[Bite Of Despair]], 1, 0.1
+|Sources=Jaskrendix
+}}

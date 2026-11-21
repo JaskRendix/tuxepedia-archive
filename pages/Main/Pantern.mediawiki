@@ -1,0 +1,61 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Pantern-004-676276655
+|Sources=Giovani rubio, TheBritanniaRegion
+|Source Explanation=Design and original art by TheBritanniaRegion. Other art by giovani_rubio.
+|Species=Lantern
+|Name Origin=''panda'' + ''lantern''
+|Design Origin=Red pandas and lanterns.
+|Main Details=They are often given to children to teach them about being safe with fire.
+|TXMN Types=Fire
+|TXMN Blurb=Clusters of Pantern will often be seen with their tails softly glowing at celebrations and parties. When they attack, the flame of their lantern turns a bright blue and becomes much hotter.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Pandosive
+|Evolution Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Lantern
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Torch
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Fiery
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Fire Shield
+|Technique_Level=12
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Glowing Punch
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Radiance
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Oven
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Sudden Glow
+|Technique_Level=32
+}}
+{{Technique Allocation
+|Has_Technique=Summon Fire Spirits
+|Technique_Level=36
+}}

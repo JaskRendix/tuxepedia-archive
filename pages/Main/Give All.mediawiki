@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=34
+|TXMN Blurb=The user sacrifices itself.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Fire
+|TXMN Sub-Elements=Heroic
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=3
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN User Condition=exhausted
+|TXMN Animation Target=1
+|Tags=Fury, Leadership
+|Sources=Sanglorian, Daneeklu
+|Source Explanation=Technique by Sanglorian. "Fire lion front" animation by Daneeklu, resized by Sanglorian.
+}}

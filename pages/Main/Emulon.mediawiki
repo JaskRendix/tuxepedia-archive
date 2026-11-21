@@ -1,0 +1,66 @@
+{{Monster
+|Sources=Jaskrendix
+|Species=Sharing Mule
+|Name Origin=eMu + Lon
+
+eMu – A nod to eMule, the iconic peer-to-peer file-sharing client known for its decentralized spirit.
+
+-lon – A suffix suggesting endurance and strength (like "stallion" or "champion"), reinforcing the mule's hardworking nature.
+|Design Origin=Emule Mascot
+|Main Details=Emulon is a sturdy, pixel-crafted mule known for its relentless dedication to sharing. With expressive eyes and a determined gait, it traverses digital landscapes carrying packets of data across vast networks. Though humble in appearance, Emulon is revered for its reliability and resilience, never backing down from a long transfer or a corrupted file. It’s often found in clusters, working together to distribute resources efficiently.
+
+=== Rivalry with [[Torrentaur]] ===
+
+TorrentTaur is a stampede of open-source fury, charging through cyberspace with raw power and righteous data flow. Emulon? A flickering ghost of legacy software, more concept than combatant, convinced it's powerful because it once booted on a calculator.
+
+Their rivalry began when Emulon tried to copy TorrentTaur's signature move, Bitrush Overdrive — but instead launched a corrupted .txt file filled with ASCII cows and half a recipe for lasagna. TorrentTaur was not impressed.
+
+Since then, Emulon has insisted it's TorrentTaur's equal, despite being physically incapable of lifting a USB stick. TorrentTaur endures Emulon's delusions like a sysadmin watching someone install Linux via PowerPoint — with quiet horror and a deep sigh.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Landrace
+|TXMN ID=410
+|TXMN Blurb=Built for the long haul, this digital wisp never quits until every byte finds its home.
+|TXMN Height=90
+|TXMN Weight=38.7
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Grassland, Woodland
+|Tags=Ground, Love, Megafauna, Speed
+|Fusion First=Emu
+|Fusion Second=lon
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Lick Lash
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Electroplate
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Data Swap
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Sockpuppet
+|Technique_Level=21
+}}
+{{Technique Allocation
+|Has_Technique=Combat Clone
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Deletion Request
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Laser Beam
+|Technique_Level=34
+}}

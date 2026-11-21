@@ -1,0 +1,64 @@
+{{Monster
+|First URL=https://www.deviantart.com/mjco/art/Fakemon-Sale-Adoption-788243398
+|Sources=HippasusTwo, Jaskrendix, mjco
+|Source Explanation=Design and front sprites by mjco. Back and face sprites adapted by Jaskrendix.
+|Species=Sand Bishop
+|Evolves=Pawsand
+|Name Origin=''bishop'' + ''sand''
+|SpyderCampaign=Evolves from Pawsand.
+|TXMN Types=Earth, Metal
+|TXMN Sub-Elements=Earth, Cosmic
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=373
+|TXMN Blurb=BISHOSAND is fascinated by religious or spiritual symbols it sees and likes to collect them, but is believed to not understand any of them.
+|TXMN Height=180
+|TXMN Weight=100
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|TXMN Terrains=Coastal, Desert
+|Tags=Ground, Water, Sharp
+|Fusion First=Bisho
+|Fusion Second=sand
+}}
+{{Technique Allocation
+|Has_Technique=Boulder
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mudslide
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Stonehenge
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Avalanche
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Muck
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Slice
+|Technique_Level=22
+}}
+{{Technique Allocation
+|Has_Technique=Lineage
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Divinity Beam
+|Technique_Level=55
+}}

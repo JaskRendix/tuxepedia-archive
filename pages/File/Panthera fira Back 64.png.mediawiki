@@ -1,0 +1,7 @@
+[[Category:Alternative]]
+[[Category:Back Sprite]]
+[[Category:Catch Challenger]]
+[[Category:Pantherafira]]
+[[Category:64px]]
+
+A sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule. Adapted for 64px by Sanglorian.

@@ -1,0 +1,27 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?id=143
+|Types=Metal,
+|Sources=ProfessorGreen,
+|Main Details=Attacks:
+
+* Lie: casts a random debuff to a random target.  The higher the level, the higher chance the debuff targets the opponent.
+* Cheat: casts a random buff to a random target. The higher the level, the higher chance the buff targets himself!
+* Steal: leeches hp.
+* Claw: claw
+
+Description:
+This troll like creature is characterized by its pointy ears, big nose, and reptilian smile.  He's a crafty creature as evidenced by his incessant rubbing hands together whilst smirking.  His ability isn't very impressive, but it is foolish to underestimate his ulterior motives.
+
+[spoilers]Word is, he has a huge stash of gold he gained from his deceitful behavior.[/spoilers]
+|TXMN Types=Metal
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}
+{{Technique_Allocation
+|Has_Technique=Lie
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Cheat
+|Technique_Level=1
+}}

@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=109
+|TXMN Blurb=The user relentlessly batters the opponent with a barrage of grinding blows, wearing them down with sustained pressure.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Earth, Metal
+|TXMN Sub-Elements=Earth, Metal
+|TXMN Family=Simple
+|TXMN Is fast=Slow
+|TXMN Accuracy=75%
+|TXMN Power=2.2
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Rock
+|Sources=Jaskrendix
+}}

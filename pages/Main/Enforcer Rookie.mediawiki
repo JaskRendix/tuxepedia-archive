@@ -1,0 +1,16 @@
+{{Trainer
+|Sources=Leo
+|Genre=Sci-Fi
+|Combat Type=1 vs 1
+}}
+== Names ==
+* Butterman
+* Doris
+* Wainwright
+* Cartwright
+* Walker
+* Fisher
+* Alert
+* Ace
+* Scout
+* Valor

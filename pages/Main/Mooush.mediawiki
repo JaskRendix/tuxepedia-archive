@@ -1,0 +1,17 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Mooush-001-675198200
+|Sources=TheBritanniaRegion,
+|Species=Lily Pad
+|Name Origin=''moo'' + ''lush''
+|Design Origin=Water lilies, cows and swamp monsters.
+Alternative colour based on trees, rotting leaves and the standard colour of the ox.
+|Main Details=Their coat is surprisingly lightweight, allowing the tuxemon to float on water.
+|TXMN Types=Wood
+|TXMN Blurb=Even though Mooush is a Wood type, it enjoys splashing about in water, and can often be seen wallowing in swamps. Since they enjoy rolling in mud and playing in dirty swamp water, their long coats will often get caked in mud. Its trainer must care for the coat on a regular basis in order to avoid lice infections.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Folstein
+|Evolution Level=16
+}}

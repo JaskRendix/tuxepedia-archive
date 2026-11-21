@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=176
+|TXMN Blurb=Identifies an opponent's strengths and weaknesses.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=scoping
+|TXMN Potency=100%
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Universal
+|Main Details=The target's Stats are displayed in the text box.
+|Sources=Sanglorian
+|TXMN Is area=False
+}}

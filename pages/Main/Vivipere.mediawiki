@@ -1,0 +1,110 @@
+{{Monster
+|Sources=Catch Challenger, Sanglorian
+|Source Explanation=Catch Challenger is an open source project, with assets under Creative Commons Attribution. Original design and sprites by Catch Challenger. Face sprites by Sanglorian. Other sprites by Catch Challenger.
+|Species=Potentia
+|Name Origin=Possibly from ''viviparous'', which describes animals (including snakes) that give live birth.
+|Main Details=== The Legend of Vivipere ==
+
+Long ago, before the world settled into its current shape, a serpent-like creature emerged from deep within the earth—ancient, elemental, and endlessly adaptable. This creature, Vivipere, was unlike any other. It could evolve into forms of fire, water, air, stone, and more, depending on the environment it found itself in. Some say it was the root of all Tuxemon, a prehistoric being untouched by time, whose fossil traces whisper of a forgotten origin.
+
+Vivipere's versatility made it both primitive and profound. While other Tuxemon specialized, Vivipere remained open—its evolution shaped by circumstance, not destiny. In one region, every citizen received a Vivipere at birth, and its evolution determined their role in society. A Vivipere of flame might become a guardian; one of mist, a healer. These evolutions rarely communicated well with one another, their forms and instincts too divergent—but they shared gestures, colors, and a serpentine soul.
+
+Each year, a high-level Vivipere was observed to predict the future. Its evolution marked the year's theme:
+* The Year of the Vividactyl brought renewal and restored order.
+* The Year of the Vivicinder foretold rebellion and collapse.
+
+Then came '''The Year of Chaos'''. Vivipere evolved unpredictably, disrupting ecosystems, collapsing food chains, and birthing strange new species. It was a time of extinction—and of transformation.
+
+In one tale, a grey kingdom ruled by rigid laws was changed forever when a child's Vivipere evolved into something wild and radiant. Soon, others followed, and the kingdom bloomed with color, creativity, and freedom.
+
+'''Sanglorian''', '''Tamashihoshi''', and '''Jaskrendix''' are credited with shaping these ideas and deepening the legend.
+|SpyderCampaign=The protagonist is given a Vivipere by the Shopkeeper in Flower City. Once it morphs, the protagonist can return to the shop to get a new Vivipere. This continues until all Vivipere morphs are found. Used by trainers in Dojo.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Serpent
+|TXMN ID=132
+|TXMN Blurb=It hatches in great numbers in the summer, but the rest of its lifespan is a mystery.
+|TXMN Height=85
+|TXMN Weight=8
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Grassland, Jungle, Mountains, Ruins, Underground, Woodland
+|Tags=Shapeshifter, Bite, Toxic
+|Fusion First=Vivi
+|Fusion Second=pere
+|TXMN_FR Name=Vivipère
+}}
+{{Evolutions
+|Has Evolution=Vivisource
+|Evolution Level=24, if male
+}}
+{{Evolutions
+|Has Evolution=Viviphyta
+|Evolution Level=Level up while a Wood type is in the party
+}}
+{{Evolutions
+|Has Evolution=Vivitron
+|Evolution Level=26
+}}
+{{Evolutions
+|Has Evolution=Vivitrans
+|Evolution Level=Level up while in a building
+}}
+{{Evolutions
+|Has Evolution=Vivicinder
+|Evolution Level=Level up while knowing Salamander
+}}
+{{Evolutions
+|Has Evolution=Viviteel
+|Evolution Level=24, if female
+}}
+{{Evolutions
+|Has Evolution=Vividactil
+|Evolution Level=When a Fossil is used on them
+}}
+{{Evolutions
+|Has Evolution=Vivocra
+|Evolution Level=To be defined
+}}
+{{Evolutions
+|Has Evolution=Vivichrono
+|Evolution Level=To be defined
+}}
+{{Evolutions
+|Has Evolution=Vivilith
+|Evolution Level=To be defined
+}}
+{{Evolutions
+|Has Evolution=Vivimorph
+|Evolution Level=To be defined
+}}
+{{Evolutions
+|Has Evolution=Vivishadow
+|Evolution Level=To be defined
+}}
+{{Evolutions
+|Has Evolution=Vivisphere
+|Evolution Level=To be defined
+}}
+{{Technique Allocation
+|Has_Technique=Stone Rot
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Quicksand
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=13
+}}

@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Functional Item
+|TXMN Usable In=world
+|TXMN Description=Use this on your phone to see where you are.
+|TXMN Key Item=yes
+|Main Details=[[File:World_map.png|thumbnail]] [[File:New spyder map.png|thumbnail]]
+|SpyderCampaign=Given by Mom in Cotton Town alongside the Nu Phone; adds a map to the phone.
+}}

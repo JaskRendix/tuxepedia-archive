@@ -1,0 +1,11 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert,
+|Evolves=Buuni,
+|Name Origin=''bigger'' + ''bunny''
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}
+{{Evolutions
+|Has Evolution=Bobuuni,
+}}

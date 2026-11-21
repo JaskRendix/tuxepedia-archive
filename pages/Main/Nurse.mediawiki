@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Sanglorian, Catch Challenger, Yalyn
+|Source Explanation=Main sprite by Sanglorian. Overland sprites by Catch Challenger. Other art by Yalyn.
+|Genre=Modern
+|Combat Type=1 vs 1
+}}

@@ -1,0 +1,5 @@
+This set of land, water and dungeon routes exists for a very specific purpose: to load new tuxemon into the game so you can catch them here. 
+
+Of course, you could do this anywhere else instead by editing the encounter JSON files, but the Hunting Grounds are a convenient, well-supported location where you won't be deleting any other useful information.
+
+[[Category:Proposed content]]

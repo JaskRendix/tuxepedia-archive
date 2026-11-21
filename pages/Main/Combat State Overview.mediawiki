@@ -1,0 +1,57 @@
+== Combat State Overview ==
+This page provides a general overview of how the <code>Combat</code> state works. The combat state is divided into two main "phases": the '''"decision phase"''' and the '''"action phase"'''. For non-server games, there is also an additional '''"draw phase"''' which draws and animates the results of the action phase.
+
+== Summary ==
+Here is a short summary of the game logic for combat:
+
+http://i.imgur.com/Xfhmp0b.png
+
+=== Decision Phase ===
+The decision phase is part of combat where all players in a match choose the action they'd like to perform. After all players have made a decision, the action phase starts and resolves the actions that the players chose. 
+
+* Wait for all players in a match to decide on an action.
+* Decision phase ends.
+
+=== Action Phase ===
+The action phase is responsible for carrying out the actions that the players have chosen and any combat effects (such as poison effects, etc.) in the appropriate order. This is also known as "resolving" the actions and effects. The action phase can be further sub-divided into the '''"Pre-Action Phase"''', '''"Action Phase"''', and '''"Post-Action Phase"''' phases.
+
+Here is an explanation for each of these sub-phases:
+
+* '''Pre-Action Phase''' - Effects on monsters that happen ''before'' '''all''' players' actions are carried out.
+* '''Action Phase''' - Each player's actions are carried out.
+** '''Pre-Action''' - Effects on monster ''before'' they carry out their individual action.
+** '''Action''' - Single player's action is resolved.
+** '''Post-Action''' - Effects on monster ''after'' they carry out their individual action.
+* '''Post-Action Phase''' - Effects on monsters that happen ''after'' '''all''' players' actions have been carried out
+
+Here is a break-down of exactly how the action phase should be resolved:
+
+* Resolve all '''"Pre-Action Phase"''' effects (E.g. effects on monsters that happen ''before'' actions are carried out)
+** Check if match is over.
+* Resolve all '''"Run Away"''' actions.
+** Check if run away is successful.
+* Resolve all '''"Monster Switch"''' actions.
+** Check if monster can be switched out. (Effects may prevent monster switching)
+** Resolve '''"Post-Action"''' effect for monster if they could not be switched. (E.g. poison damage, etc.)
+** Check if match is over.
+* Resolve all '''"Use Item"''' actions in order of monster speed in the following way:
+** Resolve '''"Pre-Action"''' effects for player using item. (E.g. effects that happen before the monster can perform their action)
+** Check if match is over.
+** Resolve '''"Use Item"''' action for player using an item.
+** Check if match is over.
+** Resolve '''"Post-Action"''' effects for player using item. (E.g. poison damage, etc.)
+** Check if match is over.
+* Resolve all '''"Technique"''' actions in order of monster speed in the following way:
+** Resolve '''"Pre-Action"''' effects for player using technique. (E.g. effects that happen before the monster can perform their action)
+** Check if match is over.
+** Resolve '''"Technique"''' action for player using technique.
+** Check if match is over.
+** Resolve '''"Post-Action"''' effects for player using technique. (E.g. poison damage, etc.)
+** Check if match is over.
+* Resolve all '''"Post-Phase"''' effects (E.g. effects on monsters that happen ''after'' all actions have been carried out)
+** Check if match is over.
+* Action phase ends.
+
+=== Draw Phase (client-only) ===
+* Draw and animate the results.
+* Draw phase ends (decision phase begins again).

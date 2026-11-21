@@ -1,0 +1,12 @@
+{{Item
+|Item Category=Out of Combat Consumable
+|TXMN Effects=teleport to last town
+|TXMN Target=player
+|TXMN Cost=600
+|TXMN Usable In=world
+|TXMN Description=Slip out the back door.
+|TXMN Consumable=yes
+|Main Details=Exit a dungeon and return to town.
+|Sources=Tamashihoshi
+|Source Explanation=Sprite by tamashihoshi.
+}}

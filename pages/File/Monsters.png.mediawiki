@@ -1,0 +1,10 @@
+[[Category:Catch Challenger]]
+[[Category:Volcoli]]
+[[Category:Art]]
+[[Category:Alternative]]
+[[Category:Snokari]]
+[[Category:Pantherafira]]
+
+GPL3 licensed, NOT CC BY licensed like the assets from the game itself:
+
+[https://github.com/alphaonex86/CatchChallenger-site/tree/master/images Source]

@@ -1,0 +1,11 @@
+{{Monster
+|Sources=Balmer, Redshrike
+|TXMN Types=Metal
+|TXMN Completed=Complete Threat
+|TXMN Body Shape=Blob
+|TXMN Height=0
+|TXMN Weight=0
+|TXMN Catch Resistance=0
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}

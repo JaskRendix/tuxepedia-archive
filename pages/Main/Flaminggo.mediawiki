@@ -1,0 +1,74 @@
+{{Monster
+|Alternative Names=Flaminging,
+|First URL=https://forum.tuxemon.org/thread.php?id=120
+|Sources=Jaskrendix, Josepharaoh99
+|Species=Summer
+|Name Origin=''flaming'' + ''flamingo''
+|Design Origin=Some real life flamingos actually live near volcanoes, and many build nests that resemble one, and they like caustic water that burns most animals that try to enter it.
+|Main Details=Flaminggo's eyes burn with an inner flame, shining bright with an intense passion. It can manipulate fire, generating intense heat and powerful gusts of wind. Its presence is like a warm ember, comforting those around it, but also capable of igniting fierce blazes when provoked. 
+
+It eats fire, and it gets pinker the warmer it is.
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire, Sky
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=429
+|TXMN Blurb=FLAMINGGO's vibrant pink plumage deepens in intensity as it absorbs heat. Its legs are hidden beneath a layer of pink feathers, giving the illusion it is on fire.
+|TXMN Height=130
+|TXMN Weight=16
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Freshwater
+|Tags=Flame, Bird, Claws, Bomber
+|Fusion First=Flaming
+|Fusion Second=go
+}}
+{{Technique Allocation
+|Has_Technique=Fiery
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Gust
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Lantern
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Biting Winds
+|Technique_Level=12
+}}
+{{Technique Allocation
+|Has_Technique=Acid
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Wall of Fire
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Air Chain
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Nest
+|Technique_Level=32
+}}
+{{Technique Allocation
+|Has_Technique=Lava
+|Technique_Level=36
+}}
+{{Technique Allocation
+|Has_Technique=Altitude
+|Technique_Level=40
+}}

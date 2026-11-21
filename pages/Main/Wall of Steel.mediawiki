@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=62
+|TXMN Blurb=The user spins about, creating a biting, shielding wall of steel.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.25
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN User Condition=hardshell
+|TXMN Animation Target=0
+|Tags=Summoner
+|Sources=Sanglorian, Catch Challenger
+|Source Explanation=Technique by Sanglorian. "Screen" animation by Catch Challenger.
+}}

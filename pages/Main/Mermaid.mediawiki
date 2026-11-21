@@ -1,0 +1,5 @@
+{{Trainer
+|Sources=Svetlana Kushnariova
+|Genre=Fantasy Historical
+|Combat Type=1 vs 1
+}}

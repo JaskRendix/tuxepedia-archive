@@ -1,0 +1,5 @@
+{{Contributor
+|Preferred Attribution=Includes Guardian Monsters Artwork by Georg Eckert / limbusdev
+|Main Details=See ''Guardian Monsters'' under [[Related Projects]] for more details.
+|Contributor Types=Contributed to a different open source monster taming project
+}}

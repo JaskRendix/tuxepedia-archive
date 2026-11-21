@@ -1,0 +1,76 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/41-42-Virware-Trojerror-665604928
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Face sprites adapted by Jaskrendix.
+|Species=Virtual
+|Evolves=Virware
+|Name Origin=''Trojan'' + ''error''
+|Design Origin=A Trojan horse virus (and the Trojan horse that the virus is named after).
+|TXMN Types=Metal
+|TXMN Sub-Elements=Cosmic, Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN ID=380
+|TXMN Blurb=TROJERROR is a tuxemon that disguises itself as legitimate code or software. Once inside the network, TROJERRORS are able to carry out any action that a legitimate user could perform (deposit, withdraw and delete).
+|TXMN Height=30
+|TXMN Weight=0
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|TXMN Terrains=Extraplanar
+|Tags=Machine, Steel
+|Fusion First=Troj
+|Fusion Second=Error
+}}
+{{Technique Allocation
+|Has_Technique=Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Wall of Steel
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Buzz
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Sleep Bomb
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Meltdown
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Beam
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Terror
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Electroplate
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Electrical Storm
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Magnetic Body
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=55
+}}

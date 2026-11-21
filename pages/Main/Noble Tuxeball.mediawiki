@@ -1,0 +1,11 @@
+{{Item
+|Item Category=Capture Item
+|TXMN Effects=Capture
+|TXMN Cost=200
+|TXMN Usable In=combat
+|TXMN Description=A moderate upgrade to the standard Tuxeball.
+|TXMN Consumable=yes
+|Main Details=Modifier is equal to 1.25 ([[Tuxeball]] is 1)
+|SpyderCampaign=Sold at Leather Scoop
+|Sources=Jaskrendix
+}}

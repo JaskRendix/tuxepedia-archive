@@ -1,0 +1,8 @@
+{{Condition
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME risks injury if it backs away.
+|Details=If the affected monster swaps out, it takes damage equal to 1/8th of its maximum HP.
+|TXMN ID=27
+}}

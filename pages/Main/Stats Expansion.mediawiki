@@ -1,0 +1,328 @@
+Over the years that Tuxemon has developed, there have been many suggestions for how [[Stats]] could work. They are preserved below, although there are not currently plans to implement any of them.
+
+= How to Calculate Stat Values =
+
+What an individual tuxemon's Stat values actually are could depend on a number of inputs:
+
+* Level
+* Species
+* Innate talent
+* Experiences
+* Quality
+
+== Level ==
+
+Whether your level adds to or multiplies your Stat values would affect how unbalanced a fight between tuxemon of different levels is. For example, does a level 50 tuxemon have Stats that are double that of a level 25 tuxemon? Or more than double? Or less than double?
+
+== Species ==
+
+Options:
+
+* Each species could have base Stat values that determine the starting Stats for each individual of that species. 
+* Species could each have a [[Body Shape]], and Body Shape would determine the base Stats.
+
+You could also distinguish between weak species and strong ones, for example:
+
+* Giving original forms lower Stats than morphed forms (see Life Stages, below, for one way of doing this)
+* Giving mythic species higher Stats than regular species.
+
+== Quality ==
+
+This would represent special variants of a species, for example one with an unusual colour. I don't think any proposal has been made in this regard, however. 
+
+= How to compare Stats =
+
+There are three main ways you can compare Stats:
+
+* ''Winner takes all:'' Compare the Stat values of two combatants; whoever's Stat is higher wins. This is how Speed currently works, although Christian has proposed an interesting alternative. 
+* ''Multiplication and Division:'' A Stat is multiplied or divided by another number, perhaps a Stat of the opponent's. The product is used in a formula. This is how attacks currently work: the attacker's Melee or Ranged Stat divided by the target's Dodge or Armour is the amount by which Damage is multiplied. 
+* ''Addition and Subtraction:'' A Stat is added to or subtracted from another number. The sum is compared to another or used in a formula. ShadowApex put this forward as a suggestion; for example, a random number could be added to one combatant's Speed and a different random number to the other combatant's Speed, and whichever sum is higher determines who goes first. 
+
+= Other options =
+
+== Other Stats ==
+
+There have been a few suggestions for other Stats, namely:
+
+* [https://forum.tuxemon.org/thread.php?id=181 One that would increase your critical hit rate] (called Luck, Precision or Veracity) 
+* One that would increase the accuracy of your attacks (called Aim or Accuracy). 
+
+The two could be combined if an Accuracy of >100% increased your odds of a critical hit. 
+
+So far, Stats don't influence the likelihood of inflicting, avoiding or shaking off a condition. That is a potential design space that a Stat (or multiple) could fill.
+
+=== Different attack stats ===
+
+Various games distinguish between non-magical and magical attacks, between melee and ranged attacks, between physical and energy attacks, between attacks that make contact and those that do not, etc. Tuxemon could choose a different binary instead of melee and ranged, or could even experiment with a trio or four attack types (melee, ranged and magic; or physical, elemental and psychological; etc).
+
+== Life stages ==
+
+There would be three Life Stages:
+
+* Original (multiply all Stats by 0.9) 
+* Middle (multiply all Stats by 1)
+* Final (multiply all Stats by 1.1)
+
+Tuxemon that never morph would be in the Middle Life Stage. Tuxemon that morph once would start out in the Original Stage and end in the Final Stage (bypassing the Middle Stage). Only tuxemon that morph twice would go through all three Stages in their lifetimes.
+
+== Type Synergy ==
+A special multiplier for when the attacker's type is the same as the technique's type.
+
+== Role ideas ==
+
+Defining a monster's stats based on its [[Body Shape]] has proven a bit limiting, for example turtles have low Armor under this system. 
+
+Here are proposed roles from [[JaskRendix]] with numerical value (from 4 - low - to 8 - high - as per shapes): 
+
+Offensive Roles
+
+* Brute: High melee, high HP, low dodge. (
+* Artillery: High ranged, low melee, low armor.
+* Skirmisher: High speed, high dodge.
+* Lurker: High dodge, low armor.
+* Sniper: High ranged, low melee, low speed.
+* Duelist: High melee, high speed, low armor.
+* Spellcaster: High ranged, low melee, low armor.
+* Brawler: High melee, high armor, low dodge.
+* Assassin: High speed, high dodge, low armor.
+* Mage: High ranged, high speed, low armor.
+
+{| class="wikitable"
+|-
+! Role
+! Melee
+! Ranged
+! Speed
+! Dodge
+! Armor
+! HP
+|-
+| Brute
+| 8
+| 4​
+| 5
+| 4
+| 6
+| 8
+|-
+| Artillery
+| 4
+| 8
+| 5
+| 4
+| 4
+| 8
+|-
+| Skirmisher
+| 5
+| 4
+| 8
+| 7
+| 4
+| 4
+|-
+| Lurker
+| 4
+| 4
+| 5
+| 8
+| 4
+| 4
+|-
+| Sniper
+| 4
+| 8
+| 4
+| 4
+| 4
+| 5
+|-
+| Duelist
+| 8
+| 4
+| 8
+| 4
+| 4
+| 5
+|-
+| Spellcaster
+| 4
+| 8
+| 5
+| 4
+| 4
+| 4
+|-
+| Brawler
+| 8
+| 4
+| 4
+| 4
+| 7
+| 5
+|-
+| Assassin
+| 5
+| 4
+| 8
+| 8
+| 4
+| 4
+|-
+| Mage
+| 4
+| 8
+| 8
+| 4
+| 4
+| 5
+|}
+
+Defensive Roles
+
+* Tank: High armor, high HP, low speed.
+* Guardian: High armor, high HP.
+* Sentinel: High armor, high speed.
+* Oracle: High speed, high dodge.
+* Shieldbearer: High armor, high speed, low HP.
+* Healer: Low armor, low HP, high speed.
+* Support: Low armor, low HP, high ranged.
+
+{| class="wikitable"
+|-
+! Role
+! Melee
+! Ranged
+! Speed
+! Dodge
+! Armor
+! HP
+|-
+| Tank
+| 4
+| 4
+| 4
+| 4
+| 8
+| 8
+|-
+| Guardian
+| 4
+| 4
+| 5
+| 4
+| 8
+| 8
+|-
+| Sentinel
+| 4
+| 4
+| 8
+| 4
+| 7
+| 5
+|-
+| Oracle
+| 4
+| 4
+| 8
+| 8
+| 4
+| 4
+|-
+| Shieldbearer
+| 4
+| 4
+| 8
+| 4
+| 8
+| 5
+|-
+| Healer
+| 4
+| 4
+| 8
+| 4
+| 4
+| 4
+|-
+| Support
+| 4
+| 8
+| 5
+| 4
+| 4
+| 4
+|}
+
+Hybrid Roles
+
+* Berserker: High melee, high speed, low armor.
+* Marksman: High ranged, high speed, low armor.
+* Vanguard: High melee, high armor.
+* Sentinel: High armor, high speed.
+* Gunslinger: High ranged, high speed, low armor.
+* Paladin: High melee, high armor, high HP.
+* Ranger: High ranged, high speed, high dodge.
+
+{| class="wikitable"
+|-
+! Role
+! Melee
+! Ranged
+! Speed
+! Dodge
+! Armor
+! HP
+|-
+| Berserker
+| 8
+| 4
+| 8
+| 4
+| 4
+| 5
+|-
+| Marksman
+| 4
+| 8
+| 8
+| 4
+| 4
+| 5
+|-
+| Vanguard
+| 8
+| 4
+| 4
+| 4
+| 7
+| 5
+|-
+| Gunslinger
+| 4
+| 8
+| 8
+| 4
+| 4
+| 5
+|-
+| Paladin
+| 8
+| 4
+| 4
+| 4
+| 8
+| 8
+|-
+| Ranger
+| 4
+| 8
+| 8
+| 8
+| 4
+| 5
+|}
+
+
+[[Category:Proposed content]]

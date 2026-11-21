@@ -1,0 +1,8 @@
+{{Trainer
+|Sources=Svetlana Kushnariova, JosephSeraph
+|Source Explanation=Front sprite by Svetlana Kushnariova. Alternative front sprite by JosephSeraph.
+|Genre=Fantasy Historical
+|Combat Type=1 vs 1
+|Main Details=== Names ==
+* Nadzeya
+}}

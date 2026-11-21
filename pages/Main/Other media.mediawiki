@@ -1,0 +1,5 @@
+== Panic in the Long Grass == 
+
+A hack of a roleplaying game, ''Panic at the Dojo''.
+
+[https://sanglorian.github.io/downloads/Panic%20in%20the%20Long%20Grass/Panic%20in%20the%20Long%20Grass.pdf Rules] and [http://sanglorian.github.io/downloads/Panic%20in%20the%20Long%20Grass/Cards.pdf Cards]

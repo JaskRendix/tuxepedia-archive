@@ -1,0 +1,10 @@
+<table><tr><td>
+<table class="invisitable"><tr><td>{{#ask:[[Category:Condition]] 
+|?MainImage
+|?MainImage9px
+|?Text When Gained
+|?End of Round Text
+|?Details
+|order=asc
+}}</td></tr></table>
+</td></tr></table>

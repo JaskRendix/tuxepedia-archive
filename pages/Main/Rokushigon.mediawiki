@@ -1,0 +1,19 @@
+{{Monster
+|First URL=https://www.deviantart.com/jai-ti/art/FKM-115-Pipehide-116-Batuskin-117-Rokushigon-579273316
+|Sources=Jai-Ti
+|Source Explanation=Designed and illustrated by Jai-Ti.
+|Species=Panpipe Dragon
+|Evolves=Batuskin
+|Name Origin=''rock'' + ''kakushimasa'' (hiding in Japanese) + ''dragon''
+|Design Origin=A panpipe and an evil dragon
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Body Shape=Dragon
+|TXMN Blurb=It lures unsuspecting prey with beautiful music to where it hides and waits.
+|TXMN Height=190
+|TXMN Weight=200
+|TXMN Catch Resistance=35
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage2
+|TXMN Terrains=Mountains
+}}

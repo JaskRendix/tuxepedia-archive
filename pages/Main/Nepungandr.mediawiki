@@ -1,0 +1,11 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert
+|Evolves=Nepdron
+|Name Origin=''Neptune'' + ''Jormungandr''
+|TXMN Types=Water
+|TXMN Body Shape=Leviathan
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Sea
+}}

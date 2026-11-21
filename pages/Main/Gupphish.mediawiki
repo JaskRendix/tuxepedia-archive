@@ -1,0 +1,76 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=HippasusTwo, Jaskrendix, JustinNuggets, Piacarrot
+|Source Explanation=Design and original sprite by JustinNuggets and Piacarrot. Recolour by Sanglorian. Face sprites by Jaskrendix. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot.
+|Species=Boiling Goldfish
+|Name Origin=''guppy'' + ''fish''
+|Design Origin=Steamed goldfish
+|Main Details=GUPPHISH is a small, yellow fish Tuxemon with a big personality. Its fins are adorned with sparkling scales that shimmer in the light.
+|TXMN Types=Fire, Water
+|TXMN Sub-Elements=Fire, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Piscine
+|TXMN ID=391
+|TXMN Blurb=GUPPHISH loves to swim in schools, making it a popular choice for trainers who value teamwork.
+|TXMN Height=40
+|TXMN Weight=2
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Freshwater, Sea
+|Tags=Flame, Water
+|Fusion First=Gup
+|Fusion Second=phish
+}}
+{{Evolutions
+|Has Evolution=Gupphire
+|Evolution Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Take Cover
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mobbing
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Fire Shield
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Fiery
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Sudden Glow
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Tsunami
+|Technique_Level=34
+}}
+{{Technique Allocation
+|Has_Technique=Supernova
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Kraken
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=52
+}}

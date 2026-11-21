@@ -1,0 +1,56 @@
+{{Monster
+|Sources=Catch Challenger, Sanglorian
+|Source Explanation=Catch Challenger is an open source project, with assets under Creative Commons Attribution. Original design and sprites by Catch Challenger. Face sprites tweaked by Sanglorian.
+|Species=Travel Bug
+|Main Details=Chenipode skin: [[File:Chenipode-skin.png]]
+|SpyderCampaign=Used by trainers in Route 7.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Grub
+|TXMN ID=346
+|TXMN Blurb=It bites onto shoelaces and trouser legs when it wants to travel.
+|TXMN Height=15
+|TXMN Weight=0.5
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Tags=Bug
+|Fusion First=Cheni
+|Fusion Second=pode
+}}
+{{Evolutions
+|Has Evolution=Exapode
+}}
+{{Technique Allocation
+|Has_Technique=Rock
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Clamp On
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Quicksand
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Take Cover
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Tonguespear
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Rocky Barrage
+|Technique_Level=31
+}}

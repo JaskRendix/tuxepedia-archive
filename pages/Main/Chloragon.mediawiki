@@ -1,0 +1,82 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Sanglorian, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Original design and sprites by Spalding004. Back sprite by Sanglorian. Face sprites tweaked by Sanglorian.
+|Species=Dragon
+|Main Details=== The Spyder in the Cathedral == 
+Hatches from an [[Ancient Egg]], given in [[Candy Town]]
+[[Category:Dragons]]
+|SpyderCampaign=N/A
+|TXMN Types=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Dragon
+|TXMN ID=140
+|TXMN Blurb=It hatches when an ancient egg is planted in fertile soil. When the eggs run out, there will be no more CHLORAGON.
+|TXMN Height=102
+|TXMN Weight=85
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Jungle
+|Tags=Plant, Bite
+|Fusion First=Chlora
+|Fusion Second=gon
+|TXMN_FR Blurb=Il éclot quand un ancien œuf est planté dans un sol fertile. Quand il n'y a plus d'œufs, tous les Chloragon disparaissent.
+}}
+{{Evolutions
+|Has Evolution=Chloragon
+|Evolution Level=32
+}}
+{{Technique Allocation
+|Has_Technique=Ram
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Flower Armor
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Greenstone
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Negation
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Overfeed
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Hibernate
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Leaf Barrage
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Fluff Up
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Whirlwind
+|Technique_Level=55
+}}
+{{Technique Allocation
+|Has_Technique=Flower Bloom
+|Technique_Level=61
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Boxing
+|Technique_Level=64
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=70
+}}

@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=88
+|TXMN Blurb=A corrosive liquid is ejected from the user's body, poisoning the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Fire
+|TXMN Type 2=Earth
+|TXMN Sub-Elements=Venom
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2.25
+|TXMN Potency=35%
+|TXMN Recharge=2
+|TXMN Target Condition=poisoned
+|TXMN Animation Target=1
+|Tags=Machine
+|Sources=Sanglorian, Superjoe
+|Source Explanation=Technique by Sanglorian. Animation by Superjoe.
+|TXMN_ES Name=Ácido de batería
+}}

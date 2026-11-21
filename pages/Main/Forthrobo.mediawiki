@@ -1,0 +1,46 @@
+{{Monster
+|First URL=https://www.reddit.com/r/fakemon/comments/b35551/a_couple_months_back_i_came_upon_an_opensource/
+|Sources=Chairry-Art
+|Source Explanation=Design and front sprite by Chairry-Art.
+|Main Details=Based on [[Arthrobolt]] by [[josepharaoh99]].
+|TXMN Types=Metal
+|TXMN Blurb=Forthrobo aspire to be leaders among their fellow Metal tuxemon, despite the species' small stature.
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shrapnel
+|Technique_Level=5
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Energy Field
+|Technique_Level=15
+}}
+{{Technique Allocation
+|Has_Technique=Data Swap
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Deletion Request
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Laser Beam
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Charge
+|Technique_Level=40
+}}

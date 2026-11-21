@@ -1,0 +1,15 @@
+== Introduction ==
+
+This page is a reference for all the available actions and conditions available in Tuxemon. You can use this reference to create new map events for your own maps. All action and condition parameters are separated with a comma (<code>,</code>).
+
+== Condition Reference ==
+
+[[Event Reference Condition]]
+
+== Action Reference ==
+
+[[Event Reference Action]]
+
+== Behavior Reference ==
+
+[[Event Reference Behavior]]

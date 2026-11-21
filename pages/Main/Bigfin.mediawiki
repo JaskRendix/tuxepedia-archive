@@ -1,0 +1,65 @@
+{{Monster
+|Sources=Cavalcadeur, HippasusTwo, Kelvin Shadewing, Leo, Levaine, Rsg167, Sanglorian, Tamashihoshi, extyrannomon
+|Source Explanation=Original design by Cavalcadeur. Redesign by extyrannomon. Sprites by Cavalcadeur, rsg167, Kelvin Shadewing, HippasusTwo, Sanglorian, tamashihoshi and Levaine. Other art by Leo.
+|Species=Island
+|Evolves=Dollfin
+|Name Origin=''big'' + ''fin''
+|SpyderCampaign=Evolution of a starting monster. Used by trainers in Dojo, Dragon's Cave, Side Route A, Sea Route C and Walled Garden. Fished with the Poseidon.
+|TXMN Types=Water
+|TXMN Sub-Elements=Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Leviathan
+|TXMN ID=25
+|TXMN Blurb=A whole ecosystem exists on its back, so it tries not to go underwater.
+|TXMN Height=1200
+|TXMN Weight=50000
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Coastal, Freshwater, Sea
+|Tags=Water, Megafauna, Plant, Summoner, Ground
+|Fusion First=Big
+|Fusion Second=fin
+|TXMN_DE Name=Insfloss (Insel + Flosse)
+|TXMN_FR Name=Granoire
+}}
+{{Technique Allocation
+|Has_Technique=Goad
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Geyser
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Grinding
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Flow
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Refresh
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Font
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Starfall
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=55
+}}

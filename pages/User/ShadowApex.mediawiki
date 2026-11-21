@@ -1,0 +1,5 @@
+{{Contributor
+|Preferred Attribution=ShadowApex <shadowapex@gmail.com>
+|Main Details=Lead developer and creator of the Tuxemon project.
+|Contributor Types=Contributed to Tuxemon project
+}}

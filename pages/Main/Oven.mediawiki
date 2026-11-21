@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=236
+|TXMN Blurb=The user throws themselves into a fiery oven or pyre, then re-emerges to attack.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Family=Simple
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=80%
+|TXMN Power=1
+|TXMN Effects=Disappear Fireball
+|TXMN Potency=100%
+|TXMN Recharge=4
+|TXMN Animation Target=0
+|Tags=Flame, Food
+|Main Details=Mid or late game move?
+|Sources=HippasusTwo
+}}

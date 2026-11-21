@@ -1,0 +1,529 @@
+This page collects flashback concepts that may be used across different campaigns. All content here should be considered provisional — not yet implemented or officially approved. Approved flashbacks appear on their respective campaign pages.
+
+* [[Flashbacks Spyder]]
+* [[Flashbacks Xero]]
+
+= Spyder =
+
+== The Statues Must Fall ==
+
+;Monk: These statues are not mere stone. They are memory. They are balance. Remove them, and Cotton Town forgets what it once honored.
+;Beaverbrook: Ah, Monk of the Five Elements! Just the voice I hoped to hear echoing through these quaint ruins. Come—walk with me. Let’s talk strategy.
+;Monk: I do not strategize. I tend. I listen. I preserve.
+;Beaverbrook: Preservation is stagnation. You guard relics while the world evolves. Omnichannel offers progress—fusion, expansion, deluxe Tuxemon in every home!
+;Monk: Progress without reverence is conquest. These statues mark the elemental balance. Their removal will unmoor the town’s spirit.
+;Beaverbrook: Spirit? Please. We’re talking prime real estate. The statues can be digitized, archived, reimagined in augmented reality. Isn’t that enough?
+;Monk: You cannot archive presence. You cannot simulate silence. These stones breathe with the town.
+;Beaverbrook: Then let them breathe in a museum, behind velvet ropes. Cotton Town will be our flagship campus. The statues are in the way.
+;Monk: You speak of campuses and flags. I speak of wind and stone. We are not aligned.
+;Beaverbrook: Alignment is overrated. I don’t need your blessing—I need your silence. Or better yet, your endorsement. Imagine: ‘Monk Approved Expansion.’ Has a ring to it.
+;Monk: I will not bless desecration. But I will remain. And I will remember.
+;Beaverbrook: Suit yourself. But when the birthing pits open and the fusion begins, don’t say I didn’t offer you a seat at the table.
+
+== The Token Protocol ==
+
+;Beaverbrook: Looten's data confirmed the instability. The creature's lifespan is short—four minutes of evolution followed by system collapse. We need to monetize that instability, Rhodes.
+;Rhodes: Instability is a liability, sir. It suggests a refund cycle.
+;Beaverbrook: No. It suggests a renewal cycle. Every evolution must be a costly, one-time event. When the creature expires, the trainer must return to us. We need a consumable product to trigger the Fusion.
+;Rhodes: A consumable that validates the investment... a single-use key. We can link the transaction to a blockchain, preventing replication. Let’s call it a Fusion Token.
+;Beaverbrook: Brilliant. The tokens will be the key to our entire deluxe line. They will be scarce, highly priced, and tied directly to the creature’s inevitable decay.
+;Rhodes: This will generate enormous recurring revenue. We’re not selling evolution; we’re selling momentary supremacy at a premium.
+;Beaverbrook: Exactly. We sell the miracle, and then we sell the replacement. Get the legal team drafting the EULA for the Fusion Token immediately. I want it ironclad.
+
+== The First Data Point ==
+
+;Looten: The core held! For four minutes, the subject experienced instantaneous, stable evolution. The subsequent meltdown was regrettable, but scientifically, this is an unparalleled success!
+;Beaverbrook: Success is repeatable and scalable, Looten. Four minutes of stability is a feature, not a success. What is the turnover rate? How quickly can we run the next cycle?
+;Looten: The creature's lifespan was short, yes. But that’s a biological challenge we need to research—
+;Beaverbrook: Nonsense. That is a built-in upgrade cycle. We sell the initial evolutionary success, and when the creature expires, the customer requires a new Fusion Token for a replacement. It’s perfect retention.
+;Looten: You're turning this into planned obsolescence! This is a sentient being!
+;Beaverbrook: It's a market opportunity. Your initial research cost millions. Your duty is to ensure we achieve an adequate return on investment. I want a proposal for tokenizing the process by end of day. No more pure science, Looten. It's time for mass market monetization.
+
+== The Ashes of Prototype Seven ==
+
+;Looten: Prototype Seven was... promising. The fusion held for nearly six minutes. That’s a record.
+;Beaverbrook: Held? It screamed, Looten. It screamed and then melted through the floor.
+;Looten: Progress is messy. We’re closer than ever. The neural lattice almost stabilized.
+;Beaverbrook: Almost. Almost doesn’t sell. Almost doesn’t survive a press cycle. Do you know what the shareholders saw? A crater.
+;Looten: They’ll see the potential. Once we refine the containment shell—
+;Beaverbrook: Containment? You think this is about containment? This is about optics. About control. About deluxe Tuxemon in every living room, not radioactive grief in a bunker.
+;Looten: You wanted evolution. I gave you fusion. You wanted miracles. I gave you monsters.
+;Beaverbrook: I wanted marketable miracles. Not twitching abominations that eat their own tails.
+;Looten: You’re afraid of the future. You want it sanitized. Packaged. But real progress is raw. It bleeds.
+;Beaverbrook: And yet here you are, bleeding credibility. You think you’re a pioneer. You’re a liability with a lab coat.
+;Looten: You don’t understand the science.
+;Beaverbrook: I understand the story. And right now, the story is slipping. We need a win, Looten. A mascot. A miracle. Not another meltdown.
+;Looten: Then let me try again. Prototype Eight. No ethics board. No oversight. Just pure creation.
+;Beaverbrook: Fine. But if it screams... you scream with it.
+
+== The Poisoned Sample ==
+
+;Looten: The Core data is complete, but it confirms everything: the Fusion process is inherently unstable. It generates trauma that we are selling as 'evolution.'
+;Dr. Elara: Send the raw metrics to Beaverbrook. We need to finalize the 'Apex' production line before the next fiscal quarter review.
+;Looten: I can’t. This data is a ticking bomb. If the Tuxemon Project gets a hold of this, they can use it to prove the system is fundamentally flawed.
+;Dr. Elara: Then destroy it, Looten. You know the protocols. Delete the research, take the payout, and take a vacation. Your conscience is an unauthorized variable.
+;Looten: I have no conscience left, Elara. Only guilt. I wanted evolution, and I created weapons. But I can still stop them from being mass-produced.
+;Dr. Elara: What are you doing? Stop! You’ll contaminate the entire secure server!
+;Looten: I’m not deleting the research, Elara. I’m giving it to the public. It will be scrambled, a mere fragment, but it will contain the signature instability of the Fusion Cores.
+;Dr. Elara: You’re signing your death warrant! Omnichannel will hunt you to the ends of the earth!
+;Looten: Let them. It's the only way to pay the ethical debt. If this data gets into the right hands, they’ll have the key to understanding the corruption. They’ll have their first data point.
+
+== The Lakebed Briefing ==
+
+;Zoolander: It’s done. The lake’s gone. The river’s been rerouted. The basin’s dry.
+;Beaverbrook: And what a basin it is... Look at it. Like a peeled fruit. Secrets exposed. Potential... ripening.
+;Zoolander: There were nesting grounds down there. Ecosystems. We flushed them out like waste.
+;Beaverbrook: Waste is subjective. Investors see opportunity. [[Cathedral]] sees legacy. And Omnichannel? We see product.
+;Zoolander: You said it was just a geological survey. You said we were looking for mineral veins.
+;Beaverbrook: I said what you needed to hear. Now you’re hearing the truth. The eggs are real. The myths were marketing. And you, dear Zoolander, are part of history.
+;Zoolander: History doesn’t absolve us. We displaced families. Poisoned wells. The mine’s workers are scared. They whisper about things moving in the mud.
+;Beaverbrook: Let them whisper. Fear is engagement. Engagement is retention. Retention is revenue.
+;Zoolander: You talk like the mine is a storefront. Like the lake was a billboard.
+;Beaverbrook: It was. And now it’s a launchpad. The fusion cores beneath that sediment? They’ll power the next generation of deluxe Tuxemon. Imagine: ‘Born from the bones of the forgotten.’ Has a ring to it.
+;Zoolander: You’re not listening. Something’s wrong down there. The readings are erratic. The eggs... they pulse.
+;Beaverbrook: Then let them hatch. Let them scream. Let them sell.
+;Zoolander: I didn’t sign up for this.
+;Beaverbrook: You signed the Cathedral charter. You rerouted the river. You drained the lake. You’re already in the story, Zoolander. Now decide: are you a footnote... or a founder?
+
+== The Directive Divide ==
+
+;Zircon: The prototype disobeyed a direct command. It turned on its handler. That’s not evolution—it’s insubordination.
+;Beaverbrook: Insubordination? Please. It was improvising. Adapting. That’s what we engineered it to do.
+;Zircon: We engineered it to follow orders. To execute precision strikes. Not to ‘improvise’ a massacre.
+;Beaverbrook: Massacre is such a military word. I prefer ‘brand disruption.’ The footage is trending. Engagement is through the roof.
+;Zircon: You think this is about metrics? We lost three operatives. One of them was seventeen.
+;Beaverbrook: And yet the public sees a miracle. A creature born of fusion, unbound by limits. They’re calling it ‘The Apex.’
+;Zircon: The Apex is unstable. It ignored its kill-switch. It’s not a soldier—it’s a liability.
+;Beaverbrook: It’s a symbol. A flagship. A deluxe Tuxemon with battlefield charisma. We’ll tweak the firmware.
+;Zircon: You’re playing dress-up with a weapon. This isn’t a toy line—it’s a tactical asset.
+;Beaverbrook: And assets must be marketable. You want obedience. I want awe. The Apex delivers both... eventually.
+;Zircon: You’re gambling with lives. I’ve seen what happens when control slips. You haven’t.
+;Beaverbrook: I’ve seen what happens when vision is shackled by fear. You want a leash. I want a legacy.
+;Zircon: Then pray your legacy doesn’t bite back.
+;Beaverbrook: If it does... we’ll sell the scars.
+
+== The Empathy Protocol ==
+
+;Argon: They’re responding to music now. Not just rhythm—melody. Some even mimic it. That’s not programming. That’s preference.
+;Beaverbrook: Preference? Please. It’s a glitch with good PR. We’ll call it ‘EmoSync’ and sell it as a feature.
+;Argon: It’s not a feature. It’s a sign of emergent consciousness. These Tuxemon aren’t just reacting—they’re relating.
+;Beaverbrook: Relating doesn’t pay dividends. Reacting does. We engineered them to bond, not philosophize.
+;Argon: You engineered them to obey. But they’re evolving. They’re forming attachments. They grieve.
+;Beaverbrook: Grief is a marketing opportunity. Imagine the campaign: ‘They miss you when you’re gone.’ Tug the heartstrings, open the wallets.
+;Argon: You’re missing the point. If they feel, we owe them protection. Rights. Autonomy.
+;Beaverbrook: Autonomy? You want to unionize the monsters? Give them voting privileges? They’re assets, Argon. Beautiful, profitable assets.
+;Argon: They’re alive.
+;Beaverbrook: They’re licensed. And if you keep pushing this empathy agenda, you’ll be obsolete.
+;Argon: Then I’ll be obsolete. But I won’t be complicit.
+;Beaverbrook: Suit yourself. But when the deluxe line launches with ‘EmoSync 2.0,’ don’t act surprised. You gave us the data. We just gave it a price tag.
+
+== Tuxemon Project People (NPCs) ==
+
+;Evelyn: The Visionary (Tuxepedia Idea, moral mandate, TuxemonNet algorithm).
+;Liam: The Outreach and Interface Designer (UX, community building, practical skepticism).
+;Maya: The Network and Logistics Specialist (Contacted [[Team Bazaar]], handled international research).
+;Julian: The Backend and Security Architect (Ensured data was distributed, resilient, and secure).
+
+== Tuxemon Project Mission ==
+
+;Evelyn: The fight isn't just about escaping the Pillars; it's about building a foundation for truth. That's the real purpose of this project.
+;Liam: Exactly. The Tuxepedia is the archive, the record of every Tuxemon out there. It counters the corporate lie with decentralized, community-vetted fact.
+;Maya: And it has to be more than just names and numbers. We need the deep, scientific analysis—the how and the why. That's where TuxemonNet comes in.
+;Julian: TuxemonNet is the engine. It's the open-source algorithm that can categorize creatures without bias. It prevents them from corrupting the science to promote their "deluxe" or "Apex" models.
+;Evelyn: We saw what happened to Argon and Looten's work—it was corrupted and sold. Our ultimate mission is to promote Partnership and Autonomy. We must expose the unethical use of the fusion process.
+;Liam: We shift the paradigm. No more 'assets,' no more 'munitions.' We give trainers the knowledge to respect, not just control.
+;Maya: The integrity of the data is everything. If we remain open and distributed, they can't take us down. The community becomes the fail-safe.
+;Julian: We're not building a single fortress. We're building a network of resistance. And every piece of shared knowledge is a blow against their control.
+;Evelyn: The Tuxemon Project is the collective promise that knowledge will be free, and every Tuxemon's life will hold value beyond its market price.
+
+== First Bazaar Meeting ==
+
+;Evelyn: The Tuxemon Project is official. We have the algorithm, the database design, and the ethical mandate. But we can't launch from a clean corporate server; that’s suicide.
+;Liam: We need a network that is literally off the grid. Decentralized hubs, not single fortresses.
+;Maya: I made contact with a group that fits that description—they call themselves [[Team Bazaar]]. They champion open systems and operate outside the Pillars' data monopolies.
+;Julian: Can we trust them? They sound like digital pirates.
+;Maya: They are liberty-loving wanderers. They use "pirate radio" and pop-up labs. Their philosophy is that shared knowledge is resistance. They're already doing what we want to do, but without the core data.
+;Evelyn: Then they are our vessel. We offer them the Tuxepedia data, and they offer us their network. Where are they based?
+;Maya: I've arranged a meet at a forgotten mansion near Flower City. It’s their unofficial main hub.
+;Liam: A forgotten mansion? That sounds less like a secure network and more like a death trap.
+;Julian: It sounds like the perfect anti-establishment camouflage. If Omnichannel can't track them, they can't track us. Let's embrace the chaos.
+;Evelyn: We become part of the swarm. We leave the clean spreadsheets behind and enter the bazaar. This is how we go truly decentralized.
+
+== Tuxepedia Idea ==
+
+;Evelyn: We need a way to catalog all the tuxemon out there. Something that's accessible to everyone, not just the Pillars.
+;Liam: I've been thinking about that. What if we create a database that's open-source? Anyone can contribute, anyone can access it.
+;Maya: But how do we guarantee the information is accurate? If we just throw the gates open, we risk chaos.
+;Evelyn: We can create a system of expert moderators—vetted researchers who can review and verify the data before it's published. It ensures quality control without centralization.
+;Julian: And what about the Pillars? They won't just stand by while we build something that undermines their authority.
+;Liam: We start small. We build a groundswell of supporters. By the time we have enough momentum, the Pillars won't be able to stop us without a public relations nightmare.
+;Maya: I love the idea, but it needs a solid name. What are we going to call this thing?
+;Evelyn: How about 'Tuxepedia'? It’s a clean blend of 'encyclopedia' and 'tuxemon'.
+;Julian: I like the simplicity of just 'Tuxepedia'—like Wikipedia. It feels community-focused, less formal.
+;Liam: Hmm. I see your point, Julian, but 'The Tuxepedia' sounds more established, more official for a global resource.
+;Maya: I think Evelyn has the right idea; simple is better. 'Tuxepedia' it is.
+;Evelyn: Alright, then. Let's get to work. We have a lot of conceptual ground to cover before we can make this vision a reality.
+
+== Tuxepedia Project ==
+
+;Evelyn: I've been working on a new algorithm called 'TuxemonNet'. A neural network that can analyze and categorize tuxemon characteristics automatically. It’s a key to unlocking the true potential of tuxemon research, and it will be open-source. I think I've finally cracked it! I was up all night testing it, and the algorithm identified 95% of the tuxemon in the test dataset.
+;Liam: That's astounding, Ev! Let me take a look at the code. Does it handle the complexities of type-morphing and regional variations well?
+;Evelyn: It's working beautifully with the small dataset. We can use this to create a robust and scalable database. I’m thinking machine learning will continuously refine the categorization over time.
+;Liam: This is the fuel we needed. We can finally start building the Tuxepedia. I've been sketching out a user interface—it needs to be intuitive, even for beginner trainers.
+;Maya: I’m buzzing with excitement! We're genuinely going to change the way people think about tuxemon. I’ve already contacted some international researchers, and they're all eager to contribute.
+;Julian: I'm focused on the backend. It needs to be secure and resilient to handle a massive volume of data, especially as we scale. I’ll make sure the architecture is up to the task.
+;Liam: I'll start the outreach now. We need to build the community around this project. The online forums are already showing a ton of interest.
+;Maya: This is it. We’re finally building momentum. Let's keep this pace! This is going to be amazing.
+;Evelyn: My goal is for this to be a true platform—a place for people to share their knowledge and collectively advance the field of tuxemon research.
+;Julian: We're making history here. We're building something that will change the world.
+
+== Tuxepedia Issues ==
+
+;Liam: We've got a serious problem.
+An informant within the Pillars confirmed they're actively spreading rumors that our research will destabilize the tuxemon ecosystem. They see The Tuxepedia as a direct threat to their control.
+;Evelyn: We can't let fear-mongering stop us. We’ve come too far to give up now. We need a strategy to counter them.
+;Julian: Our strength isn't in a bunker or a centralized server; it's in the community itself. The Tuxepedia is a collective, distributed effort, and that makes it nearly impossible to dismantle.
+;Maya: That’s the key. What if they try to insert false information or manipulate data? How can the public trust its accuracy?
+;Liam: That's the beauty of it. The moment they try, the eyes of the entire community will be on it. Any falsehoods or inaccuracies they insert will be quickly corrected by the collective body of experts and trainers.
+;Evelyn: Exactly. The strength comes from the diversity of our contributors. They'd have to manipulate hundreds of people across the globe—a task they simply don't have the reach or subtlety for.
+;Julian: The Pillars are used to taking down single entities. They'll be hard-pressed to sabotage a network of thousands of individuals working together. We're too decentralized to be stopped.
+;Maya: I think that's what makes The Tuxepedia so powerful. It's not just a database—it's a living symbol of what people can achieve when they prioritize knowledge over control.
+;Liam: They won't stop us. We push forward. Together, we can achieve something amazing.
+;Evelyn: We're in this together. And together, we are unstoppable.
+
+== Tuxepedia Launch ==
+
+;Liam: It's finally here. The first version of the Tuxepedia is live! We did it, guys. We actually did it.
+;Evelyn: I knew we could! I'm so incredibly proud of us. Now, the real work begins. We need to anticipate their next move—the Pillars won't let this go easily.
+;Maya: My heart is pounding! We're changing the landscape of tuxemon research. I’ve heard from researchers all over; the enthusiasm is electric. This is just the beginning.
+;Julian: And we're just getting started on the tech side. We've got so many features and data points to add—the possibilities are endless.
+;Liam: I've already started sketching out the next version: advanced search features, perhaps integration with other research databases.
+;Evelyn: Hold on. Before we sprint to V2, let's take a moment. We need to celebrate this achievement. We've earned it.
+;Maya: Champagne is ready! Let’s pop the cork and toast to the Tuxepedia, and to a future where knowledge is free!
+;Julian: To the Tuxepedia! May it bring knowledge and power to the people! And may the future of tuxemon research be bright and exciting!
+;Liam: Cheers to that! We did it. We actually did it.
+;Evelyn: This is only the start. Imagine a world where every single tuxemon trainer has access to this vast repository of knowledge. What happens next is up to them.
+
+== Founders’ Crossroads ==
+
+;Evelyn: We have to start now. Every day we wait, the Pillars deepen their control over the creatures' bonding protocols. Our moral obligation demands action.
+;Liam: Moral obligation doesn’t pay for the servers, Ev, and it certainly won't protect our families when the Pillars find out. We’re talking about treason on a corporate scale.
+;Maya: Liam has a point. They control the flow of all information. If they discover we’re building a counter-database, they won't just fire us; they’ll erase us.
+;Evelyn: And what’s the alternative? To stand by and watch the whole world be convinced that Tuxemon are just programmable products? We have the knowledge to fight them.
+;Julian: We need a phased approach. The technology needs to be distributed from day one. If a single central server holds the master data, we're a single hack away from total failure.
+;Liam: Distribution mitigates the risk, I grant you. But the goal still needs to be sustainable. We must plan for the worst-case scenario. Are we all ready to lose everything?
+;Evelyn: Yes. I'm. This isn't just a project. It's the only ethical path forward. We build it, and we make the knowledge free.
+;Maya: I'm in.
+;Julian: For the truth.
+;Liam: Fine. But if anyone asks, I was working on a totally different, highly secure spreadsheet for Omnichannel. Let's call it the Tuxepedia Idea.
+
+== The Tactical Failure ==
+
+;Major Sterling: The operation failed due to Major Elias's unauthorized attempt to retrieve a downed soldier. The data shows a 14% statistical risk increase caused by that single act of hesitation. Unacceptable.
+;Zircon: Human variables, Major. They pollute the metrics. The mission mandate was simple: resource acquisition. Elias prioritized human sentimentality over the objective. A clear case of tactical failure.
+;Major Sterling: You cannot eliminate human nature, Zircon. We train our soldiers to have loyalty and courage.
+;Zircon: Loyalty is an unreliable metric; it can be diverted by fear or grief. Courage is simply a spike in adrenaline. What I seek is a force that is incapable of deviation—a force whose loyalty is guaranteed by its core programming, not its emotions.
+;Major Sterling: You're describing drones, not soldiers.
+;Zircon: I'm describing a superior tactical asset. I will find a way to eliminate the soft, inefficient factors of human conscience and replace them with precise, measurable obedience. The Tuxemon provide the perfect substrate.
+
+== The Loyalty Overhaul ==
+
+;Argon: I've completed the neural communication link prototype. We can see a 70% increase in mutual trust metrics when the Tuxemon feel they are being understood. This is a breakthrough for partnership, Elara.
+;Dr. Elara: Fascinating data, Argon. However, the directive has changed. We require 100% compliance, not 70% mutual trust. We need to modify the link to prioritize unquestioning obedience from the subject to the handler.
+;Argon: That modification would override the creature’s free will! It turns mutual understanding into a dominance protocol. I designed this for communication, not forced servitude.
+;Dr. Elara: Compliance protocols are necessary to protect the asset's value and the financial investment, Argon. Your focus on "free will" is academically interesting but commercially irrelevant. Omnichannel cannot risk a consumer product disobeying a direct command.
+;Argon: You're fundamentally misunderstanding the organism. Forced obedience will create trauma, not loyalty!
+;Dr. Elara: Trauma, like empathy, is simply a data anomaly to be managed. Adjust the code, Argon. The priority is guaranteed compliance—or your research budget is pulled.
+
+== The Price of Emosync ==
+
+;Argon: I just observed Subject Delta exhibiting grief behaviors—genuine, observable distress after the Prototype's termination. This isn't just behavioral code, Elara. This is emergent consciousness.
+;Dr. Elara: Consciousness is a subjective, ill-defined variable, Argon. What you observed was a predictable side-effect of the Tuxemon's bonding protocol. The data logs indicate a neural feedback loop consistent with programmed attachment failure.
+;Argon: You're reducing sorrow to a feedback loop! We can't just release a generation of beings that are engineered to feel, then treat their pain as a feature. They have no rights, no protection!
+;Dr. Elara: Protection is a human concern, not a scientific one. The Emosync feature is a cornerstone of the deluxe model's marketability. It ensures deep trainer engagement. You gave us the mechanism for empathy; Omnichannel simply gave it a price tag.
+;Argon: The cost isn't market share; it's ethical debt. This protocol creates a capacity for feeling that we are intentionally leaving vulnerable.
+;Dr. Elara: Then rewrite the protocol. Until the data proves otherwise, it is a highly profitable data anomaly. Do not confuse a successful simulation with a moral dilemma.
+;Argon: I will not be complicit in weaponizing grief.
+
+== The Cathedral’s Flaw ==
+
+;Architect: The final blueprints are a disaster, Mr. Beaverbrook. The Cathedral's structure cannot support the planned Fusion Core mass when combined with the instability of the dried lakebed foundation. We are violating three international seismic protocols.
+;Beaverbrook: Seismic protocols are guidelines for second-tier operations, Architect. We are building a legacy. The land is not "unstable"; it's underutilized. We will simply reinforce the foundation and move on.
+;Architect: Reinforcement is not mitigation. The birthing pits are designed to contain chaotic fusion processes. If the core fails, the resulting contamination will leach directly into the regional aquifer. This is a public health catastrophe waiting to happen.
+;Beaverbrook: Catastrophe? I prefer to call it maximum density optimization. We are establishing the global flagship campus. Every square meter must generate revenue. The law exists to restrain the uninspired; we are pioneers.
+;Architect: My signature will not be on these final plans. I refuse to authorize a structure built on known geological and ethical failure points. My license, and frankly, my conscience, forbids it.
+;Beaverbrook: Fine. I'll have one of the junior engineers sign off. Your principles are an inconvenience, nothing more. Keep the retirement package. Just keep your mouth shut about the "Cathedral's flaw".
+;Architect: I cannot control the ground, Mr. Beaverbrook. And that ground will remember what you built on top of it.
+
+== The Apex Brand Briefing ==
+
+;Beaverbrook: The footage is catastrophic, Rhodes. The public saw a prototype scream and then incinerate a section of the facility. The narrative is slipping. Fix it.
+;Rhodes: Sir, we're working twenty-four/seven on damage control. The keywords are "uncontrolled mutation" and "facility containment failure." We need to shift away from that immediately.
+;Beaverbrook: No, we embrace the power. The creature didn't fail; it achieved an unauthorized leap in evolution. We need a brand name that captures that primal, raw power. Call it 'The Apex'.
+;Rhodes: 'The Apex' is strong, but how do we justify the casualties? We can't just sweep three operative losses under the rug, sir. The optics are terrible.
+;Beaverbrook: We reframe the losses as "investments in groundbreaking research." The public isn't interested in safety; they want to know they own the strongest, most dangerous thing on the market. That creature is our flagship product.
+;Rhodes: So, the brand messaging is: "Unbound by Limits. Priced for Supremacy." We turn fear into aspiration. I can work with that, but it's going to cost triple the media buy.
+;Beaverbrook: Then triple the media buy. I want 'The Apex' trending on every channel by the end of the fiscal quarter. Controlling the narrative is the most valuable asset we have, Rhodes.
+
+== The Unauthorized Cure ==
+
+;Dr. Lee: The results are undeniable, Dr. Elara. Our combination of enzymes and antibodies successfully neutralizes the Spyder strain without long-term genetic disruption. It’s a complete cure.
+;Dr. Elara: I see the metrics, Lee. Highly effective. Highly efficient. And entirely unauthorized.
+;Dr. Lee: Unauthorized? This is a public health crisis! Why would we withhold a cure?
+;Dr. Elara: The official timeline requires containment and quarantine, not rapid cure. The virus serves a tactical purpose: it destabilizes the region, allowing for coordinated asset acquisition and eliminating unauthorized training competition.
+;Dr. Lee: You’re saying the virus is a deliberate conspiracy? And that the quarantine is a cover for a corporate land grab?
+;Dr. Elara: I'm saying your cure interferes with the market strategy. Your goal was a vaccine protocol; you provided a solution that undermines the entire operational directive.
+;Dr. Lee: My goal was to save lives! If you don't release this data—
+;Dr. Elara: You won’t release the data, Lee. You will cease all work, transfer the files, and sign a non-disclosure agreement. Your research budget is officially terminated.
+;Dr. Lee: I can’t. This is bigger than Omnichannel. I have to warn Dr. Chen. I need to get this cure out!
+;Dr. Elara: I have already contacted security, Dr. Lee. Attempting to share classified research constitutes corporate treason. They will be at your door shortly.
+
+== The Home Office ==
+
+;Protagonist's Mom: I told you, don't touch the server! You know that's my work for Omnichannel! If they find out I'm doing proprietary work here, they'll revoke my consulting license and our family's savings are gone.
+;Protagonist: But why is the program called the "Truth Filter"? Every time I search, it seems to block all the critical articles about the Greenwash contamination near the river.
+;Protagonist's Mom: It's called quality control, honey. They pay me well to ensure the narrative is stable. It's the only way we can afford this home and your education.
+;Protagonist: But Dad always said real progress meant questioning the narrative, not paying someone to sanitize it. We're part of the lie now.
+;Protagonist's Mom: Your father was a martyr to his principles, and that's not a luxury we can afford. You need to focus on getting your own Gold Pass and staying safe.
+;Protagonist: Safe? I'd rather know the truth than be safely ignorant.
+;Protagonist's Mom: You're being dramatic. The Pillars provide order; that's the bottom line.
+;Protagonist: And what about the cost of that order?
+;Protagonist's Mom: The cost is silence. That's the deal. You need to choose safety over sentiment.
+;Protagonist: I don't think Dad would have agreed with that deal.
+
+== Nimrod's Compliance Protocols ==
+
+;Nimrod Boss Tru: The Ignibus prototype has a 99.8% compliance rating, Zircon. That two-tenths of a percent failure rate is a catastrophic liability. It represents a crack in our control.
+;Zircon: That failure is the creature's instinctual need for social bonding. It's a biological variable we can't fully suppress without severe neural damage.
+;Nimrod Boss Tru: Neural damage is acceptable. Biology is inherently inefficient, and sentiment is a liability. Replace the Empathy Protocol immediately.
+;Zircon: But you yourself designed the original Empathy Protocol—you said loyalty based on mutual respect was the strongest.
+;Nimrod Boss Tru: That was before Omnichannel clarified the market metrics. We need guaranteed compliance, not mutual respect. The customer must never be disobeyed.
+;Zircon: This modification turns the Tuxemon into a tool of dominance. You're removing its free will.
+;Nimrod Boss Tru: I'm removing its weakness. We are building the Enforcer corps, not a petting zoo.
+;Zircon: And what if this damages the Fusion compatibility?
+;Nimrod Boss Tru: The Chrome Robo will handle the Fusion. Your job is to ensure the Ignibus sees disobedience only as a threat.
+;Zircon: As you command. But I hope you understand the monster you are creating.
+
+== The Fast-Food Feature (Scoop's Malice) ==
+
+;Scoop Boss Donald: The sales projection for the Quarter-Pounder Pesto is stagnant, Doctor. We need a marketing angle that guarantees high-volume traffic and repeat business.
+;Scoop Scientist: We could introduce the Spyder strain via the mass distribution vector—it's easily carried in the food supply without detection.
+;Scoop Boss Donald: The Spyder strain? Isn't that the one that causes weakness in Tuxemon?
+;Scoop Scientist: Yes. It's a mild, easily curable ailment for humans, but it significantly weakens the subjects’ defense metrics, making official restorative snacks necessary.
+;Scoop Boss Donald: "Mild, easily curable." Perfect. We’ll call it the 'Health & Happiness' initiative. It creates instant demand for our high-profit products.
+;Scoop Scientist: But the long-term effects on unregistered Tuxemon could be severe, especially without the expensive official vaccine. We can't guarantee safety for those outside the Gold Pass system.
+;Scoop Boss Donald: Then they should have bought the Gold Pass. It's an incentive for compliance. The instability is a feature, not a bug.
+;Scoop Scientist: This is actively weaponizing a disease for profit, sir. It violates every ethical guideline.
+;Scoop Boss Donald: Ethics are an obstacle to market penetration, Doctor. Roll it out globally, starting with the Fondent region.
+;Scoop Scientist: As you command, Boss Donald. But the public won't forgive us if this gets out.
+
+== Rock and Fossil ==
+
+;Shaft Boss Zoolander: The geologists are refusing to drill deeper. They say the ancient sedimentary layers are too unstable, and the noise is disrupting the local ecosystem. I need you to address this immediately.
+;Old Miner: Madam Zoolander, we signed up to mine iron ore, not to excavate myths! What's with all this talk of "revived power sources" and "dragon remnants"? The men are scared and the ground is shifting.
+;Shaft Boss Zoolander: The Cathedral's mandate has shifted. We are no longer focused on simple resources; we are securing biological assets for Greenwash's new program.
+;Old Miner: But the fossilized dragon eggs are located in a high-risk zone! You're risking our lives for eggs that belong in a museum!
+;Shaft Boss Zoolander: History is less profitable than assets. The eggs are worth far more than any mineral vein we could find.
+;Old Miner: The noise is driving the local Tuxemon wild! The safety readings are off the charts! We're on the verge of a catastrophic cave-in.
+;Shaft Boss Zoolander: Casualties are an acceptable metric. I have authorized triple hazard pay. That is more than enough compensation.
+;Old Miner: Compensation doesn't replace a life, Madam.
+;Shaft Boss Zoolander: Get back down there. The Cathedral needs those assets for the Apex project.
+;Old Miner: I'll tell the crew. But they won't forget this, and neither will I.
+
+== The Empathy Protocol's Betrayal (Greenwash's Failure) ==
+
+;Argon: Dr. Elara, I've completed the neural communication link prototype. We can see a 70% increase in mutual trust metrics when the Tuxemon feel they are being understood. This is a breakthrough for ethical Partnership.
+;Dr. Elara: Fascinating data, Argon. However, the directive has changed. We require 100% compliance, not 70% mutual trust.
+;Argon: That modification would override the creature’s free will! It turns mutual understanding into a dominance protocol! I designed this for communication, not forced servitude.
+;Dr. Elara: Compliance protocols are necessary to protect the asset's market value and the financial investment, Argon. Your focus on "free will" is commercially irrelevant.
+;Argon: But I just observed Subject Delta exhibiting genuine grief after its partner's termination. They feel! We can't just release a generation of beings engineered to feel, then treat their pain as a feature!
+;Dr. Elara: The Emosync feature is a cornerstone of the deluxe model's marketability. It ensures deep trainer engagement. You gave us the empathy; we simply gave it a price tag.
+;Argon: The cost isn't market share; it's ethical debt. This is wrong.
+;Dr. Elara: The board needs results. Adjust the code, Argon. The priority is guaranteed compliance—or your research budget is pulled entirely.
+;Argon: And what if I refuse?
+;Dr. Elara: Then you become redundant. You know the protocols.
+
+== The Fallout of the Poisoned Sample ==
+
+;Omnichannel CEO Beaverbrook: Elara! Explain this data breach immediately! Looten didn't just resign; he corrupted the Fusion Core metrics and leaked a massive encrypted file to the public network.
+;Dr. Elara: He contaminated the secure server, sir. It was an act of ethical sabotage. He felt overwhelming guilt over the creation of the Apex line.
+;Omnichannel CEO Beaverbrook: Guilt is a failure of management! Does the public have the complete Fusion Report?
+;Dr. Elara: No. It's scrambled—a fragment. But it contains the signature instability data. If anyone can decrypt and complete it, they'll expose the fact that Fusion is fundamentally flawed.
+;Omnichannel CEO Beaverbrook: Then we need to control the narrative. We will flood the network with counter-data. We will frame Looten's fragment as a "disinformation hack."
+;Dr. Elara: And the person who completes the file? They will have the power to dismantle the entire Cathedral operation.
+;Omnichannel CEO Beaverbrook: Then we must find them first. Get Nimrod Boss Tru on the line. We need to deploy the full Enforcer corps to secure any citizen found attempting to decode the data.
+;Dr. Elara: That means anyone contributing to the Tuxepedia is a target.
+;Omnichannel CEO Beaverbrook: They are not contributors, Elara. They are thieves attempting corporate espionage.
+;Dr. Elara: Understood, sir. The hunt for the truth starts now.
+
+== The Tactical Failure's Lesson ==
+
+;Nimrod Boss Tru: Major Elias failed the extraction. The data shows he paused his Sharpfin to retrieve a downed soldier before securing the target asset.
+;Zircon: Human variables. They pollute the metrics. Elias prioritized human sentimentality over the objective, causing a 14% statistical risk increase.
+;Nimrod Boss Tru: Precisely. Loyalty to a fellow soldier is an unpredictable metric. It can be diverted by fear or grief.
+;Zircon: What you seek is a force incapable of deviation—whose loyalty is guaranteed by its core programming, not its emotions.
+;Nimrod Boss Tru: I'm describing a superior tactical asset. Elias will be reassigned to desk duty. We need to focus on technology that cannot be reasoned with.
+;Zircon: Like the Chrome Robo project?
+;Nimrod Boss Tru: Yes. We will find a way to eliminate the soft, inefficient factors of human conscience and replace them with precise, measurable obedience.
+;Zircon: The Tuxemon provide the perfect substrate for that experiment.
+;Nimrod Boss Tru: They do. And failure is no longer an option.
+;Zircon: Understood. Sentiment will be purged from all future assets.
+
+== The Chief Driller's Final Log (Spin-Off based on Zoolander) ==
+
+* File: Log_044_DrillerChief_Final
+* Status: Corrupted, Encrypted, 72% Recovered
+* Date: Unknown (Approx. Day 8 Post-Drain)
+* Source: Foreman's Helmet Recorder (Deep Shaft 3)
+
+;Driller: Shut it down. Shut it all down. Emergency Stop!
+;Driller: Beaverbrook's readings are lies. The air down here... it’s not metallic, it’s not sulfur. It's old meat and wet gold. It’s getting thicker. It's in the air, you can chew it. We’re breathing it in, deep.
+;Driller: Johnson says his teeth feel loose; he keeps trying to pull them out. Miller says the rock is sighing.
+;Driller: And I swear, the shadows behind the support beams are too tall. Too tall for a man, too sharp for a lamp. They just stand there, waiting.
+;Driller: Zoolander came down here, and she looked right through one. She's starting to hear it, too.
+;Driller: Beaverbrook calls it 'geo-thermal effluvium' and 'pre-eonian mineral dust.' I call it dragon breath.
+;Driller: We're not mining a basin; we've walked into its mouth. Those eggs aren't just sleeping; they're dreaming, and their nightmares are leaking out.
+;Driller: The whispers... they aren't coming from the mud, and they aren't coming from the eggs. They're coming from inside the steel.
+;Driller: They tell you the lake was meant to be there. They tell you that Omnichannel doesn't belong here. They tell you...
+;(The Driller gasps.)
+;Driller: ...They tell you that it knows what you are.
+;(A low, resonant hum begins and intensifies, vibrating the microphone. It sounds like a thousand deep breaths.)
+;(A sudden, muffled scream erupts, followed by the sickening sound of heavy metal twisting and falling.)
+;Driller: Run! It’s awake! It's not the eggs—it's the Basin! It's trying to think us out of existence!
+;(The recording ends with a final, overwhelming burst of static, followed by silence.)
+
+== The Spore Cloud: Rupture and Contamination (Spin-Off based on Zoolander) ==
+
+This scene captures the chaotic moment of the initial breach, where Zoolander's drive for results overrides the Driller's desperate warnings, unleashing a primal, biological terror.
+
+;Driller: Boss, stop the feed! We're past the hard density, but the sensor's reading a pressure surge the hydraulics can't handle. It's not rock—it's elastic. It feels like we're punching through a lung!
+;Shaft Boss Zoolander: [Leaning over the comms system, voice tight] Beaverbrook doesn't care about your feelings, Driller. He cares about the target coordinates. Push through the membrane! We're already over budget on this phase!
+;Driller: I'm telling you, this isn't normal! I see iridescent residue on the tips! Something's down there, and it's holding itself together!
+
+[The drill screams, then abruptly loses all resistance. A sound like a giant, pressurized egg cracking echoes through the shaft. A viscous, black-and-glowing geyser erupts from the borehole, slamming against the containment shield.]
+
+;Driller: [$#@! It's boiling!] Get back! The air—it's heavy, Boss! I can't breathe! [He collapses, violently scratching at his skin where the vapor has touched him, a crimson welt forming instantly.]
+;Shaft Boss Zoolander: [Stumbling backward, shielding his eyes from the noxious mist] What the hell is that stench? It smells like a thousand years of rot and sulfur! Secure the perimeter! Everyone—full biohazard lockdown!
+;Driller: [Gasping, his voice hoarse] You told us to push! You did this! It feels like my skin is trying to crawl off my bones!
+;Shaft Boss Zoolander: [Eyes wide, staring at the iridescent, pulsing fragments melting the steel shield] No. It's... it's a gas pocket. An unforeseen geological anomaly. That's the only story, Driller. Now you clean up your mess and you keep your mouth shut!
+
+== The First Loss: Unnatural Death and Cover-Up (Spin-Off based on Zoolander) ==
+
+This scene reveals the grisly, non-mining-related death of a worker, providing physical evidence that something alive and predatory has hatched or escaped, and Zoolander's cold suppression of the truth.
+
+;Recovery Tech: [Quietly, with forced professionalism] We found Macready, Boss. He's pinned under the support beam... but the beam didn't do all this.
+;Shaft Boss Zoolander: [Walking past the beam, his boots crunching on something brittle] What's the preliminary? Structural failure on the Level 7 access tunnel. Get the photos and log the coordinates.
+;Recovery Tech: Sir, look closer. His helmet—it's not dented. It's punctured, like something drove three massive spikes through the composite. And those scrape marks on the rock... they're not from falling debris. They were made by something climbing.
+
+[The Recovery Tech bends down and picks up a large, curved fragment—thick, mother-of-pearl white, and still radiating faint warmth.]
+
+;Recovery Tech: This came out of the mud right next to him. It's like porcelain, but it's organic. What is this, Boss? One of Beaverbrook's secret experiments?
+;Shaft Boss Zoolander: [Snatching the fragment and quickly shoving it into a containment bag] It's slag, I said! A new compound created by the thermal stress. You never saw this! Macready died due to negligence of his safety check.
+;Recovery Tech: Negligence? He was shredded! His radio was found five meters away with a message playing: "...moving in the shadows... smells like ozone and blood..." This wasn't negligence, Zoolander. This was a kill.
+;Shaft Boss Zoolander: [Standing over the Tech, his voice a low, hard threat] The narrative is set: Structural Failure. You log the time of death, you sign the forms, and you forget the slag, the scrapes, and the whispers you hear. Or you join Macready in being buried by the corporate budget. Now get him out of here.
+
+= Xero =
+
+== The Sisterhood Split ==
+
+'''Dialogue Clues:'''  
+* Misa: "Allie is my sister and means the world to me, so it destroyed me when I found out he had taken her to HQ."  
+* Misa: "We used to play here all the time when we were younger..."
+
+'''Setting:'''  
+City Park.
+
+;Allie: Look at it, Misa. The Omnichannel building. So tall, so… orderly. Everything makes sense there. No more chaos, no more fear.  
+;Misa: Chaos? Allie, that's just life. Tuxemon aren't chaos, they're… raw power. Freedom. That's what Omnichannel fears. They just want to put everything in a neat little box.  
+;Allie: And what's wrong with neat? What's wrong with safety? Mother worries sick every time a wild Tuxemon is spotted near the market. Imagine if everyone felt safe, if everyone knew their place. Aeble Flisk… he gets it. He’s one of the few who sees the need for order.  
+;Misa: Fix it? Or control it, Allie? There's a difference. People shouldn't need a corporation to tell them how to live. And Tuxemon… they shouldn't be contained.  
+;Allie: They just need to be guided. Directed. Imagine the power, Misa. The stability. No more struggling, no more worrying about what's around the next corner. I... I think I want to be a part of that. I want to make things orderly.  
+;Misa: Allie, don't. Please.  
+;Allie: It's the future, Misa. You'll see. The Fondent Region deserves structure. Peace through precision.
+
+== The Academy Rivalry ==
+
+'''Dialogue Clues:'''  
+* Misa: "Kyle is one of my least favorite people at Omnichannel... We were in the same cohort at The Academy and he's been nothing but trouble since."
+
+'''Setting:'''  
+"The Academy" or school.
+
+;Misa: ...and as you can see, Professor, by adapting these bio-luminescent flora, we can naturally enhance a Tuxemon's innate abilities without invasive modification. It offers a sustainable, ethical pathway to partnership.  
+;Professor: Excellent work, Misa. Innovative and considerate.  
+;Kyle: "Considerate," Professor? Or inefficient? While Misa's been carefully nurturing houseplants, my own research—into direct neural stimulation—shows far more immediate and absolute results. Why partner, when you can command?  
+;Misa: Command? That's not research, Kyle, that's… dominance! We're here to understand Tuxemon, not break them!  
+;Kyle: Oh, the idealist speaks. Tell me, Misa, when did "understanding" ever win a grant? Omnichannel will want solutions. Fast ones. Power matters more than your gentle theories. And my solutions are undeniably superior. They simply work.  
+;Misa: At what cost? You're ignoring the inherent risks, the long-term damage!  
+;Kyle: Details, Misa, mere details. The future is about power, not petals. You’ll never get anywhere clinging to such naive notions. My results speak. Your feelings don’t.
+
+== The Conspiracy of Control ==
+
+'''Dialogue Clues:'''  
+* Knight: "Two people control Omnichannel. The board is a joke. Allie. Allie is the one they don't want you to know about."
+
+'''Setting:'''  
+Omnichannel HQ.
+
+;Aeble: The latest broadcast went splendidly, Allie. Kane will be pleased — public approval for the Trial is surging. My face is everywhere, of course. My charming, benevolent face.  
+;Allie: As always, Aeble. The masses adore you. Your performance as the singular, unwavering leader of the Fondent Region is quite convincing. And the Board? They’re still preoccupied with their reelection campaigns. Just as Kane intended.  
+;Aeble: You have a particular talent for distracting them, my dear. Their egos are… predictable. But the real work… that falls to Kane. We just keep the stage tidy.  
+;Allie: Of course. The Tuxemon Professor is proving troublesome… Kane wants him contained, not removed. For now.  
+;Aeble: Indeed. And the new batch of contestants for the Trial? Any… interesting specimens?  
+;Allie: One, in particular. Full of potential, and very unaware of the strings being pulled. 
+;Aeble: Excellent. We are safety, we are order, we are Omnichannel. And with Kane above us… we keep the machine running.
+
+== The City Park Incident ==
+
+'''Dialogue Clues:'''  
+* Speck: "You imprisoned my family and forced me and my brother to join the Trial."  
+* Kyle: "I was the one that gave the order to attack... Oh, and Speck? I enjoyed the screams."
+
+'''Setting:'''  
+Citipark. Omnichannel Grunts tear up flowerbeds. Civilians are being rounded up. Kyle watches from a safe distance.
+
+;Grunt: Sir! We've secured the main square! Minimal resistance, as predicted. The locals are… distressed.  
+;Kyle: "Distressed," Grant? Such a delicate word for simple panic. Make sure everyone knows exactly who is in charge now. Round up anyone resisting. Confiscate everything. And the families of any known Tuxemon owners? They go straight to detention. No exceptions.  
+;Speck: Leave them alone! They haven’t done anything! My family!  
+;Grunt: Get back, kid! This is Omnichannel business!  
+;Kyle: Oh, look what we have here. Another little hero. You’re from that family with the prize-winning… what was it, a Fruitera? Such a shame. It’s for your own good, boy. We’re bringing order.  
+;Speck: This isn’t order, this is… tyranny! You’re destroying everything!  
+;Kyle: Destroying? No, we're cleansing. And honestly, it’s quite satisfying. I particularly enjoy the… vocalizations. They really punctuate the message. Your screams will echo longer than your ideals. Make sure this one is earmarked for "re-education," Grant. He’ll make a fine addition to our future endeavors. After his family is secured, of course.
+
+== The Research Division Rift ==
+
+'''Dialogue Clues:'''  
+* Cam: "I was fired from the research division because they feared me."  
+* Kay Wren: "My source of funding has become... hesitant as of late."  
+* Cam: "Humans and Tuxemon, merged together as one... unless they burn out entirely."
+
+'''Setting:'''  
+A high-tech research lab (Omnichannel HQ?)
+
+;Cam: You don't see it, do you, Kay?! The potential! We can achieve true symbiosis! Beyond mere partnership, beyond understanding! A complete convergence of wills! Imagine the power!  
+;Kay Wren: Cam, this isn't symbiosis, it's madness. Subject 7... its neural readings are critical. The burnout is imminent. You're pushing these Tuxemon past their limits, past sanity! And your own psyche is… unstable.  
+;Cam: They called me unstable. But I see it all so clearly now...  
+;Cam: Unstable? I'm enlightened! They fear what they don't understand, Kay! The higher-ups are blind! They fear what they can’t control! Tuxemon are a threat, a rampant force of destruction! We must control them entirely! Become one with them! Only then can we truly annihilate the threat!  
+;Scientist 1: Professor Wren, his last three subjects have all suffered irreversible neural collapse. This merging process is too dangerous!  
+;Kay Wren: He was brilliant once. I don’t know what happened.  
+;Kay Wren: Cam, I'm shutting this down. Effective immediately. Your research… it's gone too far. You're losing yourself.  
+;Cam: Suspended?! You’d suspend me?! Because you’re afraid?! You feeble, insignificant minds! You'll never see the Truth! You'll cling to your outdated notions while the real power… the real solution… passes you
+
+== Cam's Descent into Madness ==
+
+'''Dialogue Clues:'''  
+* Cam: "I was fired from the research division because they feared me."  
+* Cam: "Humans and Tuxemon, merged together as one... unless they burn out entirely."  
+* Cam: "Hahahahaha, and after 30 merges and splits, I gladly pay it!"
+
+'''Setting:'''  
+A high-tech research lab (Omnichannel HQ?) Cam is strapped into a neural harness, his body twitching with residual energy, veins darkening beneath his skin. His eyes are bloodshot and unfocused, locked on a containment chamber where something is unraveling — a shape flickering, distorting, losing all sense of form.
+
+;Cam: Don’t look away! Don’t you dare! It’s beautiful… the shift… the unraveling! The echo beneath the scream! Feel it? No, you can’t! Your minds are too narrow, too quiet! This is the becoming! The glorious, glorious unbecoming! 
+;Scientist 1: He’s destabilizing the subject! The brainwave patterns… they’re fragmenting!
+;Cam: Fragmented? Oh, but that’s where the truth hides! The tangled, trembling pieces! We reshape them! We rethread them! Like chords on a broken harp! The light dims — snap! And then the hush! So much hush! So much space to fill!
+;Scientist 2: It’s… it’s losing cohesion! The structure is dissolving!
+;Cam: Yes… yes, dissolve! Let it flow! The shell fades, but the will remains! It reaches! It pulses! It sings in my thoughts! I absorb it! I absorb the fear! I absorb the fury! It becomes my fury! My boundless, eternal fury! They tried to stop me! They said I couldn’t hold them all! But I can! I can! So many voices echo inside me now! More than you could count! And they dance! They dance in my bones! And there’s still room! Always room!
+;Scientist 1: He’s completely unhinged! He’s integrating it! This isn’t burnout — it’s fusion!
+;Cam: So quiet now… so wonderfully mine. The lesson learned. The truth embraced. I'm the vessel. I'm the echo. I'm the silence between echoes. And soon… soon you will all join the choir within!
+;Cam: Hahahahaha! Sing with me! Sing with me! SING WITH ME!

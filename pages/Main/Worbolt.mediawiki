@@ -1,0 +1,14 @@
+{{Monster
+|Alternative Names=Wyrbolt
+|First URL=https://www.reddit.com/r/fakemon/comments/b35551/a_couple_months_back_i_came_upon_an_opensource/
+|Sources=Chairry-Art,
+|Source Explanation=Design and front sprite by Chairry-Art.
+|Evolves=Tungrub,
+|Name Origin=''worm'' + ''bolt''
+''wyrm'' + ''bolt'' (Wyrbolt)
+|Design Origin=Based on [[Bolt]] by [[TacoBot]].
+|TXMN Types=Metal
+|TXMN Blurb=It eats metal fibers to produce its young artificially inside its body. Its bolt-like head can turn a full 360 degrees.
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}

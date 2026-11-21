@@ -1,0 +1,5 @@
+{{Item
+|Item Category=Held Item
+|TXMN Effects=Slow
+|Main Details=Could be a held or a combat consumable, slows the enemy.
+}}

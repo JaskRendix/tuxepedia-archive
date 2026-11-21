@@ -1,0 +1,12 @@
+{{Item
+|Item Category=Medicine
+|TXMN Effects=heal, restore
+|TXMN Target=player
+|TXMN Cost=1500
+|TXMN Usable In=world, combat
+|TXMN Description=Heals your tuxemon to full health and removes any conditions.
+|TXMN Consumable=yes
+|SpyderCampaign=Found in Cotton Tunnel and Route A (boxes); given after the bee-sting event at Cott's Candy Inn; given randomly by Eliane in Candy Town; sold at Leather, Flower, Timber, and Candy Scoop
+|Sources=Josepharaoh99, Sanglorian
+|Source Explanation=Sprite by josepharaoh99. Adapted by Sanglorian.
+}}

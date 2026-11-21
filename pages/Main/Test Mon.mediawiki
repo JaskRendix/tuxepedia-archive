@@ -1,0 +1,38 @@
+== When "File:Rockitten-front.png" is written as the Property ==
+
+[[Default1::File:Rockitten-front.png]]
+
+== When #ask is used to return "File:Rockitten-front.png" as the Property ==
+
+[[Default2::{{#ask:[[Category:Rockitten]]
+[[Category:Front Sprite]] [[Category:64px]]
+[[Category:Main]]
+|?#
+|mainlabel=-
+|format=plainlist
+}}]]
+
+== #ask by itself, no Property ==
+
+{{#ask:[[Category:Rockitten]]
+[[Category:Front Sprite]] [[Category:64px]]
+[[Category:Main]]
+|?#
+|mainlabel=-
+|format=plainlist
+}}
+
+== "File:Rockitten-front.png" by itself, no #ask or Property ==
+
+[[File:Rockitten-front.png]]
+
+== Problem with all files, not just images ==
+
+{{#if: {{#ask:[[Category:Rockitten]]
+[[Category:Call]]
+[[Category:Main]]}} | [[MainCall::{{#ask:[[Category:Rockitten]]
+[[Category:Call]]
+[[Category:Main]]
+|?#
+|mainlabel=-
+}}]] | [[MainCall::Missing| ]] }}

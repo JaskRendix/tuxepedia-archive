@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=257
+|TXMN Blurb=They try to blow themselves up and the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Family=Exotic
+|TXMN Is fast=Slow
+|TXMN Accuracy=95%
+|TXMN Power=1
+|TXMN Effects=Sacrifice
+|TXMN Recharge=1
+|TXMN Animation Target=3
+|Tags=Gadgets
+|Main Details=Intended for the 'bomber frog' concept I had. A less than perfect accuracy but slightly faster, ranged version of Undertaker.
+|Sources=HippasusTwo
+}}

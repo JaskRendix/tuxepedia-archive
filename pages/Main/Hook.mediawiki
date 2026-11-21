@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=246
+|TXMN Blurb=They aim to hook the opponent, perhaps with a horn or limb.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Water
+|TXMN Type 2=Metal
+|TXMN Sub-Elements=Heroic, Water
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=95%
+|TXMN Power=1
+|TXMN Potency=25%
+|TXMN Recharge=1
+|TXMN Target Condition=Harpooned
+|TXMN Animation Target=2
+|Tags=Water
+|Main Details=could be ranged or reach.
+|Sources=HippasusTwo
+}}

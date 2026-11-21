@@ -1,0 +1,10 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2334#p2334
+|Sources=Rubberduck
+|Name Origin=''Tux'' + ''lux''
+|Design Origin=Tux
+|Main Details=[[Category:Based on open source mascots]]
+|TXMN Types=Water
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+}}

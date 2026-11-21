@@ -1,0 +1,91 @@
+''This page describes the game mechanics of techniques. [[:Category:Technique]] is the list of techniques that have been designed and [[Creating Techniques]] is the guide to making your own techniques.''
+
+Techniques are discrete attacks, blocks, tricks and other manoeuvres that tuxemon perform in combat.
+
+Each tuxemon knows between one and four techniques at any one time, but which techniques they know can change. A monster can also re-learn techniques from earlier levels, by visiting the [[Dojo of the Elements]]. 
+
+=== Acquisition ===
+Each tuxemon learns techniques at certain levels according to their species (so all [[Rockitten]] have the opportunity to learn [[Ram]] at level 4 and [[Mudslide]] at level 7, for example.)
+
+A tuxemon can also learn techniques through other ways, most notably by having a technique teaching [[Item]] used on them. 
+
+=== Accuracy and Potency ===
+
+Accuracy (0 to 100): Accuracy is the chance of the technique succeeding. 
+
+Potency (0 to 100; only for technqiues with a User or Target Condition, or both): Potency is the chance of the conditions being applied.
+
+User Condition: The condition that the user receives (if Potency is successful)
+
+Target Condition: The condition that the target receives (if Potency is successful)
+
+=== Recharge ===
+
+Each technique has a "Recharge" value, which is how frequently it can be used. A value of 1 means it can be used again the next turn. A value of 2 or more means the user must wait that many turns to use it again. 
+
+=== Elements ===
+
+Most techniques have a single [[Type|Types]], drawn from the same types as tuxemon (so there are [[Earth]] tuxemon and [[Earth]] techniques, for example.)
+
+A few rare techniques have two types.  
+
+A technique's type is usually only relevant to affect the damage it does, so while techniques that do not do damage still have types, this is for thematic purposes only. 
+
+== Range, Power and Damage ==
+
+=== Range ===
+
+* '''Special:''' Any technique that does not involve an attack
+* '''Melee:''' Multiply damage by User Melee and divide it by Target Armor
+* '''Ranged:''' Multiply damage by User Ranged and divide it by Target Dodge
+* '''Touch:''' Multiply damage by User Melee and divide it by Target Dodge
+* '''Reach:''' Multiply damage by User Ranged and divide it by Target Armor
+* '''Reliable:''' Multiply damage by 1
+
+=== Power and Damage ===
+
+Multiply damage by the technique's Power. 
+
+A damaging technique does damage based on the below formula:
+
+    (User Melee or Ranged/Target Armor or Dodge OR 1 if Reliable) * (7 + User Level) * Technique Power * Weakness or Resistance Multiplier
+
+=== Targeting ===
+
+A technique can target the user, a single enemy, the user and their ally (in a double battle), both enemies (in a double battle) or all members of either player's team (including those still in their Tuxeball). 
+
+An attack targeting both enemies in a double battle has its damage reduced to 75% of what it would be if there were only a single enemy.
+
+=== Effects ===
+
+* <code>areas</code> Do damage to all enemy creatures currently in the battle. In other words, this effect makes no difference in a one-on-one battle but damages both enemies in a two-on-two battle. [[Firestorm]], for example. 
+* <code>cooldown x</code> Increases or decreases the recharge time for x's techniques (with x being own monster, enemy monster or both). Can indicate which types of technique are *not* affected, so for example [[Pouch]] reduces the user's recharge time for non-damaging techniques. Currently [[Pouch]] is unique in using this effect.
+* <code>disappear x</code> The user disappears for a turn (not able to be targeted by attacks), and then returns to use technique "x". For example, [[Oven]] causes the user to disappear for a turn and then use [[Fire Ball]] on their return. [[Burrow Blast]] does the same but with [[Strike]]. <code>appear</code> is the matching effect that ends the disappear effect.
+* <code>empty</code> The technique does nothing, by design. [[Wiggle]] is the only example so far. 
+* <code>foresight x</code> The technique is reused x turns later, with Power x. ''(No such examples yet.)''
+* <code>heal x, y</code> Heal x by y damage, if y is a number (say, 20 or 50). If y is a fraction, heal x by (y * target's maximum HP). ''(No such examples yet, except among items.)''
+* <code>healing</code> Heal the user an amount equal to (the technique's "healing power" value * (7 + user's level)). For example, [[Gourmet]] has healing power 3.
+* <code>life_share</code> Shares the current HP amounts of the two monsters. The direction of the sharing is determined by the `direction` attribute, which can be either "user_to_target" or "target_to_user". The method of the sharing is determined by the `method` attribute, which can be either "weighted", "geometric" or "simple". ''(No such examples yet.)''
+* <code>life_swap</code> Swaps the current HP amounts of the two monsters. The user receives the target's HP (up to the user's max HP), and the target receives the user's HP (up to the target's max HP). ''(No such examples yet.)''
+* <code>money</code> On a hit, gain dollars equal to the HP damage done. On a miss, user loses HP equal to the damage that would have been done. [[Gold Digger]] is currently the only technique to use this effect. 
+* <code>move_type x</code> The element of the move changes to match the element of x, which is either the user or the target. ''(No such examples yet.)''
+* <code>multiattack x</code> Make a number of attacks equal to x. For example, [[Leaf Barrage]] attempts two hits.
+* <code>photogenesis x, y, z</code> Heals the user based on time of day. The entry specifies the start hour (x), peak hour (y, when healing is greatest) and end hour (z). Healing is skipped if the user is indoors, the technique misses, or the user is at full health. [[Solar Synthesis]] heals the user via <code>photogenesis 6,12,18</code>.
+* <code>prop_damage x, y</code> Do damage to x, an amount equal to (y * the target's maximum HP). [[Panjandrum]] deals 25% of the target’s max HP. [[Tooth for Tooth]] does proportional damage to both user and target.
+* <code>prop_healing x, y</code> Heal x an amount equal to (y * the user's maximum HP). [[Blossom]] heals its user for 20% of max HP after damaging the foe.
+* <code>remove x, y</code> Remove y condition from x (own monster, enemy monster or both). Can indicate a single condition or multiple, or use "positive", "negative" or "all". [[Feint]] removes positive conditions from the enemy. 
+* <code>reverse x</code> Change x's element back to its original element after it has been switched. X can be the player's monster, the opponent's monster, both, etc. [[Neutralize]] reverses type changes for every creature on the field, if they have been <code>switch</code>ed, and is currently the only technique to use the reverse effect. 
+* <code>sacrifice x</code> The user loses all of their HP, and the target takes damage equal to the user's HP loss * x. [[Undertaker]] spends all of the user’s current HP to do that much damage; currently the only technique to use this effect.
+* <code>scope</code> The opponent's stats are revealed. [[Scope]] is the archetypal (and to date only) example. 
+* <code>splash x</code> If the attack misses, do damage divided by x (always 8 in the conditions implemented so far). [[Surf]] is such an example. 
+* <code>step_damage x, y, z</code> Do damage based on the number of [[Steps]] that the user has taken. ''(No such examples yet.)''
+* <code>step_healing x, y, z</code> Do damage based on the number of [[Steps]] that the user has taken. ''(No such examples yet.)'' 
+* <code>switch x, y</code> Changes x's element to y, which can be a specific element or random. X can be the player's monster, the opponent's monster, both, etc. For example, [[Ants]] changes the opponent's element to Earth while [[Chameleon]] changes the user's element to Wood. If a monster has two elements, both are replaced by the new element.
+* <code>transfer x</code> If the user has the specified condition (x), the target gets the condition instead. [[Suck Poison]] transfers [[Poisoned]], and is the only technique with this effect so far.
+
+(Damage is technically an effect too, but is omitted from this list since it is discussed above.)
+
+= Related links =
+
+* [[Other technique ideas]]
+* [[Technique design space]]

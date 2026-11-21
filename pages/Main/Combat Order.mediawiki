@@ -1,0 +1,55 @@
+[https://github.com/Tuxemon/Tuxemon/issues/128 Original issue],  [https://forum.tuxemon.org/thread.php?id=135 Discussion thread], [https://forum.tuxemon.org/thread.php?pid=1936#p1936 Discussion thread 2], [https://github.com/Tuxemon/Tuxemon/wiki/Combat-State-Overview Tuxemon Github Wiki article]. 
+
+Combat actions are sorted by category (healing, swapping, attacking, etc) and monster [[Speed]].
+
+To ensure that multiplayer is compatible, rules can't be things like "Protagonist goes first". 
+
+=== Categories ===
+* Item use
+* Techniques (can be split by effect)
+* Retreating/attempting to retreat
+* Switching tuxemon
+* Status effects
+* Replacing a knocked-out tuxemon
+* XP allocation
+
+=== Proposals ===
+
+''Tamashihoshi:'' May be more strategic than having items guaranteed to go off.
+
+* Combat techniques
+* Healing techniques and items
+
+''r1g1l:'' Having Capture Devices go first ensures that tuxemon that always run can still be caught.
+
+* Special items ([[Capture Devices]])
+* Run
+* Monster techniques (by monster speed)
+* Regular items
+* Healing
+* Status effects
+
+''Sanglorian:''
+
+* Choosing actions. Each player chooses whether they will: use a technique with their active tuxemon, attempt to retreat, use an item or switch their active tuxemon for a different one on their team.
+* Attempts to retreat. If both attempt to retreat, both automatically retreat.
+* Switching tuxemon. If both attempt to switch tuxemon, it's random who switches first.
+* Using an item. If both attempt to use an item, the relative Speeds of the tuxemon determine which happens first.
+* Fast Techniques. If a technique has the Fast effect, it goes before other techniques. If both attempt to use a Fast technique, the relative Speeds of the tuxemon determine which happens first.
+* Non-Fast Techniques. If both attempt to use a technique, the relative Speeds of the tuxemon determine which happens first. Any of these use up your action for the round - you can only do one. If two tuxemon's Speeds are tied, it's random which goes first.
+* XP Allocation. If a tuxemon was knocked out in a previous part of the round, its XP is allocated now.
+* Replacing a Knocked-Out Tuxemon. If one was knocked out this round. Note, if a tuxemon is knocked out in a round, its replacement does not get to act.
+* Conditions. If you are poisoned, you take damage now. If your condition has a 50% chance of healing each round, this is the time when the game announces whether that has succeeded, etc.
+
+Other options would be:
+
+* Who uses their item first is random instead of being based on tuxemon speed
+* The Fast effect modifies a tuxemon's Speed instead of guaranteeing that they go first
+* Trainers could have their own Speed that would affect some of these operations
+* Items could have their own Speed (benneti: you could have a fast quick injection or a slower full recovery drug)
+* Instead of having different turns for retreating, switching, items and techniques, every action could have its own Speed/Speed modifier. A very fast tuxemon could then get its technique off before an item is used, while a very slow one couldn't (for example).
+
+''Trainer stats (bitcraft, tamashihoshi and others):'' A trainer Speed stat would determine or modify action order, especially for item use. See [[Trainer Stats]] for general proposals for trainer stats. 
+
+* Instead of making a fixed "first this then that" order, we could go for something more flexible... For example retreat attempts: 20 + speed modify (trainer/2 + tuxemon) -> some value; tuxemon switch: 30 + speed modify (trainer) -> some value; item use: 40 + speed modify (trainer + tuxemon/2) -> some value
+* A very fast person could use a technique before you can heal your tuxemon. probably even before you can retreat (gotta go fast)....

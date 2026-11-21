@@ -1,0 +1,7 @@
+[[Category:Overland Sprite]]
+[[Category:Conileaf]]
+[[Category:Main]]
+[[Category:Catch Challenger]]
+[[Category:16px]]
+
+A sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.

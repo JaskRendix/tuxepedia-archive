@@ -1,0 +1,131 @@
+Fusions have been part of [[ShadowApex]]'s vision for Tuxemon for most of the time it has been under development. 
+
+== Implementation ==
+There are a number of ways that fusions could be implemented:
+
+* Merging, where two tuxemon are temporarily combined, as envisaged in [[The Spyder in the Cathedral]]
+* Splicing, where two tuxemon are permanently combined
+* Breeding, where the "fused" tuxemon is the child of two other tuxemon 
+
+=== Questions to resolve ===
+''[https://forum.tuxemon.org/thread.php?id=33 Original thread]''
+
+''[https://forum.tuxemon.org/thread.php?pid=2276 Further discussion]''
+
+==== Which elements are taken from each "half" ====
+
+Sanglorian suggests consistently taking the prefix from the father and suffix from the mother, or vice versa, communicating a little bit about the genealogy of the tuxemon. You could even have crosses have different powers based on which is the father and which is the mother, which absolutely happens in real life (ligers and tigons are quite different for example). 
+
+A Bamboon♂ × Rockitten♀ (Bamkitten) could consistently take the size, weight and stats of its father but the element and techniques of its mother, while a Rockitten♂ × Bamboon♀ (Rockboon) could have the size, weight and stats of a Rockitten but the element and techniques of a Bamboon.
+
+ShadowApex points out the only hitch is that, unlike with breeding, the fusion system that they had in mind could be between any two monsters, regardless of gender.
+
+==== If fusion is permanent, are there new [[Tuxepedia App]] blurbs for the fused tuxemon? ====
+
+The blurb could simply be: "Fused from A and B". 
+
+Or it could be randomly generated, perhaps based on the fused monster's [[Type]] and [[Body Shape]]. 
+
+The most work but perhaps most satisfying would be to create mixable elements for each tuxemon species.
+
+==== How does morphing work for fusions? ====
+
+# They don't morph; if they are the combination of a first-stage tuxemon and a third-stage tuxemon, they just stay that way
+# They inherit morph patterns from one or the other "contributor" tuxemon
+# All fused monsters have a standard morph pattern (provided their contributor monsters have morphs)
+
+==== Fusions of fusions ====
+
+The permanent fusions - splicing and breeding - raise the question of what happens if a fused tuxemon is then fused with another tuxemon. 
+
+This is a concern both for names (if Ignibus + Agnite = Igninite, then does Igninite + Agnite = Igninitenite?) and the mechanics. 
+
+fruitdev had four suggestions for how to resolve the naming problem: 
+
+* Develop a rigorous naming system that conveys all ethnic information of the tuxemon and have the program generate such names.  The problem with this is that names eventually might grow to monstrous sizes.
+* Allow players to name all fused species in-game, thus taking the load off the computer and making names more natural, but limiting a common understanding of names between players.
+* Prohibit breeding of fused monsters, just like real-life animals like ligers and mules.  That way, the tuxemon can be named using two simple root words from its parents, and it wouldn't have to keep track of blood percentages that would only gain complexity as the player breeds his creature with more mates.  Unfortunately, this would also mean there are a limited number of tuxemon to find and catch, and that is what the fusion system is trying to alleviate in the first place.
+* Prohibit breeding of fused monsters, and prescribe names to all tuxemon and their combinations.  This would give the infertile fusions their own naturalistic names, but it also limits the number of tuxemon that can be caught, just like the last method.
+
+ShadowApex has confirmed that fusion will only be between two "halves"; if a fused tuxemon is used in a fusion, then only one of its two halves will be put in the mix. For example, if you fused an Ignibus/Agnite with a Heronquak/Grintrock, the resulting monster could be Ignibus/Grintrock. This will reduce the total number of fusion combinations, but any fusion system will have a finite number of possibilities.
+
+In regards to the naming of fused monsters, each monster has a name "prefix" and "suffix". Here is an example of how the fused monster name could be generated with these two monsters:
+
+'''Full Name:''' Bamboon
+'''Prefix:''' Bam
+'''Suffix:''' boon
+
+'''Full Name:''' Rockitten
+'''Prefix:''' Roc
+'''Suffix:''' kitten
+
+Would create something like this:
+
+'''Full Name:''' Bamkitten
+'''Prefix:''' Bam
+'''Suffix:''' kitten
+
+===== How to choose which "half" of a fusion is passed on =====
+
+* Random
+* nikkos suggested that the half could be chosen based on which techniques were used more by the fused tuxemon (ShadowApex points out the only problem is if the fused halves share a technique)
+
+=== Resources ===
+* Manually-created fusions are collected in [[:Category:Fusion]]
+* The plan is for fusions to be created using a similar process to [http://pokemon.alexonsager.net/ Alex Onsager's Pokemon fusion site] ([https://www.alexonsager.net/2013/06/04/behind-the-scenes-pokemon-fusion.html more details on Onsager's blog]).
+
+== The Spyder in the Cathedral ==
+Fusion is an important sub-plot in [[The Spyder in the Cathedral]]. 
+
+The [[Fusion Report]] found in [[Greenwash HQ]] has the details on fusion.
+
+== A fusion-based plot, proposed by rsg167 ==
+''[https://forum.tuxemon.org/thread.php?id=45 Original thread]''
+
+We keep the monster fusion mechanic a secret.
+
+When the player topples over half the Great Cathedral's pillars, a representative of Giovanni approaches.  He challenges the player -- a usual thing for a boss to do -- but his monster is a fusion.  And fusions are really strong.  Like, stuck-on-the-same-battle-three-days strong.
+
+Every now and then, the boss's fused monster emotes:
+
+"ROCKTERA shivers."
+
+It turns out that fused monsters will occasionally replace a move with shivering. If you've seen Romani from LoZ: Majora's Mask after They get her, you already know what I'm going for.
+
+If a fused monster meets the evolution requirements of either of its base monsters, it will forget all its moves and become unresponsive to player commands.  It will just do nothing.
+
+Here comes an important player decision.
+
+# Should I keep fighting with my normal tuxemons, even though it's really hard?
+# Or, should I fuse my tuxemons, consigning them to a broken existence but being strong enough to plow through Giovanni's forces?
+
+''ShadowApex:''
+
+I really love the idea of making big decisions like this, and especially giving the fusions an important role to play that may be critical to the story, instead of something that's just thrown in. I think there's some problems I could see though:
+
+1. I feel this would promote players to just use "throw-away" monsters for fusions. Catch a monster in the wild and level them up a little bit, then fuse them for a certain battle and throw them away when they can't be used any more.
+
+: rsg167: 
+: I never thought of that.  yikes Yes, many players would probably start doing that. I don't think it's bad, though. Players would be able to see things from the villain's perspective. What are the benefits of fusion? What are the drawbacks? Then they could come to their own conclusions.
+
+Throw-away monsters could be a strategy for players who are only interested in the storyline. It would be the "easy mode", if you will.
+
+2. I think this would also have a negative affect on multiplayer. In multiplayer battles, everyone would need to resort to fusions to have the fighting power to win a match. This would essentially make all non-fused monsters not viable for multiplayer, and decrease the diversity of teams.
+
+: rsg167: 
+: I agree completely. One possible workaround is to have the players agree on a "battle ruleset":
+: All's Fair - fusion monsters have boosted stats
+: Weak Fusions - fusion monsters don't have boosted stats
+: No Fusions - only natural monsters allowed
+: You can only fight with someone if you both agree on a ruleset.
+
+I think the general idea of fusions used as a plot device for the main antagonist is great, so long as we can work around those problems. Even making the fusions look somewhat grotesque would add to the feeling that fusing monsters might be morally wrong.
+
+== Fusion Names ==
+{{#ask:[[TXMN Completed::Complete]] |limit=400
+|?FrontSprite
+|?Fusion First
+|?Fusion Second
+}}
+
+[[Category:Fusion]]

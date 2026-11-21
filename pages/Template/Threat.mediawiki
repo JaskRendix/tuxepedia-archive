@@ -1,0 +1,122 @@
+<noinclude>
+This is the "Threat" template.
+It should be called in the following format:
+<pre>
+{{Threat
+|Types=
+|Sources=
+|Source Explanation=
+|Main Details=
+|Threat Completed=
+|Threat Completed Exists=
+|TXMN Types=
+|TXMN Body Shape=
+|TXMN ID=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+[[Category:Main]]}} | [[MainImage::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+[[Category:Main]]
+|?#
+|mainlabel=-
+}}|thumb]] | [[MainImage::Missing| ]] }}
+
+{| style="width: 30em; font-size: 90%; border: 1px solid #aaaaaa; background-color: #f9f9f9; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: 0.2em; float: right; clear: right; text-align:left;"
+! style="text-align: center; background-color:#ccccff;" colspan="2" |<span style="font-size: larger;">TXMN Stats</span>
+|-
+! Type(s)
+| {{#arraymap:{{{TXMN Types|}}}|,|x|[[TXMN Type::x]]}}
+|-
+! Call
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Call]]
+[[Category:Main]]}} | [[MainCall::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Call]]
+[[Category:Main]]
+|?#
+|mainlabel=-
+}}]] | [[MainCall::Missing| ]] }}
+|-
+! Completed
+| [[Threat Completed::{{{Threat Completed|}}}]] {{#if: {{{Threat Completed|}}} | | {{#set:Threat Completed Exists=No}} }} 
+|-
+! Body Shape
+| [[TXMN Body Shape::{{{TXMN Body Shape|}}}]] 
+|-
+! ID
+| [[TXMN ID::{{{TXMN ID|}}}]] {{#if: {{{TXMN ID|}}} | | {{#set:TXMN ID Missing=Yes}} }} 
+|-
+! Height/Length (centimetres)
+| [[TXMN Height::{{{TXMN Height|}}}]]
+|-
+! Weight (kilograms)
+| [[TXMN Weight::{{{TXMN Weight|}}}]] 
+|}
+
+'''{{PAGENAME}}''' is a {{#if:{{{TXMN Types|}}}|{{#arraymap:{{{TXMN Types|}}}|,|x|[[TXMN Types::x]]-type}}|[[TXMN Types::Untyped]]}} threat.  
+
+{{{Main Details|}}}
+
+== Sprites ==
+{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Front Sprite]] [[Category:64px]]
+[[Category:Main]]}} | [[FrontSprite::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Front Sprite]] [[Category:64px]]
+[[Category:Main]]
+|?#
+|mainlabel=-
+}}|64px]] | [[FrontSprite::Missing]] }}
+
+{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Overland Sprite]] [[Category:16px]]
+[[Category:Main]]}} | [[OverlandSprite::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Overland Sprite]] [[Category:16px]]
+[[Category:Main]]
+|?#
+|mainlabel=-
+}}]] | [[OverlandSprite::Missing]] }}
+
+ __NOTOC__
+== Contributors ==
+{{#if:{{{First URL|}}} | <strong>First Appeared:</strong> [{{{First URL|}}}] | }}
+
+{{#arraymap:{{{Sources|}}}|,|x|[[Sources::x]]}}
+
+[[Source Explanation::{{{Source Explanation|}}}]]
+
+== Variations ==
+{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+[[Category:Alternative]]
+|?#
+|format=gallery
+|link=all
+|searchlabel=… further results
+|navigation=nav
+|autocaptions=1
+|intro=Other art
+}}
+{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 1||Menu Sprite 2||Menu Sprite||Face Sprite 1||Face Sprite 2||Back Sprite||Front Sprite||Other Sprite]]
+[[Category:Alternative]]
+|?#
+|link=all
+|searchlabel=… further results
+|navigation=nav
+|intro=<strong style="text-align: center;">Alternative sprites</strong>
+}}
+
+== Techniques ==
+{{#ask:[[Technique Allocation::{{PAGENAME}}]] [[Has Technique::+]]
+|mainlabel=- 
+|? Has Technique
+|? Technique Level
+}}
+[[Category:Threat]]
+[[Category:{{PAGENAME}}]]
+{{#arraymap:{{{TXMN Types|}}}|,|x|[[Category:x]]}}
+{{#arraymap:{{{Sources|}}}|,|x|[[Category:x]]}}
+</includeonly>

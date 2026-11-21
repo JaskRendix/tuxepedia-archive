@@ -1,0 +1,103 @@
+[[File:Image--022.jpg|thumbnail|Example capture animation]]When the player faces a wild tuxemon (one without a [[trainer]]) in combat, the player can use a device to catch it - which makes the tuxemon belong to the player. 
+
+= Purpose = 
+
+Including capturing in combat adds a few features to the game:
+
+# Even battles against weak tuxemon are challenging, since you need to lower their hit points without eliminating them
+# Other tactics become preferable, like using conditions or using techniques that aren't so damaging
+# Capturing comes with a monetary cost, and being sloppy with capturing carries a higher cost
+# Customisation - in a game with different types of [[Capture Device]], you might want to catch your tuxemon in one particular one, or have a collection
+
+= How It Works =
+
+# You buy or otherwise acquire a number of [[Capture Device]]s
+# In battle, you weaken the tuxemon by damaging it, and potentially also by giving it a negative [[condition]]
+# Instead of taking another action in a Round like using a technique, you use a Capture Device
+# It has a chance of succeeding. If it does, you catch the tuxemon. If it doesn't, then your Turn for the Round is over. You can try again later, however.
+
+= Current System = 
+
+catch_check Formula:
+
+    (3 * target.hp - 2 * target.current_hp) * target.catch_rate * status_modifier * tuxeball_modifier / (3 * target.hp)
+
+shake_check Formula: 
+
+    = 524325 / (sqrt(sqrt(100 / catch_check)) * 8) * catch_resistance
+
+A random number between 0 and 65 536 is chosen and compared to this result. 
+
+The shake_check occurs four times. If any shake_check fails, the capture attempt ends immediately. If all four succeed, the capture succeeds.
+
+== Example ==
+
+The player is trying to capture an '''Aardorn''' (Catch Rate 100) with maximum 100 HP that has taken 35 damage (current HP 65), using an ordinary [[Tuxeball]] (x1 modifier). The Aardorn has no conditions. 
+
+catch_check:
+
+    = (3 * target.hp - 2 * target.current_hp) * target.catch_rate * status_modifier * tuxeball_modifier / (3 * target.hp)
+    = (3 * 100 - 2 * 65) * 100 * 1 * 1 / (3 * 100)
+    = (17 000) / (300)
+    = 57
+
+shake_check:
+
+    = 524 325 / (sqrt(sqrt(100 / catch_check)) * 8) * catch_resistance
+    ≈ 56 948
+
+Aardorn’s Catch Resistance is chosen randomly each capture attempt from between 0.95 and 1.25, so the final shake_check threshold is between 54 101 (46% chance of capture) and 71 185 (100% chance of capture).
+
+== Catch Rate and Resistance ==
+
+Depending on what sort of monster it is, the calculation changes in two ways.
+
+Every monster has a Catch Rate (catch_rate in the formula above) of between 5% and 100%. This affects the overall chance of succeeding on the check. 
+
+{| class="wikitable"
+! Catch rate !! # of species !! Example species
+|-
+| 5% || 5 species || [[Altie]]
+|-
+| 35% || 47 species || [[Agnigon]]
+|-
+| 50% || 2 species || [[Glomon]]
+|-
+| 70% || 142 species || [[Aardart]]
+|-
+| 100% || 215 species || [[Aardorn]]
+|}
+
+
+In addition, every monster has a Catch Resistance range. The odds of a shake_check are multiplied by a random number chosen from within the monster's Catch Resistance range. The number is the same for each shake_check.
+
+{| class="wikitable"
+! Lower–Upper range !! # of species !! Example species
+|-
+| 0.95–1.05 || 165 || [[Chromeye]]
+|-
+| 0.95–1.25 || 49 || [[Forturtle]]
+|-
+| 0.90–1.15 || 165 || [[Snaki]]
+|-
+| 0.85–1.10 || 28 || [[Dynastor]]
+|-
+| 0.80–1.05 || 4 || [[Drokoro]]
+|}
+
+== Dialogue ==
+On attempt: "Attempting capture..."
+
+If attempt fails on the first shake_check: "Capture failed immediately."
+
+On second check: "The capture failed."
+
+On third check: "Not this time! The capture failed."
+
+On fourth check: "So close! But the capture failed."
+
+On success: "Gotcha! {name} has been put in the kennel!" or "Gotcha! {name} has joined the team!"
+
+= Other capturing options =
+
+* [[Other capturing options]]

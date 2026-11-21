@@ -1,0 +1,77 @@
+{{Monster
+|Alternative Names=Maxolightl (zhongtiao1), Monilux, Moniton, Photanna (Sanglorian)
+|Sources=DevilDman, HippasusTwo, Jaskrendix
+|Source Explanation=Design and art by DevilDman. Named by Tricoelacanth. Sprites by JaskRendix and HippasusTwo.
+|Species=Lightning Salamander
+|Evolves=Axolightl
+|Name Origin=''amp'' + ''Ambystoma''
+|Design Origin=Axolotls
+|Main Details=zhongtiao1's suggested move: "max flash, giving the opponent paralysis and lowering their accuracy"
+|TXMN Types=Water
+|TXMN Sub-Elements=Lightning, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Brute
+|TXMN ID=280
+|TXMN Blurb=You would think AMPYSTOMA's warning coloration would make ambush impossible, but the murky waters it hunts in obscure it until it is ready to reveal itself. It likes to go on land during thunderstorms.
+|TXMN Height=180
+|TXMN Weight=80
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Freshwater, Swamp
+|Tags=Light, Weather, Water, Electricity, Amphibian
+|Fusion First=Ampy
+|Fusion Second=stoma
+}}
+{{Technique Allocation
+|Has_Technique=Starfall
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Midnight Mantle
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Buzz
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Torch
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Neuroshock
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Ice Shield
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Frostbite
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Grinding
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Electrical Storm
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Geyser
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=55
+}}

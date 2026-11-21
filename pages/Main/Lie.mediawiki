@@ -1,0 +1,11 @@
+{{Technique
+|TXMN Blurb=The user weaves a deceptive illusion, inflicting a random negative status effect on a random target. The higher the user's level, the greater the likelihood the opponents being the target of the deception.
+|TXMN Category=Special
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Shadow
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|Main Details=A random target gets a random negative condition.  The higher the level, the higher the chance the debuff targets the opponent.
+|Sources=ProfessorGreen
+}}

@@ -1,0 +1,71 @@
+{{Monster
+|Alternative Names=Agnikaizer
+|Sources=Chairry-Art, Extyrannomon, Leo, Levaine, Sanglorian
+|Source Explanation=Original design by Leo. Other art by extyrannomon. Sprites by Levaine. Back sprite by Sanglorian. Other sprites by Chairry-Art.
+|Species=False Dragon
+|Evolves=Agnidon
+|Name Origin=''Agni'' + ''dragon''
+''Agni'' + ''kaiser'' (Agnikaizer, by Chairry-Art)
+|SpyderCampaign=Evolution of a starting monster. Used by a trainer in Sea Route C.
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire, Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Dragon
+|TXMN ID=15
+|TXMN Blurb=It is called a "false dragon", because it appears to be a dragon, but actually evolved from a different line of ancient reptiles.
+|TXMN Height=600
+|TXMN Weight=2000
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Coastal, Desert, Mountains
+|Tags=Flame, Bite, Claws, Ground, Bird, Darkness
+|Fusion First=Agni
+|Fusion Second=gon
+|TXMN_DE Name=Logindwurm (Logi, Jötunn of Fire + Lindwurm)
+|TXMN_FR Blurb=On le surnomme "faux dragon' car il ressemble à un dragon, mais en réalité, il descend d'une lignée préhistorique de reptiles.
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Fume
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Saber
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Tooth for Tooth
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Kindling Flame
+|Technique_Level=22
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Supernova
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=34
+}}

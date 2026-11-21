@@ -1,0 +1,16 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Circupop-and-Lolihopper-676583038
+|Sources=TheBritanniaRegion
+|Species=Icecream
+|Name Origin=''circular'' + ''popsicle''
+|Design Origin=Scoops of icecream, rockhopper penguins and penguin chicks.
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost
+|TXMN Blurb=They train hard everyday by building snowmen mixed with ice and rock, before kicking them as hard and as quickly as they can. They also enjoy having snowball fights to help improve their aim.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Lolihopper
+|Evolution Level=28
+}}

@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Morph Item
+|TXMN Effects=evolve
+|TXMN Cost=2000
+|TXMN Usable In=world
+|TXMN Description=In parts of the world, people clean themselves with this fragrant, sudsy sand.
+|TXMN Consumable=yes
+}}

@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=249
+|TXMN Blurb=They imbue sand around them with the power to turn time.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Earth, Cosmic
+|TXMN Family=Powerful
+|TXMN Is fast=Fast
+|TXMN Accuracy=90%
+|TXMN Power=2.4
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Target Condition=Slow
+|TXMN Animation Target=1
+|Tags=Mental, Celestial, Earth
+|Main Details=To make an Earth/Cosmic technique.
+|Sources=HippasusTwo
+}}

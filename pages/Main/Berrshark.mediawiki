@@ -1,0 +1,27 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Berrshark-Contest-Entry-688237118
+|Sources=TheBritanniaRegion
+|Species=Game Shark
+|Name Origin=''berry'' + ''shark''
+|Design Origin=Berries, GameSharks and hackers
+|TXMN Types=Metal
+|TXMN Blurb=Berrshark has the ability to hack into any computer or device, and is supposed to be one of the most intelligant tuxemon ever discovered. Trainers can obtain this tuxemon by hacking into PCs with various cheat codes
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}
+{{Technique Allocation
+|Has_Technique=Data Swap
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Water Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Deletion Request
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Charge
+|Technique_Level=30
+}}

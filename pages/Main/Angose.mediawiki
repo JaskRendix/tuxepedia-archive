@@ -1,0 +1,15 @@
+{{Monster
+|Sources=Georg Eckert, Jaskrendix
+|Source Explanation=Designed and sprited by Georg Eckert. Front sprites by Jaskrendix.
+|Evolves=Angenna
+|Name Origin=''angel'' + ''pose'' or ''nose''
+|Main Details=A celestial, pink Tuxemon with elongated, translucent wings adorned with blue patterns. Its head resembles a human face with large, expressive eyes.
+|TXMN Blurb=ANGOSE possesses a graceful and ethereal aura.
+|TXMN Height=120
+|TXMN Weight=25
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}
+{{Evolutions
+|Has Evolution=Aethangel
+}}

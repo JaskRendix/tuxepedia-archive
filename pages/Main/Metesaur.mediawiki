@@ -1,0 +1,75 @@
+{{Monster
+|Alternative Names=Meteosaur
+|First URL=https://thebritanniaregion.deviantart.com/art/Metesaur-and-Quetzalrockilus-659421858
+|Sources=Involuntary Twitch, TheBritanniaRegion
+|Source Explanation=Sprites by Involuntary Twitch from art and design by TheBritanniaRegion.
+|Species=Meteor
+|Name Origin=''meteor'' + ''dinosaur''
+|Design Origin=Meteors.
+|Main Details=They are not the brightest, and will often choke on the oversized rocks they try to shove down their throats
+|SpyderCampaign=Found in the wild in Cotton Tunnel. Used by trainers in Route 7.
+|TXMN Types=Earth, Fire
+|TXMN Sub-Elements=Earth, Fire
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=202
+|TXMN Blurb=This tuxemon would enjoy diving into the ground and leaving marks. Sometimes, the tuxemon would misjudge the hit and land in trees, starting huge and dangerous forest fires.
+|TXMN Height=95
+|TXMN Weight=10
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Jungle, Mountains
+|Tags=Rock, Flame, Bird
+|Fusion First=Mete
+|Fusion Second=saur
+|TXMN_FR Blurb=Ces tuxemon adorent creuser dans le sol en laissant des traces. Il arrive qu'ils calculent mal leur position et causent des feux de forêt en essayent de creuser dans des arbres.
+}}
+{{Evolutions
+|Has Evolution=Quetzalrockilus
+|Evolution Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Peck
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Kindling Flame
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Fire Shield
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Arcane Eye
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Peregrine
+|Technique_Level=43
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=46
+}}
+{{Technique Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=52
+}}
+{{Technique Allocation
+|Has_Technique=Tornado
+|Technique_Level=55
+}}

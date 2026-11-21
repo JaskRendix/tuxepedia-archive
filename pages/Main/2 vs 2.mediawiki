@@ -1,0 +1,9 @@
+A type of battle where two monsters are active on each side at any one time. The NPCs are represented as a pair, but they share a single team of up to six monsters. 
+
+By default, the first two monsters on each side are sent to battle. The trainer makes one choice for each monster in the battle. They can choose either of their opponents' monsters to target with their attacks. 
+
+We could then make techniques that are specially suited to 2 vs 2 battles.
+
+See [[:Category:Duo]] for pre-prepared sprites for some 2 vs 2 opponents.
+
+[[Category:2 vs 2]] [[Category:Proposed content]]

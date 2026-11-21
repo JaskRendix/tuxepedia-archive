@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=7
+|TXMN Blurb=A lightning-fast cut.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Simple
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=100%
+|TXMN Power=1.25
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Sharp, Steel
+|Sources=Sanglorian
+}}

@@ -1,0 +1,75 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?id=118
+|Sources=HippasusTwo, Sanglorian, Tamashihoshi, Hugop
+|Source Explanation=Original design and front sprite by Hugop. Back and face sprites by tamashihoshi, Sanglorian and HippasusTwo.
+|Species=Alien
+|Main Details=[[Category:Unique]]
+|SpyderCampaign=N/A
+|TXMN Types=Metal
+|TXMN Sub-Elements=Cosmic
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=201
+|TXMN Blurb=ALTIE floated down to earth in a bubble. Now its bubble has popped, it cannot float more than a few meters in the air.
+|TXMN Height=130
+|TXMN Weight=30
+|TXMN Catch Resistance=5
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Extraterrestrial, Ruins
+|Tags=Summoner, Mental, Weather, Celestial, Darkness, Tail
+|Fusion First=Al
+|Fusion Second=tie
+}}
+{{Technique Allocation
+|Has_Technique=Tail Lash
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mind Vise
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Strike
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Arcane Eye
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Bullet
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Meltdown
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Crystal
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Perfect Cut
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Neutralize
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Demiurge
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Lightning Spheres
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Wall of Steel
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Divinity Beam
+|Technique_Level=55
+}}

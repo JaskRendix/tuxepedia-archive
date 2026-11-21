@@ -1,0 +1,64 @@
+{{Monster
+|Sources=Georg Eckert, Jaskrendix
+|Source Explanation=Designed and sprited by Georg Eckert. Back and face sprites by Jaskrendix.
+|Species=Ballast
+|Evolves=Aerodin
+|Name Origin=''air'' + ''deer''
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth, Sky
+|TXMN Body Shape=Landrace
+|TXMN ID=0
+|TXMN Blurb=AERODEER is so amazingly light in mass that she can float on air. She swallows rocks to help her digest and to stay on the ground, and spits them at enemies.
+|TXMN Height=100
+|TXMN Weight=1
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Rock, Weather, Megafauna
+|Fusion First=Aero
+|Fusion Second=deer
+}}
+{{Technique Allocation
+|Has_Technique=Levitate
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Gust
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ram
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Boulder
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Fledgling
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Thunderball
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Wind Leaf Blade
+|Technique_Level=17
+}}
+{{Technique Allocation
+|Has_Technique=Tornado
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Diet
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Rocky Barrage
+|Technique_Level=35
+}}
+{{Technique Allocation
+|Has_Technique=Earth Charge
+|Technique_Level=40
+}}

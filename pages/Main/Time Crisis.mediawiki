@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=104
+|TXMN Blurb=The user distorts the flow of time, causing the opponent damage.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Powerful
+|TXMN Is fast=Very Fast
+|TXMN Accuracy=80%
+|TXMN Power=2.5
+|TXMN Potency=60%
+|TXMN Recharge=3
+|TXMN Target Condition=Slow
+|TXMN Animation Target=1
+|Tags=Summoner, Mental
+|Sources=Jaskrendix
+}}

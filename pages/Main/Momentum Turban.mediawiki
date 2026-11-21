@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Held Item
+|TXMN Cost=5000
+|TXMN Description=Lock in to a powerful technique and use it consistently.
+|Main Details=The first time the user selects a technique, that technique's Recharge becomes 1. However, all other techniques are unavailable. Both effects (the Recharge set to 1 and the other techniques being unavailable) reset when the monster switches out.
+|Sources=Archeia, Sanglorian
+|Source Explanation=Sprite by Archeia, tweaked by Sanglorian.
+}}

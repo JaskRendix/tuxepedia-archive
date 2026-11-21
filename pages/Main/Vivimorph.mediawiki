@@ -1,0 +1,60 @@
+{{Monster
+|Sources=Jaskrendix
+|Species=Shifter
+|Evolves=Vivipere
+|Name Origin=Vivi + Morph
+
+Vivi – "Vivipere"
+
+Morph – Greek for "form"
+|Main Details=Vivimorph is never truly seen — only interpreted. Its fluid body ripples with color and texture, constantly mirroring its surroundings or the emotions of those nearby. In battle, it shifts form mid-strike, adapting to threats with uncanny precision. It's said that Vivimorph doesn't evolve in the traditional sense, but instead reflects the growth of those around it. When two Vivimorphs meet, their forms spiral in tandem, creating a feedback loop of transformation.
+|TXMN Sub-Elements=Heroic, Normal
+|TXMN Blurb=Its form is never fixed, adapting to any environment or threat. It embodies the essence of change and adaptability.
+|TXMN Height=160
+|TXMN Weight=30
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|Fusion First=Vivi
+|Fusion Second=Morph
+}}
+{{Technique Allocation
+|Has_Technique=Stone Rot
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Quicksand
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Sockpuppet
+|Technique_Level=21
+}}
+{{Technique Allocation
+|Has_Technique=Shapechange
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Combat Clone
+|Technique_Level=27
+}}
+{{Technique Allocation
+|Has_Technique=Damage Division
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=33
+}}

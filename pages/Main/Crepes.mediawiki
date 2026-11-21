@@ -1,0 +1,20 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=1300
+|TXMN Usable In=world
+|TXMN Description=Thin meal dust crepes wrapped around shimmer filling. Graceful, sweet, and just a little peppery.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Meal Dust]]: 2
+* [[Sweetroot]]: 1
+* [[Mistflour Eggs]]: 2
+* [[Suncrust Butter]]: 1
+* [[Crackle Salt]]: 1
+* [[Starpepper]]: 1
+
+Possible Outputs:  
+* [[Crepes]], 1, 0.9  
+* [[Whispersoup]], 1, 0.1
+|Sources=Jaskrendix
+}}

@@ -1,0 +1,15 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=Piacarrot,
+|Source Explanation=Design and original sprite by Piacarrot. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Fencer
+|Evolves=Rapfi,
+|Design Origin=A fencing hummingbird.
+|TXMN Types=Metal
+|TXMN Blurb=It battles with finesse using its beak as a sword. The two tails allow it to maneuver more quickly, and block incoming attacks.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}
+{{Evolutions
+|Has Evolution=Rapierd
+}}

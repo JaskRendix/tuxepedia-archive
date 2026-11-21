@@ -1,0 +1,14 @@
+{{Monster
+|Sources=Georg Eckert, Jaskrendix
+|Source Explanation=Designed and sprited by Georg Eckert. Front sprites by Jaskrendix.
+|Name Origin=''antenna'' + ''angel''
+|Main Details=A delicate, pink Tuxemon with large, blue butterfly wings. It has big, round eyes and a simple, cylindrical body.
+|TXMN Blurb=Despite its fragile appearance, ANGENNA is surprisingly sturdy.
+|TXMN Height=40
+|TXMN Weight=5
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Angose
+}}

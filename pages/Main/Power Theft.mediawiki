@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=256
+|TXMN Blurb=The user steals some power, perhaps by gene exchange, and uses it to launch an attack of the enemy type.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1
+|TXMN Effects=move_type enemy_monster
+|TXMN Potency=50%
+|TXMN Recharge=1
+|TXMN Target Condition=Softened
+|TXMN Animation Target=0
+|Tags=Shapeshifter, Pseudopod
+|Main Details=Intended for microbes, thieves, a fairly weak but reliable move (most monsters aren't going to be weak to themselves).
+|Sources=HippasusTwo
+}}

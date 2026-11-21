@@ -1,0 +1,6 @@
+== Summary ==
+24px version of pre-existing bomb sprite.  From: http://opengameart.org/content/pixel-bear-infinite-jumper-app-game
+[[Category:24px]]
+[[Category:Minibomb]]
+[[Category:Main Sprite]]
+[[Category:Main]]

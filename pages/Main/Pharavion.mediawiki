@@ -1,0 +1,74 @@
+{{Monster
+|Sources=HippasusTwo, Jaskrendix
+|Species=Spirit Elephant
+|Evolves=Pharfan
+|Design Origin=It is inspired by Indian and Eastern mythology, which have powerful mythical elephants. The four tusks are a nod to the diversity of extinct elephant genre, which included greater diversity in appearances than modern elephants such as a four tusked form.
+|Main Details=It is intended to be very powerful, and somewhat difficult to evolve.
+|TXMN Types=Water
+|TXMN Sub-Elements=Heroic, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Landrace
+|TXMN ID=362
+|TXMN Blurb=After great effort, a trainer may evolve a clumsy Pharfan calf into its adult form, which gracefully floats despite its huge size.
+|TXMN Height=300
+|TXMN Weight=2000
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Jungle
+|Tags=Megafauna, Leadership, Water, Mental, Pseudopod
+|Fusion First=Phara
+|Fusion Second=vion
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Water Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Flow
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Goad
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Geyser
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Ice Claw
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Chill Mist
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Tsunami
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Kraken
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Divinity Beam
+|Technique_Level=55
+}}

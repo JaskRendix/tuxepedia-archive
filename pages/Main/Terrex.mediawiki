@@ -1,0 +1,8 @@
+{{Monster
+|First URL=https://opengameart.org/content/unsealed-terrex
+|Sources=Wyverii,
+|Name Origin=Presumably ''terra'' or ''terror'' + ''T. rex''
+|TXMN Types=Earth
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+}}

@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=148
+|TXMN Blurb=The user summons the power of nature, transforming the opponent into a wooden puppet.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Wood
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=Switch Wood Target
+|TXMN Potency=100%
+|TXMN Recharge=4
+|TXMN Animation Target=1
+|Tags=Plant, Shapeshifter
+|Sources=Jaskrendix
+}}

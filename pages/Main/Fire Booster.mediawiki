@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Morph Item
+|TXMN Effects=evolve
+|TXMN Type=Fire
+|TXMN Usable In=world
+|TXMN Description=It uses the power of Fire to morph a tuxemon into a different form.
+|Sources=Sanglorian, Thekingphoenix
+|Source Explanation=Sprite by thekingphoenix. Colours adapted by Sanglorian.
+}}

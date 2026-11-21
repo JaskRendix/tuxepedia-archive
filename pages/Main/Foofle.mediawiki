@@ -1,0 +1,69 @@
+{{Monster
+|Sources=Josepharaoh99, Leo, Nikai Region, Tamashihoshi
+|Source Explanation=Original design and sprites by josepharaoh99. Other art by Leo, josepharaoh99 and Nikai Region. Face sprites by tamashihoshi.
+|Species=Woolly
+|Main Details=A fluffy, mischievous creature!
+|SpyderCampaign=Found in the wild in Route 5. Used by trainers in Greenwash HQ, Mansion and Tunnel.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Varmint
+|TXMN ID=110
+|TXMN Blurb=When one is in danger, all FOOFLE hear its cries, wherever they are.
+|TXMN Height=53
+|TXMN Weight=8
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Love
+|Fusion First=Foo
+|Fusion Second=fle
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Refresh
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Lust
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Ice Claw
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Crystal
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Assault
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Nest
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Avalanche
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Mystic Blending
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Platinum
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Stonehenge
+|Technique_Level=40
+}}

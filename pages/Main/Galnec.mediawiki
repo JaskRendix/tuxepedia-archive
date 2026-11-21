@@ -1,0 +1,69 @@
+{{Monster
+|Sources=Catch Challenger, Sanglorian
+|Source Explanation=Catch Challenger is an open source project, with assets under Creative Commons Attribution. Original design and sprites by Catch Challenger. Sprites tweaked by Sanglorian.
+|Species=Dry Desert
+|SpyderCampaign=Used by trainers in Hospital.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=168
+|TXMN Blurb=GALNEC buries itself deep in the hot sands of the desert, only its stony tail above ground. In packs, they look like gardens of stone.
+|TXMN Height=40
+|TXMN Weight=6
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Desert
+|Tags=Ground, Rock
+|Fusion First=Gal
+|Fusion Second=nec
+}}
+{{Technique Allocation
+|Has_Technique=Rock
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ram
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Rock
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Evasion
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Lantern
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Mending
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Breath
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Sylvan
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Fledgling
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Tip
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Earthquake
+|Technique_Level=40
+}}

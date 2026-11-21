@@ -1,0 +1,1 @@
+One animation can apply to multiple items, and some items may not have an animation.

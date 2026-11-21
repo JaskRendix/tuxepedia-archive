@@ -1,0 +1,20 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/004-006-Constorch-Tophistone-Titannon-665961211
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Face sprites adapted by Jaskrendix.
+|Evolves=Tophistone
+|Name Origin=''titan'' + perhaps ''cannon''
+|Main Details=TITANNON is the colossal final evolution, a monstrous serpentine Tuxemon dominated by a fiery, molten core that radiates through its body in intricate patterns. Once a mere torch-like appendage, this fiery essence has grown to consume the Tuxemon's being, granting it immense power. TITANNON's serpentine body culminates in a powerful, serpentine neck equipped with two small, nimble arms. 
+
+== The Legend of the Submerged Titan ==
+Once a fiery serpent igniting the world, Constorch evolved into the rock-clad Tophistone, shaping the land with volcanic fury. Its ultimate form, Titannon, was a titan of flame and earth. But when the world flooded, the volcanic titan was submerged, its fiery heart now dormant beneath the waves. They say it sleeps, awaiting the day when it'll rise again, to shape the world anew.
+|TXMN Types=Fire
+|TXMN Blurb=Despite its massive size, TITANNON is surprisingly agile, capable of swift and devastating attacks.
+|TXMN Height=720
+|TXMN Weight=1460
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|Fusion First=Titan
+|Fusion Second=non
+}}

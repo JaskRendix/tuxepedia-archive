@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=204
+|TXMN Blurb=The user digs underground and reappear at a different location, striking the opponent with a burst of dirt and debris.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Family=Simple
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=80%
+|TXMN Power=1
+|TXMN Effects=Disappear Strike
+|TXMN Potency=100%
+|TXMN Recharge=4
+|TXMN Animation Target=0
+|Tags=Ground
+|Main Details=[[Burrow Blast]] is digging underground and it's followed by [[Strike]] where the monster reappears. The monster is unable to dig underground if under the effect [[Stuck]] or [[Grabbed]].
+|Sources=Jaskrendix
+}}

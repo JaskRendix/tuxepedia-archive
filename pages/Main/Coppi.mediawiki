@@ -1,0 +1,72 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=FrozenFeather, Jaskrendix, Piacarrot
+|Source Explanation=Design and original sprite by FrozenFeathers and Piacarrot. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Spinning Seed
+|Evolves=Helipi
+|Name Origin="Coppi" is derived from a combination of "cop-" (from "coppice", a type of woodland management, referencing the plant's growth habit) and the suffix "-pi" (possibly from "hoppi", a play on the word "hop", a plant used in beer brewing)
+|Design Origin=A helicopter seed.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Sky, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=377
+|TXMN Blurb=COPPI's flowers are surprisingly bitter and smelly, but they are useful in beer brewing and medicine.
+|TXMN Height=50
+|TXMN Weight=12
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Woodland
+|Tags=Plant, Food
+|Fusion First=Co
+|Fusion Second=ppi
+}}
+{{Evolutions
+|Has Evolution=Parappi
+|Evolution Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Roll
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Overgrowth
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Assault
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Wing Tip
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Sting
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Sylvan
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Chameleon
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Flower Bloom
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Stabilo
+|Technique_Level=40
+}}

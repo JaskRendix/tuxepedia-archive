@@ -1,0 +1,226 @@
+[[File:Jl2ESeg.gif|thumbnail]]
+
+Most monsters can '''morph''' or '''evolve''', turning from one variety to another. This morphing is typically one-way and permanent, but that does not have to be the case. No monster permanently morphs more than twice; some monsters only morph once or never.
+
+The process by which a tuxemon enters a new [[Life Stage]]. Can be permanent or temporary. 
+
+== Discussion on Github ==
+
+* https://github.com/Tuxemon/Tuxemon/issues/540
+
+Has some thoughts that haven't been reproduced here yet.
+
+== Current implementation ==
+
+Morphing occurs immediately for a monster when activated from a terminal.
+
+=== Proposed procedures ===
+
+==== After battle ==== 
+
+    At the end of each battle the player wins, check each of the player’s monsters that increased in level during that battle.
+    If one of them has a morph-option specified that is “triggered by: level”, check the “trigger” for that morph option.
+    If the number in the trigger is less than or equal to the monster’s level, check any further conditions.
+    If those conditions are also met, play the animation.
+    If the player presses “cancel” at any point during the animation, end this process and check the next eligible monster, if any. The current monster does not morph.
+    Otherwise, delete the monster and replace it with the monster listed as “destination” under the morph-option. The new monster has the same position in the party, experience point total and custom name (if any) as the old monster.
+    Check the next eligible monster, if any.
+
+==== When an item is used ====
+
+    If an item from the Morph Items category is used on a monster, check if that monster has a morph-option specified that is "triggered by: item".
+    -- If it doesn't, show the dialogue: "It doesn't seem to respond."
+    If it is triggered by item, check if the "trigger" for that morph option is the item's name.
+    -- If it doesn't, show the dialogue: "It doesn't seem to respond to that item."
+    If the item does match the trigger, check any further conditions.
+    If those conditions are also met, play the animation.
+    If the player presses “cancel” at any point during the animation, end this process and check the next eligible monster, if any. The current monster does not morph.
+    Otherwise, delete the monster and replace it with the monster listed as “destination” under the morph-option. The new monster has the same position in the party, experience point total and custom name (if any) as the old monster.
+
+=== Leveling up ===
+
+In this model, a tuxemon changes Life Stage when they reach a certain level or, if their morph is stopped then, at any subsequent level. 
+
+=== Conditional morphing ===
+
+In this model, a tuxemon changes Life Stage when some special condition is met. They may also be required to be a certain level.
+
+* Tuxemon of different genders may morph into different tuxemon, or only one gender may morph. For example, [[Aerodin]] morph from level 24 - into [[Aerostag]] if male and [[Aerodeer]] if female.
+* Tuxemon may morph when levelling up, but only if a tuxemon of a particular [[Type]] is in the same party. For example, [[Floodby]] requires another Water type to be in their team.
+* Tuxemon may morph when levelling up, but into a different tuxemon depending on their [[Stats]]. For example, [[Katacoon]] evolves into [[Sumchon]] if its [[Armor]] Stat is higher than its [[Melee]] Stat, and into [[Bugnin]] if the opposite is true. This kind of morphing requires [[Stats#Experiences|Stat increases from Experiences]] to be implemented, which is not currently the case. 
+* [[Fuzzlet]] was intended by its creator to morph into [[Fuzzina]] when it became happy enough, but happiness is not a part of the Tuxemon mechanics. 
+* Tuxemon may morph when leveling up in a particular location. 
+* Tuxemon may morph when leveling up if they know a particular technique. 
+
+[[Vivipere]]'s gimmick is that its morphs are all conditional. It morphs into [[Vivitron]] at level 25, which does not sound conditional, except that it morphs into [[Vivisource]] or [[Viviteel]] (depending on gender) at level 24, meaning that it would only morph into Vivitron if it is deliberately stopped from morphing at level 24.
+
+==== Item morphing ====
+
+Some morph-causing items are consumed when used; others are not. In [[The Spyder in the Cathedral]], the default plot, the player is given a choice between five tuxemon - the "[[new releases]]":
+
+* [[Dollfin]]
+* [[Magmaturtle]]
+* [[Memnomnom]]
+* [[Budaye]]
+* [[Grintot]]
+
+They have a special feature, as does [[Botbot]], that they can be made to [[morph]] by exposing them to an item purchased from a Pillar. The morph lasts for one battle, and consumes the item. This means that trainers do get more variety (since there are at least two morph options for each new release tuxemon), but have to keep spending money. 
+
+Eventually the protagonist gets access to [[Booster Tech]], an open source tool that's re-usable and where the morph lasts indefinitely. The Booster Tech can also be used to revert the morph, returning the tuxemon to the previous life stage.
+
+== Evolution methods ==
+
+Evolution methods and how you can recognize them in the JSON file.
+
+=== '''standard''' ===
+Evolves after reaching a certain level, or any level after that.
+
+Most monsters, if they evolve at all, do so by this method. 
+
+    {
+        "monster_slug": "monster_slug",
+        "at_level": 24
+    }
+
+=== '''item''' ===
+Evolves after being exposed to a certain item (Morph Items).
+
+This is the second most common method. Monsters that evolve by this method often (but not always) have branching evolutions. For example, [[Budaye]] morphs into [[Bamboon]] by use of the [[Lucky Bamboo]] item (or [[Wood Booster]]) but into [[Frondly]] by use of the [[Peace Lily]] item (or [[Water Booster]]). 
+
+    {
+        "monster_slug": "monster_slug",
+        "item": "item_slug"
+    }
+
+=== '''gender''' ===
+Evolves only if it's of a certain gender (e.g. '''male''', '''female''', '''neuter''').
+
+For example, at level 24, [[Vivipere]] morphs into [[Viviteel]] if female and [[Vivisource]] if male.
+
+    {
+        "monster_slug": "monster_slug",
+        "gender": "male"
+    }
+
+=== '''location''' ===
+Evolves only if it's inside of a building or outside of it.
+
+For example, [[Vivipere]] morphs into [[Vivitrans]] if inside a building.
+
+    {
+        "monster_slug": "monster_slug",
+        "inside": true
+    }
+
+=== '''variables''' ===
+Evolves only if the specified game variables match the required values.
+
+For example, [[Cackleen]] morphs into [[Brumi]] at level 16, if it is night time. [[Waysprite]] morphs into [[Angesnow]] at level 14, if it is day, and [[Demosnow]] if it is night. [[Chromeye]] morphs into one of four options depending on the season (summer, winter, autumn or spring). 
+
+    {
+        "monster_slug": "monster_slug",
+        "variables": [
+            {"daytime": "false"},
+            {"season": "summer"}
+        ]
+    }
+
+=== '''stat''' ===
+Evolves only if a certain stat comparison is met.
+
+For example, [[Katacoon]] morphs into [[Bugnin]] at level 12 if [[Dodge]] is higher than [[Speed]], into [[Sumchon]] if Speed is greater than Dodge, and [[Dynastor]] if both are tied. 
+
+    {
+        "monster_slug": "monster_slug",
+        "stats": "speed:greater_than:dodge"
+    }
+
+=== '''tech''' ===
+Evolves only if a party member knows a specific technique.
+
+For example, [[Vivipere]] morphs into [[Vivicinder]] if it knows [[Flamethrower]]. 
+
+    {
+        "monster_slug": "monster_slug",
+        "tech": "ram"
+    }
+
+=== '''steps''' ===
+Evolves only after walking a certain number of steps.
+
+For example, [[Chenipode]] morphs into [[Exapode]] after walking 2,500 steps. 
+
+    {
+        "monster_slug": "monster_slug",
+        "steps": 1000
+    }
+
+=== '''bond''' ===
+Evolves only if the bond value comparison is met.
+
+For example, [[Dollfin]] morphs into [[Delfeco]] at maximum bond of 100. [[Sheye]] morphs into [[Shrab]] when bond exceeds 40.
+
+    {
+        "monster_slug": "monster_slug",
+        "bond": "equals:100"
+    }
+
+=== '''party''' ===
+Evolves only if certain monsters are present in the party.
+
+For example, [[Duggot]] morphs into [[Breem]] when [[Tumbleworm]] is in the party. [[Weedsea]] morphs into [[Weedlantis]] if [[Shrab]] or [[Lesmagu]] are in the party. 
+
+    {
+        "monster_slug": "monster_slug1",
+        "party": ["monster_slug2", "monster_slug3", "monster_slug4"]
+    }
+
+=== '''taste_cold''' ===
+Evolves only if it has a specific cold taste preference.
+
+No examples yet. 
+
+    {
+        "monster_slug": "monster_slug",
+        "taste_cold": "mild"
+    }
+
+=== '''taste_warm''' ===
+Evolves only if it has a specific warm taste preference.
+
+[[Claymorior]] morphs into [[Regalance]] if it has the Hearty [[Taste]]. 
+
+    {
+        "monster_slug": "monster_slug",
+        "taste_warm": "peppy"
+    }
+
+=== '''moves''' ===
+Evolves only if certain moves are among the learned ones.
+
+No examples yet.
+
+    {
+        "monster_slug": "monster_slug",
+        "moves": ["ram", "dash"]
+    }
+
+=== '''element''' ===
+Evolves only if the monster matches a specific elemental type.
+
+For example, [[Vivipere]] morphs into [[Viviphyta]] if it ever gains the Wood [[Type]] (for example, by use of the [[Chameleon]] technique). 
+
+    {
+        "monster_slug": "monster_slug",
+        "element": "fire"
+    }
+
+=== '''acquisition''' ===
+Evolves only if the monster was obtained in a specific way (e.g. '''caught''', '''bred''', '''gifted''', '''traded''').
+
+No examples yet. 
+
+    {
+        "monster_slug": "monster_slug",
+        "acquisition": "gifted"
+    }

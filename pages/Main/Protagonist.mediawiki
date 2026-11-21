@@ -1,0 +1,8 @@
+{{Character
+|Trainer Class=Adventurer, Heroine, Tux Fan
+|Main Details=Protagonist in [[The Spyder in the Cathedral]]. 
+
+== Starter == 
+
+One among: [[Rockitten]] - [[Lambert]] - [[Nut]] - [[Tweesher]] - [[Agnite]]
+}}

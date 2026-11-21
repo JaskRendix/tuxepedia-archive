@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=46
+|TXMN Blurb=The user relaxes in a pool of mud, healing its wounds.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Water
+|TXMN Family=Special
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=healing user
+|TXMN Healing Power=2
+|TXMN Potency=90%
+|TXMN Recharge=2
+|TXMN User Condition=focused
+|TXMN Animation Target=0
+|Tags=Megafauna
+|Sources=Sanglorian, Tamashihoshi
+|Source Explanation=Technique by Sanglorian. "Water spurt" animation by Tamashihoshi.
+}}

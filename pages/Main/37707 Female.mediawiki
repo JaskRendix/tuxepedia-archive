@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Mircea Kitsune
+|Genre=Modern
+|Combat Type=1 vs 1
+|Main Details=Resident of the [[glitch]] town [[37707]]. [[Category:Glitch]]
+}}

@@ -1,0 +1,10 @@
+{{Condition
+|TXMN ID=16
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME's armor softens.
+|Speed Multiplier=0.5
+|Armour Multiplier=0.5
+|Details=Speed and Armor halved.
+}}

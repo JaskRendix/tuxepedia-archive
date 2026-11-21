@@ -1,0 +1,13 @@
+[https://github.com/limbusdev/guardian_monsters_artwork Licence and source]
+
+Creative Commons Attribution 4.0 licence
+
+'''Attribution:''' Includes Guardian Monsters Artwork by Georg Eckert / limbusdev
+
+You are allowed to use the monsters in any way you want. But you must use the given names, to keep them consistent everywhere.
+
+[[Category:Egg]]
+[[Category:16px]]
+[[Category:Menu Sprite 2]]
+[[Category:Main]]
+[[Category:Georg Eckert]]

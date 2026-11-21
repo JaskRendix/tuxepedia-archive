@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=206
+|TXMN Blurb=The user creates a temporary rift in space and dash through it, reappearing at a different location and striking the opponent with a swift attack.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Lightning, Cosmic
+|TXMN Family=Simple
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=80%
+|TXMN Power=1
+|TXMN Effects=Disappear Strike
+|TXMN Potency=100%
+|TXMN Recharge=4
+|TXMN Animation Target=0
+|Tags=Machine, Electricity, Speed
+|Main Details=[[Rift Dash]] is creating a temporary rift in space and it's followed by [[Strike]] where the monster reappears. The monster is unable to create a temporary rift if under the effect [[Stuck]] or [[Grabbed]].
+|Sources=Jaskrendix
+}}

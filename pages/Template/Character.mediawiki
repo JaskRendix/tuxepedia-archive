@@ -1,0 +1,50 @@
+<noinclude>
+This is the "Character" template.
+It should be called in the following format:
+<pre>
+{{Character
+|Trainer Class=
+|Sources=
+|Main Details=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+! Trainer Class
+| {{#arraymap:{{{Trainer Class|}}}|,|x|[[Trainer Class::x]]}}
+|}
+
+{{{Main Details|}}}
+
+== Contributors ==
+{{#if:{{{First URL|}}} | <strong>First Appeared:</strong> [{{{First URL|}}}] | }}
+
+{{#arraymap:{{{Sources|}}}|,|x|[[Sources::x]]}}
+
+[[Source Explanation::{{{Source Explanation|}}}]]
+
+== Art ==
+{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+|?#
+|format=gallery
+|link=all
+|searchlabel=… further results
+|navigation=nav
+}}
+
+{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite||Back Sprite||Front Sprite||Other Sprite||Overland Sprite]]
+|?#
+|format=gallery
+|link=all
+|searchlabel=… further results
+|navigation=nav
+}}
+
+
+[[Category:Character]]
+[[Category:{{PAGENAME}}]]
+{{#arraymap:{{{Trainer Class|}}}|,|x|[[Category:x]]}}
+{{#arraymap:{{{Sources|}}}|,|x|[[Category:x]]}}
+</includeonly>

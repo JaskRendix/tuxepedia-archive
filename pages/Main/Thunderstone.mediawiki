@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Morph Item
+|TXMN Effects=evolve
+|TXMN Cost=2000
+|TXMN Usable In=world
+|TXMN Description=An old stone relic, now carried about for good luck.
+|TXMN Consumable=yes
+|Sources=Catch Challenger
+|Source Explanation=A sprite from Catch Challenger (CC BY), art director Jordan Brule. Project developer Herman Brule.
+}}

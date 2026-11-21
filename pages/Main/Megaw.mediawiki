@@ -1,0 +1,8 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/45-46-Gobblimp-Megaw-666023158
+|Sources=Serpexnessie,
+|Evolves=Gobblimp,
+|TXMN Types=Water
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}

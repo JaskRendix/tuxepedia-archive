@@ -1,0 +1,12 @@
+{{Item
+|Item Category=Morph Item
+|TXMN Target=player
+|TXMN Cost=2000
+|TXMN Usable In=world
+|TXMN Description=An inspiring weapon for an ancient tuxemon.
+|TXMN Consumable=yes
+|Main Details=Causes [[Memnomnom]] to morph into [[Mauai]].
+|SpyderCampaign=Sold at the Cotton Scoop tech counter
+|Sources=Chairry-Art, Sanglorian, Jaskrendix
+|Source Explanation=Idea from Jaskrendix. Sprite lightly adapted by Sanglorian from the Mauai front sprite by Chairry-Art.
+}}

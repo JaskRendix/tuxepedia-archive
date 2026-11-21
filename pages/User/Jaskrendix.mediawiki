@@ -1,0 +1,18 @@
+== Story Summary: Zircon’s Role and Crystal Town ==
+
+After escaping his past in Fondent, Argon traverses Route 7, a desolate path symbolizing his inner conflict and transition. Haunted by mysterious voices Argon confronts his guilt over the destruction of Chrome Robo while gaining cryptic hints about Cathedral’s influence and Project Eclipse.
+
+In Crystal Town, tension mounts as Cathedral’s looming presence threatens TuxeVault Bank’s independence. Argon attempts to uncover the truth but is intercepted by Zircon, a former colleague consumed by power. Zircon accuses Argon of leaving chaos behind and demands a battle to prove his strength. Despite Argon’s resolve, he is overwhelmed and defeated by Zircon's superior power.
+
+Waking in the Cathedral healing center, Argon learns from an NPC that Aurora, TuxeVault Bank’s CEO, has mysteriously disappeared following commotion at the bank. As Argon regains his strength, a cryptic voice echoes in his mind, tying the Cathedral, Project Eclipse, and mysterious happenings in the mountains to his journey: *"The path ahead is darker than you know. Watch the Cathedral. Watch the mountains. The truth waits for you—if you dare to find it."*
+
+With his ideals shaken and unanswered questions multiplying, Argon must decide how to face the forces conspiring against him, his past, and his principles.
+
+== Vivipere Ideas ==
+
+Expand Pet Shop in [[Flower City]]:
+ * The Vivipere Herder:
+   * This NPC makes their living by raising Vivipere, and knows much about their day to day life.
+   * They can give the player tips about how to best raise a vivipere.
+   * They can explain the differences between the temperaments of the different vivipere evolutions.
+   * The herder could have a quest line that unlocks special information about the year of chaos.

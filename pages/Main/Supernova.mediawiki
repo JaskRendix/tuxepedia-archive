@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=81
+|TXMN Blurb=A cataclysmic explosion of energy, dealing immense damage to all opponents.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Family=Powerful
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=75%
+|TXMN Power=3
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN Target Condition=chargedup
+|TXMN Animation Target=1
+|Tags=Celestial, Light
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. "Fire big dark" animation by Superpowers Asset Packs.
+}}

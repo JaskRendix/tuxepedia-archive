@@ -1,0 +1,9 @@
+{{Condition
+|TXMN ID=33
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME's energy is being restored.
+|End of Round Text=NAME has been infused with lifeforce.
+|Details=Allows a monster to transfer some of its HP to its target, acting differently than a traditional lifeleech effect. Unlike lifeleech, LifeGift heals the opponent while damaging the user, introducing a new layer of strategy and complexity to combat interactions.
+}}

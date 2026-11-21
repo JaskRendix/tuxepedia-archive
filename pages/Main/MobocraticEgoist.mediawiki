@@ -1,0 +1,4 @@
+{{Contributor
+|Main Website=https://www.reddit.com/user/MobocraticEgoist
+|Contributor Types=Contributed to Tuxemon project
+}}

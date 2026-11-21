@@ -1,0 +1,71 @@
+{{Monster
+|Sources=Chairry-Art, DevilDman, Extyrannomon, Harris Fagotto, Leo, Levaine, Sanglorian
+|Source Explanation=Original design by Leo. Sprites by Sanglorian. Other art by extyrannomon, DevilDman, Harris Fagotto and Leo. Other sprites by Levaine and Chairry-Art.
+|Species=Devil
+|Evolves=Legko
+|Name Origin=''Moloch horridus'' (thorny devil)
+|Design Origin=Inspired by the flower of the mountain devil, and by the thorny devil.
+|SpyderCampaign=Evolution of a starting monster.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Heroic, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Brute
+|TXMN ID=12
+|TXMN Blurb=It can stiffen or soften its skin to respond to friends and foes.
+|TXMN Height=216
+|TXMN Weight=90
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|Tags=Claws, Bite, Megafauna, Plant
+|Fusion First=Mol
+|Fusion Second=loch
+}}
+{{Technique_Allocation
+|Has_Technique=Sting
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Blossom
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Poison Courtship
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Splinter
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Boulder
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Overgrowth
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Peregrine
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=34
+}}
+{{Technique_Allocation
+|Has_Technique=Thunderball
+|Technique_Level=43
+}}
+{{Technique_Allocation
+|Has_Technique=Shadow Boxing
+|Technique_Level=46
+}}
+{{Technique_Allocation
+|Has_Technique=Invictus
+|Technique_Level=52
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=55
+}}

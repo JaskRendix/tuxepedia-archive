@@ -1,0 +1,72 @@
+{{Monster
+|Sources=HippasusTwo
+|Species=Hippo Queen
+|Evolves=Hampotamos
+|Name Origin=Terra as in 'Earth'.
+|Design Origin=Egyptian hippo + crocodile goddess, plus Demostylians.
+There are a few different hippo gods. In Egyptian mythology, the god Set takes the form of a red hippopotamus and fights Horus (a sun god) for control of the land, but is defeated. The goddess Tawaret is depicted as a pregnant woman with a hippo head, representing fierce maternal love.
+|Main Details=Part of a trio. Pharavion is Heroic, so Hampterra is part Cosmic. Could also go Earth / Sky, that would be an unusual combo.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth, Cosmic
+|TXMN Completed=Complete
+|TXMN Body Shape=Landrace
+|TXMN ID=394
+|TXMN Blurb=It is said that in ancient times, it did battle with the Sun and was worshiped. Now no one knows how to summon it.
+|TXMN Height=200
+|TXMN Weight=1300
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Desert
+|Tags=Summoner, Megafauna, Ground, Rock, Tail, Celestial
+|Fusion First=Hamp
+|Fusion Second=Terra
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Assault
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ram
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Surge
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Quicksand
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Canine
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Grinding
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Tsunami
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Avalanche
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Sands of Time
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Entomb
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Strangulation
+|Technique_Level=40
+}}

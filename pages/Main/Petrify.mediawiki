@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=37
+|TXMN Blurb=The user emits a powerful aura that renders the opponent stuck.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Earth
+|TXMN Family=Condition imposer
+|TXMN Is fast=Very Fast
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Target Condition=Stuck
+|TXMN Animation Target=1
+|Tags=Rock
+|Sources=Sanglorian, Daneeklu
+|Source Explanation=Technique by Sanglorian. "Shield rock" animation by Daneeklu.
+}}

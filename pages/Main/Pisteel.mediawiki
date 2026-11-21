@@ -1,0 +1,12 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/020-21-Pisteel-Ironsight-665602981
+|Sources=Serpexnessie
+|TXMN Types=Metal
+|TXMN Body Shape=Sprite
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Urban
+}}
+{{Evolutions
+|Has Evolution=Ironsight
+}}

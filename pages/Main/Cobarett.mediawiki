@@ -1,0 +1,57 @@
+{{Monster
+|First URL=https://www.deviantart.com/princess-phoenix/art/Cobarett-892198611
+|Sources=Princess-phoenix
+|Source Explanation=Art and sprites by princess-phoenix.
+|Species=Comet Snake
+|Evolves=Hissiorite
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Completed=Complete
+|TXMN Body Shape=Serpent
+|TXMN ID=323
+|TXMN Blurb=It covers itself in thick, billowing smoke so that it can slide easily through thick brush. The source of the smoke is its molten body temperature, which is so hot that tongues of flame shoot from its mouth.
+|TXMN Height=300
+|TXMN Weight=12
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Terrains=Coastal, Desert
+|Tags=Flame, Toxic
+|Fusion First=Cob
+|Fusion Second=arett
+}}
+{{Evolutions
+|Has Evolution=Pythonova
+|Evolution Level=36
+}}
+{{Technique Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Wall of Fire
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Caustic Spray
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Strangulation
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Oven
+|Technique_Level=31
+}}

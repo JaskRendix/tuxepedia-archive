@@ -1,0 +1,19 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=800
+|TXMN Usable In=world
+|TXMN Description=Root beast bark slices coated in crackle dust. Smoky, spicy, and fierce—seasoned like primal meat, but purely plant-powered.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Root Beast Bark]]: 2
+* [[Glowfat]]: 1
+* [[Crackle Salt]]: 1
+* [[Starpepper]]: 1
+* [[Sweetroot]]: 1
+
+Possible Outputs:  
+* [[Rub Pork Chops]], 1, 0.9  
+* [[Bite Of Despair]], 1, 0.1
+|Sources=Jaskrendix
+}}

@@ -1,0 +1,56 @@
+{{Monster
+|Alternative Names=Gunnerturtle, Rennug
+|Sources=Josepharaoh99, Leo, Sanglorian
+|Source Explanation=Original design by Leo. Front sprite by josepharaoh99. Other sprites by Sanglorian. Name by josepharaoh99.
+|Species=Gunner
+|Evolves=Ignibus
+|Name Origin=''ember'' + ''bazooka''
+|SpyderCampaign=Evolution of a starting monster. Used by trainers in Dojo, Dragon's Cave, Nimrod HQ, Scoop HQ and Walled Garden. Fished with the Neptune or Poseidon.
+|TXMN Types=Fire, Metal
+|TXMN Sub-Elements=Fire, Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Serpent
+|TXMN ID=31
+|TXMN Blurb=It is trained for use in war and it knows no other life.
+|TXMN Height=137
+|TXMN Weight=502
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Desert, Mountains
+|Tags=Flame, Rock, Bite, Bomber, Soldier, Gadgets
+|Fusion First=Emba
+|Fusion Second=zook
+}}
+{{Technique Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Boulder
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Tinder
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Static Field
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Kindling Flame
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=25
+}}

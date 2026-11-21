@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=75
+|TXMN Blurb=The user wraps its body around the opponent, squeezing tightly.
+|TXMN Completed=Complete
+|TXMN Category=Reliable
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Normal
+|TXMN Family=Simple
+|TXMN Is fast=Very Slow
+|TXMN Accuracy=100%
+|TXMN Power=1.25
+|TXMN Potency=75%
+|TXMN Recharge=2
+|TXMN Target Condition=grabbed
+|TXMN Animation Target=1
+|Tags=Pseudopod
+|Sources=Sanglorian, Daneeklu
+|Source Explanation=Technique by Sanglorian. Animation by daneeklu, adapted by Sanglorian for 64x64px.
+}}

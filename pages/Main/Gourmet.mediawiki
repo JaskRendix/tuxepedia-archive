@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=234
+|TXMN Blurb=The user devours a nourishing meal, restoring their vitality and rejuvenating their spirits.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Healing Power=3
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN User Condition=Recovering
+|TXMN Animation Target=0
+|Tags=Food
+|Main Details=Feel free to tweak for balance.
+|Sources=HippasusTwo
+}}

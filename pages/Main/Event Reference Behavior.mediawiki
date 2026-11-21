@@ -1,0 +1,53 @@
+== Behaviors ==
+
+=== DoorBehavior ===
+Expand a `door` behavior into the conditions and actions required
+to transition a character through a doorway or portal.
+
+* <code>This behavior triggers when</code>: 
+* The character is standing on the door tile.
+* The character is facing the required direction.
+
+Once triggered, the character is teleported to the specified
+destination coordinates and oriented to the given direction.
+
+'''Usage'''
+<code>
+
+door <character>,<destination>,<x>,<y>,<direction>
+
+</code>
+'''Parameters'''
+* <code>character</code>: The character slug (e.g. "player" or an NPC).
+* <code>destination</code>: The map slug to teleport to.
+* <code>x</code>: X-coordinate on the destination map.
+* <code>y</code>: Y-coordinate on the destination map.
+* <code>direction</code>: The direction the character must face to activate
+the door, and the direction they will face after teleporting.
+
+'''Examples'''
+* door player,house_interior,5,3,up
+* door npc_guard,town_square,10,12,right
+
+=== TalkBehavior ===
+Expand a `talk` behavior into the conditions and actions required
+to initiate an interaction between the player and an NPC.
+
+* <code>This behavior triggers when</code>: 
+* The player is facing the specified NPC.
+* The player presses the INTERACT button.
+
+Once triggered, the NPC will automatically turn to face the player.
+
+'''Usage'''
+<code>
+
+talk <npc>
+
+</code>
+'''Parameters'''
+* <code>npc</code>: The slug/name of the NPC the player can talk to.
+
+'''Examples'''
+* talk npc_maple
+* talk shopkeeper

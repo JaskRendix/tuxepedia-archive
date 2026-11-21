@@ -1,0 +1,64 @@
+{{Monster
+|Sources=Leo
+|Source Explanation=Original design and sprites by Leo.
+|Species=Ex Machina
+|Evolves=Grimachin
+|Name Origin=''tiger'' + ''rock''
+|Main Details=Previously identified as an evolution of [[Rockat]]. Leo has since said it evolves from [[Grimachin]].
+|SpyderCampaign=Used by a trainer in Nimrod HQ and Walled Garden.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=94
+|TXMN Blurb=It is said that it had to invent itself because an evolution was not designed.
+|TXMN Height=200
+|TXMN Weight=220
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Machine, Gadgets
+|Fusion First=Tig
+|Fusion Second=rock
+|TXMN_FR Name=Tigroc
+}}
+{{Technique Allocation
+|Has_Technique=Wall of Steel
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Blade
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Lineage
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Rust Bomb
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Terror
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Fume
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Strike
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Energy Field
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=55
+}}

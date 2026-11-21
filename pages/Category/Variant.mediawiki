@@ -1,0 +1,121 @@
+Tuxemon within a species may vary based on their genetics or environment. Variants could be purely mechanical, purely cosmetic or mechanical and cosmetic, and either be fixed from a monster's birth, fixed from some point after birth, or able to be changed. 
+
+== Genetic ==
+=== Local variation ===
+For example, a butterfly tuxemon could have different wings based on which route it's captured in.
+
+Eastern [[Delichick]] and [[Herotint]] are brown in colour and aggressive; western [[Delichick]] and [[Herotint]] are blue and tricky. 
+
+[[File:Delichick blue1.png]] [[File:Delichick dun1.png]]
+
+[[File:Delichick blue2.png]] [[File:Delichick dun2.png]]
+
+=== Sub-species ===
+
+[[Ignibus]]' default form is a fiery turtle, but a sea-dwelling subspecies would have a different [[Type]] and techniques. 
+
+[[File:Magmaturtle-front-alt.png]] [[File:Ignibus-watervariant.gif]]
+
+=== Speciation ===
+
+The [[Furnursus]] and [[Bursa]] families may be closely related: both are fiery bears with a meditative/psychic side.
+
+[[File:5-0 64px2.png]] [[File:Bursa.png]]
+
+[[Forthrobo]] and [[Arthrobolt]]; and [[Minynx]] and [[Rockitten]] are other examples.
+
+== Sexual dimorphism ==
+
+Differences within a species based on the sex (see [https://en.wikipedia.org/wiki/Sexual_dimorphism Wikipedia]). 
+
+At its most extreme, this could result in different species - like [[Nudiflot M]] and [[Nudiflot F]]. 
+
+[[File:1 by levaine-da6ftsr.png]] [[File:Nudiflot take 2.png]]
+
+== Congential ==
+
+=== Congenital conditions ===
+From birth, but not necessarily inherited - could include different colouration, sizes or features.
+
+Colour variations exist for some tuxemon, like [[Sapsnap]]:
+
+[[File:Sapsnap.png]] [[File:Sapsnap2.png]]
+
+=== Epigenetic changes ===
+From birth and inherited, but not resulting from DNA (see [https://en.wikipedia.org/wiki/Epigenetics Wikipedia])
+
+=== Atavisms ===
+([https://en.wikipedia.org/wiki/Atavism Wikipedia])
+
+=== Random variations === 
+Emerge at birth but do not reflect genetic variation, like different monsters in a species having different patterns of spots
+
+== Environmental ==
+
+=== Psychological changes ===
+[[File:Patheak_I.png|thumbnail]]
+[[Patheak]] takes a new form when its confidence increases.
+
+=== Permanent changes based on environment ===
+
+[[Memnomnom]]'s masks take the form of a dead king's face. This could also belong to the '''tool use''' category if it turns out that they can change their masks.  
+
+[[File:Memnomnom-front.png]] [[File:Memnomnom - oni mask.gif]]
+
+[[Jemuar]] have different gems based on the rocks found where they were born. 
+
+[[File:Jemuar variations.png]]
+
+[[Katacoon]] evolves based on which technique it knows. 
+
+[[File:Sumococoon.png]] => [[File:Sumobug front.png]] [[File:Samuraibug-front-alt.png]]
+
+=== Temporary changes based on environment ===
+Like changing colour from eating berries of a particular colour.
+
+=== Changing based on a cycle ===
+Like the four seasons ([https://io9.gizmodo.com/5959772/how-and-why-animals-change-color-with-the-seasons?IR=T io9]; [https://en.wikipedia.org/wiki/Phenology Wikipedia])
+
+[[Jeluna]] changes with the phases of the moon.
+
+[[File:Jeluna by piacarrot-dci6vx7.png]]
+
+== Brief, cyclical or voluntary ==
+
+=== Triggered changes ===
+Like a skink losing its tail to distract a predator or a cuttlefish changing pigmentation; a tuxemon could change its colours to match its trainer, and if its trainer changed clothes it would change colouring. A tuxemon could have different abilities based on which status they had when they were caught.
+
+Morphs that involve [[Booster Tech]] or [[Badges]] - like the [[Botbot]], [[Grintot]] and [[Grubble]] families - are an example of this, since the transformation can be reversed or a new one selected. 
+
+[[File:Botbot-front.png]] => [[File:Fishbot-frot.png]] [[File:Birdbot - josepharaoh99.png]]
+
+[[Bewhich]] has a "sealed form":
+
+[[File:Quasar 19.png]] [[File:Bewhich sealed form by piacarrot-dci6vmk.png]]
+
+=== Tool use ===
+Like a hermit crab getting different powers based on what shell they use as their home or a coconut crab getting more defence while it has a coconut shell, or a domesticated monster wearing clothes or getting a haircut (see [https://en.wikipedia.org/wiki/Tool_use_by_animals Wikipedia])
+
+[[Vyking]] is normally equipped with weapons and a helmet, but can also be found without them.
+
+[[File:Vyking_naked.png]] [[File:Vyking_front.png]]
+
+=== Stimulant reaction ===
+Like a dragon becoming ultra-powerful for a period after touching a magical stone
+
+There's art for some monsters that doesn't match their main form (e.g. [[Moloch]] and [[Jemuar]]). This could be a form that is temporarily unlockable, e.g. through injecting them with a stimulant. 
+
+[[File:Moloch-front.png]] [[File:4 by levaine-da7svx9.png]]
+
+=== Changing based on a phase or condition ===
+Where the changes only last for the duration - like having different properties while pregnant
+
+== Other ==
+
+* [[Fusions]]
+* Permanent or indefinite magical or scientific transformations
+* [[Morphing]] is a form of change
+* Changes that occur through maturation, like growing more tails, growing larger, more monsters joining a swarm
+* Some Variants could be implemented through [[Features]].
+
+[[Category:Monster]]

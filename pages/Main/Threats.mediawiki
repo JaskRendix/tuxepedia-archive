@@ -1,0 +1,26 @@
+See also [[:Category:Monster|monsters]].
+
+Before the battle, different text displays:
+
+For robots:
+
+* A mindless robot of machine and programming - this is no monster you can capture.
+
+For fusions:
+
+* An unrecognised combination of two monsters - this fusion cannot be captured.
+
+== Completed ==
+
+{{#ask:[[TXMN Completed::Complete Threat]] |limit=400
+|?FrontSprite
+|?BackSprite
+|?OverlandSprite
+|?TXMN Type
+|?Species
+|?TXMN Body Shape
+|?TXMN Blurb
+|?TXMN Stage
+|?TXMN Height
+|?TXMN Weight
+}}

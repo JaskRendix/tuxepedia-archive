@@ -1,0 +1,101 @@
+<noinclude>
+This is the "Technique" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Technique}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Technique}}}
+{| class="formtable"
+! TXMN ID: 
+| {{{field|TXMN ID}}}
+|-
+! TXMN Blurb:
+| {{{field|TXMN Blurb|rows=3|autogrow|input type=textarea|}}}
+|-
+! TXMN Completed: 
+| {{{field|TXMN Completed|input type=checkboxes|values=Complete}}}
+|-
+! TXMN Category: 
+| {{{field|TXMN Category|input type=checkboxes|values=Melee, Ranged, Touch, Reach, Reliable, Special}}}
+|-
+! TXMN Type 1: 
+| {{{field|TXMN Type 1|input type=checkboxes|values=Earth, Fire, Metal, Water, Wood, Aether}}}
+|-
+! TXMN Type 2: 
+| {{{field|TXMN Type 2|input type=checkboxes|values=Earth, Fire, Metal, Water, Wood, Aether}}}
+|-
+! TXMN Elements: 
+| {{{field|TXMN Sub-Elements|input type=checkboxes|values=Earth, Fire, Frost, Heroic, Lightning, Cosmic, Metal, Normal, Shadow, Sky, Venom, Water, Wood}}}
+|-
+! TXMN Families: 
+| {{{field|TXMN Family|input type=checkboxes|values=Basic, Condition imposer, Simple, Exotic, Powerful, Reserved, Special}}}
+|-
+! TXMN Speed: 
+| {{{field|TXMN Is fast
+    |input type=dropdown
+    |values=Extremely Slow, Very Slow, Slow, Normal, Fast, Very Fast, Extremely Fast}}}
+|-
+! TXMN Accuracy (from 0 to 100%): 
+| {{{field|TXMN Accuracy}}}
+|-
+! TXMN Power (from 0.0 to 3.0): 
+| {{{field|TXMN Power}}}
+|-
+! TXMN Effects: 
+| {{{field|TXMN Effects}}}
+|-
+! TXMN Healing Power (from 0.0 to 3.0): 
+| {{{field|TXMN Healing Power}}}
+|-
+! TXMN Potency (from 0 to 100%): 
+| {{{field|TXMN Potency}}}
+|-
+! TXMN Recharge: 
+| {{{field|TXMN Recharge}}}
+|-
+! TXMN User Condition: 
+| {{{field|TXMN User Condition|input type=text with autocomplete}}}
+|-
+! TXMN Target Condition: 
+| {{{field|TXMN Target Condition|input type=text with autocomplete}}}
+|-
+! TXMN Animation Target (animation plays over user (0), target (1), both (2) or in the middle of the screen (3).): 
+| {{{field|TXMN Animation Target}}}
+|-
+! Tags: 
+| {{{field|Tags}}}
+|-
+! Main Details: 
+| {{{field|Main Details|input type=textarea}}}
+|-
+! Sources: 
+| {{{field|Sources}}}
+|-
+! Source Explanation: 
+| {{{field|Source Explanation}}}
+|}
+
+=== In Other Languages ===
+{| 
+! Language 
+| Name 
+| Blurb 
+|- 
+! Spanish 
+| {{{field|TXMN_ES Name|}}} 
+| {{{field|TXMN_ES Blurb |}}} 
+|}
+
+{{{end template}}}
+
+=== Edit summary ===
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

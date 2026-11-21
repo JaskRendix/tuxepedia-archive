@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=264
+|TXMN Blurb=They swap data, and hp.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Special
+|TXMN Is fast=Very Fast
+|TXMN Accuracy=100%
+|TXMN Effects=life_share
+|TXMN Recharge=1
+|TXMN Animation Target=3
+|Tags=Machine
+|Sources=HippasusTwo
+}}

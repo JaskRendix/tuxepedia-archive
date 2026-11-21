@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=229
+|TXMN Blurb=The user initiates a frantic food fight, rapidly throwing edible projectiles at the opponent with reckless abandon.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Family=Exotic
+|TXMN Is fast=Fast
+|TXMN Accuracy=95%
+|TXMN Power=0.4
+|TXMN Healing Power=0.1
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Food
+|Main Details=Intended for Flummby and other food themed critters. One of the weakest attacks in the whole game, but compensates by healing very slightly.
+|Sources=HippasusTwo
+}}

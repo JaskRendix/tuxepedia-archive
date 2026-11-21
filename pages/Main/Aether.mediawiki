@@ -1,0 +1,4 @@
+{{Type
+|Present In=Tuxemon,
+|TXMN ID=0
+}}

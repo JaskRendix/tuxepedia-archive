@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=83
+|TXMN Blurb=The user's body emits a bright light as it restores its own health.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Lightning
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=90%
+|TXMN Power=1.5
+|TXMN Effects=healing user
+|TXMN Healing Power=1.5
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Machine
+|Sources=Sanglorian
+}}

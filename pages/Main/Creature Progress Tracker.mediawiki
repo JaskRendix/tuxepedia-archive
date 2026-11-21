@@ -1,0 +1,16 @@
+See [[:Category:Monster]] for all tuxemon or [[Completed Tuxemon]] for just those that have a full set of sprites.
+
+There are {{#ask:[[TXMN Completed Exists::false]]
+| format=count}} unfinished tuxemon.
+
+<table class="invisitable"><tr><td>{{#ask:[[TXMN Completed Exists::false]] |limit=500
+|?Default64px
+|?TXMN Type
+|?TXMN Stage
+|?FrontSprite
+|?BackSprite
+|?Face Sprite 1
+|?Face Sprite 2
+|?TXMN Blurb
+|?MainCall
+}}</td></tr></table>

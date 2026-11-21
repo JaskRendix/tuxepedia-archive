@@ -1,0 +1,18 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=600
+|TXMN Usable In=world
+|TXMN Description=Dry crispbread with a zesty spice dust spread. Simple, snappy, and full of flavor.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Meal Dust]]: 2
+* [[Crackle Salt]]: 1
+* [[Glowfat]]: 1
+* [[Spice Dust]]: 1
+
+Possible Outputs:  
+* [[Pita]], 1, 0.8  
+* [[Whispersoup]], 1, 0.2
+|Sources=Jaskrendix
+}}

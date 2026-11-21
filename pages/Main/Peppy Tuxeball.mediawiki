@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Capture Item
+|TXMN Effects=capture
+|TXMN Cost=450
+|TXMN Usable In=combat
+|TXMN Description=Upon capture, the tuxemon's positive taste changes to peppy.
+|TXMN Consumable=yes
+}}

@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Held Item
+|TXMN Effects=Restore
+|TXMN Target=player
+|TXMN Usable In=world, combat
+|TXMN Description=On the wrong foot? Put a horseshoe on it!
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Sprite adapted by Sanglorian from the Superpowers Asset Packs.
+}}

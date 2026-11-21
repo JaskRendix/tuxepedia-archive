@@ -1,0 +1,27 @@
+{{Trainer
+|Sources=Sanglorian, Tamashihoshi, Pboop
+|Source Explanation=Overland sprites by Pboop. Front sprites by Sanglorian and Tamashihoshi.
+|Genre=Modern
+|Combat Type=1 vs 1
+|Main Details==== Names ===
+* Debbie
+* Selina
+* Cara
+* Irena
+* Bobette
+* Billie
+
+=== Quotes (Before Battle) ===
+* "I love cats. I love every kind of cat." 
+* "I am a cat lover - and I love to run." 
+* "I'm nervous but I'm excited at the same time."
+* "I want to hug every cat."
+* "Every time I hear a cat ... I just love cats."
+
+=== Quotes (After Battle) ===
+* "*SNIFF* I'm sorry I'm thinking about cats again".
+* "*SNIFF* Sorry I'm getting emotional"
+* "I should have every cat."
+* "I just want a house full of cats."
+* "I can't. I just - I can't."
+}}

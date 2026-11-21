@@ -1,0 +1,118 @@
+While Tuxemon collects open source monsters, fewer than half of the monsters in this project were created specifically for the project. Other sources include [[Related Projects]], one-off open source monsters as well as existing monster designs that were purchased or contributed. 
+
+{| 
+! Name 
+! Not completed 
+! Completed 
+|-
+| '''Total'''
+| {{#ask: [[TXMN Completed Exists::false]] | format=count}}
+| {{#ask: [[TXMN Completed::Complete]] | format=count}}
+|}
+
+== [[Related Projects]] ==
+
+{| 
+! Name 
+! Not completed 
+! Completed 
+|-
+| '''Friends with Monsters''' 
+| {{#ask: [[Sources::Georg Eckert]] [[TXMN Completed Exists::false]] | format=count}} 
+| {{#ask: [[Sources::Georg Eckert]] [[TXMN Completed::Complete]] | format=count}} 
+|-
+| '''Catch Challenger'''
+| {{#ask: [[Sources::Catch Challenger]] [[TXMN Completed Exists::false]] | format=count}}
+| {{#ask: [[Sources::Catch Challenger]] [[TXMN Completed::Complete]] | format=count}}
+|-
+| '''Sitran Fakedex'''
+| {{#ask: [[Sources::Spalding004]] [[TXMN Completed Exists::false]] | format=count}}
+| {{#ask: [[Sources::Spalding004]] [[TXMN Completed::Complete]] | format=count}}
+|-
+| '''OPMon'''
+| {{#ask: [[Sources::OPMon]] [[TXMN Completed Exists::false]] | format=count}}
+| {{#ask: [[Sources::OPMon]] [[TXMN Completed::Complete]] | format=count}}
+|-
+| '''Piacarrot'''
+| {{#ask: [[Sources::Piacarrot]] [[TXMN Completed Exists::false]] | format=count}}
+| {{#ask: [[Sources::Piacarrot]] [[TXMN Completed::Complete]] | format=count}}
+|-
+| '''princess-phoenix'''
+| {{#ask: [[Sources::princess-phoenix]] [[TXMN Completed Exists::false]] | format=count}}
+| {{#ask: [[Sources::princess-phoenix]] [[TXMN Completed::Complete]] | format=count}}
+|}
+
+== Tuxemon contributions ==
+
+{| 
+! Name 
+! Not completed 
+! Completed 
+|-
+| '''Serpexnessie''' 
+| {{#ask: [[Sources::Serpexnessie]] [[TXMN Completed Exists::false]] | format=count}} 
+| {{#ask: [[Sources::Serpexnessie]] [[TXMN Completed::Complete]] | format=count}}
+|-
+| '''Cavalcadeur''' 
+| {{#ask: [[Sources::Cavalcadeur]] [[TXMN Completed Exists::false]] | format=count}} 
+| {{#ask: [[Sources::Cavalcadeur]] [[TXMN Completed::Complete]] | format=count}}
+|-
+| '''tamashihoshi''' 
+| {{#ask: [[Sources::tamashihoshi]] [[TXMN Completed Exists::false]] | format=count}} 
+| {{#ask: [[Sources::tamashihoshi]] [[TXMN Completed::Complete]] | format=count}}
+|-
+| '''josepharaoh99''' 
+| {{#ask: [[Sources::josepharaoh99]] [[TXMN Completed Exists::false]] | format=count}} 
+| {{#ask: [[Sources::josepharaoh99]] [[TXMN Completed::Complete]] | format=count}}
+|-
+| '''DevilDman''' 
+| {{#ask: [[Sources::DevilDman]] [[TXMN Completed Exists::false]] | format=count}} 
+| {{#ask: [[Sources::DevilDman]] [[TXMN Completed::Complete]] | format=count}}
+|-
+| '''WDFA-Final''' 
+| {{#ask: [[Sources::WDFA-Final]] [[TXMN Completed Exists::false]] | format=count}} 
+| {{#ask: [[Sources::WDFA-Final]] [[TXMN Completed::Complete]] | format=count}}
+|}
+
+== Monsters purchased ==
+
+{|
+! Name 
+! Not completed 
+! Completed 
+|-
+| '''TheBritanniaRegion''' 
+| {{#ask: [[Sources::TheBritanniaRegion]] [[TXMN Completed Exists::false]] | format=count}} 
+| {{#ask: [[Sources::TheBritanniaRegion]] [[TXMN Completed::Complete]] | format=count}}
+|-
+| '''Fauxlens''' 
+| {{#ask: [[Sources::Fauxlens]] [[TXMN Completed Exists::false]] | format=count}} 
+| {{#ask: [[Sources::Fauxlens]] [[TXMN Completed::Complete]] | format=count}}
+|-
+| '''DarkMilkyWay1701''' 
+| {{#ask: [[Sources::DarkMilkyWay1701]] [[TXMN Completed Exists::false]] | format=count}} 
+| {{#ask: [[Sources::DarkMilkyWay1701]] [[TXMN Completed::Complete]] | format=count}}
+|-
+| '''mjco''' 
+| {{#ask: [[Sources::Mjco]] [[TXMN Completed Exists::false]] | format=count}} 
+| {{#ask: [[Sources::Mcjo]] [[TXMN Completed::Complete]] | format=count}}
+|-
+| '''Jai-Ti''' 
+| {{#ask: [[Sources::Jai-Ti]] [[TXMN Completed Exists::false]] | format=count}}
+| {{#ask: [[Sources::Jai-Ti]] [[TXMN Completed::Complete]] | format=count}}
+|-
+| '''BrasioPkmn''' 
+| {{#ask: [[Sources::BrasioPkmn]] [[TXMN Completed Exists::false]] | format=count}} 
+| {{#ask: [[Sources::BrasioPkmn]] [[TXMN Completed::Complete]] | format=count}}
+|}
+
+== Monsters by Source ==
+<table class="invisitable"><tr><td>{{#ask:[[TXMN Completed::Complete]] |limit=300
+|?Default64px
+|?Sources
+}}</td></tr></table>
+
+<table class="invisitable"><tr><td>{{#ask:[[TXMN Completed Exists::false]] |limit=500
+|?Default64px
+|?Sources
+}}</td></tr></table>

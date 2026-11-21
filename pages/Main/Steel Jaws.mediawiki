@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=217
+|TXMN Blurb=The user clamps down with jaws reinforced by metal. A powerful biting attack.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=95%
+|TXMN Power=2.5
+|TXMN Recharge=3
+|TXMN Animation Target=2
+|Tags=Bite, Steel
+|Main Details=A mid to late game bite move, complimenting the early game bite moves. A 'mon with all bite moves could progress from Gnaw to Crushing Bite to Grinding to Steel Jaws. It has higher accuracy than Grinding, but longer recharge (unless tweaked otherwise).
+}}

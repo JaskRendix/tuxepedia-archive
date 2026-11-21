@@ -1,0 +1,24 @@
+{{Monster
+|Sources=Seripha
+|Species=Alpha
+|Name Origin=Thorn + Honor
+
+Thorn — referencing the vine-like growth around its neck.
+
+Honor — symbolizing the pride hierarchy and the respect earned through rank.
+|Main Details=Thornor is a proud and territorial creature that roams in tightly knit packs across arid plains and thorny scrublands. Its signature feature—a thick, coiling thorn bush wrapped around its neck—serves not only as protection but as a symbol of dominance. Within its pack, the size and complexity of the thorn bush directly reflect its social rank. Alpha Thornors boast sprawling, ornate thorns that shimmer with dew and dust, while lower-ranked members have sparse, brittle growths.
+
+Despite its fearsome appearance, Thornor is deeply loyal to its kin and will defend its pride with ferocious resolve. When threatened, it can lash its thorn bush like a whip, delivering painful strikes that sap energy from its foes.
+|TXMN Types=Earth, Wood
+|TXMN Sub-Elements=Earth, Wood
+|TXMN Body Shape=Hunter
+|TXMN Blurb=Its thorn bush is a sign for the rank in their pack hierarchy. The bigger and more magnificent its thorn bush the higher rank.
+|TXMN Height=120
+|TXMN Weight=90
+|TXMN Catch Resistance=50
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Grassland
+|Fusion First=Thor
+|Fusion Second=Nor
+}}

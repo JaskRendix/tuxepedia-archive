@@ -1,0 +1,58 @@
+{{Monster
+|Sources=HippasusTwo, Rsg167
+|Source Explanation=Designed and sprited by Rsg167. Front and back sprites by HippasusTwo.
+|Species=Attercob
+|Evolves=Equill
+|Name Origin=''hoarse'' (rough) + ''shoo'', evoking ''horseshoe''
+|Main Details=Hoarseshoo has venomous fangs. Watch out!
+|TXMN Types=Earth
+|TXMN Sub-Elements=Shadow, Venom
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=311
+|TXMN Blurb=It is what is left when an EQUILL's shadow eats its body.
+|TXMN Height=300
+|TXMN Weight=1300
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|Tags=Megafauna, Darkness, Toxic
+|Fusion First=Hoarse
+|Fusion Second=shoo
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hibernate
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Mudslide
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Infectious Bite
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Sphere
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Summon Shadows
+|Technique_Level=56
+}}

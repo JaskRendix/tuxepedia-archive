@@ -1,0 +1,62 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Spalding004, Tamashihoshi
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Original design and sprites by Spalding004. Face sprites by tamashihoshi.
+|Species=Too Hot
+|Evolves=Bursa
+|Name Origin=''flame'' + ''bear'' (evoking ''flambe'')
+|Design Origin=With its less boxy head shape and large size, it could actually be a sort of 'reverse' polar bear that prefers heat. Alternatively and more likely, it might be a fire powered Kamchatka Brown Bear, which would be in that size range; at 500 kg (a bit over 1000 lbs) it is bigger than even your atypical Grizzly.
+|Main Details=Like its blurb, it would likely eat a lot of fish, but occasionally snack on berries if they are available. A bear of this size would happily attack a deer Tuxemon if it saw one fleeing like [[Candeer]] or [[Aerostag]].
+|SpyderCampaign=Used by a trainers in Dojo.
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire, Cosmic
+|TXMN Completed=Complete
+|TXMN Body Shape=Brute
+|TXMN ID=84
+|TXMN Blurb=It can be tracked from the trail of boiled berry bushes and roasted trout it leaves in its wake.
+|TXMN Height=250
+|TXMN Weight=500
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Mountains, Woodland
+|Tags=Mental, Flame, Food
+|Fusion First=Flam
+|Fusion Second=bear
+}}
+{{Technique Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Amnesia
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Berserk
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Give All
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Pyrokinesis
+|Technique_Level=40
+}}

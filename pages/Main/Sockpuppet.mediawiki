@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=258
+|TXMN Blurb=The user whips out a quirky sock puppet that mimics its movements, confusing the foe and shielding the user from tricks and status moves for several turns.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Special
+|TXMN Is fast=Fast
+|TXMN Accuracy=100%
+|TXMN Power=0
+|TXMN Effects=Cooldown enemy_monster,5,sort,damage
+|TXMN Recharge=5
+|TXMN Animation Target=0
+|Tags=Machine, Shielded, Weak, Gadgets
+|Main Details=Sockpuppeting is a term for internet trolling via multiple accounts. Some animals in nature, however, do defend themselves through duplication, so there's a lot of potential use here.
+And of course, sock themed monsters.
+This is a move intended to increase the number of strategies available in the game.
+|Sources=HippasusTwo
+}}

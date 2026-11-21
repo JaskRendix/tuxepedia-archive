@@ -1,0 +1,20 @@
+{{Character
+|Trainer Class=Knight Lord
+|Main Details=Boss of [[Nimrod HQ]]
+
+== Speech Style ==
+Boastful/Confrontational: Frames every interaction as a military challenge (''"you think you have a chance against me?"'').
+
+Condescending: Refers to his subordinates in the "Shaft" division as "imbeciles."
+
+Pragmatic: Admits they only wanted to capture Drokoro as a "backup," showing the depth of their planning.
+
+== Tone ==
+Militaristic, Hypocritical, and Goal-Oriented. His initial belief in "mutual respect" (from a prior version) has been abandoned for "guaranteed compliance" driven by Omnichannel's market metrics.
+
+== Focus ==
+Creating the Enforcer corps—monsters of dominance. He prioritizes unquestioning obedience over all else, even if it compromises the creatures' nature.
+
+== Role & Actions ==
+The Head of the Nimrod Weapons Division. Responsible for the technological half of the "perfect monsters" (Beaverbrook's fusion creations). Even in defeat, his primary concern is recovering his assets.
+}}

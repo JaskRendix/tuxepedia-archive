@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=255
+|TXMN Blurb=The user uses a ranged attack that can be different types.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=2
+|TXMN Effects=move_type user
+|TXMN Recharge=2
+|TXMN Animation Target=0
+|Tags=Universal
+|Sources=HippasusTwo
+}}

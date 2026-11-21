@@ -1,0 +1,7 @@
+{{Trainer
+|Sources=David Revoy, DOGMATICAL
+|Source Explanation=Art by David Revoy. Sprite by DOGMATICAL.
+|Genre=Modern
+|Combat Type=1 vs 1
+|Main Details=[[Category:Handballers]]
+}}

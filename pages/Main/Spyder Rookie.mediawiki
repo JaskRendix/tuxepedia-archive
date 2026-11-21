@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Catch Challenger, Sanglorian, Nikai Region
+|Source Explanation=Overland sprites from Catch Challenger. Front sprite by Sanglorian. Art by Nikai Region.
+|Genre=Modern
+|Combat Type=1 vs 1
+}}

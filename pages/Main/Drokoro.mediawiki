@@ -1,0 +1,76 @@
+{{Monster
+|Sources=CharlesGabriel, Sanglorian, moritz_gunz
+|Source Explanation=Original design and sprites by moritz_gunz. Face sprites tweaked by Sanglorian. Overland sprite adapted by Sanglorian from a sprite by CharlesGabriel. Other art by moritz_gunz.
+|Species=Dragon
+|Main Details=This tuxemon is always angry and eats tuxemon even bigger than itself.
+== The Spyder in the Cathedral ==
+This tuxemon is [[:Category:Unique|unique]], and lives in [[Dragon's Cave]].
+[[Category:Unique]] [[Category:Dragons]]
+|SpyderCampaign=Found in the wild on Dragon's Cave.
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Completed=Complete
+|TXMN Body Shape=Dragon
+|TXMN ID=145
+|TXMN Blurb=Once it had a family, but it ate its parents, and it ate its children, and it ate its mate, and it ate all of its kind.
+|TXMN Height=1200
+|TXMN Weight=10000
+|TXMN Catch Resistance=5
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Flame, Bite, Fury
+|Fusion First=Dro
+|Fusion Second=koro
+}}
+{{Technique Allocation
+|Has_Technique=Tinder
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Fire Shield
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Firestorm
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Give All
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Chameleon
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Supernova
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=55
+}}

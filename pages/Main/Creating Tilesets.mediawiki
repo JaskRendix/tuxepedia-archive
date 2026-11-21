@@ -1,0 +1,8 @@
+Tuxemon uses the [http://www.mapeditor.org Tiled map editor] to create all of the maps seen in the game. With Tiled, you can load multiple tileset images which contain various tiles that can be used in your maps. A tileset image can be *any* size, as long as the individual tiles themselves are '''16 x 16''' pixels in size.
+
+Here is what a whole tileset image might look like:
+
+[[File:Tiles_packed.png]]
+
+== Using your tilesets in Tuxemon ==
+You can use your tilesets in Tuxemon by simply placing your tileset images in `resources/gfx/tilesets` and then adding your tileset to a map using the [http://www.mapeditor.org Tiled map editor]. For more information on how to add your tileset to  map, take a look at the [[Creating Maps]] page.

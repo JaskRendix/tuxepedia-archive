@@ -1,0 +1,5 @@
+{{Trainer
+|Sources=Catch Challenger
+|Genre=Modern
+|Combat Type=1 vs 1
+}}

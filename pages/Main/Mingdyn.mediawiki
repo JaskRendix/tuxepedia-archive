@@ -1,0 +1,77 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Front sprite by Spalding004. Back and face sprites by Jaskrendix.
+|Species=Dragon
+|Main Details=Pronounced MING-dine.
+
+Takes inspiration from classical Chinese dragons.
+|SpyderCampaign=Used by a trainer in Walled Garden.
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire, Sky
+|TXMN Completed=Complete
+|TXMN Body Shape=Dragon
+|TXMN ID=239
+|TXMN Blurb=Every 12 years, a single MINGDYN egg is laid. Its discovery marks a time of renewal and upheaval across the land.
+|TXMN Height=274
+|TXMN Weight=124
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Mountains
+|Tags=Flame, Celestial, Healing, Calamity
+|Fusion First=Ming
+|Fusion Second=dyn
+}}
+{{Technique Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Sunburst
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Salamander
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Surge
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Kindling Flame
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Wall of Fire
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Gold Digger
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Arcane Eye
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Supernova
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Tornado
+|Technique_Level=55
+}}

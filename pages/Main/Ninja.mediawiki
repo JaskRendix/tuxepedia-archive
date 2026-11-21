@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Antifarea, Superpowers Asset Packs
+|Source Explanation=Front sprite by Antifarea. Overland sprite by Superpowers Asset Packs, adapted by Sanglorian.
+|Genre=Fantasy Historical
+|Combat Type=1 vs 1
+}}

@@ -1,0 +1,67 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/50-51-Poinchin-Saurchin-666805809
+|Sources=PandiRocks-17, Sanglorian, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Back sprite by Sanglorian. Face sprites tweaked by Sanglorian from the front sprite by Serpexnessie. Art by PandiRocks-17.
+|Species=Spiny
+|Evolves=Poinchin
+|Name Origin=''dinosaur'' + ''sea urchin''
+|SpyderCampaign=N/A
+|TXMN Types=Water
+|TXMN Sub-Elements=Venom
+|TXMN Completed=Complete
+|TXMN Body Shape=Dragon
+|TXMN ID=349
+|TXMN Blurb=By night, SAURCHIN emerge from the coral reefs to hunt bigger prey on land.
+|TXMN Height=800
+|TXMN Weight=3000
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Terrains=Coastal
+|Tags=Sharp, Toxic, Bite, Megafauna
+|Fusion First=Saur
+|Fusion Second=chin
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Flow
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Goad
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Muck
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Font
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Midnight Mantle
+|Technique_Level=22
+}}
+{{Technique Allocation
+|Has_Technique=Needle
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Chill Mist
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Viper
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Thorn Burst
+|Technique_Level=46
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=55
+}}

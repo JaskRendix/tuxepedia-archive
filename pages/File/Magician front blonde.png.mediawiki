@@ -1,0 +1,9 @@
+[[Category:64px]]
+[[Category:Front Sprite]]
+[[Category:Magician]]
+[[Category:Catch Challenger]]
+[[Category:Alternative]]
+[[Category:Sanglorian]]
+[[Category:Jaskrendix]]
+
+Recolored by Jaskrendix. Adapted by Sanglorian from a sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.

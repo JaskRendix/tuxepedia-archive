@@ -1,0 +1,9 @@
+{{Condition
+|TXMN ID=1
+|Positive or Negative=Positive
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Remove
+|Text When Gained=NAME is covered in hard shell.
+|Armour Multiplier=1.5
+|Details=Armor improves by half. If you would gain a negative condition, you lose Hard Shell but do not gain the negative condition.
+}}

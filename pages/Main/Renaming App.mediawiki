@@ -1,0 +1,6 @@
+{{Item
+|Item Category=Functional Item
+|TXMN Usable In=world
+|TXMN Description=Give your Tuxemon a fresh identity with a new name—make it truly yours!
+|TXMN Key Item=yes
+}}

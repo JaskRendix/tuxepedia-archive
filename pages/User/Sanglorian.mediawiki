@@ -1,0 +1,115 @@
+
+{{#ask:[[TXMN Completed::Complete]] |limit=1000
+|?MainImage
+|?FrontSprite
+|?Tags
+}}
+
+
+== Condition imposers ==
+
+{{#ask:[[Category:Technique]] [[TXMN Family::Condition imposer]] |limit=400
+|? TXMN Element
+|? TXMN Recharge
+|? TXMN Is fast
+|? TXMN Effects
+|? TXMN Potency
+|? TXMN User Condition
+|? TXMN Target Condition
+|? Tags
+|
+}}
+
+== Animal techniques ==
+
+{{#ask:[[Category:Technique]] [[TXMN Family::Animal]]
+|limit=400
+|? TXMN Element
+|? TXMN Category
+|? TXMN Accuracy
+|? TXMN Power
+|? TXMN Recharge
+|? TXMN Is fast
+|? Tags
+|
+}}
+
+== Basic ==
+
+{{#ask:[[Category:Technique]] [[TXMN Family::Basic]] |limit=400
+|? TXMN Element
+|? TXMN Accuracy
+|? TXMN Category
+|? TXMN Power
+|? TXMN Recharge
+|? TXMN Is fast
+|? TXMN Effects
+|? Tags
+|
+}}
+
+== Simple ==
+
+{{#ask:[[Category:Technique]] [[TXMN Family::Simple]] |limit=400
+|? TXMN Element
+|? TXMN Accuracy
+|? TXMN Category
+|? TXMN Power
+|? TXMN Recharge
+|? TXMN Is fast
+|? TXMN Effects
+|? TXMN Potency
+|? TXMN User Condition
+|? TXMN Target Condition
+|? Tags
+|
+}}
+
+== Special ==
+
+{{#ask:[[Category:Technique]] [[TXMN Family::Special]] |limit=400
+|? TXMN Element
+|? TXMN Accuracy
+|? TXMN Recharge
+|? TXMN Is fast
+|? TXMN Effects
+|? TXMN Potency
+|? TXMN User Condition
+|? TXMN Target Condition
+|? Tags
+|
+}}
+
+== Powerful ==
+
+{{#ask:[[Category:Technique]] [[TXMN Family::Powerful]] |limit=400
+|? TXMN Element
+|? TXMN Accuracy
+|? TXMN Category
+|? TXMN Power
+|? TXMN Recharge
+|? TXMN Is fast
+|? TXMN Effects
+|? TXMN Potency
+|? TXMN User Condition
+|? TXMN Target Condition
+|? Tags
+|
+}}
+
+== Exotic ==
+
+{{#ask:[[Category:Technique]] [[TXMN Family::Exotic]] |limit=400
+|? TXMN Element
+|? TXMN Accuracy
+|? TXMN Category
+|? TXMN Power
+|? TXMN Recharge
+|? TXMN Is fast
+|? TXMN Effects
+|? TXMN Potency
+|? TXMN User Condition
+|? TXMN Target Condition
+|? Tags
+|
+}}

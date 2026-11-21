@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=17
+|TXMN Blurb=The user latches onto the opponent with its powerful jaws.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN User Condition=diehard
+|TXMN Target Condition=grabbed
+|TXMN Animation Target=1
+|Tags=Bite, Bug, Fury
+|Sources=Sanglorian, Josepharaoh99
+|Source Explanation=Technique by Sanglorian. "Bite" animation by josepharaoh99.
+}}

@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=HippasusTwo, Jaskrendix
+|Genre=Modern
+|Combat Type=1 vs 1
+|Main Details=One option for the [[Protagonist]]
+}}

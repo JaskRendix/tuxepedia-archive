@@ -1,0 +1,3 @@
+{{Contributor
+|Contributor Types=Released works under a free and open licence
+}}

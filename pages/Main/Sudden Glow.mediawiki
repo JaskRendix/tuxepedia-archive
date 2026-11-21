@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=67
+|TXMN Blurb=The user emits a radiant light, healing itself and restoring its stamina.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Heroic
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=healing user
+|TXMN Healing Power=2
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN User Condition=recovering
+|TXMN Target Condition=focused
+|TXMN Animation Target=3
+|Tags=Light, Healing
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. "Heal burst" animation by Superpowers Asset Packs.
+}}

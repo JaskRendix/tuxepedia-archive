@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=39
+|TXMN Blurb=The user taunts the opponent, causing them to become enraged.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Normal
+|TXMN Family=Simple
+|TXMN Is fast=Very Fast
+|TXMN Accuracy=80%
+|TXMN Power=1.75
+|TXMN Potency=80%
+|TXMN Recharge=2
+|TXMN Target Condition=enraged
+|TXMN Animation Target=1
+|Tags=Speed, Shielded
+|Sources=Sanglorian, Henrique Lazarini
+|Source Explanation=Technique by Sanglorian. "Buff rage" animation by Henrique Lazarini, adapted by Sanglorian.
+}}

@@ -1,0 +1,57 @@
+{{Monster
+|Sources=Catch Challenger, Sanglorian
+|Source Explanation=Catch Challenger is an open source project, with assets under Creative Commons Attribution. Original design and front and back sprites by Catch Challenger. Face sprites tweaked from back sprite by Sanglorian.
+|Species=Hydra
+|Evolves=Snaki
+|SpyderCampaign=N/A
+|TXMN Types=Water
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Serpent
+|TXMN ID=228
+|TXMN Blurb=The two heads of SNOKARI each hold great wisdom, but they never agree.
+|TXMN Height=145
+|TXMN Weight=45
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Toxic, Bite
+|Fusion First=Sno
+|Fusion Second=kari
+}}
+{{Technique Allocation
+|Has_Technique=Water Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Goad
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Midnight Mantle
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Viper
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Electric Multibite
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Tsunami
+|Technique_Level=40
+}}

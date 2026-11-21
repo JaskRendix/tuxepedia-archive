@@ -1,0 +1,62 @@
+== Joining the Wiki ==
+
+Contact Sanglorian on the Tuxemon Discord, and he will create an account for you ([https://wiki.tuxemon.org/index.php?title=Special:UserLogin/signup wiki page]).
+
+== Adding Images ==
+
+In the sidebar, there's an "Upload file" link. Click on that, and upload the image. 
+
+For each image, assign categories for: 
+
+* What the image is of (e.g. [[Rockitten]])
+* What scale the image is in - typically the dimensions of the image. For example, most front sprites are 64 by 64 pixels. 
+* What type of image it is (e.g. a Front Sprite)
+* If the image is the Main one, or an Alternative. 
+* Who created or contributed to the sprite.
+
+=== Example Categories ===
+
+[[File:Drashimi64.png]]
+
+<nowiki>[[Category:Drashimi]]
+[[Category:princess-phoenix]]
+[[Category:Front Sprite]]
+[[Category:Main]]
+[[Category:64px]]</nowiki>
+
+
+[[File:Sushi mons 13.png]]
+
+<nowiki>[[Category:Drashimi]]
+[[Category:princess-phoenix]]
+[[Category:Front Sprite]]
+[[Category:Alternative]]
+[[Category:80px]]</nowiki>
+
+
+[[File:Rockitten-back.png]]
+
+<nowiki>[[Category:Rockitten]]
+[[Category:ShadowApex]]
+[[Category:Main]]
+[[Category:Back Sprite]]
+[[Category:64px]]</nowiki>
+
+
+[[File:Rockitten face.png]]
+
+<nowiki>[[Category:Rockitten]]
+[[Category:Face Sprite 1]]
+[[Category:Main]]
+[[Category:24px]]
+[[Category:Leo]]</nowiki>
+
+
+[[File:Rockitten-face-2.png]]
+
+<nowiki>[[Category:Rockitten]]
+[[Category:Face Sprite 2]]
+[[Category:Main]]
+[[Category:24px]]
+[[Category:Leo]]
+[[Category:Sanglorian]]</nowiki>

@@ -1,0 +1,9 @@
+{{Condition
+|Positive or Negative=Positive
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Replacement Conditions=After used to set HP to 1, remove
+|Text When Gained=NAME will keep fighting.
+|Details=When HP would fall below 1, set it to 1, remove this condition and print "X fights through the pain." A monster that is already on exactly 1 HP cannot gain the Diehard condition.
+|TXMN ID=4
+}}

@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Morph Item
+|TXMN Effects=evolve
+|TXMN Usable In=world
+|TXMN Description=An open source technology that allows you to morph Botbot into a different form.
+|TXMN Consumable=yes
+|Main Details=Morphs Botbot into a random evolution.
+|Sources=Catch Challenger
+|Source Explanation=A sprite from Catch Challenger (CC BY), art director Jordan Brule. Project developer Herman Brule.
+}}

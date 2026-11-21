@@ -1,0 +1,56 @@
+{{Monster
+|Alternative Names=Pisces, Magnecarp, πCC, Fishbot
+|Sources=HippasusTwo, Leo, Sanglorian, josepharaoh99
+|Source Explanation=Original design by Leo. Front sprite by josepharaoh99. Other sprites by Sanglorian. Sprite colours tweaked by HippasusTwo.
+|Species=Bladder
+|Evolves=Botbot
+|Name Origin=pi + Cs spells out "pisces" (rebus)
+|SpyderCampaign=Used by trainers in Sea Route C, Scoop HQ and Wayfarer Inn. Fished with the Neptune or Poseidon.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Piscine
+|TXMN ID=127
+|TXMN Blurb=It accompanies divers, providing much needed oxygen.
+|TXMN Height=55
+|TXMN Weight=4
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|TXMN Terrains=Freshwater
+|Tags=Machine, Water
+|Fusion First=Pi
+|Fusion Second=icc
+}}
+{{Technique_Allocation
+|Has_Technique=Beam
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Levitate
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Strike
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Radiance
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Battery Discharge
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Wall of Steel
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Shrapnel
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Constrict
+|Technique_Level=25
+}}

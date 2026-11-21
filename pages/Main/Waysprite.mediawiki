@@ -1,0 +1,52 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/61-65-Waysprite-Line-667561410
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Back and face sprites by Jaskrendix.
+|Species=Wavering
+|Name Origin=Presumably, ''way'' and ''sprite''
+|Main Details=If a Waysprite reached level 16 (or any higher level) during the hours of 6am to 6pm, it attempts to morph into [[Angesnow]]. From 6pm to 6am, it attempts to morph into [[Demosnow]].
+|SpyderCampaign=N/A
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN ID=262
+|TXMN Blurb=WAYSPRITE are said to form when a person faces a difficult decision.
+|TXMN Height=15
+|TXMN Weight=1
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Extraplanar
+|Tags=Ice, Leadership, Weather
+|Fusion First=Ways
+|Fusion Second=prite
+}}
+{{Evolutions
+|Has Evolution=Angesnow
+|Evolution Level=14, while at night
+}}
+{{Evolutions
+|Has Evolution=Demosnow
+|Evolution Level=14, during the day
+}}
+{{Technique_Allocation
+|Has_Technique=Ice Claw
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Goad
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Beam
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Orbs
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Neutralize
+|Technique_Level=13
+}}

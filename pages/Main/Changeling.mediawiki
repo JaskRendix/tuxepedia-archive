@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=183
+|TXMN Blurb=The user undergoes a transformation, healing its wounds in the process.
+|TXMN Category=Special
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=Switch Cosmic User
+|TXMN Potency=100%
+|TXMN Recharge=4
+|TXMN User Condition=Recovering
+|TXMN Animation Target=0
+|Tags=Shapeshifter
+|Sources=Sanglorian
+}}

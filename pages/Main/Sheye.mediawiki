@@ -1,0 +1,51 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert, HippasusTwo, Jaskrendix
+|Source Explanation=Designed and sprited by Georg Eckert. Front and back sprites by HippasusTwo. Face sprites by Jaskrendix.
+|Species=Crabby Mussel
+|Name Origin=''shell'' + ''eye''
+|SpyderCampaign=Found in the wild in Paper Town and City Park.
+|TXMN Types=Water
+|TXMN Sub-Elements=Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Polliwog
+|TXMN ID=285
+|TXMN Blurb=SHEYE are weighed down by heavy thoughts. Edgy trainers like them for their sinister appearance and solemn demeanor.
+|TXMN Height=40
+|TXMN Weight=19
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Coastal, Freshwater, Sea
+|Tags=Mental, Bite, Shielded
+|Fusion First=Sh
+|Fusion Second=eye
+}}
+{{Evolutions
+|Has Evolution=Shrab
+|Evolution Level=Bond 40
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ice Shield
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Terror
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Phantasmal Force
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Mind Vise
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Flow
+|Technique_Level=19
+}}

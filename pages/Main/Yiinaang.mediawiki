@@ -1,0 +1,75 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Sanglorian, Spalding004, tamashihoshi
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Original design and sprites by Spalding004. Back sprite by tamashihoshi. Face sprites tweaked by Sanglorian.
+|Species=Balance
+|Name Origin=''yin'' + ''yang''
+|Main Details=The balance tuxemon.
+|SpyderCampaign=N/A
+|TXMN Types=Fire, Water
+|TXMN Sub-Elements=Cosmic, Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=146
+|TXMN Blurb=It was born the first time a star fell into a black hole.
+|TXMN Height=200
+|TXMN Weight=0
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|Tags=Celestial, Healing, Light, Darkness
+|Fusion First=Yiina
+|Fusion Second=ang
+}}
+{{Technique Allocation
+|Has_Technique=Gust
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Midnight Mantle
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Electrical Storm
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Firestorm
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Magma
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Snowstorm
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Arcane Eye
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Supernova
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Divinity Beam
+|Technique_Level=55
+}}

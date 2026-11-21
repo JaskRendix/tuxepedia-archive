@@ -1,0 +1,60 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/journal/Fakemon-for-Sale-680318198
+|Sources=TheBritanniaRegion
+|Species=Sea Snake
+|Evolves=Ellness
+|Name Origin=''moray'' + ''cyanide''
+|Design Origin=Eels and sea snakes
+|Main Details=Their bone-shaped tail fin attracts smaller Ellness - making a quick snack!
+
+Eels actually have two jaws, one hidden inside the other.
+|TXMN Types=Water
+|TXMN Sub-Elements=Lightning, Shadow
+|TXMN Body Shape=Piscine
+|TXMN Blurb=Stories say that this tuxemon would attack oncoming ships and break them in half with their strong tail. They electrocute their victims, before tearing the flesh off them and colllecting their bones.
+|TXMN Height=600
+|TXMN Weight=200
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|TXMN Terrains=Sea
+|Tags=Darkness, Water, Ghost, Bite
+|Fusion First=Mora
+|Fusion Second=nide
+}}
+{{Technique Allocation
+|Has_Technique=Buzz
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Infectious Bite
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Water Bullet
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Sphere
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Charge
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Electric Multibite
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Kraken
+|Technique_Level=50
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=55
+}}

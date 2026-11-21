@@ -1,0 +1,129 @@
+Tuxemon comes with command line that you can use for debugging purposes. The Tuxemon command line console provides you with a *full* python shell and access to all in-game functions and variables. This page will give you some examples on how you can use the Tuxemon CLI to do things like give yourself monsters or start battles).
+
+== Enabling the CLI ==
+To enable to Tuxemon command line, edit the <code>tuxemon.cfg</code> configuration file with a text editor and change <code>cli_enabled</code> to <code>1</code>.
+
+http://i.imgur.com/hvvblIn.png
+
+After enabling the CLI, run Tuxemon from the command line:
+
+<code>python ./tuxemon.py</code>
+
+== Using the CLI ==
+=== Introduction ===
+After launching Tuxemon from the command line, you should get a prompt that looks like this:
+
+<code>Tuxemon>> </code>
+
+
+
+
+To start a python shell, enter the following command:
+
+<code>Tuxemon>> python</code>
+
+You should now get a python shell prompt that looks like this:
+
+<code>>>> </code>
+
+From here, you can execute arbitrary Python code. To access the game's objects and variables, use <code>self.app</code>.
+
+'''Examples'''
+
+    python
+    >>> print self.app
+    <core.tools.Control object at 0x7f4365302e90>
+    
+
+    python
+    >>> from pprint import pprint
+    >>> pprint(self.app.__dict__)
+    {'animations': {},
+     'caption': 'Tuxemon',
+     'cli': <core.components.cli.CommandLine instance at     0x7f436532bc68>,
+     'clock': <Clock(fps=62.50)>,
+     'config': <core.components.config.Config object at     0x7f4367617810>,
+     'current_music': {'song': None, 'status': 'stopped'},
+     'current_time': 383013,
+     'done': False,
+     'event_actions': {},
+     'event_conditions': {},
+     'event_data': {},
+     'event_engine': <core.components.event.EventEngine object at 0x7f436530c0d0>,
+     'event_persist': {},
+    ...
+
+
+    python
+    >>> dir(self.app)
+    ['__class__', '__delattr__', '__dict__', '__doc__', '__format__', '__getattribute__', '__hash__', '__init__', '__module__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'animations', 'caption', 'cli', 'clock', 'config', 'controller_event_loop', 'current_music', 'current_time', 'done', 'event_actions', 'event_conditions', 'event_data', 'event_engine', 'event_loop', 'event_persist', 'events', 'exit', 'flip_state', 'fps', 'imports', 'joystick_event_loop', 'key_events', 'keyboard_events', 'keys', 'main', 'main_loop', 'network_event_loop', 'network_events', 'player1', 'rumble', 'rumble_manager', 'screen', 'server', 'setup_states', 'show_fps', 'state', 'state_dict', 'state_name', 'time_passed_seconds', 'toggle_show_fps', 'update']
+
+=== Adding Monsters ===
+You can add a monster to your party by typing the following into the Tuxemon shell:
+
+    add_monster rockitten 20
+
+Or in the python shell:
+
+    python
+    >>> action = self.app.event_engine.execute_action
+    >>> action("add_monster", ("rockitten", 20))
+
+
+In these examples, we add the monster "rockitten" at level 20 to the player's monsters.
+
+=== Adding Items ===
+You can add an item to your inventory by typing the following into the Tuxemon shell:
+
+    add_item Potion
+
+Python shell equivalent:
+    python
+    >>> action = self.app.event_engine.execute_action
+    >>> action("add_item", ("potion",))
+
+In this example, we add the item "Potion" to the player's inventory.
+
+=== Start NPC Battle ===
+You can start combat by typing the following into the Tuxemon shell:
+    trainer_battle professor-rockitten
+
+Python shell equivalent:
+    python
+    >>> from tuxemon.event.actions.start_battle import StartBattleActionParameters
+    >>> action = self.app.event_engine.execute_action
+    >>> trainer = "professor-rockitten"
+    >>> action("create_npc", (trainer,7,6))
+    >>> action("start_battle", (StartBattleActionParameters(npc_slug=trainer)))
+    >>> action("remove_npc", (trainer,))
+
+This example starts a battle with the NPC with name "professor-rockitten".
+
+=== Start Random Battle ===
+You can start a random battle by typing the following into the Tuxemon shell:
+
+   random_encounter
+
+Python shell equivalent:
+    python
+    >>> action = self.app.event_engine.execute_action
+    >>> action("random_encounter", ("default_encounter",100))
+
+This example will start a battle with monsters from encounter group "default_encounter". Executing this is the same as stepping into a random encounter area, which will trigger a battle depending on the monster's encounter rate in the encounter group.
+
+
+----
+
+You can use the following commands (in the "normal" shell, not in the python one.):
+    • help — shows all commands
+    • credits — shows the copyright text
+    • exit — exits the game
+    • add_item <slug> [amount] — Adds the item (defined in slug parameter)
+    • set_health <target_level> [slot] — Sets the health of the monster in your party. Must be a number between 0 and 100. If slot argument isn't specified, all monsters in your party will be affected.
+    • random_encounter — Sets you in a wild tuxemon battle, similar to walking in tall grass.
+    • trainer_battle <npc_slug> — Sets you in a trainer battle with specified npc.
+    • trainer_battle list — Gives you a list of fightable trainers.
+    • teleport <x> <y> [map_file] — Teleports you to the specific tile. If map_file argument is specified, you'll get teleported to a selected map file.
+    • whereami — Prints out the map filename
+    • python — Starts the python shell, that you can use to modify the game directly. For advanced users, used in some examples above.
+    • event_sh — Event shell, used to execute event actions manually.

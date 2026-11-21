@@ -1,0 +1,8 @@
+[[Category:Overland Sprite]]
+[[Category:Postboy]]
+[[Category:Main]]
+[[Category:Catch Challenger]]
+[[Category:16px]]
+[[Category:Sanglorian]]
+
+Palette change by Sanglorian. A sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.

@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=165
+|TXMN Blurb=The user conjures a fiery wall that both protects it and scorches the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Family=Simple
+|TXMN Is fast=Very Slow
+|TXMN Accuracy=80%
+|TXMN Power=1.9
+|TXMN Potency=80%
+|TXMN Recharge=3
+|TXMN User Condition=Elemental Shield
+|TXMN Target Condition=Burn
+|TXMN Animation Target=1
+|Tags=Summoner, Shielded
+|Sources=Jaskrendix
+}}

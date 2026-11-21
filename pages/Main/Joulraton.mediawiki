@@ -1,0 +1,74 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Front sprite by Spalding004. Back and face sprites by Jaskrendix.
+|Species=Amped
+|Main Details=Originally, Joulraton was the middle evolution of a trio of electric mice, but the other sprites drew heavily on sprites from another source.
+|SpyderCampaign=N/A
+|TXMN Types=Fire
+|TXMN Sub-Elements=Lightning
+|TXMN Completed=Complete
+|TXMN Body Shape=Varmint
+|TXMN ID=244
+|TXMN Blurb=Its static coat of bristly fur attracts seeds, flowers and feathers, which it uses for food or nesting materials.
+|TXMN Height=30
+|TXMN Weight=2.5
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Electricity, Food
+|Fusion First=Joul
+|Fusion Second=raton
+}}
+{{Technique Allocation
+|Has_Technique=Buzz
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Pseudopod
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Surge
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Give All
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Magma
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Lava
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Sunburst
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Conjurer
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Supernova
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Electrical Storm
+|Technique_Level=55
+}}

@@ -1,0 +1,65 @@
+{{Monster
+|Sources=Kyu, Sanglorian
+|Source Explanation=Design by Kyu. Named by Sanglorian. Face sprites by HippasusTwo.
+|Species=Weasel
+|Name Origin=''ground'' + ''gunsel'' + ''weasel''
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=396
+|TXMN Blurb=Mischievous little buggers. I've lost several pairs of underwear to them.
+|TXMN Height=100
+|TXMN Weight=20
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Underground, Woodland
+|Tags=Claws, Earth, Shadow
+|Fusion First=Grun
+|Fusion Second=sel
+}}
+{{Technique Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Taunt
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Power Theft
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Evasion
+|Technique_Level=12
+}}
+{{Technique Allocation
+|Has_Technique=Inner Power
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Wicked Wind
+|Technique_Level=21
+}}
+{{Technique Allocation
+|Has_Technique=Sockpuppet
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Revenge Stance
+|Technique_Level=27
+}}
+{{Technique Allocation
+|Has_Technique=Burrow Blast
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Earth Charge
+|Technique_Level=50
+}}

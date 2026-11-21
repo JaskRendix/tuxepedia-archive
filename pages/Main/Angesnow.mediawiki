@@ -1,0 +1,71 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/61-65-Waysprite-Line-667561410
+|Sources=Giovani rubio, Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Back and face sprites by Jaskrendix, based on the front sprite. Art by giovani_rubio.
+|Species=Driven Snow
+|Evolves=Waysprite
+|Name Origin=Presumably, ''angel'' + ''snow''.
+
+The species name, ''Driven Snow'', is based on the saying "Pure as the driven snow."
+|Design Origin=Perhaps "snow angels" (impressions created by people lying back in the snow and waving their arms).
+|SpyderCampaign=Used by a trainer in Walled Garden.
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost, Cosmic
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=263
+|TXMN Blurb=Those who survive getting lost in hostile, icy conditions often mention a mysterious presence guiding them even when the snow is too heavy to see through.
+|TXMN Height=120
+|TXMN Weight=30
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|TXMN Terrains=Extraplanar
+|Tags=Ice, Leadership, Weather, Light, Healing
+|Fusion First=Ang
+|Fusion Second=esnow
+}}
+{{Evolutions
+|Has Evolution=Seraphice
+|Evolution Level=32
+}}
+{{Technique_Allocation
+|Has_Technique=Ice Claw
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Goad
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Beam
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Orbs
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Neutralize
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Fiery
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Sudden Glow
+|Technique_Level=34
+}}
+{{Technique Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=43
+}}
+{{Technique Allocation
+|Has_Technique=Snowstorm
+|Technique_Level=46
+}}
+{{Technique Allocation
+|Has_Technique=Divinity Beam
+|Technique_Level=52
+}}

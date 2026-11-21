@@ -1,0 +1,14 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Lunacalis-013-678198738
+|Sources=TheBritanniaRegion,
+|Species=Mooncake
+|Evolves=Snairal,
+|Name Origin=''luna'' + ''cake'' + ''snail''
+|Design Origin=Snails and Chinese mooncakes.
+Alternative colouration Lunacalis is based on Taiwan Taro Swirl Mooncakes.
+|Main Details=When it bleeds, a sticky sweet substances oozes from its body.
+|TXMN Types=Wood
+|TXMN Blurb=This tuxemon is very popular around the time of the region's Moon Festival, in which the region celebrates the visit of the moon goddess. They are said to inspire the region's favourite delicacy, the mooncake.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}

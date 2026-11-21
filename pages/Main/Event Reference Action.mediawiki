@@ -1,0 +1,3124 @@
+== Actions ==
+
+=== AccessPCAction ===
+Change to PCState.
+
+This action transitions to the PCState, typically used for viewing
+player character details or an NPC as if it were a PC.
+
+'''Usage'''
+<code>
+
+access_pc <character_slug>
+
+</code>
+'''Parameters'''
+* <code>character_slug</code>: The slug of the character (NPC) to view in PCState.
+
+=== AddCollisionAction ===
+Handles the addition of a collision zone associated with a specific
+label.
+Optionally, with coordinates provided, it can block a specific tile
+within the map.
+
+'''Usage'''
+<code>
+
+add_collision <label>[,x][,y]
+
+</code>
+'''Parameters'''
+* <code>label</code>: The name or identifier of the obstacle.
+* <code>x</code>: (Optional) X-coordinate of the specific tile to block.
+* <code>y</code>: (Optional) Y-coordinate of the specific tile to block.
+
+=== AddComboAction ===
+Registers one or more combos from a YAML string.
+
+'''Usage'''
+<code>
+
+add_combo <yaml_data>
+
+</code>
+'''Parameters'''
+* <code>yaml_file</code>: Name of the YAML file (without extension) located in the mods folder.
+
+=== AddContactsAction ===
+Add contact to the app.
+npc_slug must have the msgid inside the PO.
+
+'''Usage'''
+<code>
+
+add_contacts <character>,<npc_slug>[,relation][,strength],
+[,steps][,decay_rate][,decay_threshold]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>npc_slug</code>: slug name (e.g. "npc_maple").
+* <code>relation</code>: type of relation
+* <code>strength</code>: amount of strength (higher, better), default 50, capped 100
+* <code>steps</code>: amount of steps, default character steps
+* <code>decay_rate</code>: decay rate of the relationship, default 0.01, capped 1.0
+* <code>decay_threshold</code>: threshold of steps after which the decay triggers,
+default 500
+
+=== AddHeldItemAction ===
+Adds a held item to a specific monster.
+
+'''Usage'''
+<code>
+
+add_held_item <variable>,<item>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id.
+* <code>item</code>: Slug of the item (e.g. "potion").
+
+=== AddItemAction ===
+Add an item to the specified trainer's inventory.
+
+'''Usage'''
+<code>
+
+add_item <item_slug>[,quantity][,npc_slug]
+
+</code>
+'''Parameters'''
+* <code>item_slug</code>: Item name to look up in the item database.
+* <code>quantity</code>: Quantity of the item to add or to reduce. By default it is 1.
+* <code>npc_slug</code>: Slug of the trainer that will receive the item. It
+defaults to the current player.
+
+=== AddMonsterAction ===
+Add a monster to the specified trainer's party if there is room.
+
+'''Usage'''
+<code>
+
+add_monster <mon_slug>,<mon_level>[,npc_slug][,exp_mod][,money_mod]
+
+</code>
+'''Parameters'''
+* <code>mon_slug</code>: Monster slug to look up in the monster database or name variable
+where it's stored the mon_slug
+* <code>mon_level</code>: Level of the added monster.
+* <code>npc_slug</code>: Slug of the trainer that will receive the monster. It
+defaults to the current player.
+* <code>exp_mod</code>: Experience modifier
+* <code>money_mod</code>: Money modifier
+
+=== AddStepTrackerAction ===
+Adds a step tracker to a specific character.
+
+'''Usage'''
+<code>
+
+add_step_tracker <character>,<tracker_id>,<countdown>[,<milestones>
+[,<auto_reset>[,<initial_countdown>]]]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or an NPC slug name (e.g., "npc_maple").
+* <code>tracker_id</code>: Unique name for identifying the step tracker.
+* <code>countdown</code>: Number of steps before the tracker reaches zero.
+* <code>milestones (optional)</code>: Step milestones, separated by : (e.g., "500:250:100").
+* <code>auto_reset (optional)</code>: "true" or "false" to enable or disable automatic reset.
+Defaults to false.
+* <code>initial_countdown (optional)</code>: Full cycle length. Defaults to countdown value.
+
+=== AddTechAction ===
+Adds a tech to a specific monster.
+
+'''Usage'''
+<code>
+
+add_tech <variable>,<technique>[,power][,potency][,accuracy]
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where the monster UUID is stored.
+* <code>technique</code>: Slug of the technique to add (e.g. "bullet").
+* <code>power</code>: Optional float (0.0-3.0). Overrides default power.
+* <code>potency</code>: Optional float (0.0-1.0). Overrides default potency.
+* <code>accuracy</code>: Optional float (0.0-1.0). Overrides default accuracy.
+
+'''Examples'''
+* "add_tech monster_id,flamethrower"
+* "add_tech monster_id,flamethrower,2.5,0.8,0.95"
+
+=== AddTrackerAction ===
+Add tracker.
+
+'''Usage'''
+<code>
+
+add_tracker <character>,<location>[,visited]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>location</code>: location name (e.g. "paper_town").
+* <code>visited</code>: Optional string flag indicating if the location was visited.
+Accepts "true", "1", "yes" for True (case-insensitive).
+Defaults to True if omitted.
+
+=== AdjustBillPenaltyAction ===
+Applies a penalty to a bill for a character — either interest or late fee.
+
+'''Usage'''
+<code>
+
+adjust_bill_penalty <character_slug>,<bill_slug>,<method>
+
+</code>
+'''Parameters'''
+* <code>character_slug</code>: Slug of the character (e.g. "player", "npc_maple").
+* <code>bill_slug</code>: Slug of the bill to modify.
+* <code>method</code>: Either "interest" or "fee".
+
+'''Examples'''
+* adjust_bill_penalty player,electric_bill,interest
+* adjust_bill_penalty npc_maple,rent,fee
+
+=== AFKThresholdAction ===
+Add, modify, or remove AFK thresholds.
+
+'''Usage'''
+<code>
+
+afk_threshold <action> <level> [duration]
+
+</code>
+'''Parameters'''
+* <code>action</code>: One of "add", "modify", "remove"
+* <code>level</code>: The threshold name (string)
+* <code>duration</code>: Required for "add" and "modify" (float, seconds)
+
+=== BoundaryMoveAction ===
+Moves the current active boundary by the given delta values.
+
+'''Usage'''
+<code>
+
+boundary_move  <boundary_name>[,dx:dy]
+
+</code>
+'''Parameters'''
+* <code>boundary_name</code>: Required. The name to assign to the boundary
+* <code>dx</code>: The change in the x-coordinate.
+* <code>dy</code>: The change in the y-coordinate.
+
+=== BoundaryResizeAction ===
+Resizes the current active boundary.
+
+'''Usage'''
+<code>
+
+boundary_resize <boundary_name>[,values]
+
+</code>
+'''Parameters'''
+* <code>boundary_name</code>: Required. The name to assign to the boundary
+(e.g., "safe_zone", "event").
+* <code>values</code>: A colon-separated string of integers:
+* For rectangle: dx:dy
+* For circle: delta
+
+=== BoundarySetAction ===
+Sets or replaces the current boundary with a new one, or resets to default
+if no parameters are given.
+
+'''Usage'''
+<code>
+
+boundary_set <boundary_name>[,shape][,values]
+
+</code>
+'''Parameters'''
+* <code>boundary_name</code>: Required. The name to assign to the boundary
+(e.g., "safe_zone", "event").
+* <code>shape</code>: Optional. Either "rectangle" or "circle".
+* <code>values</code>: Optional. A colon-separated string of integers:
+* For "rectangle": x0:x1:y0:y1
+* For "circle": cx:cy:radius
+
+=== BreedingAction ===
+Select a monster in the player party filtered by gender and store its
+id in a variables (breeding_father or breeding_mother)
+
+'''Usage'''
+<code>
+
+breeding <gender>
+
+</code>
+'''Parameters'''
+* <code>gender</code>: Gender (male or female).
+
+=== CallEventAction ===
+Execute the specified event's actions by name.
+
+'''Usage'''
+<code>
+
+call_event <event_name>
+
+</code>
+'''Parameters'''
+* <code>event_name</code>: The name of the event whose actions will be executed.
+
+=== CameraManageAction ===
+Adds, removes, or switches/follows a camera in the camera manager.
+
+'''Usage'''
+<code>
+
+camera_manage add [name] [npc_slug]
+camera_manage remove [name]
+camera_manage follow [name] [npc_slug]
+
+</code>
+'''Parameters'''
+* <code>action</code>: "add", "remove", or "follow"
+* <code>camera_name</code>: The identifier for the camera.
+* <code>npc_slug</code>: Optional slug of the NPC/entity to follow (used for add/follow).
+
+=== CameraModeAction ===
+* <code>Change camera mode</code>: freeroaming or fixed.
+
+'''Usage'''
+<code>
+
+camera_mode <mode>
+
+</code>
+'''Parameters'''
+* <code>mode</code>: The mode of the camera: 'free_roaming' or 'fixed'.
+
+=== CameraMoveAction ===
+Smoothly move the camera to a specific coordinate or reset it to its original position.
+
+'''Usage'''
+<code>
+
+camera_move <time>,<x>,<y>
+
+</code>
+'''Parameters'''
+* <code>time</code>: the duration (in seconds) required for the camera to transition to the target position.
+* <code>x,y</code>: the coordinates where the camera needs to be centered.
+
+=== CameraPositionAction ===
+Move the camera on a coordinate.
+
+'''Usage'''
+<code>
+
+camera_position <x>,<y>
+
+</code>
+'''Parameters'''
+* <code>x,y</code>: the coordinates where the camera needs to be centered.
+
+=== CameraShakeAction ===
+Shake the camera with a precise intensity and duration.
+
+'''Usage'''
+<code>
+
+camera_shake <intensity>,<duration>
+
+</code>
+'''Parameters'''
+* <code>intensity</code>: The magnitude of the shake effect. A higher value results
+in a more pronounced shake, while a lower value produces
+a subtler effect (min 0.0, max 3.0).
+* <code>duration</code>: The length of time (in seconds) that the shake effect
+should last. The method calculates the number of frames
+to shake based on an assumed frame rate.
+
+=== ChangeBgAction ===
+Handles the background change within the session, allowing users
+to apply a new background color or image dynamically.
+
+'''Usage'''
+<code>
+
+change_bg <background>[,image][,category]
+
+</code>
+'''Parameters'''
+* <code>background</code>: The background identifier, which can be:
+* A file name located in `gfx/ui/background/`
+* An RGB color formatted as `R:G:B` (e.g., `255:0:0`)
+* <code>image</code>: An optional image identifier, which can be:
+* An item slug (stored in `gfx/items`)
+* A direct file path
+* <code>category</code>: The category of the image (e.g., item or image.
+If omitted, defaults to "background".
+
+* <code>Notes</code>: 
+* Background images must be in `gfx/ui/background/`.
+* Background dimensions must be 256x144 pixels.
+
+=== ChangeBgNpcAction ===
+Displays an NPC sprite over a background image, using the NPC's base
+sprite located in ``gfx/sprites/player/<slug>.png``.
+
+'''Usage'''
+<code>
+
+change_bg_char <background>,<npc_slug>
+
+</code>
+'''Parameters'''
+* <code>background</code>: 
+The background identifier, which must be the name of a file
+located in ``gfx/ui/background/`` (without the ``.png``
+extension). The background image must match the native
+resolution of the game (256x144 pixels).
+
+* <code>npc_slug</code>: 
+The slug of the NPC to display. A matching sprite file must
+* <code>exist at</code>: 
+
+``gfx/sprites/player/<npc_slug>.png``
+
+The sprite will be loaded, scaled, and rendered on top of
+the background.
+
+* <code>Notes</code>: 
+* Background images must be located in ``gfx/ui/background/``.
+* Background dimensions must be exactly 256x144 pixels.
+* NPC sprites are loaded directly from their corresponding PNG
+file in ``gfx/sprites/player/``.
+* This action always pushes the ``NpcImageState``, which displays
+the background and overlays the NPC sprite.
+
+=== ChangeBgMonsterAction ===
+Displays a monster sprite over a background image, using the
+monster's front sprite extracted from its sprite sheet.
+
+'''Usage'''
+<code>
+
+change_bg_monster <background>,<monster_slug>
+
+</code>
+'''Parameters'''
+* <code>background</code>: The background identifier, which must be the name of
+a file located in `gfx/ui/background/` (without the `.png`
+extension). The background image must match the native
+resolution of the game (256x144 pixels).
+* <code>monster_slug</code>: The slug of the monster to display. The monster
+must exist in the monster database. Its front sprite will be
+extracted from its sprite sheet and rendered on top of the
+background.
+
+* <code>Notes</code>: 
+* Background images must be located in `gfx/ui/background/`.
+* Background dimensions must be exactly 256x144 pixels.
+* The monster sprite is taken from the monster's sprite sheet
+using the `front_rect` defined in its model.
+* This action always pushes the `MonsterImageState`, which
+displays the background and overlays the monster sprite.
+
+=== ChangeFactionMembershipAction ===
+Makes an NPC (or player) join or leave a specific faction.
+
+'''Usage'''
+<code>
+
+change_faction_membership <character>,<faction_slug>,<status>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>faction_slug</code>: The slug identifier of the faction whose membership will be changed.
+* <code>status</code>: Must be either "join" or "leave", indicating the membership action.
+
+=== ChangeStateAction ===
+Change to the specified state (generic).
+
+This action handles state transitions that do not require specific
+additional parameters beyond the state name itself.
+
+'''Usage'''
+<code>
+
+change_state <state_name>
+
+</code>
+'''Parameters'''
+* <code>state_name</code>: The state name to switch to.
+
+=== ChangeTasteAction ===
+Changes the specified taste (warm or cold) of a monster.
+
+'''Usage'''
+<code>
+
+change_taste <variable>,<type_taste>,<new_taste>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the game variable containing the monster's UUID.
+* <code>type_taste</code>: Either "warm" or "cold" to indicate which taste to change.
+* <code>new_taste</code>: Slug of the new taste to assign, or "random" to select a new one
+at random (excluding "tasteless" and the current taste).
+
+* <code>Notes</code>: 
+* When using "random", the new taste is chosen based on rarity_score weighting.
+* When specifying a taste slug, it must exist, match the selected type,
+and must not be "tasteless".
+* If no valid taste is found during random selection, the taste remains unchanged
+and a warning is logged.
+
+=== CharFaceAction ===
+Make the character face a certain direction.
+
+'''Usage'''
+<code>
+
+char_face <character>,<direction>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>direction</code>: Direction to face. It can be: "left", "right", "up", "down",
+"player" or a character slug.
+
+=== CharFacePlayerAction ===
+Make an NPC face the player when they come within a specified distance.
+
+'''Usage'''
+<code>
+
+char_face_player <npc_slug>,<trigger_dist>,<persistent>
+
+</code>
+'''Parameters'''
+* <code>npc_slug</code>: Slug of the NPC that will face the player.
+* <code>trigger_dist</code>: Maximum tile distance at which the NPC will begin
+facing the player. Defaults to 3.
+* <code>persistent</code>: Whether the NPC should continue tracking the player
+after the first trigger. Defaults to True.
+
+=== CharLookAction ===
+Make a character look around.
+
+'''Usage'''
+<code>
+
+char_look <character>[,frequency][,directions]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>frequency</code>: Frequency of movements. 0 to stop looking. If set to
+a different value it will be clipped to the range [0.5, 5].
+If not passed the default value is 1.
+* <code>directions</code>: the direction the character is going to look, by default
+all
+
+eg. char_look character
+* <code>eg. char_look character,,right</code>: left
+
+=== CharMoveAction ===
+Relative tile movement for characters.
+
+It interprets movement instructions, updates character positions accordingly,
+and blocks execution until the destination is reached.
+
+'''Usage'''
+<code>
+
+char_move <character>,<move>...
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>move</code>: A sequence of movement instructions in the format:
+"<direction> [amount_of_tiles]"
+* <code>where</code>: 
+* direction: One of "up", "down", "left", "right".
+* amount_of_tiles (optional): Number of tiles to move (default is 1).
+* Multiple moves can be provided, e.g., "up 10, down 5, left 5".
+
+=== CharPatrolAction ===
+Enables a character to patrol a predefined route in a continuous loop.
+
+'''Usage'''
+<code>
+
+char_patrol <character>,<move>...
+
+</code>
+* <code>Parameters</code>: 
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>move</code>: A sequence of movement instructions in the format:
+"<direction> [amount_of_tiles]"
+* <code>where</code>: 
+* direction: One of "up", "down", "left", "right".
+* amount_of_tiles (optional): Number of tiles to move (default is 1).
+* Multiple moves can be provided, e.g., "up 10, down 5, left 5".
+
+* <code>Functionality</code>: 
+* Converts movement instructions into a looping patrol path.
+* NPC moves along the predefined path, restarting when completed.
+* Blocks execution if the NPC encounters an obstacle.
+* Automatically resumes patrol when movement is available.
+
+=== CharPlagueAction ===
+Set the entire party as infected or inoculated or healthy.
+
+'''Usage'''
+<code>
+
+char_plague <plague_slug>,<condition>[,character]
+
+</code>
+'''Parameters'''
+* <code>plague_slug</code>: The slug of the plague to target.
+* <code>condition</code>: Infected, inoculated, or None (removes the plague from the
+character, indicating a healthy state).
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>enforced_check</code>: Optional string flag to enforce eligibility rules.
+Accepts "true", "1", or "yes" (case-insensitive).
+Default is False (eligibility is bypassed).
+
+=== CharPositionAction ===
+Set the position of a character.
+
+'''Usage'''
+char_position <character>,<tile_pos_x>,<tile_pos_y>
+
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>tile_pos_x</code>: X position to set the character to.
+* <code>tile_pos_y</code>: Y position to set the character to.
+
+=== CharRunAction ===
+Set the character movement speed to the global run speed.
+
+'''Usage'''
+<code>
+
+char_run <character>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+
+=== CharSpeedAction ===
+Set the character movement speed to a custom value.
+
+'''Usage'''
+<code>
+
+char_speed <character>,<speed>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>speed</code>: Speed amount.
+
+=== CharStopAction ===
+Make the character stop moving.
+
+'''Usage'''
+<code>
+
+char_stop <character>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+
+=== CharTalkAction ===
+Displays dialogue for a character based on context and location.
+
+This action retrieves dialogue from the character's dialogue profile,
+optionally using a location-specific override. The dialogue field determines
+which type of line to display (e.g. greeting, pre_battle, farewell).
+
+'''Usage'''
+<code>
+
+char_talk <character>,<field>[,location]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or the slug of an NPC (e.g. "npc_maple").
+* <code>field</code>: The dialogue type to display. Must be one of:
+* greeting
+* idle
+* farewell
+* pre_battle
+* post_battle_win
+* post_battle_lose
+* post_battle_draw
+* <code>location</code>: Optional map identifier (e.g. "map.tmx") used to override default dialogue.
+
+* <code>Behavior</code>: 
+* If a location is provided and a location-based override exists, it will be used.
+* Otherwise, the default dialogue profile is used.
+* If the dialogue field contains multiple lines, one is selected randomly.
+* Dialogue text is formatted before display.
+
+* <code>Example</code>: 
+char_talk npc_maple,greeting,map_forest
+
+=== CharWalkAction ===
+Set the character movement speed to the global walk speed.
+
+'''Usage'''
+<code>
+
+char_walk <character>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+
+=== CharWanderAction ===
+Make a character wander around the map.
+
+'''Usage'''
+<code>
+
+char_wander <character>[,frequency][,t_bound][,b_bound]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>frequency</code>: Frequency of movements. 0 to stop wandering. If set to
+a different value it will be clipped to the range [0.5, 5].
+If not passed the default value is 1.
+* <code>t_bound</code>: coordinates top_bound vertex (eg 5,7)
+* <code>b_bound</code>: coordinates bottom_bound vertex (eg 7,9)
+
+eg. char_wander character,,5,7,7,9
+
+=== ChoiceItemAction ===
+Ask the player to make a choice among items.
+
+'''Usage'''
+<code>
+
+choice_item <choices>,<variable>
+
+</code>
+'''Parameters'''
+* <code>choices</code>: List of possible choices
+* <code>(item slugs eg</code>: potion:tea),
+* <code>separated by a colon "</code>: ".
+* <code>variable</code>: Variable to store the result of the choice.
+
+=== ChoiceMonsterAction ===
+Ask the player to make a choice among monsters.
+
+'''Usage'''
+<code>
+
+choice_monster <choices>,<variable>
+
+</code>
+'''Parameters'''
+* <code>choices</code>: List of possible choices
+* <code>(monster slugs eg</code>: rockitten:apeoro),
+* <code>separated by a colon "</code>: ".
+* <code>variable</code>: Variable to store the result of the choice.
+
+=== ChoiceNpcAction ===
+Ask the player to make a choice among NPCs.
+
+'''Usage'''
+<code>
+
+choice_npc <choices>,<variable>
+
+</code>
+'''Parameters'''
+* <code>choices</code>: List of possible choices
+* <code>(item slugs eg</code>: maple:billie),
+* <code>separated by a colon "</code>: ".
+* <code>variable</code>: Variable to store the result of the choice.
+
+=== CipherDialogAction ===
+Displays a dialog window with text that may be ciphered based on the character's
+unlocked letters and the active CipherProcessor.
+
+The dialog text is optionally translated, styled, and formatted based on script
+parameters. Any unlocked letters will remain visible, while the remaining content
+may be obfuscated depending on the cipher configuration.
+
+'''Usage'''
+<code>
+
+cipher_dialog <text>[,avatar][,position][,style]
+
+</code>
+'''Parameters'''
+* <code>text</code>: Text of the dialog.
+* <code>avatar</code>: Monster avatar. If it is a number, the monster is the
+corresponding monster slot in the player's party.
+If it is a string, we're referring to a monster by name.
+* <code>position</code>: Position of the dialog box. Can be 'top', 'bottom', 'center',
+'topleft', 'topright', 'bottomleft', 'bottomright', 'right', 'left'.
+Default 'bottom'.
+* <code>h_alignment</code>: Alignment of text in the dialog box, it can be 'left', 'center'
+or 'right'. Default 'left'.
+* <code>v_alignment</code>: Alignment of text in the dialog box, it can be 'bottom',
+'center' or 'top'. Default 'top'.
+* <code>style</code>: a predefined style in db/dialogue/dialogue.json
+
+=== ClearKennelAction ===
+Clear a kennel.
+
+It advisable to save the game and check twice.
+
+Remember the main kennel is "Kennel"
+
+Without destination (transfer) the monster will
+be deleted as well as the kennel.
+
+'''Usage'''
+<code>
+
+clear_kennel <character>,<kennel>[,transfer]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>kennel</code>: The kennel to clear.
+* <code>transfer</code>: The kennel to transfer the monsters.
+
+=== ClearTuxepediaAction ===
+Clear the key and value in the Tuxepedia dictionary. If the
+monster_slug parameter is missing, this action will completely
+reset the Tuxepedia dictionary by removing all seen monsters.
+
+If the monster_slug parameter is provided, this action will remove
+the specified monster from the Tuxepedia dictionary.
+
+'''Usage'''
+<code>
+
+clear_tuxepedia <monster_slug>
+
+</code>
+'''Parameters'''
+* <code>monster_slug</code>: Monster slug name (e.g. "rockitten").
+
+=== ClearVariableAction ===
+Removes specified variables from the player's stored variables.
+
+'''Usage'''
+<code>
+
+clear_variable <variable1>[,variable2]
+
+</code>
+'''Parameters'''
+* <code>variable</code>: One or more variables to be removed.
+
+=== CopyVariableAction ===
+Copy the value of var2 into var1 (e.g. var1 = var 2).
+
+'''Usage'''
+<code>
+
+copy_variable <var1>,<var2>
+
+</code>
+'''Parameters'''
+* <code>var1</code>: The variable to copy to.
+* <code>var2</code>: The variable to copy from.
+
+=== CraftingStationAction ===
+Change to the specified state.
+
+'''Usage'''
+<code>
+
+crafting_station <character_slug>,<method>[,file_yaml]
+
+</code>
+'''Parameters'''
+* <code>character_slug</code>: The slug of the character (NPC).
+* <code>method</code>: Suggests how the recipe is executed, e.g., cooking, forging.
+* <code>file_yaml</code>: The YAML file (like `recipe.yaml`) that contains the recipe
+definitions to load into the system (mods folder).
+
+=== CreateKennelAction ===
+Creates a new kennel with optional metadata.
+
+It's advisable to create a msgid in the en_US PO file.
+
+msgid "kennel_name"
+msgstr "Kennel Name"
+
+'''Usage'''
+<code>
+
+# Create a visible kennel with default capacity
+create_kennel player,my_kennel
+
+# Create a hidden kennel with capacity 20
+create_kennel player,my_kennel,true,20
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>kennel</code>: Name of the kennel.
+* <code>hidden</code>: Optional flag ("true"/"false", "1"/"0", "yes"/"no") for
+visibility.
+* <code>max_capacity</code>: Optional integer for maximum capacity (defaults to
+MAX_KENNEL).
+
+=== CreateNpcAction ===
+Create an NPC object and adds it to the game's current list of NPC's.
+
+'''Usage'''
+<code>
+
+create_npc <npc_slug>,<tile_pos_x>,<tile_pos_y>[,<behavior>]
+
+</code>
+'''Parameters'''
+* <code>npc_slug</code>: NPC slug to look up in the NPC database.
+* <code>tile_pos_x</code>: X position to place the NPC on.
+* <code>tile_pos_y</code>: Y position to place the NPC on.
+* <code>behavior</code>: Behavior of the NPC (e.g. "wander"). Unused for now.
+
+=== DojoMethodAction ===
+Represents an event action for the monks in the Dojo (Spyder).
+
+'''Usage'''
+
+<code>
+
+dojo_method <variable_name>,<option>
+
+</code>
+'''Parameters'''
+
+* <code>variable_name</code>: 
+The name of the variable where the monster ID will be stored.
+
+* <code>option</code>: 
+* <code>The action to perform. Can be either</code>: 
+
+* "technique": Learn any move the monster hasn't acquired from its base
+moveset, without restrictions based on level or evolution stage.
+* "monster": Devolve the monster.
+
+=== EvolutionAction ===
+Checks, asks and evolves.
+
+'''Usage'''
+<code>
+
+evolution <character>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>variable</code>: Name of the variable where to store the monster id. If no
+variable is specified, all monsters get experience.
+* <code>evolution</code>: Slug of the evolution.
+
+=== FadeInAction ===
+Fade in and block until the fade duration has completed.
+
+'''Usage'''
+<code>
+
+fade_in [trans_time][,rgb]
+
+</code>
+'''Parameters'''
+* <code>trans_time</code>: Transition time in seconds - default 0.3
+* <code>rgb</code>: color (eg red > 255,0,0 > 255:0:0) - default rgb(0,0,0)
+
+* <code>eg</code>: "fade_in 3"
+* <code>eg</code>: "fade_in 3,255:0:0:50" (red)
+
+=== FadeOutAction ===
+Fade out and block until the fade duration has completed.
+
+'''Usage'''
+<code>
+
+fade_out [trans_time][,rgb]
+
+</code>
+'''Parameters'''
+* <code>trans_time</code>: Transition time in seconds - default 0.3
+* <code>rgb</code>: color (eg red > 255,0,0 > 255:0:0) - default rgb(0,0,0)
+
+* <code>eg</code>: "fade_out 3"
+* <code>eg</code>: "fade_out 3,255:0:0:50" (red)
+
+=== FadeoutMusicAction ===
+Fade out the music over a set amount of time in milliseconds.
+
+'''Usage'''
+<code>
+
+fadeout_music [duration]
+
+</code>
+'''Parameters'''
+* <code>duration</code>: Number of milliseconds to fade out the music over.
+
+=== FormatVariableAction ===
+Format the value of a variable from the game (eg. float or int).
+By default the game variable is a dict[str, Any].
+
+'''Usage'''
+<code>
+
+format_variable <variable>,<type_format>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: The variable to format.
+* <code>type_format</code>: Kind of format (float or int).
+
+eg. "format_variable name_variable,int"
+
+=== GetPartyMonsterAction ===
+Saves all the iids (party) in variables.
+
+'''Usage'''
+<code>
+
+get_party_monster [npc_slug]
+
+</code>
+'''Parameters'''
+* <code>npc_slug</code>: npc slug name (e.g. "npc_maple") - default "player"
+
+=== GetPendingMovesAction ===
+Display a menu of pending techniques for monsters listed in
+event_data["check_max_tech"], and store the selected technique ID
+in a game variable.
+
+'''Usage'''
+<code>
+
+get_pending_moves <variable_name>
+
+</code>
+'''Parameters'''
+* <code>variable_name</code>: Name of the game variable to store the selected
+technique ID.
+
+* <code>Example</code>: 
+* "get_pending_moves chosen_move"
+
+=== GetPlayerMonsterAction ===
+Select a monster in the player party and store its id in a variable.
+* <code>It allows filtering</code>: slug, gender, evolution_stage, element, shape,
+taste_warm, taste_cold, level, weight, height, max_hp, current_hp,
+armour, dodge, melee, ranged and speed.
+
+eg "get_player_monster name_variable,shape,serpent"
+eg "get_player_monster name_variable,shape,serpent"
+
+* <code>For the definition</code>: level, weight, height, max_hp, current_hp, armour, dodge,
+melee, ranged and speed (all numeric values) is necessary to use a numeric
+comparison operator. Accepted values are "less_than", "less_or_equal",
+"greater_than", "greater_or_equal", "equals" and "not_equals".
+
+eg "get_player_monster name_variable,speed,more_than,50"
+eg "get_player_monster name_variable,level,less_than,15"
+
+* <code>Note</code>: 
+let's say a player doesn't has no options, then the variable
+* <code>will result as</code>: name_variable:no_option
+let's say a player has options, but clicks return, then the
+* <code>variable will result as</code>: name_variable:no_choice
+
+'''Usage'''
+<code>
+
+get_player_monster <variable_name>,<filter_name>,<value_name>[,extra]
+
+</code>
+'''Parameters'''
+* <code>variable_name</code>: Name of the variable where to store the monster id.
+filter
+* <code>filter_name</code>: the name of the first filter
+* <code>value_name</code>: the actual value to filter
+* <code>extra</code>: used to filter more
+
+=== GiveExperienceAction ===
+Gives experience points to the monster.
+
+'''Usage'''
+<code>
+
+give_experience <variable>,<exp>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id. If no
+variable is specified, all monsters get experience.
+* <code>exp</code>: Name of the variable where to store the experience points or
+directly the number of points. Negative value will result in 0.
+
+eg. "give_experience name_variable,steps_variable"
+eg. "give_experience name_variable,420"
+
+=== InfoAction ===
+Records monster's attribute values inside a game variable.
+It allows recording the monster's owner attribute values too.
+
+'''Usage'''
+
+<code>
+
+info <variable>,<attribute>
+
+</code>
+'''Parameters'''
+
+* <code>variable</code>: 
+Name of the variable where to store the monster id.
+
+* <code>attribute</code>: 
+The attribute to check (level, speed, etc.)
+
+'''Examples'''
+
+* "info name_variable,level"
+* -> if the monster is lv 4, then it'll create a variable called:
+* <code>"info_level</code>: 4"
+
+* "info name_variable,owner_steps"
+* -> if the owner walked 69 steps, then it'll create a variable called:
+* <code>"info_owner_steps</code>: 69"
+
+=== InputLoadAction ===
+Load a recording from a file into memory under a given name.
+
+'''Usage'''
+<code>
+
+input_load <filepath> <name>
+</code>
+
+=== InputPlaybackAction ===
+Start or stop playback of a named recording.
+
+'''Usage'''
+<code>
+
+input_playback <action> <name>
+</code>
+
+=== InputRecordAction ===
+Start or stop input recording, optionally naming the recording.
+
+'''Usage'''
+<code>
+
+input_record <action> [name]
+</code>
+
+=== InputSaveAction ===
+Save a named recording to a file.
+
+'''Usage'''
+<code>
+
+input_save <filepath> [name]
+</code>
+
+=== InputVariableAction ===
+Set a code and check if it's correct or not.
+The player's output will be by default lowercase.
+
+'''Usage'''
+
+<code>
+
+input_variable <variable>,<question>[,answer][,escape]
+
+</code>
+'''Parameters'''
+
+* <code>question</code>: 
+The question the player needs to reply (e.g. "access_code").
+* <code>Then you create the msgid "access_code" inside the PO file</code>: 
+
+msgid "access_code"
+msgstr "Here the actual question?"
+
+* <code>variable</code>: 
+Name of the variable where to store the output.
+
+* <code>escape</code>: 
+Optional string flag ("true", "1", "yes" for True),
+defaults to False when omitted.
+
+'''Examples'''
+
+* "input_variable access_code,response_question"
+* "input_variable access_code,response_question,escape"
+
+* -> "is variable_set response_question:whatswrittenbytheplayer"
+* -> "not variable_set response_question:whatswrittenbytheplayer"
+
+=== LearnTechByMethodAction ===
+Teaches a technique to a specific monster using a specific learning method.
+
+'''Usage'''
+<code>
+
+learn_tech_by_method <monster_var>,<technique>,<method>
+
+</code>
+* <code>Parameters</code>: 
+* <code>monster_var</code>: Game variable name containing the monster UUID.
+* <code>technique</code>: Slug of the technique to learn.
+* <code>method</code>: Learning method enum name (e.g. "EVENT", "TM")
+
+'''Examples'''
+* "learn_tech_by_method monster_id,flamethrower,EVENT"
+* "learn_tech_by_method monster_id,fireblast,TM"
+
+=== LoadGameAction ===
+Loads the game.
+
+If the index parameter is absent, then it'll load
+slot4.save
+
+index = 0 > slot 1
+index = 1 > slot 2
+index = 2 > slot 3
+
+'''Usage'''
+<code>
+
+load_game [index]
+
+</code>
+'''Parameters'''
+* <code>index</code>: Selected index.
+
+* <code>eg</code>: "load_game" (slot4.save)
+* <code>eg</code>: "load_game 1"
+
+=== LoadWeatherAction ===
+Loads a YAML file containing weather previsions using the Pydantic schema
+and registers it with the WorldWeatherManager.
+
+'''Usage'''
+<code>
+
+load_weather <path_to_yaml_file>
+
+</code>
+'''Parameters'''
+* <code>model_file</code>: Path to the YAML file (e.g., "weather_previsions.yml").
+
+=== LoadYamlAction ===
+Loads the yaml file. It must be in the maps folder.
+
+'''Usage'''
+<code>
+
+load_yaml file
+
+</code>
+'''Parameters'''
+* <code>file</code>: File to load.
+
+* <code>eg</code>: "load_yaml file_yaml"
+
+=== LockControlsAction ===
+Lock player controls
+
+'''Usage'''
+<code>
+
+lock_controls
+</code>
+
+=== ManageMapCacheAction ===
+Adds or removes a map from the cache.
+
+'''Usage'''
+<code>
+
+manage_map_cache <action>,<map_name>
+
+</code>
+'''Parameters'''
+* <code>action</code>: "add" or "remove"
+* <code>map_name</code>: Name of the map (map.tmx)
+
+=== MenuAction ===
+Toggle visibility of one or more world menu entries, or apply a preset.
+
+'''Usage'''
+<code>
+
+menu <flag>[,menu_1:menu_2:...]   # toggles specific menus
+menu <preset>                     # applies preset config
+
+</code>
+* <code>Parameters</code>: 
+* <code>flag</code>: "enable" or "disable", applied to specified menus (or all)
+* <code>preset</code>: one of defined presets ("minimal", etc.)
+
+'''Examples'''
+* menu reset                         > clears all menu flags
+* menu enable                        > enables all menus
+* <code>menu disable,menu_bag</code>: menu_player  > disables specified menus
+* menu enable,all                    > enables all menus
+* menu minimal                       > applies "minimal" preset
+
+=== ModifyBillAction ===
+Add or remove an amount of money from a bill (slug).
+
+'''Usage'''
+<code>
+
+modify_bill <slug>,<bill_slug>,[amount][,variable]
+
+</code>
+'''Parameters'''
+* <code>slug</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>bill_slug</code>: Slug of the bill.
+* <code>amount</code>: Amount of money to add/remove (-/+)
+* <code>variable</code>: Name of the variable where to store the amount.
+
+eg. "modify_bill player,bill_slug,-50"
+eg. "modify_bill player,bill_slug,,name_variable"
+
+=== ModifyCharAttributeAction ===
+Modify the given attribute of the character by modifier.
+
+By default this is achieved via addition, but prepending a '%' will cause
+it to be multiplied by the attribute.
+
+'''Usage'''
+<code>
+
+modify_char_attribute <character>,<attribute>,<value>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>attribute</code>: Name of the attribute to modify.
+* <code>value</code>: Value of the attribute modifier.
+
+=== ModifyContactsAction ===
+Modify contact relationship.
+
+'''Usage'''
+<code>
+
+modify_contacts <character>,<npc_slug>,<attribute>,<value>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>npc_slug</code>: slug name (e.g. "npc_maple").
+* <code>attribute</code>: it can be 'strength', 'decay_rate' or 'decay_threshold'
+* <code>value</code>: the new value
+
+=== ModifyFactionReputationAction ===
+Modifies an NPC's (or player's) reputation with a specific faction.
+
+'''Usage'''
+<code>
+
+modify_faction_reputation <character>,<faction_slug>,<amount>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>faction_slug</code>: The slug identifier of the faction to modify reputation for.
+* <code>amount</code>: A string representation of an integer. Positive or negative values
+(e.g. "25", "-50") that change the reputation score accordingly.
+
+=== ModifyMoneyAction ===
+Add or remove an amount of money for a wallet (slug).
+
+'''Usage'''
+<code>
+
+modify_money <slug>,[amount][,variable]
+
+</code>
+'''Parameters'''
+* <code>slug</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>amount</code>: Amount of money to add/remove (-/+)
+* <code>variable</code>: Name of the variable where to store the amount.
+
+eg. "modify_money player,-50"
+eg. "modify_money player,,name_variable"
+
+=== ModifyMonsterBondAction ===
+Change the bond of a monster in the current player's party.
+
+'''Usage'''
+<code>
+
+modify_monster_bond [variable][,amount]
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id. If no
+variable is specified, all monsters are touched.
+* <code>amount</code>: An int or float value, if no amount, then default 1 (int).
+* <code>lower_bound</code>: Lower bound of range to return an integer between (inclusive)
+* <code>upper_bound</code>: Upper bound of range to return an integer between (inclusive)
+
+eg. "modify_monster_bond"
+eg. "modify_monster_bond name_variable,25"
+eg. "modify_monster_bond name_variable,-0.5"
+eg. "modify_monster_bond name_variable,,1,5" (random between 1 and 5)
+eg. "modify_monster_bond name_variable,,-5,-1" (random between -5 and -1)
+
+=== ModifyMonsterHealthAction ===
+Modify the hp of a monster in the current player's party.
+
+'''Usage'''
+<code>
+
+modify_monster_health [variable][,health]
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id. If no
+variable is specified, all monsters are healed.
+* <code>health</code>: A float value between 0 and 1, which is the percent of max
+hp to be restored to. A int value, which is the number of HP
+to be restored to. If no health is specified, the hp is maxed
+out.
+
+=== ModifyMonsterStatsAction ===
+Change the stats of a monster in the current player's party.
+
+'''Usage'''
+<code>
+
+modify_monster_stats [variable][,stat][,amount]
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id. If no
+variable is specified, all monsters are touched.
+* <code>stat</code>: A stat among armour, dodge, hp, melee, speed and ranged. If no
+stat, then all the stats.
+* <code>amount</code>: A/an float/int value, if no amount, then default 1 (+).
+* <code>lower_bound</code>: Lower bound of range to return an integer between (inclusive)
+* <code>upper_bound</code>: Upper bound of range to return an integer between (inclusive)
+
+eg. "modify_monster_stats"
+eg. "modify_monster_stats ,,0.25"
+eg. "modify_monster_stats name_variable,speed,25"
+eg. "modify_monster_stats name_variable,dodge,-12"
+eg. "modify_monster_stats name_variable,dodge,-0.4"
+eg. "modify_monster_stats name_variable,,,1,5" (random between 1 and 5)
+
+=== OpenJournalAction ===
+Change to JournalInfoState.
+
+This action transitions to the JournalInfoState, displaying information
+about a specific monster in the player's journal.
+
+'''Usage'''
+<code>
+
+open_journal <monster_slug>
+
+</code>
+'''Parameters'''
+* <code>monster_slug</code>: The slug of the monster to display in the journal.
+
+=== OpenShopAction ===
+Opens a shop interface between the player and a target NPC.
+
+'''Usage'''
+open_shop <npc_slug>,<menu>[,model]
+
+* <code>Parameters</code>: 
+* <code>npc_slug</code>: Either "player" or the NPC slug identifier (e.g. "npc_maple").
+* <code>menu</code>: Type of shop interaction to open. Must be one of:
+* "buy_item"
+* "sell_item"
+* "both_item"
+* "buy_monster"
+* "sell_monster"
+* "both_monster"
+* "train_monster"
+* "heal_monster"
+* <code>model (optional)</code>: A configuration profile name used to load custom shop behavior.
+
+* <code>Notes</code>: 
+* The target NPC must have an economy assigned.
+* If menu is "both_*", a choice dialog is shown for selection.
+
+=== OverwriteTechAction ===
+Replaces a known technique with another for a specific monster.
+
+This action is typically used when a monster chooses to forget a move
+and learn a new one.
+
+'''Usage'''
+<code>
+
+overwrite_tech <removed>,<added>
+
+</code>
+'''Parameters'''
+* <code>removed</code>: Name of the game variable that stores the UUID of the
+technique to be replaced.
+* <code>added</code>: Slug of the technique to be added (e.g., "peck", "fireball")
+
+* <code>Example</code>: 
+"overwrite_tech name_variable,peck"
+
+=== ParkExperienceAction ===
+Shows the results of the Park session.
+
+'''Usage'''
+<code>
+
+park_experience
+
+</code>
+'''Parameters'''
+* <code>option</code>: Either 'start' or 'stop'
+
+=== PathfindAction ===
+Pathfind the player / npc to the given location.
+
+This action blocks until the destination is reached.
+
+'''Usage'''
+<code>
+
+pathfind <npc_slug>
+
+</code>
+'''Parameters'''
+* <code>npc_slug</code>: Either "player" or npc slug name (e.g. "npc_maple").
+
+=== PathfindToCharAction ===
+Handles pathfinding movement where one entity navigates toward another
+with configurable direction and distance.
+
+'''Usage'''
+<code>
+
+pathfind_to_char <target_entity>,<moving_entity>,
+[direction],[distance]
+
+</code>
+'''Parameters'''
+* <code>target_entity</code>: The target entity being approached
+(e.g. "character_maple").
+* <code>moving_entity</code>: The entity that will move toward the target
+(e.g. "character_jimmy").
+* <code>direction</code>: Determines approach direction
+(up, down, left, or right).
+* <code>distance</code>: Number of tiles to maintain from the player
+(e.g. 2,3,4).
+
+=== PauseMusicAction ===
+Pause the current music playback.
+
+'''Usage'''
+<code>
+
+pause_music
+</code>
+
+=== PlayMapAnimationAction ===
+Trigger a map animation at a specified position based on the character's
+coordinates within the world map
+
+'''Usage'''
+<code>
+
+play_map_animation <animation_name>,<duration>,<loop>,<character>
+
+</code>
+'''Parameters'''
+* <code>animation_name</code>: The name of the animation stored in the
+resources/animations/tileset directory. For example, an animation
+named "grass" will load frames named "grass_xx.png".
+* <code>frame_duration</code>: Duration (in seconds) for each frame of the animation.
+* <code>loop_mode</code>: Indicates whether the animation should loop. Options: "loop"
+or "noloop".
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+
+=== PlayMusicAction ===
+Play a music file from "resources/music/".
+
+'''Usage'''
+<code>
+
+play_music <filename>[,volume][,loop][,fade_ms]
+
+</code>
+'''Parameters'''
+* <code>filename</code>: The name of the music file to play.
+* <code>volume</code>: A value between 0.0 and 1.0 that adjusts the music
+volume.
+* <code>loop</code>: The number of times to loop the music. Default is to loop
+forever.
+* <code>fade_ms</code>: The time in milliseconds to fade in the music before
+reaching maximum volume.
+
+* <code>Note</code>: 
+The volume will be based on the main value in the options menu.
+e.g. if you set volume = 0.5 here, but the player has 0.5 among
+its options, then it'll result into 0.25 (0.5*0.5)
+
+=== PlaySoundAction ===
+Plays a short sound effect from the "resources/sounds/" folder.
+
+'''Usage'''
+<code>
+
+play_sound <filename>[,volume]
+
+</code>
+'''Parameters'''
+* <code>filename</code>: The sound file to load (must exist in the sounds database).
+* <code>volume</code>: A float between 0.0 and 1.0 representing the relative volume level.
+This value is multiplied by the user's configured sound volume.
+
+* <code>Example</code>: 
+If volume=0.5 and the player's sound setting is also 0.5,
+the resulting effective playback volume will be 0.25.
+
+* <code>Note</code>: 
+This is intended for short non-looping sound effects (e.g., cues, UI feedback),
+not for ambient or background music.
+
+=== PlayTileAnimationAction ===
+Trigger a map animation at a specified tile position on the world map.
+
+'''Usage'''
+<code>
+
+play_tile_animation <tile_pos_x>,<tile_pos_y>,<animation_name>,<duration>,<loop>
+
+</code>
+'''Parameters'''
+* <code>tile_pos_x, tile_pos_y</code>: Coordinates (x, y) specifying the tile position
+where the animation will be drawn on the map.
+* <code>animation_name</code>: The name of the animation stored in the
+resources/animations/tileset directory. For example, an animation
+named "grass" will load frames named "grass_xx.png".
+* <code>frame_duration</code>: Duration (in seconds) for each frame of the animation.
+* <code>loop_mode</code>: Indicates whether the animation should loop. Options: "loop"
+or "noloop".
+
+=== PrintAction ===
+Print the current value of one or more game variables to the console.
+
+If no variable is specified, print out values of all game variables.
+
+'''Usage'''
+<code>
+
+print
+print <variables>
+
+Script parameters:
+variables: Optional, prints out the value of this/these variable/s,
+multiple variables separated by ':'.
+</code>
+
+=== QuarantineAction ===
+Quarantine or release monsters infected with a specific plague.
+
+* <code>Usage</code>: 
+quarantine <character>,<plague_slug>,<value>[,amount]
+
+* <code>Parameters</code>: 
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>plague_slug</code>: The slug of the plague to target.
+* <code>action_type</code>: "in" to quarantine infected monsters, "out" to release them.
+* <code>amount</code>: (Optional, only for "out") The number of monsters to release
+randomly.
+
+* <code>Example</code>: "quarantine out,5" (Release 5 infected monsters randomly)
+
+=== QuitAction ===
+Completely quit the game.
+
+'''Usage'''
+<code>
+
+quit
+</code>
+
+=== QuitWorldAction ===
+Exit the current world without quitting the game.
+
+'''Usage'''
+<code>
+
+quit_world
+</code>
+
+=== RandomBattleAction ===
+Starts a random battle with a randomly chosen NPC and a party of randomly
+generated monsters within a specified level range.
+
+'''Usage'''
+<code>
+
+random_battle nr_txmns,min_level,max_level
+
+</code>
+'''Parameters'''
+* <code>nr_txmns</code>: The number of Tuxemon in the opponent's party (1 to 6).
+* <code>min_level</code>: The minimum level for the opponent's monsters.
+* <code>max_level</code>: The maximum level for the opponent's monsters.
+
+=== RandomEncounterAction ===
+Randomly start an encounter.
+
+Randomly starts a battle with a monster defined in the "encounter" table
+in the "monster.db" database. The chance that this will start a battle
+depends on the "encounter_rate" specified in the database. The
+"encounter_rate" number is the chance
+walking in to this tile will trigger a battle out of 100.
+"total_prob" is an optional override which scales the probabilities so
+that the sum is equal to "total_prob".
+
+'''Usage'''
+<code>
+
+random_encounter <encounter_slug>[,total_prob][,rgb]
+
+</code>
+'''Parameters'''
+* <code>encounter_slug</code>: Slug of the encounter list.
+* <code>total_prob</code>: Total sum of the probabilities.
+* <code>rgb</code>: color (eg red > 255,0,0 > 255:0:0) - default rgb(255,255,255)
+
+=== RandomHordeAction ===
+Randomly start an horde.
+
+Randomly starts a battle with a monster defined in the "encounter" table
+in the "monster.db" database. The chance that this will start a battle
+depends on the "encounter_rate" specified in the database. The
+"encounter_rate" number is the chance
+walking in to this tile will trigger a battle out of 100.
+
+'''Usage'''
+<code>
+
+random_horde <encounter_slug>[,rgb]
+
+</code>
+'''Parameters'''
+* <code>encounter_slug</code>: Slug of the encounter list.
+* <code>total_prob</code>: Optional float between 0 and 100 representing the chance
+of triggering a horde encounter.
+* <code>rgb</code>: color (eg red > 255,0,0 > 255:0:0) - default rgb(255,255,255)
+
+=== RandomIntegerAction ===
+Randomly chooses an integer between two numbers (inclusive) and sets a key in
+the player's game_variables dictionary to this value.
+
+For example, 'random_integer xyz,1,6' will set the value of the game variable
+'xyz' to be a random integer from 1, 2, 3, 4, 5, or 6.
+
+'''Usage'''
+<code>
+
+random_integer <variable>,<lower_bound>,<upper_bound>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable to set.
+* <code>lower_bound</code>: The inclusive lower bound of the integer range.
+* <code>upper_bound</code>: The inclusive upper bound of the integer range.
+
+=== RandomItemAction ===
+Picks a random item from a list and adds it to the trainer's inventory.
+
+'''Usage'''
+<code>
+
+random_item <item_slugs>[,quantity][,trainer_slug]
+
+</code>
+'''Parameters'''
+* <code>item_slugs</code>: A colon-separated string of item names to choose from.
+* <code>Example</code>: 'potion:super-potion:hyper-potion'.
+* <code>quantity</code>: The number of the item to add. Defaults to 1.
+* <code>trainer_slug</code>: The slug of the trainer to receive the item.
+Defaults to the current player.
+
+=== RandomMonsterAction ===
+Adds a random monster to the specified trainer's party, if there is room.
+
+'''Usage'''
+<code>
+
+random_monster <level>[,npc_slug][,exp][,mon][,shape][,evo]
+
+</code>
+'''Parameters'''
+* <code>level</code>: The level of the added monster.
+* <code>npc_slug</code>: The slug of the trainer to receive the monster
+Defaults to the current player.
+* <code>exp</code>: A modifier for the monster's experience.
+* <code>mon</code>: A modifier for the monster's money yield.
+* <code>shape</code>: The monster's shape (e.g., 'varmint', 'brute').
+* <code>evo</code>: The monster's evolution stage (e.g., 'basic', 'stage1').
+
+=== RemoveCollisionAction ===
+Removes a collision zone associated with a specific label from the
+world map.
+
+'''Usage'''
+<code>
+
+remove_collision <label>
+
+</code>
+'''Parameters'''
+* <code>label</code>: The name or identifier of the obstacle to be removed.
+
+=== RemoveComboAction ===
+Removes a registered combo sequence from the ComboDetector.
+
+'''Usage'''
+<code>
+
+remove_combo  <combo_name>[,buttons]
+
+</code>
+'''Parameters'''
+* <code>combo_name</code>: Required. A name or ID for the combo (used for logging).
+* <code>buttons</code>: Required. A colon-separated list of button names (e.g. LEFT:RIGHT:A).
+
+=== RemoveContactsAction ===
+Remove contact from the app.
+
+'''Usage'''
+<code>
+
+remove_contacts <character>,<slug>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>slug</code>: slug name (e.g. "npc_maple").
+
+=== RemoveFlairAction ===
+Remove a flair from a monster.
+
+'''Usage'''
+<code>
+
+remove_flair <variable>,<category>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: The name of the variable that holds the monster's UUID.
+* <code>category</code>: The category of the flair to remove. If omitted, all flairs will be removed.
+
+=== RemoveHeldItemAction ===
+Removes a held item from a specific monster.
+
+'''Usage'''
+<code>
+
+remove_held_item <variable>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id.
+
+=== RemoveMonsterAction ===
+Remove a monster from the party if the monster is there.
+
+Monster is determined by instance_id, which must be passed in a game
+variable.
+
+'''Usage'''
+<code>
+
+remove_monster <variable>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id.
+
+=== RemoveNpcAction ===
+Remove an NPC object from the list of NPCs.
+
+'''Usage'''
+<code>
+
+remove_npc <npc_slug>
+
+</code>
+'''Parameters'''
+* <code>npc_slug</code>: Npc slug name (e.g. "npc_maple").
+
+=== RemoveStateAction ===
+Remove the specified state or the last active one.
+
+This action allows the removal of a specific state from the client's
+active state list. If no state name is provided, it removes the current
+state, except for certain protected states (e.g., "WorldState" and
+"BackgroundState").
+
+'''Usage'''
+<code>
+
+remove_state [state_name]
+
+</code>
+'''Parameters'''
+* <code>state_name</code>: The name of the state to remove (e.g., "PCState").
+If not provided, the last active state will be removed, unless it's a
+protected state.
+
+=== RemoveStepTrackerAction ===
+Removes a step tracker from a specific character.
+
+'''Usage'''
+<code>
+
+remove_step_tracker <character>,<tracker_id>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or an NPC slug name (e.g., "npc_maple").
+* <code>tracker_id</code>: Unique name for identifying the step tracker.
+
+=== RemoveTechAction ===
+Remove a specific technique from a specific monster in the party.
+
+'''Usage'''
+<code>
+
+remove_tech <tech_id>[,<force_remove>]
+
+</code>
+'''Parameters'''
+* <code>tech_id</code>: Name of the variable where the technique ID is stored.
+* <code>force_remove</code>: Optional string flag to override forget rules.
+Accepts "true", "1", or "yes" (case-insensitive).
+
+'''Examples'''
+* "remove_tech name_variable"
+* "remove_tech name_variable,true"
+* "remove_tech name_variable,1"
+
+=== RemoveTrackerAction ===
+Remove tracker.
+
+'''Usage'''
+<code>
+
+remove_tracker <character>,<location>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>location</code>: location name (e.g. "paper_town").
+
+=== RenameMonsterAction ===
+Open the text input screen to rename the monster.
+
+'''Usage'''
+<code>
+
+rename_monster <variable>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id.
+
+=== RenamePlayerAction ===
+Open the text input screen to rename the character.
+
+'''Usage'''
+<code>
+
+rename_player <character> [random]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or an NPC slug (e.g. "npc_maple")
+* <code>random</code>: Adding "random" makes appear the dontcare button in the input.
+
+=== ReplacePartyFromYamlAction ===
+Replaces a character's party with a predefined set of monsters from a YAML file.
+
+This action loads a named party configuration from a YAML file and assigns it
+to the specified character (either the player or an NPC). Each monster entry
+in the YAML can define attributes like slug, level, and weight for random selection.
+
+'''Usage'''
+<code>
+
+replace_party_from_yaml <character>,<yaml_file>,<set_name>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or an NPC slug (e.g. "npc_maple").
+* <code>yaml_file</code>: Name of the YAML file (without extension) located in the mods folder.
+* <code>set_name</code>: The key of the party to use within the YAML file.
+
+'''Examples'''
+* "replace_party_from_yaml npc_maple,parties,starter_set"
+
+=== ReplaceTechsFromYamlAction ===
+Replaces a monster's moveset using a predefined set from a YAML file.
+
+'''Usage'''
+<code>
+
+replace_techs_from_yaml <variable>,<yaml_file>,<set_name>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where the monster UUID is stored.
+* <code>yaml_file</code>: Path to the YAML file containing movesets.
+* <code>set_name</code>: The key of the moveset to use within the YAML file.
+
+'''Examples'''
+* "replace_techs_from_yaml monster_id,movesets,starter_set"
+
+=== RumbleAction ===
+Rumble available controllers with rumble support.
+
+'''Usage'''
+<code>
+
+rumble <duration>,<power>[,period][,delay][,attack_length]
+[,attack_level][,fade_length][,fade_level][,direction]
+
+</code>
+'''Parameters'''
+* <code>duration</code>: Time in seconds to rumble for.
+* <code>power</code>: Percentage of power to rumble (0 to 100).
+* <code>period</code>: Time period between vibrations in milliseconds.
+Default 25.
+* <code>delay</code>: Time in seconds before the rumble starts.
+Default 0.
+* <code>attack_length</code>: Time in milliseconds for the rumble to ramp up.
+Default 256.
+* <code>attack_level</code>: Initial intensity level during ramp-up.
+Default 0.
+* <code>fade_length</code>: Time in milliseconds for the rumble to fade out.
+Default 256.
+* <code>fade_level</code>: Final intensity level during ramp-down.
+Default 0.
+* <code>direction</code>: Direction of the rumble effect, for spatial control.
+Default 16384.
+
+=== RumblePatternAction ===
+Play a named rumble pattern on available controllers.
+
+'''Usage'''
+<code>
+
+rumble_pattern <pattern_name>[,target]
+
+</code>
+'''Parameters'''
+* <code>pattern_name</code>: Name of the pattern ('pulse', 'heartbeat', 'explosion').
+* <code>target</code>: Optional device index (-1 for all). Default -1.
+
+=== SaveGameAction ===
+Saves the game.
+
+If the index parameter is absent, then it'll create
+slot4.save
+
+index = 0 > slot 1
+index = 1 > slot 2
+index = 2 > slot 3
+
+'''Usage'''
+<code>
+
+save_game [index]
+
+</code>
+'''Parameters'''
+* <code>index</code>: Selected index.
+
+* <code>eg</code>: "save_game" (slot4.save)
+* <code>eg</code>: "save_game 1"
+
+=== SaveTimestampAction ===
+Saves the current Unix timestamp (in seconds) into a game variable.
+
+'''Usage'''
+<code>
+
+save_timestamp <variable>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: The name of the game variable to store the timestamp in.
+
+=== ScreenTransitionAction ===
+Initiate a screen transition that blocks until both fade out and fade in
+are complete.
+
+'''Usage'''
+<code>
+
+screen_transition [trans_time][,rgb]
+
+</code>
+'''Parameters'''
+* <code>trans_time</code>: Transition time in seconds - default 0.3
+* <code>rgb</code>: color (eg red > 255,0,0 > 255:0:0) - default rgb(0,0,0)
+
+* <code>eg</code>: "screen_transition 3"
+* <code>eg</code>: "screen_transition 3,255:0:0:50" (red)
+
+=== SetBattleAction ===
+Appends a new battle to the player's battle history.
+
+'''Usage'''
+<code>
+
+set_battle <fighter>,<result>,<opponent>
+
+</code>
+'''Parameters'''
+* <code>fighter_slug</code>: The slug of the battle participant (e.g., "player").
+* <code>outcome</code>: The desired battle outcome ("won", "lost", or "draw").
+* <code>opponent_slug</code>: The slug of the opponent (e.g., "npc_maple").
+
+* <code>Example</code>: 
+`set_battle player,won,npc_maple`
+Add the 'player' has won against 'npc_maple' to the history.
+
+=== SetBillAction ===
+Initializes or updates a bill for a character, including its amount,
+interest rate, late fee and share rate.
+
+'''Usage'''
+<code>
+
+set_bill <character>,<bill_slug>[,amount][,interest_rate][,late_fee][,share_rate]
+
+</code>
+'''Parameters'''
+* <code>character</code>: "player" or the slug of an NPC (e.g. "npc_maple").
+* <code>bill_slug</code>: identifier for the bill (must be translated in en_US base.po).
+* <code>amount</code>: initial amount of the bill (optional, defaults to 0).
+* <code>interest_rate</code>: interest rate applied to the bill (optional, e.g. 0.1 for 10%).
+* <code>late_fee</code>: flat fee added to the bill when triggered (optional, eg. 10).
+* <code>share_rate</code>: percentage of battle earnings automatically applied to the bill
+(optional, e.g. 0.2 for 20%).
+
+'''Examples'''
+* set_bill player,bill_cathedral,100,0.1,50,0.5
+* set_bill npc_maple,bill_rent,,0.05,25,0.2
+
+* <code>Notes</code>: 
+* Interest and late fee are stored but not automatically applied.
+* Use separate actions to trigger interest or fee accumulation.
+* Amount must be non-negative.
+
+=== SetBubbleAction ===
+Put a bubble above player sprite.
+
+'''Usage'''
+<code>
+
+set_bubble <npc_slug>[,bubble]
+
+</code>
+'''Parameters'''
+* <code>npc_slug</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>bubble</code>: dots, drop, exclamation, heart, note, question, sleep,
+angry, confused, fireworks
+
+* <code>Example usage</code>: 
+"set_bubble spyder_shopassistant" (remove bubble from NPC)
+"set_bubble spyder_shopassistant,note" (set bubble for NPC)
+"set_bubble player,note" (set bubble for player)
+"set_bubble player" (remove bubble from player)
+
+=== SetCharAttributeAction ===
+Set the given attribute of the character to the given value.
+
+'''Usage'''
+<code>
+
+set_char_attribute <character>,<attribute>,<value>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>attribute</code>: Name of the attribute.
+* <code>value</code>: Value of the attribute.
+
+=== SetPlayerBirthdayAction ===
+Open the date picker to set the player's birthday.
+
+'''Usage'''
+<code>
+
+set_char_birthday <character> [random]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or an NPC slug (e.g. "npc_maple")
+* <code>random</code>: If provided, assigns a random birthday instead of
+opening the date picker.
+
+=== SetCipherAction ===
+Toggles ciphering for dialogue by enabling or disabling the CipherProcessor.
+
+'''Usage'''
+
+<code>
+
+set_cipher <option>,<cipher_map>
+
+</code>
+* <code>Parameters</code>: 
+
+* <code>option</code>: 
+* "enable": Activates ciphering using the provided cipher map (if any).
+* "disable": Disables ciphering entirely.
+
+* <code>cipher_map</code>: 
+The filename (without extension) of a YAML file located in the mods folder.
+* If omitted during "enable", the default cipher map is used.
+* Ignored when option is "disable".
+
+=== SetEconomyAction ===
+Sets the economy (prices and initial stock of items/monsters) for a specific NPC.
+
+This action orchestrates loading the economy data and then applying it to
+the target character's shop/inventory, including handling initial quantities
+and variable-based availability.
+
+'''Usage'''
+<code>
+
+set_economy <npc_slug>,<economy_slug>
+
+</code>
+'''Parameters'''
+* <code>npc_slug</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>economy_slug</code>: Slug of an economy.
+
+=== SetEnvironmentAction ===
+Switch or unload the active battle environment.
+
+'''Usage'''
+<code>
+
+set_environment [slug]
+
+</code>
+'''Parameters'''
+* <code>slug</code>: Optional. If provided, loads the environment slug from the
+database. If omitted, unloads the current environment.
+
+'''Examples'''
+* set_environment grass
+* set_environment
+
+=== SetFacingModeAction ===
+Change the facing mode of an NPC.
+
+'''Usage'''
+<code>
+
+set_facing_mode <npc_slug>,<mode>
+
+</code>
+'''Parameters'''
+* <code>npc_slug</code>: Slug of the NPC whose facing mode will be changed.
+* <code>mode</code>: One of the valid facing mode names:
+* follow_movement
+* locked
+* scripted
+
+This action immediately updates the NPC's facing behavior. When set to
+'locked' or 'scripted', the NPC will no longer automatically rotate to
+match movement direction. When set to 'follow_movement', the NPC resumes
+normal facing updates driven by the PathController.
+
+=== SetKennelVisibleAction ===
+Set a kennel's visibility state for a character.
+
+* <code>From hidden to visible</code>: 
+set_kennel_visible player,name_kennel,true
+
+* <code>From visible to hidden</code>: 
+set_kennel_visible player,name_kennel,false
+
+'''Usage'''
+<code>
+
+set_kennel_visible <character>,<kennel>,<visible>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or NPC slug name (e.g. "npc_maple").
+* <code>kennel</code>: Name of the kennel.
+* <code>visible</code>: Optional string flag to set visibility.
+Accepts "true", "1", "yes" for visible (case-insensitive).
+Defaults to False when omitted or invalid.
+
+=== SetLayerAction ===
+Allows to change the color of the transparent layer.
+
+'''Usage'''
+<code>
+
+set_layer <rgb>
+
+</code>
+'''Parameters'''
+* <code>rgb</code>: color (eg red > 255,0,0,128 > 255:0:0:128)
+default transparent
+
+* <code>Note</code>: this is not a separate state, so it's advisable
+to add a 4th value to the rgb, if not you're not
+going to see the character, ideally 128.
+
+=== SetMissionAction ===
+Set missions by updating it and by checking the prerequisites.
+
+'''Usage'''
+<code>
+
+set_mission <character>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+
+=== SetMoneyAction ===
+Set an amount of money for a specific slug.
+
+'''Usage'''
+<code>
+
+set_money <slug>,[amount]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>amount</code>: Amount of money (>= 0) (default 0)
+
+=== SetMonsterAttributeAction ===
+Set the given attribute of the monster to the given value.
+
+'''Usage'''
+<code>
+
+set_monster_attribute <variable>,<attribute>,<value>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id.
+* <code>attribute</code>: Name of the attribute.
+* <code>value</code>: Value of the attribute.
+
+=== SetMonsterFlairAction ===
+Set or replace a monster's flair in a given category.
+
+'''Usage'''
+<code>
+
+set_monster_flair <variable>,<category>,<flair>[,<sprite_type_1>:<sprite_type_2>:...]
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable that holds the monster's UUID.
+* <code>category</code>: Category of the monster flair.
+* <code>flair</code>: Name of the monster flair.
+* <code>sprite_type(s)</code>: Optional pipe-separated list of sprite types
+* <code>(e.g., front</code>: menu01)
+
+* <code>Behavior</code>: 
+* If the category already has a flair, it will be replaced.
+* If the category is new, the flair will be added.
+* If sprite types are provided, the flair will only apply to those views.
+
+=== SetMonsterHealthAction ===
+Set the hp of a monster in the current player's party.
+
+'''Usage'''
+<code>
+
+set_monster_health [variable][,health]
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id. If no
+variable is specified, all monsters are healed.
+* <code>health</code>: A float value between 0 and 1, which is the percent of max
+hp to be restored to. A int value, which is the number of HP
+to be restored to. If no health is specified, the hp is maxed
+out.
+
+=== SetMonsterLevelAction ===
+Change the level of a monster in the current player's party.
+
+'''Usage'''
+<code>
+
+set_monster_level [variable][,levels_added]
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id. If no
+variable is specified, all monsters level up.
+* <code>levels_added</code>: Number of levels to add. Negative numbers are allowed.
+Default 1.
+
+=== SetMonsterPlagueAction ===
+Set a monster's plague to the given condition.
+
+'''Usage'''
+<code>
+
+set_monster_plague <variable>,<plague_slug>,<condition>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id.
+* <code>plague_slug</code>: The slug of the plague to target.
+* <code>condition</code>: Infected, inoculated, or None (removes the plague from the
+character, indicating a healthy state).
+* <code>enforced_check</code>: Optional string flag to enforce eligibility rules.
+Accepts "true", "1", or "yes" (case-insensitive).
+Default is False (eligibility is bypassed).
+
+=== SetMonsterStatusAction ===
+Change the status of a monster in the current player's party.
+
+'''Usage'''
+<code>
+
+set_monster_status [slot][,status]
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id. If no
+variable is specified, all monsters get/lose status.
+* <code>status</code>: Status to set. If no status is specified, the status is
+cleared.
+
+=== SetPartyAttributeAction ===
+Set the given attribute of party's monsters to the given value.
+
+'''Usage'''
+<code>
+
+set_party_attribute <character>,<attribute>,<value>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>attribute</code>: Name of the attribute.
+* <code>value</code>: Value of the attribute.
+
+=== SetPartyStatusAction ===
+Records important information about all monsters in the party.
+
+'''Usage'''
+<code>
+
+set_party_status <player>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+
+=== SetPricePolicyAction ===
+Sets the PricePolicy for a specific NPC's economy.
+
+'''Usage'''
+<code>
+
+set_price_policy <npc_slug>,<policy_slug>
+
+</code>
+'''Parameters'''
+* <code>npc_slug</code>: Either "player" or NPC slug (e.g. "npc_maple").
+* <code>policy_slug</code>: Slug of a price policy (e.g. "black_market").
+
+=== SetRandomVariableAction ===
+Sets a key in the player's `game_variables` dictionary to a randomly
+selected value from a specified list. Values can be repeated or
+weighted to influence selection probability.
+
+'''Usage'''
+<code>
+
+set_random_variable <variable>,<value1>:<value2>:<value3>
+
+You can also use weighted values:
+set_random_variable <variable>,<apple=1>:<banana=3>:<cherry=2>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: The name of the game variable to set.
+* <code>values</code>: A colon-separated string of values to choose from.
+* Repeated values increase their selection chance.
+* Alternatively, use `value=weight` to assign explicit weights.
+
+=== SetRoutingPolicyAction ===
+Sets or resets the routing policy for future monster additions.
+This does not add a monster — it modifies how PartyHandler.add_monster behaves.
+
+'''Usage'''
+<code>
+
+set_routing_policy <npc_slug>[,policy_name]
+
+</code>
+'''Parameters'''
+* <code>npc_slug</code>: NPC slug to apply the policy to.
+* <code>policy_name</code>: Name of the routing policy defined in routing_policies.yaml.
+
+'''Examples'''
+* set_routing_policy player,starter_policy
+* set_routing_policy player,event_policy
+* set_routing_policy player  # resets to 'default'
+
+=== SetStepTrackerMilestoneShownAction ===
+Marks a milestone on a step tracker as shown for a specific character.
+
+'''Usage'''
+<code>
+
+set_step_tracker_milestone_shown <character>,<tracker_id>,<milestone>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or an NPC slug name (e.g., "npc_maple").
+* <code>tracker_id</code>: Unique name for identifying the step tracker.
+* <code>milestone</code>: Step milestone to mark as shown.
+
+=== SetTeleportFaintAction ===
+Set teleport faint data
+
+'''Usage'''
+<code>
+
+set_teleport_faint <character>,<map_name>,<x>,<y>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>map_name</code>: The name of the map to validate against.
+* <code>x</code>: The x-coordinate to validate against.
+* <code>y</code>: The y-coordinate to validate against.
+
+=== SetTemplateAction ===
+Switch template (sprite and combat_sheet).
+
+Please remember that if you change the combat_sheet,
+it automatically changes the combat_back.
+
+* <code>Example</code>: if you put xxx, it's going to be xxx_back.png.
+
+* <code>By using default</code>: 
+
+set_template player,default
+
+it's going to reassign the default sprite.
+
+'''Usage'''
+
+<code>
+
+set_template <character>,<sprite>[,combat_sheet]
+
+</code>
+'''Parameters'''
+
+* <code>character</code>: 
+Either "player" or npc slug name (e.g. "npc_maple").
+
+* <code>sprite</code>: 
+Must be inside mods/tuxemon/sprites.
+* <code>Example</code>: adventurer_brown_back.png -> adventurer.
+
+* <code>combat_sheet</code>: 
+Must be inside mods/tuxemon/gfx/sprites/player.
+* <code>Example</code>: adventurer.png -> adventurer.
+
+=== SetTuxepediaAction ===
+Set the key and value in the Tuxepedia dictionary.
+
+'''Usage'''
+<code>
+
+set_tuxepedia <character>,<monster_slug>,<label>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>monster_slug</code>: Monster slug name (e.g. "rockitten").
+* <code>label</code>: seen / caught
+
+=== SetVariableAction ===
+Updates the player's game variables by setting key-value pairs.
+
+'''Usage'''
+<code>
+
+set_variable <variable>:<value>[,<variable>:<value>]
+
+</code>
+'''Parameters'''
+* <code>variable</code>: The name of the variable.
+* <code>value</code>: The assigned value for the variable.
+
+This implementation supports multiple parameters, allowing multiple
+variable assignments in one call.
+
+=== SetWeatherAction ===
+Sets the weather to a specific slug using the WorldWeatherManager.
+If no slug is provided, it triggers a weather advancement check.
+
+'''Usage'''
+<code>
+
+set_weather <weather_slug>      # Sets weather directly
+set_weather                     # Advances weather based on previsions
+
+</code>
+'''Parameters'''
+* <code>slug</code>: Optional weather slug (e.g., "rain", "sunny", "foggy").
+
+=== ShowMonsterAction ===
+Change to MonsterInfoState.
+
+This action transitions to the MonsterInfoState, displaying detailed
+information about a specific monster.
+
+'''Usage'''
+<code>
+
+monster_info_state <monster_variable>
+
+</code>
+'''Parameters'''
+* <code>monster_variable</code>: The name of the game variable holding the monster's UUID.
+
+=== SpawnMonsterAction ===
+Breed a new monster.
+
+Add a new monster, created by breeding the two
+given mons (identified by instance_id, stored in a
+variable) and adds it to the given character's party
+(identified by slug). The parents must be in either
+the trainer's party, or a storage box owned by the
+trainer.
+
+'''Usage'''
+<code>
+
+spawn_monster [npc_slug]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+the one who is going to receive the new born
+
+=== StartBattleAction ===
+Start a battle between two characters and switch to the combat module.
+
+'''Usage'''
+<code>
+
+start_battle <character1>,<character2>[,music]
+
+</code>
+'''Parameters'''
+* <code>character1</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>character2</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>music</code>: The name of the music file to play (Optional).
+
+=== StartCinemaModeAction ===
+Start cinema mode by animating black bars to narrow the aspect ratio.
+
+For a cinematic experience, specify the width of the horizontal and
+vertical black bars as a ratio of the screen resolution.
+* <code>For example, to achieve a 2.39</code>: 1 aspect ratio on a 1920x1080 screen,
+you would set the horizontal ratio to 0.42 (1920 / 1080 * (16/9 - 2.39/1))
+and the vertical ratio to 0 (no vertical bars).
+
+By default only bar up and down.
+
+'''Usage'''
+<code>
+
+start_cinema_mode [aspect_y_ratio][,aspect_x_ratio]
+
+</code>
+'''Parameters'''
+* <code>aspect_y_ratio</code>: The width of the horizontal black bars as a ratio of
+the screen resolution. Default standard cinema mode.
+* <code>aspect_x_ratio</code>: The width of the vertical black bars as a ratio of
+the screen resolution. Default None.
+
+=== StartDoubleBattleAction ===
+Start a double battle between two characters and switch to the combat module.
+
+'''Usage'''
+<code>
+
+start_double_battle <character1>,<character2>[,music]
+
+</code>
+'''Parameters'''
+* <code>character1</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>character2</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>music</code>: The name of the music file to play (Optional).
+
+=== StopCinemaModeAction ===
+Stop cinema mode by animating black bars back to the normal aspect ratio.
+
+'''Usage'''
+<code>
+
+stop_cinema_mode
+</code>
+
+=== StoreMonsterAction ===
+Store a monster in a box.
+
+Save the player's monster with the given instance_id to
+the named storage box, removing it from the player party.
+
+'''Usage'''
+<code>
+
+store_monster <variable>[,box]
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id.
+* <code>box</code>: An existing box where the monster will be stored.
+
+=== StorePartyAction ===
+Store the entire party in a box.
+
+Save all monsters from the character's party into the named storage box,
+removing them from the party if successful.
+
+'''Usage'''
+<code>
+
+store_party <character>[,box]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or an NPC slug (e.g. "npc_maple").
+* <code>box</code>: An existing box where the monsters will be stored.
+If omitted, defaults to KENNEL.
+
+=== TeleportAction ===
+Teleport a character to a specific map and tile coordinates.
+
+If a screen transition is in progress, the teleport will be queued
+and executed at the apex of the transition.
+
+'''Usage'''
+<code>
+
+teleport <character>,<map_name>,<x>,<y>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Slug of the character to teleport.
+* <code>map_name</code>: Name of the map to teleport to.
+* <code>x</code>: X coordinate of the map to teleport to.
+* <code>y</code>: Y coordinate of the map to teleport to.
+
+=== TeleportFaintAction ===
+Teleport the player to the point in the teleport_faint variable.
+
+Usually used to teleport to the last visited Tuxcenter, as when
+all monsters in the party faint.
+
+'''Usage'''
+<code>
+
+teleport_faint <character>,<healing>[,trans_time][,rgb]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>healing</code>: Trigger healing string flag ("true", "1", "yes" for True),
+* <code>trans_time</code>: Transition time in seconds - default 0.3
+* <code>rgb</code>: color (eg red > 255,0,0 > 255:0:0) - default rgb(0,0,0)
+
+* <code>eg</code>: "teleport_faint player,true,3"
+* <code>eg</code>: "teleport_faint player,true,3,255:0:0:50" (red)
+
+=== ToggleEvolutionBlockAction ===
+Blocks or unblocks a specific evolution for a monster.
+
+'''Usage'''
+<code>
+
+toggle_evolution_block <character> <monster_variable> <evolution_slug> <action>
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+* <code>monster_variable</code>: Name of the variable storing the monster's instance ID.
+* <code>evolution_slug</code>: The slug of the evolution to block/unblock.
+* <code>action</code>: "block" to permanently block, "unblock" to unblock.
+
+=== TradingAction ===
+Select a monster in the player party and trade.
+
+'''Usage'''
+<code>
+
+trading <variable>,<added>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id (removed).
+* <code>added</code>: Slug monster or Name of the variable where to store the monster
+id (added).
+
+eg. "trading name_variable,apeoro"
+eg. "trading name_variable,name_variable"
+
+=== TransferMoneyAction ===
+Transfer money between entities.
+
+'''Usage'''
+<code>
+
+transfer_money <slug1>,<amount>,<slug2>
+
+</code>
+'''Parameters'''
+* <code>slug1</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>amount</code>: amount of money.
+* <code>slug2</code>: Either "player" or character slug name (e.g. "npc_maple").
+
+* <code>eg</code>: player,100,mom (player transfer 100 to mom)
+
+=== TransitionTeleportAction ===
+Combines the "teleport" and "screen_transition" actions.
+
+Perform a teleport with a screen transition. Useful for allowing the player
+to go to different maps.
+
+'''Usage'''
+<code>
+
+transition_teleport <character>,<map_name>,<x>,<y>[,trans_time][,rgb]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Slug of the character to teleport.
+* <code>map_name</code>: Name of the map to teleport to.
+* <code>x</code>: X coordinate of the map to teleport to.
+* <code>y</code>: Y coordinate of the map to teleport to.
+* <code>trans_time</code>: (Optional) Transition time in seconds. Default is 0.3.
+* <code>rgb</code>: (Optional) Transition color in RGB format (e.g. "255:0:0" for red).
+Default is black (0,0,0).
+
+=== TransitionTeleportReturnAction ===
+Teleport a character back to their previously recorded location,
+using a screen transition.
+
+This action retrieves the last executed teleport request and sends
+the character back to its source map and coordinates. It must be
+used after a teleport that stored return data (e.g. source_map, source_x, source_y).
+
+'''Usage'''
+<code>
+
+transition_teleport_return <character>,<facing>[,trans_time][,rgb]
+
+</code>
+'''Parameters'''
+* <code>character</code>: Either "player" or character slug name (e.g. "npc_maple").
+* <code>facing</code>: One of "up", "down", "left", "right". Case-insensitive.
+* <code>trans_time</code>: (Optional) Transition time in seconds. Default is 0.3.
+* <code>rgb</code>: (Optional) Transition color in RGB format (e.g. "255:0:0" for red).
+Default is black (0,0,0).
+
+* <code>Requirements</code>: 
+* A previous teleport must have been executed and stored in
+`teleporter.last_teleport_request`.
+* The previous request must include valid source map and coordinates.
+
+* <code>Example</code>: 
+* <code>transition_teleport_return player,down,0.5,255</code>: 255:255
+
+=== TranslatedDialogAction ===
+Open a dialog window with translated text according to the passed
+translation key. Parameters passed to the translation string will also
+be checked if a translation key exists.
+
+'''Usage'''
+<code>
+
+translated_dialog <text>[,avatar][,position][,style]
+
+</code>
+'''Parameters'''
+* <code>text</code>: Text of the dialog.
+* <code>avatar</code>: Monster avatar. If it is a number, the monster is the
+corresponding monster slot in the player's party.
+If it is a string, we're referring to a monster by name.
+* <code>position</code>: Position of the dialog box. Can be 'top', 'bottom', 'center',
+'topleft', 'topright', 'bottomleft', 'bottomright', 'right', 'left'.
+Default 'bottom'.
+* <code>h_alignment</code>: Alignment of text in the dialog box, it can be 'left', 'center'
+or 'right'. Default 'left'.
+* <code>v_alignment</code>: Alignment of text in the dialog box, it can be 'bottom',
+'center' or 'top'. Default 'top'.
+* <code>style</code>: a predefined style in db/dialogue/dialogue.json
+
+=== TranslatedDialogChoiceAction ===
+Ask the player to make a choice.
+
+'''Usage'''
+<code>
+
+translated_dialog_choice <choices>,<variable>
+
+</code>
+'''Parameters'''
+* <code>choices</code>: List of possible choices, separated by a colon ":".
+* <code>variable</code>: Variable to store the result of the choice.
+
+=== TriggerStatusAction ===
+Triggers the current status effect of a monster (e.g., poison, burn, sleep).
+
+'''Usage'''
+<code>
+
+trigger_status <variable>,<status_name>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable containing the monster ID. If not specified,
+all monsters in the party will be affected.
+* <code>status_name</code>: Optional. If provided, only triggers the status effect if it matches
+the monster's current status slug.
+
+'''Examples'''
+* "trigger_status name_variable,poison"
+* "trigger_status name_variable"
+* "trigger_status"
+
+=== TuneRadioAction ===
+Launches the NuPhoneRadio interface for a given character, optionally tuned
+to a specific frequency.
+
+This action transitions the game into a radio interface state, allowing the
+player to access broadcasts associated with a specific NPC. It can launch
+either the standard radio menu or the tuner interface, depending on whether
+a frequency is provided.
+
+This is typically used in scripted events to simulate tuning into a radio
+station from a character's perspective or location, enabling dynamic
+storytelling and immersive audio experiences.
+
+'''Usage'''
+<code>
+
+tune_radio <character_slug>
+tune_radio <character_slug>[,frequency]
+
+</code>
+'''Parameters'''
+* <code>character_slug</code>: The slug of the character (NPC) whose context will be
+used to determine available radio stations and broadcasts.
+* <code>frequency</code>: If provided, launches the tuner interface and attempts to
+tune directly to the specified frequency (in MHz). If omitted, the
+standard radio menu is shown instead.
+
+=== UnloadSoundAction ===
+Unload a specific sound from memory cache, or all sounds if no filename is given.
+
+'''Usage'''
+<code>
+
+unload_sound <filename>
+unload_sound
+
+</code>
+'''Parameters'''
+* <code>filename</code>: Name of the sound file to unload.
+If omitted, all cached sounds will be removed from memory.
+
+=== UnlockControlsAction ===
+Unlock player controls
+
+'''Usage'''
+<code>
+
+unlock_controls
+</code>
+
+=== UnpauseMusicAction ===
+Unpause the current (paused) music playback.
+
+'''Usage'''
+<code>
+
+unpause_music
+</code>
+
+=== UpdateCipherAction ===
+Updates the list of unlocked letters for a character used by the CipherProcessor.
+
+'''Usage'''
+
+<code>
+
+update_cipher <character>[,letter]
+
+</code>
+* <code>Parameters</code>: 
+
+* <code>character</code>: 
+Either "player" or npc slug name (e.g. "npc_maple").
+
+* <code>letter</code>: 
+* <code>A single uppercase letter (or multiple separated by '</code>: ') to add to
+the character's unlocked set. If omitted, no new letters will be added,
+but the CipherProcessor will be updated with the current unlocked state.
+
+=== UpdateTilePropertiesAction ===
+Update tile properties by modifying movement settings or accessibility.
+
+'''Usage'''
+<code>
+
+update_tile_properties <label>[,moverate]
+
+</code>
+'''Parameters'''
+* <code>label</code>: The name of the property to update (e.g., surfable, walkable).
+* <code>moverate</code>: The value of the movement rate (e.g., 1 for normal movement,
+0 for inaccessible).
+
+* <code>Example</code>: 
+"update_tile_properties surfable,0.5" sets the surfable property to 0.5
+for relevant tiles.
+
+=== UpdateTimeAction ===
+Update time variables.
+
+'''Usage'''
+<code>
+
+update_time player
+
+</code>
+'''Parameters'''
+* <code>file</code>: File to load.
+
+* <code>eg</code>: "update_time player"
+
+=== VariableMathAction ===
+Perform a mathematical operation on the player.game_variables dictionary.
+
+Optionally accepts a fourth parameter to store the result, otherwise it
+is stored in ``var1``.
+
+'''Usage'''
+<code>
+
+variable_math <var1>,<operation>,<var2>,<result>
+variable_math <var1>,<operation>,<var2>
+
+</code>
+'''Parameters'''
+* <code>var1</code>: First operand.
+* <code>operation</code>: Operator symbol.
+* <code>var2</code>: Second operand.
+* <code>result</code>: Variable where to store the result. If missing, it will be
+``var1``.
+
+=== WaitAction ===
+Block the event chain for a given duration.
+
+'''Usage'''
+<code>
+
+wait <seconds>
+
+</code>
+'''Parameters'''
+* <code>seconds</code>: Duration in seconds for the event engine to wait.
+The wait is measured using accumulated delta time (dt)
+from the game loop, not wall clock time.
+
+=== WildEncounterAction ===
+Start a encounter with a single wild monster.
+
+'''Usage'''
+<code>
+
+wild_encounter <monster_slug>,<monster_level>[,exp_mod]
+[,mon_mod][,env][,rgb][,held_item]
+
+</code>
+'''Parameters'''
+* <code>monster_slug</code>: Monster slug.
+* <code>monster_level</code>: Level of monster.
+* <code>exp_mod</code>: Experience modifier.
+* <code>mon_mod</code>: Money modifier.
+* <code>env</code>: Environment (grass default)
+* <code>rgb</code>: color (eg red > 255,0,0 > 255:0:0) - default rgb(255,255,255)
+* <code>held_item</code>: item held by the monster
+
+=== WithdrawMonsterAction ===
+Pull a monster from the given trainer's storage and puts it in their party.
+
+* <code>Note</code>: 
+If the trainer's party is already full then the monster will be
+deposited into the default storage box automatically.
+
+'''Usage'''
+<code>
+
+withdraw_monster <variable>,<character>
+
+</code>
+'''Parameters'''
+* <code>variable</code>: Name of the variable where to store the monster id.
+* <code>character</code>: Either "player" or npc slug name (e.g. "npc_maple").
+the one who is going to receive the monster

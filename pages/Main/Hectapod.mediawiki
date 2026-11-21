@@ -1,0 +1,59 @@
+{{Monster
+|Alternative Names=Mallunaut,
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Jaskrendix, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Front sprite by Spalding004. Back and face sprites by Jaskrendix.
+|Species=Sea Storm
+|Evolves=Squink
+|SpyderCampaign=Fished with the Neptune or Poseidon.
+|TXMN Types=Water
+|TXMN Sub-Elements=Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Polliwog
+|TXMN ID=271
+|TXMN Blurb=When it inflates its dome, it floats to the top of oceans, or even through mist and clouds.
+|TXMN Height=120
+|TXMN Weight=45
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Water, Weather
+|Fusion First=Hecta
+|Fusion Second=pod
+}}
+{{Technique_Allocation
+|Has_Technique=Goad
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Geyser
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Flow
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Water Blast
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Starfall
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Tsunami
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Ice Storm
+|Technique_Level=37
+}}

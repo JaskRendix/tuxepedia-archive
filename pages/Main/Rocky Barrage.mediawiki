@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=241
+|TXMN Blurb=The user unleashes a furious barrage of rocks, threatening to overwhelm the opponent with a crushing avalanche of stone.
+|TXMN Category=Ranged
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=90%
+|TXMN Power=1
+|TXMN Effects=Multi attack 3
+|TXMN Recharge=3
+|TXMN Animation Target=1
+|Tags=Ground, Rock
+|Main Details=Needed an Earth power 3 move, this is effectively that.
+|Sources=HippasusTwo
+}}

@@ -1,0 +1,20 @@
+{{Item
+|Item Category=Capture Item
+|TXMN Effects=capture
+|TXMN Cost=100
+|TXMN Usable In=combat
+|TXMN Description=Captures a monster.
+|TXMN Consumable=yes
+|Main Details=Formerly called a '''Capture Device'''.
+
+In-game sprites:
+
+[[File:Party icon.gif]]
+
+Old in-game sprites:
+
+[[File:Old party icon.gif]]
+|SpyderCampaign=Found in City Park (two boxes); given in bulk at the Cotton Scoop as part of the game intro; sold at Paper and Cotton Scoop
+|Sources=Josepharaoh99, Tamashihoshi
+|Source Explanation=Art by josepharaoh99. Main sprite and icons by tamashihoshi.
+}}

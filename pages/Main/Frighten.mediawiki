@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=244
+|TXMN Blurb=A spooked opponent takes to the higher ground, helping ranged attacks at the expense of close combat.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Condition imposer
+|TXMN Is fast=Fast
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Target Condition=Sniping
+|Tags=Ghost, Mental
+|Main Details=Mirrors [[Taunt]]
+|Sources=Sanglorian
+}}

@@ -1,0 +1,74 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert, HippasusTwo
+|Source Explanation=Designed and sprited by Georg Eckert. Front, back and face sprites by HippasusTwo.
+|Species=Bacteria
+|Name Origin=''glove'' + ''demon''
+|TXMN Types=Earth, Water
+|TXMN Sub-Elements=Earth, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=381
+|TXMN Blurb=A colony of bacteria that became new life in a discarded medical glove. It can see out of the back of its body.
+|TXMN Height=150
+|TXMN Weight=20
+|TXMN Catch Resistance=50
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Ruins, Urban
+|Tags=Fists, Gaze, Water, Rock
+|Fusion First=Glo
+|Fusion Second=mon
+}}
+{{Technique Allocation
+|Has_Technique=Bubbles
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mudslide
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Slime
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Hallucinogen Spore
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Walls
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Sockpuppet
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Combat Clone
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Tsunami
+|Technique_Level=34
+}}
+{{Technique Allocation
+|Has_Technique=Damage Division
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Arcane Eye
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Spread Disease
+|Technique_Level=46
+}}
+{{Technique Allocation
+|Has_Technique=Earthquake
+|Technique_Level=55
+}}

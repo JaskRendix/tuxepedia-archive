@@ -1,0 +1,19 @@
+{{Monster
+|Sources=Seripha
+|Name Origin=Spark + Scorpion
+
+Spark — Represents its electric nature: fast, volatile, and capable of stunning foes.
+
+Scorpion (shortened to -ion) — Rooted in its arthropod design and venomous tail.
+|Main Details=Sparkion dwells in high-altitude mountain ranges, where dry winds and rocky terrain help it build up static charge as it scuttles across stone surfaces. Its vivid yellow exoskeleton acts as a natural capacitor, storing electricity generated through constant movement. The red nodules on its neck release concentrated electric bursts, discharging arcs that can stun prey or deter predators from a distance. Its pincers, though imposing, are designed solely for gripping and restraining foes, holding them steady while its electricity does the damage. During thunderstorms, Sparkion emerges from its crevice dens to absorb lightning strikes, temporarily amplifying its power. Mountain folklore speaks of entire colonies glowing during storms, lighting up cliff faces like living thunderclouds.
+|TXMN Sub-Elements=Lightning, Venom
+|TXMN Body Shape=Hunter
+|TXMN Height=100
+|TXMN Weight=30
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Mountains
+|Fusion First=Spar
+|Fusion Second=Kion
+}}

@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Functional Item
+|TXMN Usable In=world
+|TXMN Description=Access your funds here whenever you're in a town.
+|TXMN Key Item=yes
+|SpyderCampaign=Given by Mom in Cotton Town alongside the Nu Phone; adds a banking app to the phone for managing funds.
+|Sources=MELLE, Ocean
+|Source Explanation=Main art by MELLE. Sprite by Ocean.
+}}

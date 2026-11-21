@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=60
+|TXMN Blurb=The user unleashes a barrage of sharp fragments, causing widespread damage.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Powerful
+|TXMN Is fast=Fast
+|TXMN Accuracy=60%
+|TXMN Power=2.5
+|TXMN Effects=splash
+|TXMN Recharge=3
+|TXMN Animation Target=1
+|Tags=Bomber, Steel
+|Main Details=Name origin: derived from the military term shrapnel refers to fragments of an explosive shell that cause widespread damage upon detonation.
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. "Explosion small" animation by Superpowers Asset Packs.
+|TXMN Is area=True
+}}

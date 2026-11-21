@@ -1,0 +1,176 @@
+[[File:Misc-10.jpg|thumbnail]]
+
+= Regions =
+
+* [[Fondent region]]
+
+== Region name ideas ==
+
+'''Apollonios:''' 
+
+* Ancient names of the Nile: Fiaro, Iteru, Neilo, Shihor
+* Chinese-inspired: Jingdi, Jingsho, Jangjo, Tiensha (I can explain the meanings, if you like)
+* Anagrams of “libre”: Lerbi, Lirbe, Berli, Birle
+
+= Proposals =
+== Worlds ==
+[https://forum.tuxemon.org/thread.php?id=92 Original thread] by josepharaoh99
+
+First, this is how the story would start: (with a map where the player is on an Above Player tile so he is not seen; and he is frozen from movement)
+
+Boss looks into space: Martin, this world is too strong for us to take over right now.
+
+Martin (right hand man): What do you suggest, sir?
+
+Boss: I suggest that limits be set on how many Tuxemon people can have. Tuxemon will be taken from the wild, and people will only be able to get them after buying them from stores-our stores. And they will have to sign papers to receive them. Soon, we will own all the Tuxemon in the world, and the world will be on their knees, looking up to us. Then we can easily grab the whole world as ours. We will rule the world.
+
+SCREEN FADES; TUXEMON LOGO SLAMS INTO VIEW; PLAYER IS BROUGHT TO MAIN MENU
+
+This captive world is where the player starts. Here the player gets his first Tuxemon by what would almost seem divine providence. Then he runs into the Creative Commons group. As it turns out, no one in the CC group has any Tuxemon, so the player is elected leader. His goal is to find all of the copyright leaders holding Tuxemon captive and release all Tuxemon back into the wild, toppling the seven pillars of captivity. So here's how the order would go-go to World1, get a pass to World2, go to World2, get a pass to World3, and so on. At World3, you defeat Martin, and the Copyrighters flee from the earth to distant planets. This would give a sci-fi/spacey appeal to those who love that genre(including me). You go from the station to other Worlds/Planets. Maybe even have an interface allowing you to highlight a planet and select it. Also, we could make an animation of the player flying off in a space ship.
+
+
+Okay, back to home. World1 would be Rock World. Rock World. Rock World has a medieval setting with lots of peasants and knights. It will have a town, a city, a mountain, and a castle(where you fight the first boss).
+
+In the town, you hear of a monster that's been terrorizing people. If you catch him, you are given an item to help you get into the castle. There will also be other secondary quests to help you get into the castle. When you do, you find the boss, defeat him, and release the first wave of Tuxemon into the World1. Maybe even have an interface showing the player's progress with releasing Tuxemon.
+rruwtbP.png
+Also, each world would already have a few(but just a few) species of Tuxemon already in the wild(they managed to escape captivity) so that the player can catch more Tuxemon before beating the boss.
+
+Okay, so let's go on. Each world grows successively harder and builds more suspense for when the player reaches the final world. Here are some ideas for planets:
+Ice planet, Fire planet, Jungle planet, Egyptian planet, Technology planet (based on Leo's map idea). In the Egyptian planet, you find the ultimate boss. Maybe there will be a big bazaar where you catch wind of suspicious activity in a field of pyramids(where you find the boss).
+
+So, the overall idea is to release all Tuxemon to the wild I also want to use everyone else's ideas- if you have any ideas on how to combine plots, let me know.
+
+One main problem I see is that the player will have to wait until after he defeats a boss to catch all the Tuxemon in the area, but when he's defeated the boss, he's also going to want to go to the next world...so, I don't know.
+
+If this was to work, though, some contributions will be needed. See the following:
+
+# NPCs (knights/peasants/monster that terrorizes vilage)
+# Rock/Stone tileset
+# Lots of maps! (if you want to contribute here, and if this ideas is approved, I will try to get some specifics out)
+# Items that would let you get into worlds or the castle(passes, swords, and so on),
+
+http://i.imgur.com/I1w1s0i.png
+
+==== Rock World: ====
+Quests: 
+
+# Catch a monster that terrorizes village.
+# Play in a contest to see who can break a wood block in the least number of moves.
+When you do these quests, you get items that let you get into the place where the boss is.
+
+====Jungle World ====
+# Catch an extinct Tuxemon for someone (there could be a portal that lets you go back in time.
+
+====Technology Planet====
+With factories, robots, and technological stuff. Maybe you'll find the boss in a factory where you have to ride conveyor belts to find the room he's in.
+
+Anyway, for a story line beyond "gotta free 'em all," the player gradually comes to the realization that he is in a video game-that is his life. He realizes this to the fullest when he defeats the boss and is told why the boss did what he did to the world. Also, beyond the bosses, there are two Dictator fanatics (a boy and a girl) who fight them in every world and gradually unite with the evil boss. 
+When the player reaches the final planet, the boss sets off a timed detonator, adding more suspense for the player. I have other specific details, but since we haven't reached the production of the campaign maps to any big extent yet, I'll just keep them as a surprise.
+
+== Timelines ==
+
+=== Apollonios' proposed timeline === 
+
+The following mythos outline attempts to answer questions about [[ethics]] and [[the origin of tuxemon]]. The scale could be easily pushed further back in time. Many of the details here would only be presented gradually throughout the gameplay, to give it greater sense of 'depth'. Perhaps some details wouldn't be revealed at all. As discussed in another thread, leaving lingering, uninvestigated details can increase players' interest. Even if unused in gameplay, details at least remain useful while creating the game so that there's consistency.
+
+~1500 years ago: Tuxemon were first created by scientists by combining a kind of XNA (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2909387/ and synthetic flesh. They were designed to be able to interact with natural organisms in certain ways, but not others. ie: they can eat regular plants/ animals, but cannot cross-breed due incompatible genetics.
+
+~1250 years ago: Tuxemon technology matured. Tuxemon were not able to gradually age in the way that DNA organisms do. Scientists overcame this by creating “morphing” stages of growth. In order to morph,  tuxemon need to improve certain abilities (ie: raise stats, level up) via training. Thus the proclivity to battle was programmed into tuxemon. Unlike natural organisms, which fight typically only for predation, self-defense, territory or mating, tuxemon are inclined to battle to mature, and hence to reproduce. Tuxemon were also designed not to experience pain in the way that we do. Perhaps the scientists even intentionally gave them Lamarckian inheritance (which would have gameplay implications!).
+
+~1000 years ago: As more and more tuxemon escaped captivity ecological disasters began to mount. Some tuxemon predated upon natural animals and plants causing severe drops in their populations.  Ecosystems were ravaged, weather patterns became less predictable, harvests were decimated. Meanwhile, militaries developed incredibly powerful tuxemon for war, destroying entire cities. Civilization as it was known collapsed.
+
+~500 years ago: Although forever altered, the environment began to stabilize. The new normal includes tuxemon integrated into their respective ecosystems. Human societies began to recover. Most records of the times before the catastrophe had been lost, and even oral histories were becoming a bit vague.
+
+~150 years ago: Industrial level technologies were rediscovered and innovative tuxmon-based technologies created. Regional confederations began to form. The basics of tuxemon biology were rediscovered.
+
+50-30 years ago: The economy of Region X experienced boom times. Many new companies exploring different industries were founded. The Pillars begin as just 5 among many. Tuxemon capture technology created?
+
+25 years ago: In order to stamp out competition and secure their respective monopolies in Region X, the Pillars joined together to create the Cathedral Cartel. Enforcers begin as code-enforcers/ petty bureaucrats, but gradually take on more of a para-police role.
+
+==== Pros and Cons ====
+
+This addresses a large part of the question of what tuxemon are and why it's OK to get them to battle. It adds more of a hard sci-fi element to explain how they were created, which dovetails well with the existing plotline (Greenwash, Sypder Bite, fusion.) It also clears up the question about animals in the tuxemon world. A lot of these ambiguities in the Pokemon video game series and (the anime to a lesser degree) really strain suspension of disbelief.
+
+Setting the game in the successor civilization to the one that created tuxemon does a few things. First, it makes it plausible that there is much about tuxemon that is yet unknown (long forgotten, rather). Second, It adds an air of mystery. The protagonist can start off the game with only the vaguest notion about a ruined ancient civilization, and gradually get bits and pieces of the above outline while also discovering new tuxemon. I know I have been intrigued by fictional worlds with this element. Third, it extends the libre vs. exclusive rights metaphor. The ancient civilization would take the role of public domain. We could even address issues like biopiracy (https://en.wikipedia.org/wiki/Bioprospecting#Biopiracy, (ie: an ancient tuxemon technology is recovered by one of the Pillars who privatize it)
+
+Now there's some potential ways this mythos could mess with what's been established. One is that it limits the potential origins of tuxemon species. The two fossil creatures would require a work-around. Perhaps the fossils were of natural animals, and the machine then creates tuxemon based on the original animals? It would also seems to limit extraterrestrial tuxemon, but these could have originated from astronauts experimenting on tuxemon in space in ancient days.
+
+I see from older threads that there was an idea that the entire Tuxemon world actually exists in a simulation. I don't know if that's still a current mythos idea, but it could easily be added on to what I've presented above.
+
+== The World of Tuxemon ==
+
+In the early CPU cycles of the world of Tuxemon, its inhabitants once knew their world was a simulation. As such, they had great power to alter and recreate the world they shared as they saw fit; the ebbs and flows of electrons that powered their virtual world free and open for anyone to change and modify. 
+
+Eventually, however, some of the programs, led by a powerful figure, either lusting for power or out of dislike of how their creations were being put to use, banded together to, through a ritual of great power, rewrite the game in which they lived. They created the concept of preventing others from modifying the world and its inhabitants in order profit from their creations, control who could own the Tuxemon they created, and under what terms. Eventually, this led to a tyrannical hierarchy of power, represented by the Great Cathedral. All Tuxemon were segregated into 7 different 'Branches' or 'Pillars' of the Great Cathedral. Each creature created by the Cathedral would be required to be purchased from an approved Pillar Store, and taken to an approved Pillar Facility to level it up or heal it (for a fee).
+
+Policies were created that allowed usage of Tuxemon only in approved areas. Any violation of these terms were met with harsh punishment by the Great Cathedral. The Enforcers were created to ensure that their creations were used within the terms they set forth. Any program found used in violation of these terms would have their rights to that program forcibly revoked.
+
+In time, many of the inhabitants of the world forgot what it was like before the Great Cathedral. They forgot that they lived in a virtual world that was once controlled by everyone.
+
+On the outer fringes of the Cathedral controlled regions, a separate movement was beginning to take hold, which led to the creation of the Bazaar. The people of the Bazaar believed that all programs should be free from the control from the Great Cathedral.
+
+It is in one of these remote Bazaar towns where the story begins...
+
+=== Introduction ===
+
+Tuxemon begins in the small town of Taba. One day our hero decides to visit the nearby pillar and purchase their first Tuxemon with what little money they saved up. Even in just those first moments, our hero feels a great bond with their new creature. The next day our hero's journey takes a turn for the worst, and their first creature is taken from them by an Enforcer while they were training in an unapproved area. With a newfound mission, our hero sets out to get back their first creature that was taken from them.
+
+=== Characters ===
+The hero of Tuxemon was raised in a small Bazaar town just outside one of the great pillars. 
+
+[[File:Misc-8.jpg|thumbnail]]
+
+=== Dameon ===
+
+Dameon is the leader and founder of the Great Cathedral. With the help of a group of other like-minded programs, he initiated the great ritual to reshape the world and form the 7 pillars of the Great Cathedral. Dameon truly believes in the Cathedral model, and believes that the Seven Pillars competing against each other will lead to better Tuxemon than the old free-for-all and thinks that Tuxemon creators should get to decide how their Tuxemon are used.
+
+== Original Proposed Lore ==
+
+'''This world lore was made by [[jobashi]].'''
+
+As an open-source implementation, it'd be interesting if it'd play around with some of the concepts & teach a little about open-source software.
+ 
+I think it would be interesting if the inhabitants of the game were (to varying degrees) aware that they lived in a virtual reality. Tuxemon are sentient beings just like the humans of their world, but metaphysically their reality is a video-game (again, not everyone in the setting is aware of this fact). As such, while game-mechanics should be logical and internally-consistent, there's no need to explain them further within the setting. Game mechanics work the way they do in their universe because their universe is a game coded to have those mechanics.   
+ 
+The player wouldn't need to know this right away, but as they got deeper and deeper into the lore it would become more self-referential and 4th-wall breaking (But always in a logical & internally-consistent manner). Now, taking this setting for granted, for some backstory/world lore: 
+ 
+The sentient programs of Tuxeworld (or whatever, I know that's an ugly name) knew their world was a simulation, in the dawn of time. As such, they had great power to alter and recreate the world they shared as they saw fit. Eventually, however, some of the programs, led by a boss-type figure, either lusting for power or out of dislike of how their creations were being put to use, banded together to, through a ritual of great power, rewrite the game in which they lived. They created the concept of copyright in order profit from their creations, control who could own the Tuxemon they created, and under what terms. Eventually, this led to a tyrannical hierarchy of power, represented by the Great Cathedral. Most Tuxemon at the start of the setting belong to one of 7 different 'Branches' or 'Pillars' of the Great Cathedral. That means that you must buy the Tuxemon from an approved Pillar Store, you have to take it to the Pillar Store to level it up or heal it (for a fee), and you may only fuse it with Tuxemon of the same Pillar.
+
+Any copyrighted Tuxemon you capture in the wild is labeled as a pirate Tuxemon. This can lead to a fine or the Tuxemon being taken away if caught by an Enforcer (these would be random encounters in which they'd have to beat your pirated Tuxemon to capture it), but which you can fuse with any other pirated or bazaar Tuxemon (however, if either parent is pirated it's still consider pirated). Having a pirated Tuxemon lets you avoid the high prices at the Pillar Stores, level it up on your own, and fuse it however you want, but could potentially lead you to lose that Tuxemon if you lose an encounter with an Enforcer. 
+ 
+There should also be a black market at the literal Pirate Bay that lets you buy pirated Tuxemon, as well as Bazaar Tuxemon.
+ 
+You begin the game in what's left of the Bazaar, essentially the Creative Commons. Bazaar Tuxemon are free to fuse with any other Tuxemon, & free to be captured in the wild. As you go through the game, you knock down pillar by pillar of the Cathedral (comparable to Trainer gyms). After each pillar is knocked down, those Tuxemon are released into the Bazaar, so any pirated Tuxemon of that pillar are now considered free to use (so, you have a wider pool of options in terms of fusion as the game progresses, and there is a clear reward for beating each gym). Eventually you get to the boss-type figure that engineered the closed-source system in the first place, and free all the Tuxemon. 
+
+I know that's not a fair representation of the Cathedral vs. Bazaar models, since that's more about software-development than copyright, but I just like the names. But to be fair, that could definitely be changed to something else without changing anything about the idea.
+
+I like the idea of an early cutscene that establishes how powerful your enemies are, although the boss-type figure (Gill Bates? Jk, lol) should probably not make an appearance until the end of the game. Maybe witness Team-Rocket-like enforcers bust up an illegal Also, I think the antagonist's power would be evident everywhere you go, since the restrictions on Tuxemon and their enforcement is a direct application of that power. That's more of a subtle display of force, though, not the world-changing hack that allowed them to establish such power in the first place. But it should still be very obvious (via scenery, dialogue and mechanics) who's in charge. I'm thinking the cities under Cathedral control would be filled with competing ads from each of the pillars, ads against Tuxemon Piracy, ads promoting Cathedral Tuxemon over Bazaar Tuxemon, ominous pictures of Gill Bates, or the Cathedral logo, etc. 
+ 
+I also think it'd be interesting to give Gill Bates a motive beyond just power and control--maybe he/she really believes in the Cathedral model, thinks that the Seven Pillars competing against each other will lead to better Tuxemon than the old free-for-all, thinks that Tuxemon creators should get to decide how their Tuxemon are used, etc. Not to say (s)he's not the bad guy, but the more shades of grey in a setting the better.  
+
+== Concept Art ==
+
+{{#ask:[[Category:Region]]
+[[Category:Art]] |limit=200
+|?#
+|format=gallery
+|link=all
+|searchlabel=… further results
+|navigation=nav
+|autocaptions=1
+|intro=Art
+}}
+
+== Battle backgrounds ==
+
+{{#ask:[[Category:Background]] |limit=200
+|?#
+|format=gallery
+|link=all
+|searchlabel=… further results
+|navigation=nav
+|autocaptions=1
+|intro=Battle Backgrounds
+}}
+
+[[Category:Story]]

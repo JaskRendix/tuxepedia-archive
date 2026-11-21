@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=101
+|TXMN Blurb=The user wields a sharp blade, delivery a powerful, cutting attack.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=90%
+|TXMN Power=1.2
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Sharp
+|Sources=Jaskrendix
+}}

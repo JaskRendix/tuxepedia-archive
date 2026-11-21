@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=230
+|TXMN Blurb=The user offers the opponent a poisoned treat, exacting a sweet revenge as they succumb to the toxic effects.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Metal
+|TXMN Type 2=Earth
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN User Condition=Revenge
+|TXMN Target Condition=Poisoned
+|TXMN Animation Target=1
+|Tags=Food
+|Main Details=Mid game move, low accuracy is to try to help balance it and because I imagine some people would be wary of random cake.
+|Sources=HippasusTwo
+}}

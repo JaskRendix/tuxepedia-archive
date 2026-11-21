@@ -1,0 +1,11 @@
+{{Condition
+|TXMN ID=11
+|Positive or Negative=Negative
+|Response to Positive Condition=(Exhausted remains)
+|Response to Negative Condition=Replace
+|Response to Technique Use=Remove
+|Text When Gained=NAME is exhausted.
+|Melee Multiplier=0.5
+|Ranged Multiplier=0.5
+|Details=Melee and Ranged halved.
+}}

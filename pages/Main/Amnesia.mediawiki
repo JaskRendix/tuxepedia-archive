@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=53
+|TXMN Blurb=The combatants' minds touch, leaving both befuddled.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Fire
+|TXMN Type 2=Metal
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2.25
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN User Condition=exhausted
+|TXMN Target Condition=exhausted
+|TXMN Animation Target=3
+|Tags=Mental
+|Sources=Sanglorian, Clint Bellanger
+|Source Explanation=Technique by Sanglorian. Animation by Clint Bellanger.
+}}

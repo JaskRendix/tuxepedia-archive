@@ -1,0 +1,1 @@
+After escaping his past in Fondent, Argon traverses Route 7, a desolate path symbolizing his inner conflict and transition. Haunted by mysterious voices Argon confronts his guilt over the destruction of Chrome Robo while gaining cryptic hints about Cathedral’s influence and Project Eclipse.

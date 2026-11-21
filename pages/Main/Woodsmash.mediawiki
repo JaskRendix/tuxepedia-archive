@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=203
+|TXMN Blurb=The user slams into the opponent with a powerful wooden strike, dealing damage and potentially knocking them back.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Heroic, Wood
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=90%
+|TXMN Power=2.9
+|TXMN Recharge=3
+|Tags=Plant
+|Main Details=Some of the most powerful 'wood' moves were for birds, not plants.
+|Sources=HippasusTwo
+}}

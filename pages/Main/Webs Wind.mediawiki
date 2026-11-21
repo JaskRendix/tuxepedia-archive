@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=157
+|TXMN Blurb=The user creates a swirling vortex of sticky webs that ensnare the opponent, dealing multiple hits and slowing their movement.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Earth
+|TXMN Type 2=Wood
+|TXMN Sub-Elements=Sky
+|TXMN Family=Reserved
+|TXMN Is fast=Normal
+|TXMN Accuracy=90%
+|TXMN Power=0.5
+|TXMN Effects=multi_attack 5
+|TXMN Potency=30%
+|TXMN Recharge=2
+|TXMN Target Condition=slow
+|TXMN Animation Target=1
+|Tags=Reserved
+|Main Details=[[Reserved technique]] for [[Firomenis]]. [[Category:Reserved technique]]
+|Sources=Jaskrendix
+}}

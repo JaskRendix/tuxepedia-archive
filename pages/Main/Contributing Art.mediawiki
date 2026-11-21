@@ -1,0 +1,19 @@
+This page describes what you need to do to contribute graphical assets to Tuxemon.
+
+== Getting Started ==
+Before submitting your artwork, be sure to read over the Tuxemon Design Guide for some design guidelines that the Tuxemon project would like to adhere to. If your contribution doesn't follow these guidelines, your artwork might not be accepted in the official project. If you would like to propose changes to the current design guide, create a topic on the [https://forum.tuxemon.org Tuxemon Forums] and let us know!
+
+* [[Design Guide]]
+* [[Monsters]]
+* [[Creating Creatures]]
+* [[Creating Tilesets]]
+* [[Creating Technique Animations]]
+* [[Creating Graphic Borders]]
+
+All artwork assets contributed should adhere to the [[Graphic Sizes]]. All graphical assets are all located under the `resources/` directory in the project. 
+
+== Submitting your art ==
+You can submit your artwork in a few ways:
+
+# Create a new forum topic on the [https://forum.tuxemon.org Tuxemon Forums] and submit your artwork there.
+# Create a pull request from GitHub.

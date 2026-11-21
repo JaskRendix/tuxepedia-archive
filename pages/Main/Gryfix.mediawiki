@@ -1,0 +1,66 @@
+{{Monster
+|Sources=Catch Challenger, Lejun
+|Source Explanation=Front sprite by Catch Challenger. Back and face sprites by Lejun.
+|Species=Horned Raptor
+|Evolves=Corvix
+|SpyderCampaign=N/A
+|TXMN Types=Metal
+|TXMN Sub-Elements=Sky
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=158
+|TXMN Blurb=Bone armor protects GRYFIX from all but the most powerful of attacks.
+|TXMN Height=180
+|TXMN Weight=31
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Desert, Grassland, Mountains, Woodland
+|Tags=Bird, Sharp, Shielded, Steel
+|Fusion First=Gry
+|Fusion Second=fix
+}}
+{{Technique Allocation
+|Has_Technique=Wing Tip
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Peck
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Lineage
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Slice
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Amnesia
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Rust Bomb
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=One Million Talons
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Perfect Cut
+|Technique_Level=43
+}}
+{{Technique Allocation
+|Has_Technique=Tornado
+|Technique_Level=46
+}}

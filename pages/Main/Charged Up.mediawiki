@@ -1,0 +1,14 @@
+{{Condition
+|TXMN ID=9
+|Positive or Negative=Positive
+|Response to Positive Condition=(Charged Up remains)
+|Response to Negative Condition=(Charged Up remains)
+|Response to Technique Use=Exhausted
+|Text When Gained=NAME is fully charged.
+|Speed Multiplier=2
+|Melee Multiplier=2
+|Ranged Multiplier=2
+|Armour Multiplier=2
+|Dodge Multiplier=2
+|Details=Speed, Melee, Ranged, Armor and Dodge all doubled.
+}}

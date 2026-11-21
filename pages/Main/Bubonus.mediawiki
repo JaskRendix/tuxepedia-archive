@@ -1,0 +1,15 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Bubonus-676276633
+|Sources=TheBritanniaRegion
+|Species=Masked
+|Name Origin=''bubonic'' + ''anonymous''
+|Design Origin=Medieval plague doctors and the Grim Reaper
+|Main Details=* If the entire team faints and lose the battle, a special cutscene will play: Bubonus will appear and open its mask, revealing its true identity, before jumping at the player, the screen then fades to black before continuing to the normal cutscene which plays when the battle is lost
+|TXMN Types=Metal
+|TXMN Body Shape=Humanoid
+|TXMN Blurb=It is extremely rare, though certainly not unique. Many fools seek this tuxemon to simply boast about it. If the trainer manages to capture the tuxemon, it will see them as worthy and will let them live. However, if they fail, its mask will open to reveal its true face and thus it will look to steal the soul of the 'unworthy' trainer.
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|Fusion First=Bubo
+|Fusion Second=nus
+}}

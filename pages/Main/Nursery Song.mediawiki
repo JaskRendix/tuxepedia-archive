@@ -1,0 +1,17 @@
+{{Technique
+|TXMN Blurb=They sing the foe to sleep.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Condition imposer
+|TXMN Is fast=Fast
+|TXMN Accuracy=100%
+|TXMN Power=0
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN Target Condition=Nodding Off
+|TXMN Animation Target=0
+|Tags=Love
+|Sources=HippasusTwo
+}}

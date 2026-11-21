@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=93
+|TXMN Blurb=The user constricts the opponent's throat, cutting off their air supply.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Shadow
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2.5
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Fury
+|Main Details=With low cool down and decent power, this is one of the best moves in the game and should be learned late. It would make a good move for an ambush predator, as many kill by strangling prey.
+|Sources=Jaskrendix
+}}

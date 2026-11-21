@@ -1,0 +1,11 @@
+{{Item
+|Item Category=Medicine
+|TXMN Effects=heal
+|TXMN Target=player
+|TXMN Cost=500
+|TXMN Requirements=target HP < 0, target HP > 1.0
+|TXMN Usable In=world, combat
+|TXMN Description=Heals a monster by 200 HP.
+|TXMN Consumable=yes
+|SpyderCampaign=Sold at Flower, Timber, and Candy Scoop
+}}

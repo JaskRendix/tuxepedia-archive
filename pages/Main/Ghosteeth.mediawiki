@@ -1,0 +1,73 @@
+{{Monster
+|Sources=tamashihoshi
+|Source Explanation=Original design and sprites by tamashihoshi.
+|Species=Cheshire
+|Name Origin=''ghost'' + ''teeth''
+|SpyderCampaign=Used by trainers in Dragon's Cave, Mansion and Nimrod HQ.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=111
+|TXMN Blurb=It smiles because it knows how everyone it meets is going to die.
+|TXMN Height=70
+|TXMN Weight=0
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|Tags=Ghost, Bite, Mental, Darkness
+|Fusion First=Ghos
+|Fusion Second=teeth
+}}
+{{Technique Allocation
+|Has_Technique=Midnight Mantle
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Blood Bond
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Chill Mist
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Mind Vise
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Amnesia
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Beam
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Phantasmal Force
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Crystal
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Undertaker
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Blade
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=55
+}}

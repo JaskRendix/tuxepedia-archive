@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=281
+|TXMN Blurb=They summon ice spirits whose touch drains the life and heat out of their victims.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Frost
+|TXMN Family=Powerful
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=70%
+|TXMN Power=2.5
+|TXMN Effects=foresight 3
+|TXMN Potency=10%
+|TXMN Recharge=5
+|TXMN Target Condition=Slow
+|TXMN Animation Target=1
+|Tags=Summoner, Ice
+|Main Details=Feels fitting for the 4 Sovereigns to have summon moves.
+|Sources=HippasusTwo
+}}

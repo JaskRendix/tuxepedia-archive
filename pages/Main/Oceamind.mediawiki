@@ -1,0 +1,59 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/43-Oceamind-666022784
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Face sprites adapted by Jaskrendix.
+|Species=Barreleye Fish
+|Name Origin=''ocean'' + ''mind''
+|Design Origin=The [https://en.wikipedia.org/wiki/Barreleye barreleye] fish, which has a transparent head.
+|Main Details=Oceamind has a transparent head, allowing its barrel-shaped eyes to gaze upwards, detecting prey silhouettes in the dark waters. Its piercing stare and ability to sense its surroundings make it a formidable opponent.
+
+== The Legend of the Oceamind ==
+In the depths where sunlight fears to tread, it's said that a creature of pure thought exists. Born from the primordial waters, Oceamind is a being of immense intellect, its consciousness as vast and deep as the ocean itself. Some whisper that Oceamind is the keeper of the sea's secrets, its mind a repository of knowledge older than time. Others believe it too be a benevolent guardian, shaping the currents and tides with its will. But all agree on one thing: to encounter Oceamind is to glimpse the very soul of the ocean.
+|TXMN Types=Water
+|TXMN Sub-Elements=Cosmic, Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Piscine
+|TXMN ID=411
+|TXMN Blurb=Some whisper that OCEAMIND is the keeper of the sea's secrets.
+|TXMN Height=90
+|TXMN Weight=60
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Sea
+|Tags=Gaze, Water, Mental
+|Fusion First=Ocea
+|Fusion Second=mind
+}}
+{{Technique Allocation
+|Has_Technique=Bubbles
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Mind Vise
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Sphere
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Fey Light
+|Technique_Level=15
+}}
+{{Technique Allocation
+|Has_Technique=Neuroshock
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Mind Explosion
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Psychic Puppets
+|Technique_Level=40
+}}

@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=42
+|TXMN Blurb=A sticky web is shot at the opponent, trapping them and inflicting damage.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Venom
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.25
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Target Condition=grabbed
+|TXMN Animation Target=1
+|Tags=Bug
+|Sources=Sanglorian, Daneeklu
+|Source Explanation=Technique by Sanglorian. "Snake right" animation by Daneeklu, resized by Sanglorian.
+}}

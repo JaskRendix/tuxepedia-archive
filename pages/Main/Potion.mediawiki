@@ -1,0 +1,12 @@
+{{Item
+|TXMN ID=1
+|Item Category=Medicine
+|TXMN Effects=heal
+|TXMN Target=player
+|TXMN Cost=100
+|TXMN Requirements=target HP < 0, target HP > 1.0
+|TXMN Usable In=world, combat
+|TXMN Description=Heals a monster by 50 HP.
+|TXMN Consumable=yes
+|SpyderCampaign=Found in City Park (two boxes) and in the Mansion top floor (box); given by trainer Broer in Greenwash after defeating them; given randomly by Eliane in Candy Town; sold at Paper and Cotton Scoop
+}}

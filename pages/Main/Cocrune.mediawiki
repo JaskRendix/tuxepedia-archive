@@ -1,0 +1,59 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/58-60-Stonifly-Cocrune-Runesquito-666806337
+|Sources=Sanglorian, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Back and face sprites adapted by Sanglorian.
+|Species=Diptera
+|Evolves=Stonifly
+|Name Origin=''cocoon'' + ''rune''
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth, Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=333
+|TXMN Blurb=Whichever way it turns, the blood-red eye faces you.
+|TXMN Height=33
+|TXMN Weight=20
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|TXMN Terrains=Freshwater, Ruins, Swamp
+|Tags=Rock, Shielded, Bug, Summoner, Mental
+|Fusion First=Coc
+|Fusion Second=rune
+}}
+{{Evolutions
+|Has Evolution=Runesquito
+|Evolution Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Boulder
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Buzz
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Petrify
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Rock
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Stonehenge
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Take Cover
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Electroplate
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=40
+}}

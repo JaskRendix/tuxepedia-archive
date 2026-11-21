@@ -1,0 +1,61 @@
+{{Monster
+|Sources=Cavalcadeur, Leo, Sanglorian
+|Source Explanation=Design by Leo. Sprites by Leo and Cavalcadeur. Face sprites tweaked by Sanglorian.
+|Species=Log Equine
+|Name Origin=''dun'' + ''donkey'' + ''tree''
+|TXMN Types=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Landrace
+|TXMN ID=404
+|TXMN Blurb=In some regions it is used as a starter.
+|TXMN Height=120
+|TXMN Weight=180
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Grassland, Woodland
+|Tags=Megafauna, Plant
+|Fusion First=Dun
+|Fusion Second=tree
+}}
+{{Evolutions
+|Has Evolution=Ekpine
+|Evolution Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Flower Armor
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Tail Lash
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Breath
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Trample
+|Technique_Level=12
+}}
+{{Technique Allocation
+|Has_Technique=Woodsmash
+|Technique_Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Wind Leaf Blade
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Earth Charge
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Charge
+|Technique_Level=50
+}}

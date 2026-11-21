@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Exploration Item
+|TXMN Usable In=world
+|TXMN Description=Smash apart gray boulders.
+|TXMN Key Item=yes
+|SpyderCampaign=Given by trainer Zoolander on Route 3 after defeating them; smashes a boulder blocking Route 3 exit.
+|Sources=BizmasterStudios, Sanglorian
+|Source Explanation=Sprite adapted by Sanglorian from BizmasterStudios' 32x32px sprites.
+}}

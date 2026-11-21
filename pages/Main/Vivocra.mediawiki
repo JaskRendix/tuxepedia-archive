@@ -1,0 +1,75 @@
+{{Monster
+|Sources=Jaskrendix
+|Species=Sovereign Coil
+|Evolves=Vivipere
+|Name Origin=''Vivi'' + ''ocra'' (suggested by ''Far Too Many Frogs'')
+|Main Details=Vivocra is the evolved form of Vivipere, but unlike other evolutions, it's said to choose its own path—guided not by environment, but by destiny. Its hood's broad and ornate, marked with shifting glyphs that shimmer in low light. Scholars believe those markings are ancient runes that predate written language.
+
+Vivocra rarely strikes first. Instead, it coils in silence, watching. Its venom's neuro-reactive, disrupting thought before movement. Trainers say Vivocra can communicate through dreams, offering cryptic warnings or commands. In some cultures, it's revered as a divine judge; in others, feared as a harbinger of collapse.
+
+== Legend: The Serpent of Sovereignty ==
+
+Vivocra isn't just a Tuxemon, it's a symbol of divine right. Each generation, a single Vivipere's raised in silence beneath the palace. On the eve of the new year, it's presented to the Royal Soothsayers. If it evolves into Vivocra, the monarch’s rule is reaffirmed. If it doesn’t, the throne's declared unstable.
+
+One year, the Vivipere evolved into a form unknown, neither Vivocra nor any recorded evolution. That year became known as the Year of Chaos, and the kingdom fractured into five warring provinces. To this day, Vivocra’s emergence is seen as a sign of unity, and its absence as a warning.
+
+Some whisper Vivocra isn’t an evolution at all, but a return, a reawakening of the original serpent that slithered through the world before time began.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Body Shape=Serpent
+|TXMN Blurb=Born from whispers in forgotten tombs, it moves with the weight of prophecy. Its hood unfurls like a cursed sigil, and those who meet its gaze speak no more.
+|TXMN Height=210
+|TXMN Weight=68.4
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Desert, Ruins
+|Tags=Shapeshifter, Bite, Gaze, Calamity, Toxic
+|TXMN_ES Name=Vivóbra
+|TXMN_FR Name=Vivocobre
+|TXMN_PT Name=Vivacobra
+}}
+{{Technique Allocation
+|Has_Technique=Stone Rot
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Quicksand
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Crushing Bite
+|Technique_Level=21
+}}
+{{Technique Allocation
+|Has_Technique=Neuroshock
+|Technique_Level=27
+}}
+{{Technique Allocation
+|Has_Technique=Clairaudience
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Viper
+|Technique_Level=33
+}}
+{{Technique Allocation
+|Has_Technique=Curse
+|Technique_Level=36
+}}
+{{Technique Allocation
+|Has_Technique=Fey Light
+|Technique_Level=39
+}}

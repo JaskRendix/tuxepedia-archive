@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=107
+|TXMN Blurb=The user manipulates the earth, creating a ring of stones that crush the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Earth
+|TXMN Type 2=Wood
+|TXMN Sub-Elements=Earth
+|TXMN Family=Powerful
+|TXMN Is fast=Very Slow
+|TXMN Accuracy=80%
+|TXMN Power=2.6
+|TXMN Effects=splash
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Rock, Summoner
+|Sources=Jaskrendix
+}}

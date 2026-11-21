@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Held Item
+|TXMN Target=player
+|TXMN Usable In=world, combat
+|TXMN Description=Never lose your marbles again!
+|TXMN Consumable=yes
+|Main Details=Not consumed on use. Immune to [[Stuck]].
+|Sources=OceansDream
+|Source Explanation=Sprite by OceansDream.
+}}

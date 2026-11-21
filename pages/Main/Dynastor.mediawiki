@@ -1,0 +1,66 @@
+{{Monster
+|Alternative Names=Gladiatorbug, Scarena, Gladibug, Gladiarhino
+|Sources=HippasusTwo, Jaskrendix, Leo
+|Species=Bustuarius
+|Evolves=Katacoon
+|Name Origin=''dynasty beetle'' + ''venator'' (gladiator)
+|TXMN Types=Wood
+|TXMN Sub-Elements=Heroic, Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=60
+|TXMN Blurb=DYNASTOR is a massive insectoid tuxemon with a deep, armored exoskeleton and distinctive wings running along its back. Its mandibles can crush steel.
+|TXMN Height=178
+|TXMN Weight=78
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Urban, Woodland
+|Tags=Fists, Bug, Shielded
+|Fusion First=Dyn
+|Fusion Second=astor
+}}
+{{Technique Allocation
+|Has_Technique=Clamp On
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Buzz
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Splinter
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Punch
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Evasion
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Sting
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Steel Jaws
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Riposte
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Give All
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Magnetic Body
+|Technique_Level=37
+}}

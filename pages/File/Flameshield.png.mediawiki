@@ -1,0 +1,9 @@
+== Summary ==
+[[Category:Main]]
+[[Category:9px]]
+[[Category:Sanglorian]]
+[[Category:Elemental Shield]]
+[[Category:Main Sprite]]
+[[Category:Catch Challenger]]
+
+Adapted by Sanglorian from a sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.

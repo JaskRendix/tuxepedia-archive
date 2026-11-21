@@ -1,0 +1,70 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Lanea Zimmerman, Spalding004, tamashihoshi
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Original design and sprites by Spalding004. Face sprites by tamashihoshi. Overland sprites by Lanea Zimmerman.
+|Species=Eyerachnid
+|Name Origin=''spighter'' + ''fighter''
+|SpyderCampaign=Used by trainers in Route 2, Route 4, Route 5, Route 6, Scoop HQ and Walled Garden.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Shadow, Venom
+|TXMN Completed=Complete
+|TXMN Body Shape=Grub
+|TXMN ID=121
+|TXMN Blurb=It's not fair that something so good at sneaking up on people, can't be snuck up on itself.
+|TXMN Height=30
+|TXMN Weight=2
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Gaze, Darkness
+|Fusion First=Spigh
+|Fusion Second=ter
+}}
+{{Technique_Allocation
+|Has_Technique=Fluff Up
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Sting
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Splinter
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Blossom
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Overgrowth
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Shadow Boxing
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Wing Tip
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Pseudopod
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Whirlwind
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Phantasmal Force
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Poison Courtship
+|Technique_Level=37
+}}
+{{Technique_Allocation
+|Has_Technique=Stonehenge
+|Technique_Level=40
+}}

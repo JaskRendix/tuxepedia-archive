@@ -1,0 +1,4 @@
+{{#ask:[[TXMN Completed::Complete]] |limit=1000
+|?Fusion First
+|?Fusion Second
+}}

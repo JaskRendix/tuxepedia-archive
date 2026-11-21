@@ -1,0 +1,14 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Cowoad-003-676065652
+|Sources=TheBritanniaRegion,
+|Species=Four-Horned
+|Evolves=Folstein,
+|Name Origin=''cow'' + ''woad''
+|Design Origin=Highland cows and the mythical creature Aoyin.
+|Main Details=Its horns can grow so large that they can weigh down the tuxemon and stop them from lifting their heads.
+|TXMN Types=Wood
+|TXMN Blurb=Due to its four horns and passive aggressive attitude, this tuxemon has been mistaken for a man-eating mythical cow creature high up in the mountains many times. They are rather gentle creatures, often seen wallowing in swamps, though they have been known to charge at humans in the past.
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+}}

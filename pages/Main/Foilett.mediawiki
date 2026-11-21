@@ -1,0 +1,23 @@
+{{Monster
+|First URL=https://www.deviantart.com/mjco/art/Fakemon-Sale-Adoption-788243398
+|Sources=Jaskrendix, mjco
+|Source Explanation=Design and front sprites by mjco. Face sprites adapted by Jaskrendix.
+|Species=Foil
+|Name Origin=''foil'' + ''-ett'' (diminutive)
+|Design Origin=A tinfoil swan (for leftovers)
+|Main Details=FOILETT is a small bird-like creature with shiny grey skin. The creature has a cheerful expression and large, expressive eyes. It stands on two tiny feet, exuding a playful and friendly vibe.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Body Shape=Flier
+|TXMN Blurb=When a FOILETT sees food, it is quick to swallow it up. It can produce the food later, as good as when FOILETT found it.
+|TXMN Height=40
+|TXMN Weight=4
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|Fusion First=Foi
+|Fusion Second=lett
+}}
+{{Evolutions
+|Has Evolution=Swanfoil
+}}

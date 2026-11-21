@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Diamonddmgirl
+|Source Explanation=Front sprite by diamonddmgirl.
+|Genre=Fantasy Historical
+|Combat Type=1 vs 1
+}}

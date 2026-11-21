@@ -1,0 +1,10 @@
+{{Condition
+|TXMN ID=2
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME is poisoned.
+|End of Round Text=NAME takes damage from the poison.
+|Details=At End of Round, lose 1/8 of Max HP. Venom-element monsters take no damage from the Poisoned condition.
+}}
+Plays [[File:Drip_green.gif]] over a monster taking damage from the poison.

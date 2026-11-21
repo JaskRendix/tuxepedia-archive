@@ -1,0 +1,14 @@
+<table><tr><td>
+<table class="invisitable"><tr><td>{{#ask:[[Category:Condition]] 
+|?MainImage
+|?MainImage9px
+|?Replacement Conditions
+|?Response to Negative Condition
+|?Response to Positive Condition
+|?Response to Technique Use
+|?Response to Item Use
+|?Response to End of Round
+|?Details
+|order=asc
+}}</td></tr></table>
+</td></tr></table>

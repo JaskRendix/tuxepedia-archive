@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=219
+|TXMN Blurb=The user charges at the opponent with a powerful shoulder tackle, knocking them to the ground and then quickly moving away, leaving the target stuck in place.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Family=Powerful
+|TXMN Is fast=Fast
+|TXMN Accuracy=90%
+|TXMN Power=2.5
+|TXMN Potency=80%
+|TXMN Recharge=3
+|TXMN Target Condition=Stuck
+|TXMN Animation Target=1
+|Tags=Megafauna, Fury
+|Sources=HippasusTwo, Jaskrendix
+}}

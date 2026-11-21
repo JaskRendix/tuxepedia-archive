@@ -1,0 +1,16 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Snairal-014-678575935
+|Sources=TheBritanniaRegion,
+|Species=Spiraled Treat
+|Name Origin=''snail'' + ''spiral''
+|Design Origin=Snails and pastries. The alternative colours are based on wedding cakes.
+|Main Details=They are quite reserved, and prefer to be left alone. It is important for their trainer to keep their distance.
+|TXMN Types=Wood
+|TXMN Blurb=They are very popular amongst bakers and pastry chefs, as it inspires them to bake their treats according to the shape of the tuxemon's shell. Snairal is a very delicate tuxemon, as its shell is easily broken and crumbled.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Lunacalis
+|Evolution Level=7
+}}

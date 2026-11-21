@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=224
+|TXMN Blurb=They charge into the opponent with cutting, sharp leaves that may snag against the foe.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Family=Powerful
+|TXMN Is fast=Slow
+|TXMN Accuracy=95%
+|TXMN Power=3
+|TXMN Potency=50%
+|TXMN Recharge=3
+|TXMN Target Condition=Grabbed
+|TXMN Animation Target=1
+|Tags=Plant
+|Main Details=Late game move. For melee plant mons, not ranged, so think Baoby not Conileaf.
+}}

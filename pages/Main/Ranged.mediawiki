@@ -1,0 +1,7 @@
+[[Stat]]
+
+== Attack Category ==
+
+Multiply damage by User Ranged/Target Dodge
+
+[[Category:Stat]] [[Category:Attack category]]

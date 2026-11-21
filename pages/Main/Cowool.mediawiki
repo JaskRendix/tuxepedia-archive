@@ -1,0 +1,17 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Cowool-011-678010353
+|Sources=TheBritanniaRegion,
+|Species=Silk Cocoon
+|Evolves=Caterpillard,
+|Name Origin=''cocoon'' + ''wool''
+|Design Origin=Silkmoth cocoons.
+|Main Details=They are often seen hanging from branches, and will let themselves fall from the branches onto unsuspecting trainers.
+|TXMN Types=Wood
+|TXMN Blurb=Cowool are popular first time tuxemon amongst young and inexperienced young trainers. They are relaxed and enjoy resting from hanging branches, absorbing light energy to ready themselves for evolution.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}
+{{Evolutions
+|Has Evolution=Komothder
+|Evolution Level=10
+}}

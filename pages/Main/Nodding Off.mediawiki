@@ -1,0 +1,10 @@
+{{Condition
+|TXMN ID=6
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME is nodding off to sleep.
+|End of Round Text=NAME is asleep.
+|Details=It can last up to 5 turns, and always at least one. Each turn the monster can wake up if a random value > 0.5. While sleeping technique is not used. When waking up it shows: NAME wakes up!
+}}
+Originally there were 2 separate conditions. Dozing (falling asleep) and nodding off (waking up). Both have been merged.

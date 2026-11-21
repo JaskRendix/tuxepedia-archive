@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Tamashihoshi, Catch Challenger, Superpowers Asset Packs
+|Source Explanation=Front sprites by tamashihoshi. Overland sprites by Catch Challenger. Face sprite by Superpowers Asset Packs.
+|Genre=Modern
+|Combat Type=1 vs 1
+}}

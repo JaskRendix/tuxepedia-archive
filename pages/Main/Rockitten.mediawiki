@@ -1,0 +1,78 @@
+{{Monster
+|Sources=Leo, Tamashihoshi, ShadowApex
+|Source Explanation=Original design by ShadowApex. Sprites by ShadowApex. Face sprites by Leo. 
+Art by Leo and ShadowApex. Other sprites by Leo. Overland sprites by tamashihoshi.
+|Species=Cute Boulder
+|Name Origin=''rock'' + ''kitten''
+|Main Details=The Tuxemon mascot. One of the first to be designed.
+
+Inspired [[Minynx]]. [[Category:Starting Tuxemon]]
+== The Spyder in the Cathedral ==
+One of the [[old releases]].
+|SpyderCampaign=Starting tuxemon for players. Used by a trainer in Route 3.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=1
+|TXMN Blurb=It uses its tiny rock ears for snuggling.
+|TXMN Height=55
+|TXMN Weight=9
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Mountains, Urban
+|Tags=Rock, Love, Claws, Bite
+|Fusion First=Roc
+|Fusion Second=kitten
+|TXMN_DE Name=Brockätzchen (Brocken + Kätzchen)
+|TXMN_FR Name=Ptichaillou
+}}
+{{Evolutions
+|Has Evolution=Rockat
+|Evolution Level=24
+}}
+{{Technique_Allocation
+|Has_Technique=Ram
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Boulder
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Mudslide
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Assault
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Thunderball
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Glower
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Ice Claw
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Surge
+|Technique_Level=34
+}}
+{{Technique_Allocation
+|Has_Technique=Stampede
+|Technique_Level=43
+}}
+{{Technique_Allocation
+|Has_Technique=Earthquake
+|Technique_Level=46
+}}
+{{Technique_Allocation
+|Has_Technique=Biting Winds
+|Technique_Level=52
+}}

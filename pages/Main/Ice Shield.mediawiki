@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=172
+|TXMN Blurb=The user surrounds itself with a protective wall of ice, while also slowing down the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Frost
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN User Condition=Elemental Shield
+|TXMN Target Condition=Slow
+|TXMN Animation Target=1
+|Tags=Ice, Soldier, Shielded
+|Sources=Jaskrendix
+}}

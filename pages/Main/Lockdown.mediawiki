@@ -1,0 +1,9 @@
+{{Condition
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Response to Item Use=Items cannot be used on NAME while it is locked down.
+|Text When Gained=Items will not affect NAME.
+|Details=Cannot use items.
+|TXMN ID=23
+}}

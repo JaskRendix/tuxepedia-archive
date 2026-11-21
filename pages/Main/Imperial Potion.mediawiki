@@ -1,0 +1,13 @@
+{{Item
+|Item Category=Medicine
+|TXMN Effects=heal
+|TXMN Target=player
+|TXMN Cost=1000
+|TXMN Requirements=target HP < 0, target HP > 1.0
+|TXMN Usable In=world, combat
+|TXMN Description=Heals a monster by 500 HP.
+|TXMN Consumable=yes
+|SpyderCampaign=Found in Cotton Tunnel (box); sold at Candy Scoop
+|TXMN_ES Name=Poción Imperial
+|TXMN_ES Description=Cura a un monstruo 350 HP.
+}}

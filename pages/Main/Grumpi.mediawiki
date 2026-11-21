@@ -1,0 +1,68 @@
+{{Monster
+|Sources=Cavalcadeur, Sanglorian
+|Source Explanation=Design and front and back sprites by Cavalcadeur. Face sprites adapted by Sanglorian from the front sprite.
+|Species=Gummy
+|SpyderCampaign=N/A
+|TXMN Types=Earth, Water
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Brute
+|TXMN ID=354
+|TXMN Blurb=Once grabbed by a GRUMPI, its sticky tacky body is impossible to escape from.
+|TXMN Height=150
+|TXMN Weight=160
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Pseudopod, Bite
+|Fusion First=Grum
+|Fusion Second=pi
+}}
+{{Technique_Allocation
+|Has_Technique=Constrict
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Biting Winds
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Invictus
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Clamp On
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Mudslide
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Quicksand
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=All In
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=One-Two
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Venomous Tentacle
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Pit
+|Technique_Level=37
+}}
+{{Technique_Allocation
+|Has_Technique=Greenstone
+|Technique_Level=40
+}}

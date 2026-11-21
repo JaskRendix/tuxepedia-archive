@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=214
+|TXMN Blurb=The user blows a wide jet of bubbles at the target, weak but difficult to avoid.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Water
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.4
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Amphibian, Water
+|Main Details=To give more early game move variety. The animation could also be re-used for another more powerful move if wished.
+|Sources=HippasusTwo
+}}

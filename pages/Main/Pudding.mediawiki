@@ -1,0 +1,19 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=900
+|TXMN Usable In=world
+|TXMN Description=Creamy sweetroot pudding with a tangy glow. Smooth and citrusy with a gentle shimmer.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Sweetroot]]: 2
+* [[Mistflour Eggs]]: 2
+* [[Glowfat]]: 1
+* [[Moo Bloom]]: 1
+* [[Meal Dust]]: 1
+
+Possible Outputs:  
+* [[Pudding]], 1, 0.8  
+* [[Inferno Custard]], 1, 0.2
+|Sources=Jaskrendix
+}}

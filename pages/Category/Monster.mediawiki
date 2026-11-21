@@ -1,0 +1,39 @@
+{{#default_form:Monster}}
+
+See also:
+* [[Completed Tuxemon]] 
+** [[Set 1]] (the first 154 completed monsters)
+** [[Set 2]] (Other monsters with a full set of sprites)
+** [[Set 3]] (Additional monsters nearing completion.)
+* [[Monster Maths]]
+* [[Creature Progress Tracker]] (unfinished tuxemon)
+* [[Tuxemon in different languages]]
+* [[Art of Unidentified Monsters]]
+* [[Variants]] (variation within a species of monster)
+* [[Threats]] (mechanically the same as monsters, but most cannot be caught and are not classic monsters - such as humans, robots, mutants, vehicles, weather events, etc).
+
+There are {{#ask:[[TXMN Completed Exists::false]] | format=count}} uncompleted and {{#ask:[[TXMN Completed::Complete]] | format=count}} completed so far. A completed monster is one with a 64x64 pixel front sprite, a 64x64 pixel back sprite, and a two-frame animated 24x24 pixel face sprite - i.e., the requirements for appearing in the Tuxemon game. 
+
+Tuxemon's monsters come from [[Monster Sources|a variety of different projects and contributors]].
+
+= Completed =
+
+{{#ask:[[TXMN Completed::Complete]] |limit=1000
+|?MainImage
+|?FrontSprite
+|?TXMN Element
+|?TXMN Body Shape
+|?TXMN Terrain
+|?TXMN Blurb
+}}
+
+= Uncompleted =
+
+{{#ask:[[TXMN Completed Exists::false]] |limit=450
+|?MainImage
+|?FrontSprite
+|?TXMN Element
+|?TXMN Body Shape
+|?Species
+|?TXMN Blurb
+}}

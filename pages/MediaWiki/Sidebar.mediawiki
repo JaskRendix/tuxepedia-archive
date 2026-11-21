@@ -1,0 +1,26 @@
+
+* navigation
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help
+** Form:Monster|Add a monster
+** Form:Trainer|Add a trainer
+** Form:Character|Add a character
+** Form:Contributor|Add a contributor
+** Form:Technique|Add a technique
+** Form:Item|Add an item
+** Category:Monster|List of monsters
+** Category:Trainer|List of trainers
+** Category:Character|List of characters
+** Category:Contributor|List of contributors
+** Category:Technique|List of techniques
+** Category:Item|List of items
+** Category:Condition|List of conditions
+** Category:Type|The types
+** Special:ListFiles|List of all assets
+** MediaWiki:Sidebar|Edit sidebar
+** Special:Ask|Advanced search
+* SEARCH
+* TOOLBOX
+* LANGUAGES

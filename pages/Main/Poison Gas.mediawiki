@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=268
+|TXMN Blurb=The user throws a weak bomb that explodes into poison gas.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Venom
+|TXMN Family=Reserved
+|TXMN Is fast=Very Fast
+|TXMN Accuracy=90%
+|TXMN Power=.5
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN Target Condition=Poisoned
+|TXMN Animation Target=1
+|Tags=Bomber, Toxic
+|Main Details=Granted by a Poison Bomb item as an extra move, hence it is fairly weak and has a long cool-down. Could also be used for a themed creature, but be careful of using as a starter move due to the relatively long cool-down.
+|Sources=HippasusTwo
+}}

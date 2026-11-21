@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Held Item, No Current Use
+|TXMN Target=player
+|TXMN Usable In=combat
+|TXMN Description=When a monster holding this lucky coin participates in a trainer battle, your earnings increase dramatically.
+|Sources=Superpowers Asset Packs
+|Source Explanation=Sprite by Superpowers Asset Packs
+}}

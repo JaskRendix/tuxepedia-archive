@@ -1,0 +1,64 @@
+{{Monster
+|Sources=Georg Eckert, Jaskrendix
+|Source Explanation=Designed and sprited by Georg Eckert. Back and face sprites by Jaskrendix.
+|Species=Lightweight
+|Name Origin=''air'' + ''dinosaur''
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Body Shape=Dragon
+|TXMN ID=0
+|TXMN Blurb=This faun emits no smell and is as light as a feather, helping it evade predators when its mother leaves to forage.
+|TXMN Height=30
+|TXMN Weight=1
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Boreal/Snow, Woodland
+|Tags=Weather
+|Fusion First=Aero
+|Fusion Second=din
+}}
+{{Evolutions
+|Has Evolution=Aerodeer
+|Evolution Level=24 (female only)
+}}
+{{Evolutions
+|Has Evolution=Aerostag
+|Evolution Level=24 (male only)
+}}
+{{Technique Allocation
+|Has_Technique=Levitate
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Gust
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ram
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Boulder
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Fledgling
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Thunderball
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Wind Leaf Blade
+|Technique_Level=17
+}}
+{{Technique Allocation
+|Has_Technique=Tornado
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Earth Charge
+|Technique_Level=40
+}}

@@ -1,0 +1,29 @@
+See [[:Category:Monster]] for all tuxemon or [[Creature Progress Tracker]] for those that still need some sprites created. 
+
+The completed tuxemon are collected in [[Set 1]], [[Set 2]], and the remainder are in [[Set 3]].
+
+There are {{#ask:[[TXMN Completed::Complete]] | format=count}} completed tuxemon so far.
+
+== Main stats ==
+
+<table class="invisitable"><tr><td>{{#ask:[[TXMN Completed::Complete]] |limit=500
+|?FrontSprite
+|?Tags
+|?Species
+|?TXMN Body Shape
+|?TXMN Blurb
+|?MainCall
+}}</td></tr></table>
+
+== Other stats ==
+
+<table class="invisitable"><tr><td>{{#ask:[[TXMN Completed::Complete]] |limit=500
+|?TXMN ID
+|?Species
+|?TXMN Body Shape
+|?TXMN Terrain
+|?TXMN Blurb
+|?TXMN Height
+|?TXMN Weight
+|?TXMN Catch Resistance
+}}</td></tr></table>

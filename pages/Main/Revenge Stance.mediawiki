@@ -1,0 +1,15 @@
+{{Technique
+|TXMN ID=181
+|TXMN Blurb=The user adopts a defensive posture, provoking the opponent into attacking first, while preparing for revenge.
+|TXMN Category=Special
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Normal
+|TXMN Family=Condition imposer
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=1
+|TXMN User Condition=Revenge
+|Tags=Soldier, Shielded, Fury
+|Sources=Sanglorian
+}}

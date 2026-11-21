@@ -1,0 +1,70 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2376
+|Sources=Adam Chevalier, Tamashihoshi
+|Source Explanation=Concept by xirsoi. Art by tamashihoshi.
+|Species=Two-Headed Falcon
+|Name Origin=''pair of'' + ''grin'', evoking ''peregrine''
+|Design Origin=The peregrine species of falcons.
+|Main Details=Pairagrin are young, two‑headed falcons that struggle with coordination. Their early flight is clumsy, marked by short hovers, uneven wingbeats, and frequent soft crashes as the two heads learn to act together. They feed mostly on insects and small invertebrates and are protected from a distance by their Pairagrim parents, who intervene only when necessary. Pairagrin are playful and carefree while under this hidden protection, becoming more cautious as they begin fending for themselves. Their evolution is associated with overcoming the natural hardships of early life and gaining enough experience to synchronize their movements.
+|SpyderCampaign=Found in the wild on Route 1.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Sky
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=181
+|TXMN Blurb=The young form of Pairagrim, it is a generally happy creature. It struggles to fly until the two heads learn to work together.
+|TXMN Height=70
+|TXMN Weight=4
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Woodland
+|Tags=Bird
+|Fusion First=Paira
+|Fusion Second=grin
+|TXMN_FR Name=Siamoisillon
+}}
+{{Evolutions
+|Has Evolution=Pairagrim
+|Evolution Level=26
+}}
+{{Technique Allocation
+|Has_Technique=Peck
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Whirlwind
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Assault
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Negation
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Gust
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Wing Tip
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Fluff Up
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Peregrine
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Ten Thousand Feathers
+|Technique_Level=55
+}}

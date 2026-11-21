@@ -1,0 +1,7 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/28-Emuwool-665604016
+|Sources=Serpexnessie,
+|TXMN Types=Earth
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+}}

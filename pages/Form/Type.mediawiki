@@ -1,0 +1,42 @@
+<noinclude>
+This is the "Type" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Type}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Type}}}
+{| class="formtable"
+! Games This Type Occurs in: 
+| {{{field|Present In|values from category=Game|list}}}
+|-
+! TXMN Generative Type: 
+| {{{field|TXMN Generative Type|values from category=Type|list}}}
+|-
+! TXMN Overcoming Type: 
+| {{{field|TXMN Overcoming Type|values from category=Type|list}}}
+|-
+! TXMN ID: 
+| {{{field|TXMN ID}}}
+|-
+! In the 13-element system, what types are weak to this type: 
+| {{{field|13_Weak|values from category=Type|list}}}
+|-
+! In the 13-element system, what types are resistant to this type: 
+| {{{field|13_Strong|values from category=Type|list}}}
+|-
+! Main Details: 
+| {{{field|Main Details}}}
+|}
+{{{end template}}}
+
+===Edit Summary===
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

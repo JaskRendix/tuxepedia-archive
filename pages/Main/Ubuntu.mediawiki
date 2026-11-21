@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=95
+|TXMN Blurb=The user emits a chaotic energy that randomly alters the opponent's type.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=Switch Random Target
+|TXMN Potency=100%
+|TXMN Recharge=4
+|TXMN Animation Target=1
+|Tags=Shapeshifter
+|Sources=Jaskrendix
+}}

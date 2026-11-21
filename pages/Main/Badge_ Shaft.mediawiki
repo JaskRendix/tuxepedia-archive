@@ -1,0 +1,9 @@
+{{Item
+|Item Category=No Current Use
+|TXMN Usable In=world
+|TXMN Consumable=yes
+|Main Details=No current use.
+[[Category:Badge]]
+|Sources=Icycatelf, Sanglorian
+|Source Explanation=Badge design by icycatelf. Adapted to a sprite by Sanglorian.
+}}

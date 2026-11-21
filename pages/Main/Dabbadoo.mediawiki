@@ -1,0 +1,10 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2251#p2251
+|Sources=bigbadarmadillo, Piacarrot,
+|Source Explanation=Design and original sprite by bigbadarmadillo and Piacarrot. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Fossil Dodo
+|Evolves=Yabba,
+|TXMN Types=Earth
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}

@@ -1,0 +1,10 @@
+{{Monster
+|First URL=https://opmon-game.ga/
+|Sources=OPMon,
+|Source Explanation=From the open source game OPMon.
+|Evolves=Nebulbla,
+|Name Origin=''draco'' + ''quasar''
+|TXMN Types=Metal
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}

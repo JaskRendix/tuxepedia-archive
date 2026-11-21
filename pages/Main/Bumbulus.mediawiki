@@ -1,0 +1,73 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Sanglorian, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Blurb by Spalding004. Back sprite by Sanglorian. Face sprites tweaked from the front sprite.
+|Species=Veiled
+|SpyderCampaign=N/A
+|TXMN Types=Water
+|TXMN Sub-Elements=Sky
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=232
+|TXMN Blurb=Bumbulus is a flying being that produces a cloud of smoke to disguise itself as a cloud. No one has ever seen its true body.
+|TXMN Height=78
+|TXMN Weight=1
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|Tags=Water, Weather, Light
+|Fusion First=Bum
+|Fusion Second=bulus
+}}
+{{Evolutions
+|Has Evolution=Nimbulex
+|Evolution Level=32
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Whirlwind
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Roll
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Midnight Mantle
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Muck
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Mobbing
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Kraken
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Poison Courtship
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Ice Shield
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Shapechange
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Chill Mist
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Tornado
+|Technique_Level=40
+}}

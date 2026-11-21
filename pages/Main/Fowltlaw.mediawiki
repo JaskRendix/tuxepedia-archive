@@ -1,0 +1,19 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/014-016-Sandsprint-Fowltlaw-Desperfowldo-665602530
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Face sprites adapted by Jaskrendix.
+|Evolves=Sniprint
+|Name Origin=''fowl'' + ''outlaw''
+|Main Details=The evolved form of SNIPRINT, FOWLTLAW is larger and more powerful. Its beak has growin in size, and it has developed a distinctive red patch of feathers beneath it. FOWLTLAW is a territorial Tuxemon and will fiercely defend its nest and young.
+|TXMN Types=Earth
+|TXMN Height=70
+|TXMN Weight=5
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Fusion First=Fowlt
+|Fusion Second=law
+}}
+{{Evolutions
+|Has Evolution=Flamdito
+}}

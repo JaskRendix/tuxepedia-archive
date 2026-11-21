@@ -1,0 +1,4 @@
+{{Trainer
+|Genre=Fantasy Historical
+|Combat Type=1 vs 1
+}}

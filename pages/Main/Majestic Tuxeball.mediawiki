@@ -1,0 +1,11 @@
+{{Item
+|Item Category=Capture Item
+|TXMN Effects=Capture
+|TXMN Cost=600
+|TXMN Usable In=combat
+|TXMN Description=The ultimate choice for catching even the most elusive tuxemon.
+|TXMN Consumable=yes
+|Main Details=Modifier is equal to 2 ([[Tuxeball]] is 1)
+|SpyderCampaign=Sold at Timber and Candy Scoop
+|Sources=Jaskrendix
+}}

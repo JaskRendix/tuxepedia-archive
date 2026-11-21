@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=126
+|TXMN Blurb=The user is enveloped in a swirling cloud, causing both it and the opponent to change types randomly.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Effects=Switch Random User & Target
+|TXMN Potency=100%
+|TXMN Recharge=4
+|TXMN Animation Target=1
+|Tags=Weather, Shapeshifter
+|Sources=Jaskrendix
+}}

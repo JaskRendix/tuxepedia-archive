@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Capture Item
+|TXMN Effects=capture
+|TXMN Usable In=combat
+|TXMN Description=This Tuxeball was made a long time ago and is capable of catching any Tuxemon without fail.
+|TXMN Consumable=yes
+|Main Details=Modifier is equal to 99 ([[Tuxeball]] is 1)
+|Sources=Tamashihoshi
+|Source Explanation=Sprite by tamashihoshi.
+}}

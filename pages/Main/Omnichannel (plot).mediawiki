@@ -1,0 +1,96 @@
+'''This is an earlier version of [[The Spyder in the Cathedral]], our draft plot.'''
+
+By [[Sanglorian]]
+
+This is not official or even necessarily how I think the plot should go - but it's a start at sketching out one possible plot for the games.
+
+== 0. Set Up ==
+* Choose difficulty
+* Choose profile: eight or so, including a mix of genders and races
+* Choose name
+
+== 1. Paper Town ==
+You can wander freely through the Town.
+
+When you look at the store windows advertising the latest Tuxemon for sale, your friend comes up and tells you to follow him/her.
+
+In a dumpster out of the back of the Mart, you find three tuxeballs - last season's stock. You choose one. Your rival chooses another. 
+
+Then you're ambushed by your Rivals, who accuse you of stealing and using a tuxemon without signing the End User License Agreement. 
+
+BATTLE
+
+One of them leaves behind his/her Omnichannel ID card. It identifies you as a Journalism Intern.
+
+'''Attractions:''' Mart. Omnichannel (Pillar #8) Offices. Palimpset Apartments (Father's appt. Friend's appt. Rivals' appt.) 
+
+'''Exits:''' Route #1 is blocked by a Cathedral goon, who won't let you past without an ID card (which you get after the battle).
+
+== 2. Route #1 ==
+Long grass. Wild TXMN. Items.
+
+'''TXMN:''' Eyenemy, Rockitten.
+
+== 3. Cotton Town ==
+At the entrance, you are met by Aunty. She chastises you for letting your Father worry, and gives you a Linux Phone so you can stay in touch with everyone.
+
+She also tells you that she has some money set aside for a Solstice present, but you'll have to go to the Bank to pick it up.
+
+'''Attractions:''' Bank (get Credit Card). Retirement Home (retirees battling TXMN - write up as a story).
+
+*Credit Card:* The idea behind the Credit Card is that every time you visit a Town, all the money you are carrying gets put into your Bank Account. That way, when you black out, you only lose the money you recently acquired. 
+
+*Linux Phone:* You can receive calls from people, letting you know about plot twists and TXMN surges and so on, but also this is how you access the Bazaar (a web forum) - once you get a VPN. 
+
+'''Exits:''' Route #1. Trying to leave by Route #2 results in you being intercepted by "your" boss, the Newspaper Editor, who gets your phone number. "Why haven't you filed a story yet? Go to the nursing home and get a feel-good story).
+
+: === Nursing Home (Building) ===
+: Firstly, a kindly Old Woman gives you five TX-balls and takes you into the garden to teach you how to catch your first TXMN. She then tells you to catch a few more before she'll let you into the nursing home.
+: Seems ridiculous, but when you come back with three or four TXMN, you discover that the nursing home is full of Retired Trainers who have a whole fighting pit decked out. 
+: When you leave, a Blog Post flashes up - it's the story you wrote up about the Seniors Showdown.
+
+: === Log in to the Bazaar ===
+: Meet Team Skull, the pirates and hackers who lurk on the Bazaar's forums. Do some battles, hear some rumours, get some Items, trade some off-market TXMN. 
+: Bazaar acts as a "PKMN Center", and you can enter it anywhere there's WiFi (i.e. towns only, and no Pillar HQs). 
+
+== 4. Route #2 ==
+Long grass. Wild TXMN. Trainer battles. Items.
+
+Get a call from your Editor, she wants you to scope out two celebrity professors who are allegedly having an affair in the Museum. 
+
+'''TXMN:''' Eyenemy, Rockitten, Bamboon.
+
+== 5. Leather Town ==
+When you arrive there's panic in Leather Town. All the employees of the Pillar HQ based here, Greenwash (Pillar #1) are on strike and they're blocking Pillar #3 (Nimrod Munitions) rent-a-cops from getting in via Route #3 because they suspect they have orders to end the Greenwash Fusion program by shooting all Fused TXMN. 
+
+'''Attractions:''' Museum. Greenwash HQ (blocked by strikers)
+
+'''Exits:''' Route #2, Route #3 blocked by striking Greenwash workers, until you resolve the problem and bring down Pillar #1.
+
+: === Museum ===
+: Blocked by strikers until Greenwash is brought down. 
+: Here, meet Team Ark, the conservationists, who will be a mix of thorn in your side and allies throughout. 
+: Also, find the celebrities - turns out they're just attending Team Ark lectures on a new technology - the Tuxepedia, that anyone can contribute to. Put in a dig about the PK-dex here: "I mean, why would you get each person to research TXMN individually, when you could all share the information that you acquire?" 
+: Meeting is interrupted by a Radical who says that they should break into Greenwash HQ and free the TXMN. Team Ark poo-poo that, talk about compromise.
+: Afterwards, talk to the Radical - he shows you a secret path from the Museum to Greenwash HQ. 
+: Shows Blog Post about the cool new tech Tuxepedia.
+
+: === Greenwash (Pillar #1) HQ (Dungeon) ===
+: There's been a security breakdown and all the experimental TXMN have broken out and infested the offices. 
+: Trainer battles. Long grass. 
+: Encounter Fused TXMN.
+: Learn about Fusion technology, that it was invented by a Hacker but the tech was patented by Greenwash. You need a licence to Fuse, or the TXMN needs to be off the record. So you can't fuse your Starter ATM, but you can fuse TXMN from the Commons and TXMN you've bought, and once you complete the Greenwash levels you can fuse any Greenwash licensed TXMN, because you liberate that tech. 
+
+== Long Term ==
+* Most of the way, you're fine because your Blog Posts are uncredited. But one story is so significant that you get credited, and you get locked out of the Bazaar because they think you're a Cathedral mole. You battle them in meatspace. 
+* Then they let you in, and Nimrod hackers manage to follow you. They lock the place down until you defeat them all. 
+More strikes in other towns, as the main way of controlling the plot. When you resolve the problem, the strike ends and the path clears. 
+* A circus on a boat that Team Ark wants you to save. 
+* Virus TXMN, all bugs (because you're "debugging").
+* Investigating news stories leads you to rare and legendary TXMN. 
+* Other pillars could be Thinkgroup (media and marketing, political lobbying), a mining company, Sweet Tooth (fast food chain, lollies, causes a Molasses Spill in one of the towns that requires a particular giant hungry TXMN to resolve), ... 
+* The Coral Caves
+* The final battle is in the Omnichannel penthouse suite, where you fight the octogenarian CEO of that news corporation. 
+* I've been naming the towns after the order of wedding gifts, for no particular reason: http://lucas.ucs.ed.ac.uk/sillies/anniversary.html
+
+[[Category:Story]]

@@ -1,0 +1,6 @@
+{{Condition
+|Positive or Negative=N/A
+|Replacement Conditions=Replaces every other condition; cannot be replaced by any other condition
+|Details=Continues after the battle; Eliminated characters cannot be chosen for battle, must be replaced if in battle
+|TXMN ID=99
+}}

@@ -1,0 +1,10 @@
+[[Category:64px]]
+[[Category:Technique Animation]]
+[[Category:Catch Challenger]]
+[[Category:Sanglorian]]
+[[Category:Main]]
+[[Category:Blossom]]
+[[Category:Lantern]]
+[[Category:Used Technique Animation]]
+
+Adapted by Sanglorian from a sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.

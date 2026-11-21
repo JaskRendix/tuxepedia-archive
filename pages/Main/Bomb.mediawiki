@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=266
+|TXMN Blurb=They set a bomb.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Fire
+|TXMN Type 2=Metal
+|TXMN Sub-Elements=Fire, Metal
+|TXMN Family=Basic
+|TXMN Is fast=Slow
+|TXMN Accuracy=80%
+|TXMN Power=1
+|TXMN Effects=foresight 1
+|TXMN Recharge=1
+|TXMN Animation Target=3
+|Tags=Bomber
+|Main Details=Blastag is a literal bomb (well Grenade really), so it and other characters would probably appreciate having such a move.
+}}

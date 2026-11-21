@@ -1,0 +1,10 @@
+{{Monster
+|First URL=https://darkmilkyway1701.deviantart.com/art/Fakemons-for-sale-Theme-Alice-in-pokeland-431621860 DarkMilkyWay1701
+|Sources=DarkMilkyWay1701, Sanglorian,
+|Source Explanation=Line art by DarkMilkyWay1701. Coloured by Sanglorian.
+|Name Origin="snicker snack" + "nick"
+|Design Origin=The vorpal sword from Alice in Wonderland.
+|TXMN Types=Metal
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}

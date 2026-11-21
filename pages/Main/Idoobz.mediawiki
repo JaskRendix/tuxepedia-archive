@@ -1,0 +1,10 @@
+{{Monster
+|First URL=https://opengameart.org/content/idoobz
+|Sources=Megupets
+|TXMN Types=Metal
+|TXMN Sub-Elements=Lightning
+|TXMN Body Shape=Landrace
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Jungle
+}}

@@ -1,0 +1,47 @@
+{{Monster
+|Sources=Catch Challenger, Jaskrendix
+|Source Explanation=Catch Challenger is an open source project, with assets under Creative Commons Attribution. Original design and sprites by Catch Challenger. Back and face sprites by Jaskrendix.
+|Species=Marsupial
+|TXMN Types=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=306
+|TXMN Blurb=In some places KONUIT is called "drop bear" and believed to fall on unsuspecting heads below.
+|TXMN Height=65
+|TXMN Weight=14
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Plant
+|Fusion First=Ko
+|Fusion Second=nuit
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Overgrowth
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Stabilo
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Nest
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Pouch
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Energy Beam
+|Technique_Level=40
+}}

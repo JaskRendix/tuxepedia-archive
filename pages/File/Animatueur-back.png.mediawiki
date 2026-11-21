@@ -1,0 +1,8 @@
+[[Category:Back Sprite]]
+[[Category:Animatueur]]
+[[Category:Main]]
+[[Category:64px]]
+[[Category:Catch Challenger]]
+[[Category:Jaskrendix]]
+
+Adapted by Jask Rendix from a sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule.

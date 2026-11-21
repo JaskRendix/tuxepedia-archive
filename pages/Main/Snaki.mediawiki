@@ -1,0 +1,61 @@
+{{Monster
+|Sources=Catch Challenger, Sanglorian
+|Source Explanation=Catch Challenger is an open source project, with assets under Creative Commons Attribution. Original design and front and back sprites by Catch Challenger. Face sprites tweaked from back sprite by Sanglorian.
+|Species=False Serpent
+|Main Details=Snake tongue: [[File:Snake-tongue.png]]
+|SpyderCampaign=Used by a trainer in Hospital. Found in the wild in Tunnel B and Route 6.
+|TXMN Types=Water
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Serpent
+|TXMN ID=227
+|TXMN Blurb=SNAKI is a snake that has learned to grow legs by examining the motion of lizards and crocodiles.
+|TXMN Height=70
+|TXMN Weight=15
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Tags=Toxic, Bite
+|Fusion First=Sna
+|Fusion Second=ki
+}}
+{{Evolutions
+|Has Evolution=Snokari
+|Evolution Level=18
+}}
+{{Technique Allocation
+|Has_Technique=Water Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Goad
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Midnight Mantle
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Viper
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Electric Multibite
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Tsunami
+|Technique_Level=40
+}}

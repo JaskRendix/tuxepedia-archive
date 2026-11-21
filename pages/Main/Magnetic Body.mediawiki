@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=237
+|TXMN Blurb=A powerful magnetic field is generated, sending metal objects flying wildly across the battlefield and disrupting the opponent's movements.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=3
+|TXMN Potency=80%
+|TXMN Recharge=3
+|TXMN User Condition=Grabbed
+|TXMN Target Condition=Grabbed
+|TXMN Animation Target=0
+|Tags=Machine, Steel, Electricity
+|Main Details=To create a metal power 3 melee move.
+|Sources=HippasusTwo
+}}

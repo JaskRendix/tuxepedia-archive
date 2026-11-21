@@ -1,0 +1,73 @@
+{{Monster
+|First URL=http://princess-phoenix.deviantart.com/art/Squirrelish-Creature-340146426
+|Sources=Sanglorian, princess-phoenix
+|Source Explanation=princess-phoenix has released Project Freemon under a Creative Commons Attribution-ShareAlike 3.0 Unported licence for us. Front sprite by princess-phoenix. Back sprite by Sanglorian. Face sprites tweaked by Sanglorian from the front sprite.
+|Species=Snowball
+|Main Details=The Snowball tuxemon. 
+
+It secretly spreads disease in the winter months.
+|SpyderCampaign=N/A
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost, Venom
+|TXMN Completed=Complete
+|TXMN Body Shape=Varmint
+|TXMN ID=224
+|TXMN Blurb=It snuggles in homes in the winter months, spreading diseases.
+|TXMN Height=75
+|TXMN Weight=21
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Ice, Love, Toxic
+|Fusion First=Nuen
+|Fusion Second=flu
+|TXMN_DE Name=Neugrippig (neu + Grippe + neugierig)
+}}
+{{Technique Allocation
+|Has_Technique=Ice Claw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Poison Courtship
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Blood Bond
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Midnight Mantle
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Goad
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Mobbing
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Geyser
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Biting Winds
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Poisonous
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Spread Disease
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Snowstorm
+|Technique_Level=40
+}}

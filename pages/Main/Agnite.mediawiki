@@ -1,0 +1,70 @@
+{{Monster
+|Alternative Names=Igni, Iguanite
+|Sources=Chairry-Art, Leo, Levaine, Sanglorian, extyrannomon, aviculor
+|Source Explanation=Original design by Leo. Other art by Sanglorian and extyrannomon. Front and face sprites by aviculor. Back sprite by Sanglorian. Other sprites by Levaine and Chairry-Art.
+|Species=False Dragon
+|Name Origin=''Agni'' + ''ignite'' (evoking ''iguana'')
+|Main Details=[[Category:Starting Tuxemon]]
+|SpyderCampaign=Starting tuxemon for players. Found in the wild in Dragon's Cave. Used by a trainer in Greenwash HQ.
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Completed=Complete
+|TXMN Body Shape=Dragon
+|TXMN ID=13
+|TXMN Blurb=It is playful, but must be taught early on to keep its fire in check.
+|TXMN Height=80
+|TXMN Weight=24
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Coastal, Desert, Mountains
+|Tags=Flame, Bite, Claws, Ground
+|Fusion First=Agni
+|Fusion Second=nite
+|TXMN_DE Name=Logian (Logi [Jötunn of Fire] + Leguan)
+|TXMN_FR Blurb=Il est joueur, mais il faut lui apprendre à calmer son ardeur quand il est petit.
+}}
+{{Evolutions
+|Has Evolution=Agnidon
+|Evolution Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Gnaw
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Fume
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Fire Ball
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Saber
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Tooth for Tooth
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Kindling Flame
+|Technique_Level=22
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Supernova
+|Technique_Level=31
+}}

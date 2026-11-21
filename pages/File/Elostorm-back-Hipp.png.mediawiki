@@ -1,0 +1,9 @@
+== Summary ==
+[[Category:64px]]
+[[Category:Back Sprite]]
+[[Category:Elostorm]]
+[[Category:Catch Challenger]]
+[[Category:Alternative]]
+[[Category:HippasusTwo]]
+
+A sprite from [https://github.com/alphaonex86/CatchChallenger-datapack Catch Challenger (CC BY)], art director Jordan Brule. Project developer Herman Brule. Adapted by HippasusTwo.

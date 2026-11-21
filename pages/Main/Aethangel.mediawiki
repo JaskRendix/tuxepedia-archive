@@ -1,0 +1,13 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert, Jaskrendix
+|Source Explanation=Designed and sprited by Georg Eckert. Front sprites by Jaskrendix.
+|Evolves=Angose
+|Name Origin=''aether'' + ''angel''
+|Main Details=AETHANGEL is a graceful, ethereal Tuxemon that evolves from ANGOSE. It possesses a slender, humanoid form enveloped in a soft, iridescent aura. Its large, translucent wings shimmer with celestial hues, and its eyes are closed in a state of serene meditation.
+|TXMN Blurb=AETHANGEL is a gentle and compassionate creature, capable of sensing the emotions of others and providing solace. Its psychic abilities allow it to manipulate the air and create illusions
+|TXMN Height=220
+|TXMN Weight=55
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage2
+}}

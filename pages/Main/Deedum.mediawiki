@@ -1,0 +1,18 @@
+{{Monster
+|First URL=https://darkmilkyway1701.deviantart.com/art/Fakemons-for-sale-Theme-Alice-in-pokeland-431621860
+|Sources=DarkMilkyWay1701, Sanglorian
+|Source Explanation=Line art by DarkMilkyWay1701. Coloured by Sanglorian.
+|Name Origin="Tweedledee" + "Tweedledum"
+|Design Origin=Tweedledee and Tweedledum from Alice in Wonderland.
+|TXMN Types=Wood
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}
+{{Technique Allocation
+|Has_Technique=Damage Division
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Combat Clone
+|Technique_Level=1
+}}

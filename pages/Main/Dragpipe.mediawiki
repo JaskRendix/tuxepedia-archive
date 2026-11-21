@@ -1,0 +1,24 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?id=317
+|Sources=SingingMagpie
+|Species=The noisy dragon tuxemon
+|Evolves=Snax
+|Name Origin=Dragon + bagpipe
+|Design Origin=A dragon mix with saxophone and bagpipe
+|Main Details=Saxophone heads, music score over the body, pending tongue. 
+It's belly is the bagpipe airbag and it has bagpipe flutes on the back.
+Longue tail ending with saxophone mouthpiece
+|TXMN Types=Metal, Wood
+|TXMN Body Shape=Dragon
+|TXMN Height=180
+|TXMN Weight=80
+|TXMN Catch Resistance=0.6
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|Tags=Tongue
+|Fusion First=Drag
+|Fusion Second=pipe
+}}
+{{Evolutions
+|Has Evolution=Musydra
+}}

@@ -1,0 +1,6 @@
+{{Item
+|Item Category=No Current Use
+|TXMN Description=From your Mom. It lets you travel faster.
+|TXMN Key Item=yes
+|Main Details=Not currently in use as players can run from the beginning.
+}}

@@ -1,0 +1,17 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=Caos-cepi, Piacarrot
+|Source Explanation=Design and original sprite by Piacarrot and Caos-cepi. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Evolves=Searino
+|Name Origin=''broil'' + ''rhino''
+|Main Details=BROILINO, the evolution of SEARINO, has a more robust and fiery appearance. Its body is primarily orange with darker, reddish accents. It retains the horn-like nose of its pre-evolution, but it's now larger and more prominent. The most striking feature is the intensified flames surrounding its body, giving it a fiery aura. Its favorite saying is "A pinch of fire makes all the difference!"
+|TXMN Types=Fire
+|TXMN Blurb=BROILINO is known for its love of cooking, often helping its trainers in the kitchen by adding a dash of flames to their dishes.
+|TXMN Height=180
+|TXMN Weight=400
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}
+{{Evolutions
+|Has Evolution=Flamberino
+}}

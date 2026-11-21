@@ -1,0 +1,72 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Front sprite by Spalding004. Back and face sprites by Sanglorian.
+|Species=Dragon
+|Evolves=Allagon
+|Name Origin='ferrous'' + ''cranium''
+|SpyderCampaign=N/A
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Dragon
+|TXMN ID=161
+|TXMN Blurb=Once, the Ferricran were covered all over with adamantine scales, and had wings of mithril.
+|TXMN Height=230
+|TXMN Weight=214
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Ruins, Underground
+|Tags=Steel, Soldier, Sharp, Tail
+|Fusion First=Ferri
+|Fusion Second=cran
+}}
+{{Technique Allocation
+|Has_Technique=Tail Lash
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Viper
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Insanity
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Strike
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Rust Bomb
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=43
+}}
+{{Technique Allocation
+|Has_Technique=Wall of Steel
+|Technique_Level=46
+}}
+{{Technique Allocation
+|Has_Technique=Amnesia
+|Technique_Level=61
+}}
+{{Technique Allocation
+|Has_Technique=Undertaker
+|Technique_Level=64
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=70
+}}

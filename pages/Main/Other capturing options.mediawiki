@@ -1,0 +1,92 @@
+== Tension ==
+
+
+In a lot of catching games, there's a pause before the result is declared - perhaps with the Capture Device shaking, beeping, etc., a number of times based on the probability of the capture succeeding. 
+
+This adds tension and excitement, but also provides feedback: if you keep getting just one beep before the Capture Device fails, your capture chances are low. 
+
+A simple way to do this is to take the square root, cube root or so on of the capture chance, and test that two, three or four times. If it succeeds each time, then the capture is successful. 
+
+For example, if a tuxemon has an 80% chance of being captured, and three successes are required, then the chance for each should be 93%. If the random number generator produces 13, 82 and 55, for example, the capture is successful, but if it produces 13, 82 and 99 it is unsuccessful - and if it produces 98 on the first result, it doesn't continue testing for success. 
+
+== Capturing alternatives ==
+There are a few other ways that capturing could work instead:
+
+* '''One shot:''' [[Neo Monsters]] doesn't have any items in combat. Instead, you can attempt to capture each individual monster only once. This is a great way of creating tension: do I keep lowering their health further but risk knocking them out, or do I go now but have a greater risk of failure? 
+* '''Test of skill:''' In this case, you have to win a test of skill like playing a round of blackjack, or clicking a button at the right time. The more damage you do to the tuxemon/better item you use, the easier the test of skill is.
+* '''Separate process:''' There could be a separate way of capturing tuxemon that is unrelated to battle. For example, defeated tuxemon could drop eggs in battle that can be hatched (like in [[Monster Sanctuary]]), or there could be a separate location you go to just for catching - no battling required.
+
+== Blackjack Catch ==
+
+In this capturing method, trainers would buy Catch Cards. When they went to capture a wild tuxemon, two cards would be displayed face down next to the tuxemon. The trainer would play one Catch Card, and see the result. They could then choose to play another, and another, and so on, until they either decided to stay (test their result against the sum of the wild tuxemon's cards), or until their card total exceeded 21 - in which case the catch would be a failure.
+
+More difficult tuxemon could begin with more cards (including a chance they'd automatically exceed 21, making them uncapturable on that attempt), and tuxemon that are weakened could have one or more cards visible when the capturing begins. 
+
+On a successful capture, all the cards could slide in under one another, and the face sprite pop up decorating the card. Instead of a box to store tuxemon in, the player would have a deck. 
+
+=== Card types ===
+
+* ''Seer Card:'' Reveals one of the wild tuxemon's cards
+* ''Safe Card:'' 75% chance of being under 6
+* ''Daring Card:'' 75% chance of being over 6
+* ''Blast Card:'' Reduces the value of wild tuxemon's cards by 1
+* ''Counter Card:'' Reduces own result instead of increasing it 
+
+=== Pros ===
+
+* The odds are transparent, both overall (easy tuxemon have two cards/lower numbers; stronger tuxemon have more cards/higher numbers) and in a particular hand
+* The game is immediately understandable
+* Ties in with any tuxemon card game we might make in the future
+* An interesting side game with tension and drama
+
+=== Cons ===
+
+* Unnecessary minigame
+* Unrelated to the rest of the game
+* Breaks the flow of combat
+* There's already a minigame of getting a wild tuxemon down to low HP
+* Incoherent - where do the monster's cards come from? Why do they appear on a single card when caught, even though they were caught with two or three?
+* Regular captures have already been implemented
+
+== Item additions ==
+
+* ''Quick Flask:'' If the capture fails, you don't lose your turn (but the flask does break as normal).
+* ''Friend Flask:'' A held item. The active tuxemon attempts a capture at a certain point (no action required).
+* ''Smooth Flask:'' The tuxemon likes you better after capture.
+
+= Representation = 
+
+Most interest in capturing has actually been about what capturing represents in the story, and flavour around items, rather than the game mechanics themselves.
+
+== Names ==
+
+'''Tuxeball''', '''Tarball''' (after the [https://en.wikipedia.org/wiki/Tar_(computing) computing term]) and '''Zipball''' have been proposed as names for the [[Capture Device]].
+
+== Ideas for varieties of Capture Device ==
+
+* Mechanical ways of capturing and holding animals: Cages, boxes, sacks, traps, manacles, nests, nesting boxes, luggage
+* Organic representations of life: Eggs, seeds, fossils
+* Fantastical ways of holding animals: Gemstones, geodes, flasks (could be sucked into the flask through a kind of spiritual vacuum cleaner)
+* Artistic representations of life: Collectable cards, statuettes, paintings, photographs
+* Ways of storing information: Floppy disks, CDs
+
+== Containment (Hikari) ==
+
+Containment: Mostly because the concept of 'spirits' rather than flesh and blood creatures I'd actually looked to the cartoon ''Danny Phantom'' and how it uses basically a thermos to vacuum up the ghost of the week.
+
+Instead of a bunch of tiny pokeballs, you get a thermos or jug or something of the like that you dump captured critters in. This only does final containment rather than capture though, so you would still need to buy 'regular/great/ultra balls' to catch things. However those actual capture devices break after each use (one thing I hated about pokeballs. If you fail a capture why not pick the balls up to reuse?)
+
+Thinking they should be called bottles. Not beer bottle shape, but still bottly shaped.
+
+Anyway the thermos/jug can only hold so many creatures, but you can plug it into a device in healing houses to free up space. Those creatures are tagged as 'yours' by whatever this system is called so that they can be called back to you at need.
+
+Think of the inside of the ghostbusters containment system. Its own world where these things can move and interact. Sure they aren't generally all that smart, but it keeps them less agitated than keeping them stuffed in jars.
+
+Plus it gives potential for you having to go in yourself using special gear.
+
+== Binding (Tamashihoshi) ==
+Binding a spirit onto an object, like the soul of the younger brother in Full Metal Alchemist or the djinn bound to objects in Magi and the Labyrinth of Magic the djinn. Trainers would carry an individual object in which the spirits are bound. There could be a "easy to attach" spirit container the cathedral sells, where you can bind tuxemon without having great skill. (Probably works only on weak tuxemon though).
+
+You could do this subtly by having different trainer sprites show different objects - without spelling out that this person's umbrella is their binding object, that person's amulet is their binding object. etc.
+
+[[Category:Proposed content]] [[Category:Capturing]]

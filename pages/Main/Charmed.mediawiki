@@ -1,0 +1,8 @@
+{{Condition
+|TXMN ID=35
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME is charmed and might hesitate to act.
+|Details=50% chance of failing if they target an opponent.
+}}

@@ -1,0 +1,110 @@
+You reach the final pillar, Omnichannel HQ, to uncover the conspiracy once and for all. The HQ is suspiciously empty, but you do learn that SPYDER is run by the Pillar bosses with [[Omnichannel CEO Beaverbrook]] at their heart. The boss has retreated to the newly-constructed [[Radio Tower]] next door to announce martial law. 
+
+Once you defeat the CEO himself, you can use the radio station to reveal the conspiracy to the entire region. 
+
+==  Omnichannel Ground Floor ==
+[[File:Omnichannel_HQ.png|thumbnail]]
+=== Characters ===
+
+[[Maniac]]:
+* Mondays, am I right?
+
+[[Spyder Rookie]]:
+* So, how do I apply for the witness protection program? Is there a form or something? 
+
+[[Enforcer]] Marciano: 
+* I told you before - scram!
+* [[Rabbitosaur]] level 35
+* It is I who must scram!
+
+[[Yellow Belt]] William:
+* Nothing to see here. No sir.
+* [[Elowind]] level 36, [[Cardiwing]] level 36
+* I gotta scram!
+
+If possible, the room in the bottom-left should be blocked by a screen, like the one in the [[Hospital]] (deactivated by a switch on level 4)
+
+[[Nurse]] (behind the screen):
+* If that coward Beaverbrook thinks I'm going to risk my skin looking out for him, with mechanical dragons roaming the office, he's got another thing coming. 
+* Player receives [[Spyder Pass]]
+
+==  Omnichannel 1st Floor ==
+[[File:Omnichannel_HQ_Level_2.png|thumbnail]]
+=== Characters ===
+
+[[Enforcer]] Tohei (standing next to the computer in the bottom-left room, so the player cannot reach it without fighting the Enforcer:
+* This computer controls the emergency screens. You think I'm going to just let you fiddle with it?
+* [[Sludgehog]] level 40
+* The password is "password".
+
+Interacting with the computer:
+* You have lowered the protective screens on all floors. (At this point, the screens blocking the Nurse on the ground floor should disappear)
+
+[[Spyder Agent]] Crane:
+* Mercy, mercy! I'm just an innocent sound engineer. 
+* [[Cochini]] level 35, [[Sharpfin]] level 35
+* Sucker! I was a Spyder agent all along.
+
+[[Rogue]] Bettger 
+* This is going to play havoc on Omnichannel's stock price. 
+* [[Grintrock]] level 35, [[Rabbitosaur]] level 35
+* Maybe they'll hire us to consult on the post-apocalypse rebrand.
+
+[[Rogue]] Schwartz (standing next to Bettger):
+* This is a little hands-on for me. I was hired to consult on strategy, not tactics! 
+* [[Grinflare]] level 35, [[Strella]] level 35
+* Did you know that some cultures use the same word for "crisis" and "opportunity"? 
+
+[[Spyder Boss]] Dempsey:
+* It's every man, woman and child for themselves! Especially the children, they'll make a tasty snack for the dragons.
+* [[Squabbit]] level 20, [[Squabbit]] level 20
+* You've gotta help me get out of here!  
+
+==  Omnichannel 2nd Floor ==
+[[File:Omnichannel_HQ_Level_3.png|thumbnail]]
+=== Characters ===
+
+[[Cool Dude]] Carnegie:
+* I run three-week online self-improvement course: Lead Like Elostorm!
+* [[Elofly]] level 38, [[Elostorm]] level 38
+* Hey, you should take my course!
+
+[[Professor]] Byrne:
+* My Jemuar comes from a town where there is nothing but quartz.
+* [[Rockat]] level 36, [[Jemuar]] level 40
+* What a disappointment.
+
+[[Warrior]] Strauss:
+* I have to shake a lot of hands in my line of work.
+* [[Budaye]] level 36, [[Frondly]] level 40
+* Down low. Too slow!
+
+[[Spyder Rookie]]: 
+* All my tuxemon passed out fighting the dragons. This is a bad time to forget to pack any potions! 
+
+==  Omnichannel 3rd Floor ==
+
+[[File:Omnichannel_HQ_Level_4.png|thumbnail]]
+
+PC 1:
+* The PC contains a file named 'Cut Intro'. Would you like to watch the cut scenes? (Y/N)
+if yes [[Flashbacks Spyder#Behind the Scenes: The Quest for Authenticity]]
+
+PC 2:
+* The PC contains a file named 'Cut Intro'. Would you like to watch the cut scenes? (Y/N)
+if yes [[Flashbacks Spyder#Behind the Scenes: The Tuxemon Cash Grab]]
+
+The whole floor is eerily empty. 
+
+A note on the CEO's desk, in his empty office:
+* Haha, suckers
+
+An elevator in the top-right requires a [[Spyder Pass]] to activate. It takes the player to [[Radio Tower]]. 
+
+== Random encounters ==
+
+1st, 2nd and 3rd floors
+
+Random encounters are [[Dark Robo]] and [[Xeon-2]], which are not catchable. "Not a tuxemon!" flashes up as the error. 
+
+[[Category:Plot]] [[Category:Place]]

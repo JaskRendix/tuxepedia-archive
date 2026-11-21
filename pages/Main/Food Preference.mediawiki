@@ -1,0 +1,28 @@
+== Food Preference Effect ==
+
+This effect triggers when a trainer feeds a food item to a monster. Each monster has two taste attributes:
+* '''Warm Taste''': Their preferred flavor type.
+* '''Cold Taste''': Their secondary flavor aversion or affinity.
+
+When food is given with specific taste tags, the effect compares those tags to the monster’s tastes and adjusts the bond between them accordingly.
+
+=== Taste Matching ===
+The comparison yields one of five outcomes:
+
+{| class="wikitable"
+! Taste Alignment !! Result !! Bond Change
+|-
+| Both warm and cold taste tags match the monster || '''Great''' || +10
+|-
+| One taste matches || '''Good''' || +5
+|-
+| Both tags are the opposite of monster’s preferences || '''Terrible''' || -10
+|-
+| One tag is the opposite || '''Bad''' || -5
+|-
+| Neither match nor oppose || '''Average''' || 0
+|}
+
+Opposite taste relationships are defined by the effect and can be viewed on [[Taste Food]].
+
+Feeding the right dish creates a strong emotional bond. Feeding the wrong dish… not so much.

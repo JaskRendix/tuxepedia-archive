@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Held Item, Food Item
+|TXMN Effects=Lockdown
+|TXMN Usable In=combat
+|TXMN Description=Globs of honey sticks to a foe, making items difficult to use.
+|TXMN Consumable=yes
+|Main Details=Could be modified to have multiple uses, or be a combat consumable instead of a held item.
+}}

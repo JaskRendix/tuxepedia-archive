@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Diamonddmgirl, Sanglorian
+|Source Explanation=Front sprite by diamonddmgirl. Resized by Sanglorian.
+|Genre=Sci-Fi
+|Combat Type=1 vs 1
+}}

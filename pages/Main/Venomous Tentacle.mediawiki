@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=80
+|TXMN Blurb=A poisonous tentacle strikes the opponent, inflicting damage and poisoning them.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Water
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=80%
+|TXMN Power=2.25
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Target Condition=poisoned
+|TXMN Animation Target=1
+|Tags=Pseudopod
+|Sources=Sanglorian, Daneeklu
+|Source Explanation=Technique by Sanglorian. "Tentacles water" animation by Daneeklu.
+}}

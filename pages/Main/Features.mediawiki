@@ -1,0 +1,85 @@
+''Main article: [[Beyond Episode 1]]''
+
+An idea, not a priority:
+
+Each Tuxemon species would have one or two Features that members of that species would have, at random. They would apply all the time. 
+
+Some [[Variants]] could be implemented through Features.
+
+== Feature ideas ==
+
+{| class="wikitable"
+! Name !! Function !! Tuxemon that could have this feature
+|-
+| Leaf Guard || A Wood-type technique can never reduce you to below 1 HP. || Lambert, Legko, Moloch
+|-
+| Firestick || Any time you are the target of a Fire-type technique, your Melee increases by one stage || Embra, Ruption
+|-
+| Charge || Any time you are the target of a Metal-type technique, your Speed increases by one stage. || Nut, Bolt, Arthrobolt
+|-
+| Forgetful || At the end of each turn, all conditions that are affecting you end. || Furnursus
+|-
+| Robot || If you are incapable of attacking, you do damage to yourself and the opponent (from josepharaoh99) || Hydrone, Pigabyte 
+|-
+| Draw Fire || In a [[2 vs 2]] battle, all attacks against your opponent switch to having only you as the target.
+|-
+| Teamwork || In a [[2 vs 2]] battle, your fellow tuxemon gets its Melee and Ranged boosted by two stages || Budaye
+|-
+| Reboot || In a round where you use an item, your active creature’s Armor and Dodge increase by 1 stage (for that round only) || Hydrone
+|-
+| Hover || This creature has Resist Earth. || Altie, Ghosteeth, Djinnbo 
+|-
+| Reduce Reuse Recycle || When a consumable is used on or by you, flip a coin. Heads, the consumable isn't used up. || Botbot, K9
+|-
+| Jolt || When an enemy creature damages this creature, the enemy creature takes 1/16 of its maximum HP in damage || Joulraton 
+|-
+| Luck Lockdown || When one of your creatures’ attacks would be in the bottom 20% or top 10%, reroll it
+|-
+| Sweet Tooth || When this creature consumes an item, it also heals 1/4 of its maximum HP || Noctula, Pipis, Sludgehog 
+|-
+| Quick Use || When this creature is swapped in to a battle, you can choose an item to use on it immediately || Grumpi 
+|-
+| Toxic Blood || When your enemy damages this creature with a Melee technique, the enemy creature has a 10% chance of being Poisoned || Sludgehog
+|-
+| Magnetise || When your enemy uses an item, it affects your creature instead. || Wrougon, Allagon 
+|-
+| See Everything || Immune to the berserk condition. Ranged stat cannot be reduced. || Signature Feature of Ghosteeth
+|-
+| Fossil || When hit by an Earth attack, heal 1/16 of your maximum HP. || Shammer and Rhincus
+|-
+| Cursed || When this tuxemon is knocked out, any of your opponent's creatures in play become poisoned. || 
+|-
+| Ghost || Immune to [[Normal]] attacks. ||
+|-
+| Flying ||  || 
+|-
+| Dragon || Resistance to [[Water]], [[Fire]] and [[Wood]] attacks. || 
+|-
+| Scamper || When this tuxemon's Evasion is boosted, its Speed is boosted by the same amount. || Ziggurat
+|-
+| Spectre Tangle || When this tuxemon hits a ghost with a Melee technique or a ghost hits this tuxemon with a Melee technique, the ghost gets the Stuck condition. || Banling
+|-
+| Memories of Eons || The first technique used by the opponent takes one extra turn to recharge. || Memnomnom
+|-
+| Dowse || When this tuxemon's opponent is a Water tuxemon, all this tuxemon's techniques become fast. || Baoby
+|-
+| Lightened || While one or more of this tuxemon's Water techniques are recharging, its Speed increases by two steps. || Baoby
+|-
+| Contagious || While this tuxemon is poisoned, all of its techniques give the poisoned condition if they hit. || Nuenflu
+|-
+| Reps In || At the end of each turn, the tuxemon'ss Melee improves by one step. || Vigeur
+|-
+| Maze Runner || The tuxemon is immune to the stuck and confused conditions. || Ziggurat
+|-
+| Sightless || The tuxemon is immune to the sniping, blinded and confused conditions. || Taupypus
+|-
+| Anticipation || When the tuxemon enters battle, one of the opponent's techniques is chosen at random (and announced to both players). The creature is immune to that technique for one turn. || ||
+|-
+| Keen Edge || Critical hit chance doubled. || ||
+|-
+| Counterattack || Chance to retaliate after each attack.. || ||
+|-
+| Suck Poison || When you would take damage from the poison condition, you heal that amount instead and lose the condition. (Would replace the [[Suck Poison]] technique. || Nudiflot ♀, Nudimind 
+|}
+
+[[Category:Proposed content]]

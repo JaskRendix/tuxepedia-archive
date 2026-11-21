@@ -1,0 +1,20 @@
+This is a property of type [[Has type::Page]].
+
+The allowed values for this property are:
+* [[Allows value::Any]]
+* [[Allows value::Boreal/Snow]]
+* [[Allows value::Coastal]]
+* [[Allows value::Desert]]
+* [[Allows value::Extraplanar]]
+* [[Allows value::Extraterrestrial]]
+* [[Allows value::Freshwater]]
+* [[Allows value::Grassland]]
+* [[Allows value::Jungle]]
+* [[Allows value::Mountains]]
+* [[Allows value::Ruins]]
+* [[Allows value::Sea]]
+* [[Allows value::Swamp]]
+* [[Allows value::Underground]]
+* [[Allows value::Urban]]
+* [[Allows value::Woodland]]
+* [[Allows value::Other]]

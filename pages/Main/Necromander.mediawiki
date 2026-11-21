@@ -1,0 +1,55 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/27-Necromander-665603896
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Face sprites adapted by Jaskrendix.
+|Species=Necromancer
+|Name Origin=Necromancer + salamander
+|Main Details=Could be shadow or shadow/water, considering its design.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Shadow
+|TXMN Completed=Complete
+|TXMN Body Shape=Polliwog
+|TXMN ID=416
+|TXMN Blurb=It allies with undead Tuxemon quite often, and cries out to summon them.
+|TXMN Height=120
+|TXMN Weight=30
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Swamp
+|Tags=Amphibian, Ghost, Darkness, Summoner
+|Fusion First=Necro
+|Fusion Second=mander
+}}
+{{Technique Allocation
+|Has_Technique=Shade Shield
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Phantasmal Force
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=5
+}}
+{{Technique Allocation
+|Has_Technique=Magic Spell
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Sphere
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Blood Bond
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Salamander
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Summon Shadows
+|Technique_Level=50
+}}

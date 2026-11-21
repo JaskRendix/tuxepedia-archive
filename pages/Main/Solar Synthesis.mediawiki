@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=189
+|TXMN Blurb=Heals the user's health by absorbing sunlight.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Wood
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=0
+|TXMN Effects=Photogenesis user,6,12,18
+|TXMN Healing Power=2
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Animation Target=0
+|Tags=Plant, Light
+|Main Details=Photogenesis is a unique effect associated with this technique, characterized by a distinct temporal dependency that significantly influences its healing efficacy. The healing effect exhibits a pronounced sensitivity to the timing of its application, with a well-defined window of optimal effectiveness. This temporal window is delineated by three critical time points, which are specified in the effect field.
+
+The first value represents the initiation time, marking the beginning of the technique's healing efficacy. The second value denotes the peak time, corresponding to the moment of maximum healing potential. The third and final value signifies the termination time, beyond which the technique's effectiveness begins to wane, ultimately leading to failure if applied outside of this designated time frame.
+}}

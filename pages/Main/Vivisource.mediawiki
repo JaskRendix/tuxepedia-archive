@@ -1,0 +1,60 @@
+{{Monster
+|Sources=Catch Challenger, Sanglorian
+|Source Explanation=Catch Challenger is an open source project, with assets under Creative Commons Attribution. Original design and front and back sprites by Catch Challenger. Face sprites tweaked from front sprite by Sanglorian.
+|Species=Purified
+|Evolves=Vivipere
+|Design Origin=The blurb is based on [https://www.cbsnews.com/news/snake-house-turns-dream-to-nightmare-in-idaho/ a house built on a nest of garter snakes] - where the snakes could be tasted in the tap water.
+|SpyderCampaign=Evolves from Vivipere. Used by trainers in Route 7.
+|TXMN Types=Water
+|TXMN Sub-Elements=Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Serpent
+|TXMN ID=139
+|TXMN Blurb=The spring it chooses for its home always has a peculiar oniony taste.
+|TXMN Height=107
+|TXMN Weight=9
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male
+|TXMN Stages=Stage1
+|TXMN Terrains=Freshwater, Grassland, Jungle, Ruins
+|Tags=Shapeshifter, Bite, Water, Toxic
+|Fusion First=Vivi
+|Fusion Second=source
+|TXMN_FR Name=Vivisource
+}}
+{{Technique Allocation
+|Has_Technique=Stone Rot
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Quicksand
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Chill Mist
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Water Blast
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Depth Charge
+|Technique_Level=31
+}}

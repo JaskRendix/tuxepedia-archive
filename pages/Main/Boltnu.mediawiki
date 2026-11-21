@@ -1,0 +1,61 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/journal/Fakemon-for-Sale-680318198
+|Sources=Involuntary Twitch, TheBritanniaRegion
+|Source Explanation=Design and art by TheBritanniaRegion. Sprites by Involuntary Twitch.
+|Species=Screwdriver
+|Name Origin=''nuts and bolts''
+|Design Origin=Jackhammers and screwdrivers
+|SpyderCampaign=Found in the wild in Cotton Tunnel. Used by trainers in Hospital and Dojo.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=194
+|TXMN Blurb=It spends most of its time digging burrows into the grounnd, it remains dizzy from the constant vibrations and movement caused by them digging into the soil.
+|TXMN Height=47
+|TXMN Weight=8
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Ruins, Urban
+|Tags=Ground, Steel, Machine
+|Fusion First=Bolt
+|Fusion Second=nu
+|TXMN_FR Name=Martourne-Visseur
+}}
+{{Evolutions
+|Has Evolution=Exclawvate
+|Evolution Level=18
+}}
+{{Technique Allocation
+|Has_Technique=Goad
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Strike
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Time Crisis
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Slice
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Shrapnel
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Electrical Storm
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Wall of Steel
+|Technique_Level=31
+}}

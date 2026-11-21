@@ -1,0 +1,3 @@
+{{Effect
+|Details=Target is immune to the Exhausted condition.
+}}

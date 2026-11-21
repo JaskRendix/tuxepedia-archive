@@ -1,0 +1,9 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/56-57-Stormling-Hurrotem-666806206
+|Sources=Serpexnessie
+|Evolves=Stormling
+|TXMN Types=Wood
+|TXMN Sub-Elements=Lightning, Sky
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}

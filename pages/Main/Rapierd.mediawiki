@@ -1,0 +1,10 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=Piacarrot,
+|Source Explanation=Design and original sprite by Piacarrot. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Evolves=Rapiere,
+|Design Origin=A fencing hummingbird.
+|TXMN Types=Metal
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+}}

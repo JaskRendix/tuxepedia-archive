@@ -1,0 +1,12 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Octotangle-677054124
+|Sources=TheBritanniaRegion,
+|Species=Sprinkler
+|Name Origin=''octopus'' + ''tangle''
+|Design Origin=Octopuses and a bath toy
+|Main Details=If their shell is cracked, their shadow bodies evaporate and die.
+|TXMN Types=Water
+|TXMN Blurb=This dark and powerful tuxemon enjoys hiding in the piles of toys in abandoned toy shops, ready to feast upon the souls of curious children hoping to steal a toy. They absorb their spirit, allowing their tentacles to grow and their shell to grow harder.
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}

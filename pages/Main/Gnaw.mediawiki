@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=215
+|TXMN Blurb=The user nibbles at the target, dealing a small amount of damage. A weak but fast and consistent attack.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Family=Basic
+|TXMN Is fast=Fast
+|TXMN Accuracy=100%
+|TXMN Power=1
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Bite
+|Main Details=Possibly a slightly stronger form of a move called Nip? Fast and accurate, but on average would lose a fight to more powerful starter moves.
+|Sources=Jaskrendix, HippasusTwo
+}}

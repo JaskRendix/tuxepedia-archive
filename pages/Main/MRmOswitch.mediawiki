@@ -1,0 +1,57 @@
+{{Monster
+|Alternative Names=Rhebus, rEbus, B(na)2, C0evil, Cnullevil, Monkeybot, {mRmO}
+|Sources=Cavalcadeur, Leo, Sanglorian
+|Source Explanation=Original design by Leo. Sprites by Cavalcadeur and Sanglorian.
+|Species=Gremlin
+|Evolves=Botbot
+|Name Origin=Evoking ''marmoset'' and ''switch''
+|Main Details=The name is '''mRmOswitch''', but the wiki's limitations require a capital letter at the beginning.
+|SpyderCampaign=Used by trainers in Mansion, Scoop HQ and Wayfarer Inn.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Lightning, Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN ID=128
+|TXMN Blurb=These cheeky robots are used for their fine motor skills, but they love pranks.
+|TXMN Height=56
+|TXMN Weight=4
+|TXMN Catch Resistance=70
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+|TXMN Terrains=Urban
+|Tags=Machine, Light
+|Fusion First=mRmO
+|Fusion Second=switch
+}}
+{{Technique_Allocation
+|Has_Technique=Beam
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Levitate
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Strike
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Radiance
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Battery Discharge
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Wall of Steel
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Shrapnel
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Glower
+|Technique_Level=25
+}}

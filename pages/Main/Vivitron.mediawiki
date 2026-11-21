@@ -1,0 +1,63 @@
+{{Monster
+|Sources=Catch Challenger, Sanglorian
+|Source Explanation=Catch Challenger is an open source project, with assets under Creative Commons Attribution. Original design and sprites by Catch Challenger. Face sprites tweaked by Sanglorian.
+|Species=Sparked
+|Evolves=Vivipere
+|SpyderCampaign=Used by a trainer in Dryad's Grove.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Lightning
+|TXMN Completed=Complete
+|TXMN Body Shape=Serpent
+|TXMN ID=137
+|TXMN Blurb=Early philosophers used VIVITRON as evidence that natural forces can be tamed and controlled.
+|TXMN Height=92
+|TXMN Weight=12
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Grassland, Jungle, Mountains, Ruins, Underground, Woodland
+|Tags=Shapeshifter, Bite, Electricity
+|Fusion First=Vivi
+|Fusion Second=tron
+|TXMN_FR Name=Vivitron
+}}
+{{Technique Allocation
+|Has_Technique=Stone Rot
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Quicksand
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Electrical Storm
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Sudden Glow
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Battery Acid
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Rift Dash
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Electric Multibite
+|Technique_Level=40
+}}

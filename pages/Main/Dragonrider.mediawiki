@@ -1,0 +1,11 @@
+{{Trainer
+|Sources=Catch Challenger, Sanglorian
+|Source Explanation=Front sprite by Catch Challenger, tweaked by Sanglorian. Overland sprite by Catch Challenger.
+|Genre=Fantasy Historical
+|Combat Type=1 vs 1
+|Main Details=Names: Benden, Telgar, Fort, Ista.
+
+=== The Spyder in the Cathedral ===
+
+Found in [[Dragon's Cave]], guarding [[Drokoro]]. They mostly have [[:Category:Dragons|dragons]] among their tuxemon. [[Category:Dragons]]
+}}

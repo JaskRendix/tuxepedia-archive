@@ -1,0 +1,11 @@
+{{Item
+|Item Category=Out of Combat Consumable
+|TXMN Effects=gain XP
+|TXMN Cost=350
+|TXMN Usable In=world
+|TXMN Description=Adds 500 to a monster's XP.
+|TXMN Consumable=yes
+|SpyderCampaign=Found on Route A and in the Mansion basement (boxes)
+|Sources=Fleurman
+|Source Explanation=Sprite by Fleurman.
+}}

@@ -1,0 +1,25 @@
+Main: [[:Category:Trainer]]
+
+== Sci-Fi ==
+<table class="invisitable"><tr><td>{{#ask:[[Category:Trainer]] [[Category:Sci-Fi]] |limit=200
+|?Default64px
+|?OverlandSprite
+}}</td></tr></table>
+
+== Modern ==
+<table class="invisitable"><tr><td>{{#ask:[[Category:Trainer]] [[Category:Modern]] |limit=200
+|?Default64px
+|?OverlandSprite
+}}</td></tr></table>
+
+== Fantasy Historical ==
+<table class="invisitable"><tr><td>{{#ask:[[Category:Trainer]] [[Category:Fantasy Historical]] |limit=200
+|?Default64px
+|?OverlandSprite
+}}</td></tr></table>
+
+== Gijinka ==
+<table class="invisitable"><tr><td>{{#ask:[[Category:Trainer]] [[Category:Gijinka]] |limit=200
+|?Default64px
+|?OverlandSprite
+}}</td></tr></table>

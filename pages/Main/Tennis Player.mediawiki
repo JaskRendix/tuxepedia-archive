@@ -1,0 +1,24 @@
+{{Trainer
+|Sources=Sanglorian, Pboop, Superpowers Asset Packs
+|Source Explanation=Overland sprites by Pboop. Front sprite by Sanglorian. Face sprite by Superpowers Asset Packs.
+|Genre=Modern
+|Combat Type=1 vs 1
+|Main Details==== Names ===
+* Djoki
+* Andre
+* Murray
+* William
+* Ash
+
+=== Quotes (Start of Battle) ===
+* "You'll never beat me!"
+* "There's no love lost here!"
+* "This is my Grand Slam!"
+* "Hey, what's all this racket?"
+* "I'm going for the triple crown!"
+
+=== Quotes (End of Battle) ===
+* "Advantage you."
+* "You smashed me!"
+* "Gotta bounce!"
+}}

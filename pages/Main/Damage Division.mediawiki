@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=261
+|TXMN Blurb=They divide into two and give the duplicate part of their damage.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Normal
+|TXMN Family=Special
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=100%
+|TXMN Effects=heal user,1/2
+|TXMN Recharge=3
+|TXMN Animation Target=0
+|Tags=Healing, Summoner
+|Main Details=Organisms like bacteria, fungi, plants, and even worms will sometimes survive splitting in half or even do it deliberately in response to damage.
+}}

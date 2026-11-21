@@ -1,0 +1,8 @@
+{{Monster
+|First URL=https://www.reddit.com/r/Tuxemon/comments/499ag4/heres_a_grass_starter_hope_yall_like_him/
+|Sources=ABigIguana,
+|Evolves=Kusith,
+|TXMN Types=Wood
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+}}

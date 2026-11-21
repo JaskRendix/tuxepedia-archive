@@ -1,0 +1,71 @@
+{{Monster
+|First URL=https://opmon-game.ga/
+|Sources=Jaskrendix, OPMon
+|Source Explanation=From the open source game OPMon.
+|Species=Headless
+|Name Origin=''magma'' + ''mort''
+|Main Details=FR blurb: Cet Opmon oublié au fil du temps est à l'origine de la disparition d'une ancienne génération de monstres combattants
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=430
+|TXMN Blurb=Forgotten now, MAGMORTIS was once responsible for the end of an entire generation of monster hunters.
+|TXMN Height=192
+|TXMN Weight=285
+|TXMN Catch Resistance=5
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Ruins
+|Tags=Flame, Fists, Calamity
+|Fusion First=Mag
+|Fusion Second=mortis
+}}
+{{Technique Allocation
+|Has_Technique=Torch
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Punch
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Magma
+|Technique_Level=5
+}}
+{{Technique Allocation
+|Has_Technique=Ram
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Glowing Punch
+|Technique_Level=15
+}}
+{{Technique Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Lava
+|Technique_Level=30
+}}
+{{Technique Allocation
+|Has_Technique=Radiance
+|Technique_Level=35
+}}
+{{Technique Allocation
+|Has_Technique=Implosion
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Tinder
+|Technique_Level=45
+}}
+{{Technique Allocation
+|Has_Technique=Oven
+|Technique_Level=50
+}}

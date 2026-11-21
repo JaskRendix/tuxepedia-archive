@@ -1,0 +1,10 @@
+{{Body Shape
+|Speed Multiplier=6
+|HP Multiplier=6
+|Melee Multiplier=6
+|Ranged Multiplier=6
+|Armour Multiplier=7
+|Dodge Multiplier=5
+|Dodge Modifier=3
+}}
+Tuxemon in Set 1 with the Dragon body shape all have the [[:Category:Dragons|Dragon species name]], with the exception of the Agnite family, which are "False Dragons".

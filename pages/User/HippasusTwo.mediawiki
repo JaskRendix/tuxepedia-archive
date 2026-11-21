@@ -1,0 +1,18 @@
+
+{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+[[Category:Alternative]]
+|format=gallery
+|link=all
+|searchlabel=… further results
+|navigation=nav
+|autocaptions=1
+|intro=Other art
+}}
+{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 1||Menu Sprite 2||Menu Sprite||Face Sprite 1||Face Sprite 2||Back Sprite||Front Sprite||Other Sprite]]
+|link=all
+|searchlabel=… further results
+|navigation=nav
+|intro=<strong style="text-align: center;">Sprites</strong>
+}}

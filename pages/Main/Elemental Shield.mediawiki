@@ -1,0 +1,8 @@
+{{Condition
+|Positive or Negative=Positive
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME puts up a flame shield.
+|Details=Each time an opponent hits you with a Special technique, they take 1/16 your maximum hit points in damage.
+|TXMN ID=28
+}}

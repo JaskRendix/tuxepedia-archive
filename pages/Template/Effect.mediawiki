@@ -1,0 +1,20 @@
+<noinclude>
+This is the "Effect" template.
+It should be called in the following format:
+<pre>
+{{Effect
+|TXMN ID=
+|Details=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+! TXMN ID
+| [[TXMN ID::{{{TXMN ID|}}}]] 
+|-
+! Details
+| [[Details::{{{Details|}}}]] 
+|}
+
+[[Category:Effect]]
+</includeonly>

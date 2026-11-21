@@ -1,0 +1,61 @@
+{{Monster
+|Sources=Leo, Sanglorian
+|Source Explanation=Design and artwork by Leo. Name by Sanglorian. Sprites by Sanglorian.
+|Species=Spook
+|Name Origin=''grimalkin'' + ''machine''
+|SpyderCampaign=Used by trainers in Dojo and Nimrod HQ.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=93
+|TXMN Blurb=It was made by a toy company to be a pet, but was too dangerous.
+|TXMN Height=45
+|TXMN Weight=3
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Tags=Machine, Gadgets
+|Fusion First=Grima
+|Fusion Second=chin
+}}
+{{Evolutions
+|Has Evolution=Tigrock
+|Evolution Level=32
+}}
+{{Technique Allocation
+|Has_Technique=Wall of Steel
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Blade
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Lineage
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Rust Bomb
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Terror
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Fume
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Strike
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Energy Field
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=40
+}}

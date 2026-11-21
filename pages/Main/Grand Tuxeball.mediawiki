@@ -1,0 +1,11 @@
+{{Item
+|Item Category=Capture Item
+|TXMN Effects=Capture
+|TXMN Cost=500
+|TXMN Usable In=combat
+|TXMN Description=Offers an even higher capture rate than the Lavish Tuxeball.
+|TXMN Consumable=yes
+|Main Details=Modifier is equal to 1.75 ([[Tuxeball]] is 1)
+|SpyderCampaign=Found in the Mansion basement (box); sold at Flower and Timber Scoop
+|Sources=Jaskrendix
+}}

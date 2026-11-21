@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=259
+|TXMN Blurb=They try to lock horns with the enemy.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Heroic
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=95%
+|TXMN Power=1.5
+|TXMN Potency=100%
+|TXMN Recharge=1
+|TXMN Target Condition=Harpooned
+|TXMN Animation Target=1
+|Tags=Megafauna
+|Main Details=An early game horn move.
+}}

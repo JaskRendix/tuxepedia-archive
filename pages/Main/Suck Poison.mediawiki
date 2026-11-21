@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=58
+|TXMN Blurb=The user draws out the poison from their own body and infects their enemy with it.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Venom
+|TXMN Family=Reserved
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=2.0
+|TXMN Potency=100%
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Reserved
+|Main Details=[[Reserved technique]] for [[Nudiflot]]. [[Category:Reserved technique]]
+
+If the user has the poisoned condition, they lose that condition and the target gains that condition.
+|Sources=Sanglorian, Josepharaoh99
+|Source Explanation=Technique by Sanglorian. "Drip blue" animation by josepharaoh99.
+}}

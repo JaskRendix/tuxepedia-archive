@@ -1,0 +1,19 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/004-006-Constorch-Tophistone-Titannon-665961211
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Face sprites adapted by Jaskrendix.
+|Evolves=Constorch
+|Main Details=TOPHISTONE is the evolved form of CONSTORCH, a larger and more robust serpentine Tuxemon.  CONSTORCH's fiery torch-like appendage has evolved into a more subdued, internal heat source. TOPHISTONE is known for its powerful fiery attacks and defensive capabilities.
+|TXMN Types=Fire
+|TXMN Blurb=The intricate patterns on TOPHISTONE's hardened, rock-like scales resemble molten magma.
+|TXMN Height=180
+|TXMN Weight=56
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Fusion First=Tophi
+|Fusion Second=stone
+}}
+{{Evolutions
+|Has Evolution=Titannon
+}}

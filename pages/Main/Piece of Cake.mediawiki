@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=228
+|TXMN Blurb=The user enters a state of effortless ease, healing their wounds and restoring their vitality as everything becomes as simple as enjoying a delicious cake.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Normal
+|TXMN Family=Condition imposer
+|TXMN Is fast=Fast
+|TXMN Accuracy=100%
+|TXMN Healing Power=.5
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN User Condition=Charging
+|Tags=Food
+|Main Details=Heals only as much as the weakest moves and can't be used every turn.
+|Sources=HippasusTwo
+}}

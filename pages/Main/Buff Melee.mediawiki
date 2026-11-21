@@ -1,0 +1,3 @@
+{{Effect
+|Details=For the rest of the combat, increase Melee by the item's power (as a percent).
+}}

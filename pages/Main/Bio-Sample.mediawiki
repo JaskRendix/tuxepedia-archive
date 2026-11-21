@@ -1,0 +1,7 @@
+{{Item
+|Item Category=Crafting Item
+|TXMN Description=Organic particles from tuxemon habitats; reactive and unstable.
+|TXMN Consumable=yes
+|Main Details=Foundational materials used in crafting and discovery. These components originate from a variety of locations and conditions, each holding traces of information, energy, or history. Whether biological, digital, or elemental, they are designed to interact with systems for creating, enhancing, or unlocking new potential.
+|Sources=Jaskrendix
+}}

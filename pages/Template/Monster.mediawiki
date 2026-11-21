@@ -1,0 +1,433 @@
+<noinclude>
+This is the "Monster" template.
+It should be called in the following format:
+<pre>
+{{Monster
+|Alternative Names=
+|Types=
+|Sources=
+|Source Explanation=
+|Evolves=
+|Main Details=
+|First URL=
+|Species=
+|Name Origin=
+|Design Origin=
+|SpyderCampaign=
+|TXMN Completed=
+|TXMN Completed Exists=
+|TXMN Types=
+|TXMN Sub-Elements=
+|TXMN Body Shape=
+|TXMN Sexes=
+|TXMN Stages=
+|TXMN ID=
+|TXMN Terrains=
+|TXMN Blurb=
+|TXMN Catch Resistance=
+|Tags=
+|Fusion First=
+|Fusion Second=
+|TXMN_ES Name=
+|TXMN_ES Species=
+|TXMN_ES Blurb=
+|TXMN_DE Name=
+|TXMN_DE Species=
+|TXMN_DE Blurb=
+|TXMN_FR Name=
+|TXMN_FR Species=
+|TXMN_FR Blurb=
+|TXMN_PT Name=
+|TXMN_PT Species=
+|TXMN_PT Blurb=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+[[Category:Main]]}} | [[MainImage::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|thumb]] | [[MainImage::Missing| ]] }}
+
+{| style="width: 30em; font-size: 90%; border: 1px solid #aaaaaa; background-color: #f9f9f9; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: 0.2em; float: right; clear: right; text-align:left;"
+! style="text-align: center; background-color:#ccccff;" colspan="2" |<span style="font-size: larger;">TXMN Stats</span>
+|-
+! Type(s)
+| {{#arraymap:{{{TXMN Types|}}}|,|x|[[TXMN Type::x]]}}
+|-
+! Element(s)
+| {{#arraymap:{{{TXMN Sub-Elements|}}}|,|x|[[TXMN Element::x]]}}
+|-
+! Call
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Call]]
+[[Category:Main]]}} | [[MainCall::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Call]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}]] | [[MainCall::Missing| ]] }}
+|-
+! Completed
+| [[TXMN Completed::{{{TXMN Completed|}}}]] {{#if: {{{TXMN Completed|}}} | | {{#set:TXMN Completed Exists=No}} }} 
+|-
+! Body Shape
+| [[TXMN Body Shape::{{{TXMN Body Shape|}}}]] 
+|-
+! ID
+| [[TXMN ID::{{{TXMN ID|}}}]] {{#if: {{{TXMN ID|}}} | | {{#set:TXMN ID Missing=Yes}} }} 
+|-
+! Blurb
+| [[TXMN Blurb::{{{TXMN Blurb|}}}]]
+|-
+! Height/Length (centimetres)
+| [[TXMN Height::{{{TXMN Height|}}}]]
+|-
+! Weight (kilograms)
+| [[TXMN Weight::{{{TXMN Weight|}}}]] 
+|-
+! Catch Rate
+| [[TXMN Catch Resistance::{{{TXMN Catch Resistance|}}}]] 
+|-
+! Terrain(s)
+| {{#arraymap:{{{TXMN Terrains|}}}|,|x|[[TXMN Terrain::x]]}}
+|-
+! Sex(es)
+| {{#arraymap:{{{TXMN Sexes|}}}|,|x|[[TXMN Gender::x]]}}
+|-
+! Evolution Stage
+| {{#arraymap:{{{TXMN Stages|}}}|,|x|[[TXMN Stage::x]]}}
+|-
+! [[Tags]]
+| {{#arraymap:{{{Tags|}}},Universal|,|x|{{#set:Tags=x}}x}}
+|-
+! Fusion Name First Part
+| [[Fusion First::{{{Fusion First|}}}]]
+|-
+! Fusion Name Second Part
+| -[[Fusion Second::{{{Fusion Second|}}}]] 
+|}
+
+[[Set 1]] • [[Set 2]] • [[Set 3]] • [[Creature Progress Tracker]]
+
+<table>
+<tr>
+
+{{#if:{{{TXMN ID|}}}|
+<td>{{#expr:({{{TXMN ID}}})-1}} ← </td> |}}
+
+<td>
+<p style="font-weight: bold;"><span  style="display: inline-block;">{{{TXMN ID|}}} </span><span id="cf3"  style="display: inline-block;">{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Face Sprite 1]] [[Category:24px]]
+[[Category:Main]]}} | [[FaceSprite1::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Face Sprite 1]] [[Category:24px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|24px|link=|class=bottom]] |  }}{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Face Sprite 2]] [[Category:24px]]
+[[Category:Main]]}} | [[FaceSprite2::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Face Sprite 2]] [[Category:24px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|24px|link=|class=top]] | }}</span><span style="display: inline-block;"> {{PAGENAME}}</span></p> 
+</td>
+
+{{#if:{{{TXMN ID|}}}|
+<td> → {{#expr:({{{TXMN ID}}})+1}}  </td> |}}
+
+</tr></table>
+
+'''{{PAGENAME}}'''{{#if:{{{Species|}}}|, the [[Species::{{{Species|}}}]] tuxemon,|}} is a {{#if:{{{TXMN Types|}}}|{{#arraymap:{{{TXMN Types|}}}|,|x|[[TXMN Types::x]]-type}}|[[TXMN Types::Untyped]]}} monster.  
+
+{{{Main Details|}}}
+=== Trivia ===
+'''Name Origin:''' {{{Name Origin|}}}
+
+==== Design Origin ====
+{{{Design Origin|}}}
+
+=== In [[The Spyder in the Cathedral]] Campaign ===
+
+[[SpyderCampaign::{{{SpyderCampaign|}}}]]
+
+=== Evolution ===
+<table class="invisitable">
+<tr>
+{{#if: {{#ask:[[EvolvesInto.EvolvesInto::{{PAGENAME}}]]}} | <td>{{#ask:[[EvolvesInto.EvolvesInto::{{PAGENAME}}]] | ?Default64px= | mainlabel=- }}</td><td><strong>→</strong></td> | }}
+{{#if: {{#ask:[[EvolvesInto::{{PAGENAME}}]]}} | <td>{{#ask:[[EvolvesInto::{{PAGENAME}}]] | ?Default64px= | mainlabel=- }}</td><td><strong>→</strong></td> | }}
+<td>{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Front Sprite]] [[Category:64px]]
+[[Category:Main]]}} | [[Default64px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Front Sprite]] [[Category:64px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|64px]] | [[Default64px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|64x64px]] }}
+</td>
+{{#if: {{#ask:[[Evolves::{{PAGENAME}}]]}} | <td><strong>→</strong></td><td>{{#ask:[[Evolves::{{PAGENAME}}]] | ?Default64px= | mainlabel=- }}</td> | }}
+{{#if: {{#ask:[[Evolves.Evolves::{{PAGENAME}}]]}} | <td><strong>→</strong></td><td>{{#ask:[[Evolves.Evolves::{{PAGENAME}}]] | ?Default64px= | mainlabel=- }}</td> | }}</tr>
+
+<tr>
+{{#if: {{#ask:[[EvolvesInto.EvolvesInto::{{PAGENAME}}]] }} | <td>{{#ask:[[EvolvesInto.EvolvesInto::{{PAGENAME}}]] }}</td><td> </td> | }}
+{{#if: {{#arraymap:{{{Evolves|}}}|,|x|[[Evolves::x]]}} | <td>{{#arraymap:{{{Evolves|}}}|,|x|[[Evolves::x]]}}</td><td> </td> | }}
+<td><b>{{PAGENAME}}</b></td>
+{{#if: {{#ask:[[Evolves::{{PAGENAME}}]]}} | <td> </td><td>{{#arraymap:{{#ask:[[Evolves::{{PAGENAME}}]]
+|?=#
+|mainlabel=-
+}}|,|x|[[EvolvesInto::x]]}}</td> | }}
+{{#if: {{#ask:[[Evolves.Evolves::{{PAGENAME}}]]}} | <td> </td><td>{{#ask:[[Evolves.Evolves::{{PAGENAME}}]] }}</td> | }}</tr></table>
+
+== Sprites ==
+=== Tuxemon Standard ===
+{| class="wikitable"
+! 64px
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Front Sprite]] [[Category:64px]]
+[[Category:Main]]}} | [[FrontSprite::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Front Sprite]] [[Category:64px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|64px]] | [[FrontSprite::Missing]] }}
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Back Sprite]] [[Category:64px]]
+[[Category:Main]]}} | [[BackSprite::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Back Sprite]] [[Category:64px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|64px]] |  [[BackSprite::Missing]]}}
+|-
+! Face Sprites
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Face Sprite 1]] [[Category:24px]]
+[[Category:Main]]}} | [[FaceSprite1::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Face Sprite 1]] [[Category:24px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|24px]] |  [[Face Sprite 1::Missing]]}}
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Face Sprite 2]] [[Category:24px]]
+[[Category:Main]]}} | [[FaceSprite2::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Face Sprite 2]] [[Category:24px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|24px]] | [[Face Sprite 2::Missing]] }}
+|-
+! Overland Sprites
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Overland Sprite]] [[Category:16px]]
+[[Category:Main]]}} | [[OverlandSprite::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Overland Sprite]] [[Category:16px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}]] | [[OverlandSprite::Missing]] }}
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Overland Sprite]] [[Category:32px]]
+[[Category:Main]]}} | [[OverlandSprite32px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Overland Sprite]] [[Category:32px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}]] | [[OverlandSprite32px::Missing]] }}  
+|}
+
+===Other Standards===
+{| class="wikitable"
+! 48px
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Front Sprite]] [[Category:48px]]
+[[Category:Main]]}} | [[FrontSprite48px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Front Sprite]] [[Category:48px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|48px]] | [[FrontSprite48px::Missing]] }}
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Back Sprite]] [[Category:48px]]
+[[Category:Main]]}} | [[BackSprite48px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Back Sprite]] [[Category:48px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|48px]] |  [[BackSprite48px::Missing]]}}
+|-
+! 56px
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Front Sprite]] [[Category:56px]]
+[[Category:Main]]}} | [[FrontSprite56px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Front Sprite]] [[Category:56px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|56px]] | [[FrontSprite56px::Missing]] }}
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Back Sprite]] [[Category:56px]]
+[[Category:Main]]}} | [[BackSprite56px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Back Sprite]] [[Category:56px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|56px]] |  [[BackSprite56px::Missing]]}}
+|-
+! 80px
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Front Sprite]] [[Category:80px]] [[Category:Main]]}} | [[FrontSprite80px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Front Sprite]] [[Category:80px]] [[Category:Main]]
+|?=#
+|mainlabel=-
+}}|80px]] | [[FrontSprite80px::Missing]] }}
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Back Sprite]] [[Category:80px]] [[Category:Main]]}} | [[BackSprite80px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Back Sprite]] [[Category:80px]] [[Category:Main]]
+|?=#
+|mainlabel=-
+}}|80px]] | [[BackSprite80px::Missing]] }}
+|-
+! Menu Sprites (32px)
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 1]] [[Category:32px]]
+[[Category:Main]]}} | [[MenuSprite1-32px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 1]] [[Category:32px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|32px]] | [[MenuSprite1-32px::Missing]] }}
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 2]] [[Category:32px]]
+[[Category:Main]]}} | [[MenuSprite2-32px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 2]] [[Category:32px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|32px]] | [[MenuSprite2-32px::Missing]] }}
+|-
+! Menu Sprites (24px)
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 1]] [[Category:24px]]
+[[Category:Main]]}} | [[MenuSprite1px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 1]] [[Category:24px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|24px]] | [[MenuSprite1::Missing]] }}
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 2]] [[Category:24px]]
+[[Category:Main]]}} | [[MenuSprite2::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 2]] [[Category:24px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|24px]] | [[MenuSprite2::Missing]] }}
+|-
+! Menu Sprites (16px)
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 1]] [[Category:16px]]
+[[Category:Main]]}} | [[MenuSprite1px::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 1]] [[Category:16px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|16px]] | [[MenuSprite1::Missing]] }}
+| {{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 2]] [[Category:16px]]
+[[Category:Main]]}} | [[MenuSprite2::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 2]] [[Category:16px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|16px]] | [[MenuSprite2::Missing]] }}
+|}
+
+{{#if: {{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Fusion Blank]] [[Category:64px]]
+[[Category:Main]]}} | [[FusionBlank::{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Fusion Blank]] [[Category:64px]]
+[[Category:Main]]
+|?=#
+|mainlabel=-
+}}|128px]] | [[FusionBlank::Missing]] }}
+
+ __NOTOC__
+== Contributors ==
+{{#if:{{{First URL|}}} | <strong>First Appeared:</strong> [{{{First URL|}}}] | }}
+
+{{#arraymap:{{{Sources|}}}|,|x|[[Sources::x]]}}
+
+[[Source Explanation::{{{Source Explanation|}}}]]
+
+== Variations ==
+{{#if:{{{Alternative Names|}}}|<strong>Alternative Names:</strong> {{#arraymap:{{{Alternative Names|}}}|,|x|[[Alternative Names::x]]}}| }}
+
+{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Art]]
+[[Category:Alternative]]
+|format=gallery
+|link=all
+|searchlabel=… further results
+|navigation=nav
+|autocaptions=1
+|intro=Other art
+}}
+{{#ask:[[Category:{{PAGENAME}}]]
+[[Category:Menu Sprite 1||Menu Sprite 2||Menu Sprite||Face Sprite 1||Face Sprite 2||Back Sprite||Front Sprite||Other Sprite]]
+[[Category:Alternative]]
+|link=all
+|searchlabel=… further results
+|navigation=nav
+|intro=<strong style="text-align: center;">Alternative sprites</strong>
+}}
+
+== In other languages ==
+
+{| class="formtable"
+! Language
+| Name
+| Category
+| Blurb
+|-
+! Spanish
+| [[TXMN_ES Name::{{{TXMN_ES Name|}}}]]
+| [[TXMN_ES Species::{{{TXMN_ES Species|}}}]]
+| [[TXMN_ES Blurb::{{{TXMN_ES Blurb|}}}]]
+|-
+! German
+| [[TXMN_DE Name::{{{TXMN_DE Name|}}}]]
+| [[TXMN_DE Species::{{{TXMN_DE Species|}}}]]
+| [[TXMN_DE Blurb::{{{TXMN_DE Blurb|}}}]]
+|-
+! French
+| [[TXMN_FR Name::{{{TXMN_FR Name|}}}]]
+| [[TXMN_FR Species::{{{TXMN_FR Species|}}}]]
+| [[TXMN_FR Blurb::{{{TXMN_FR Blurb|}}}]]
+|-
+! Portuguese
+| [[TXMN_PT Name::{{{TXMN_PT Name|}}}]]
+| [[TXMN_PT Species::{{{TXMN_PT Species|}}}]]
+| [[TXMN_PT Blurb::{{{TXMN_PT Blurb|}}}]]
+|}
+
+[[Category:Monster]]
+[[Category:{{PAGENAME}}]]
+
+{{#arraymap:{{{TXMN Completed|}}}|,|x|[[Category:x]]}}
+{{#arraymap:{{{TXMN Types|}}}|,|x|[[Category:x]]}}
+{{#arraymap:{{{TXMN Sub-Elements|}}}|,|x|[[Category:x (element)]]}}
+{{#arraymap:{{{TXMN Body Shape|}}}|,|x|[[Category:x]]}}
+{{#arraymap:{{{TXMN Sexes|}}}|,|x|[[Category:x]]}}
+{{#arraymap:{{{TXMN Stages|}}}|,|x|[[Category:x]]}}
+{{#arraymap:{{{Sources|}}}|,|x|[[Category:x]]}}
+</includeonly>

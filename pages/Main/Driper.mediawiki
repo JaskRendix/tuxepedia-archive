@@ -1,0 +1,8 @@
+{{Monster
+|Sources=Georg Eckert,
+|Source Explanation=Designed and sprited by Georg Eckert.
+|Evolves=Dradder,
+|Name Origin=''dread'' + ''viper''
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}

@@ -1,0 +1,13 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert
+|Name Origin=''Neptune'' + ''fish''
+|TXMN Types=Water
+|TXMN Body Shape=Leviathan
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Sea
+}}
+{{Evolutions
+|Has Evolution=Nepdron,
+}}

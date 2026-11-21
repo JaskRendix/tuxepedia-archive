@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=136
+|TXMN Blurb=The user uses its charm to weaken the opponent's defenses.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=80%
+|TXMN Recharge=3
+|TXMN Target Condition=Charmed
+|TXMN Animation Target=1
+|Tags=Love
+|Sources=Jaskrendix
+}}

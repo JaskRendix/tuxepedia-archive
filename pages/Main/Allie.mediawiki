@@ -1,0 +1,13 @@
+{{Character
+|Sources=Qiangong2
+|Main Details== Allie: Communication Profile =
+
+== Speech Style ==
+Highly varied. Starts flirtatious and informal, shifts to commanding and superior as an agent, and uses frequent, short sentences in anger or command.
+
+== Tone ==
+Conflicting: Flirtatious/Insecure, then Condescending/Vindictive. She is emotionally volatile and uses her power to assert dominance, particularly over John and the Player.
+
+== Focus ==
+Her personal drama, her authority, and evaluating the Player. She seems less focused on the mission than on enforcing respect and sizing up others.
+}}

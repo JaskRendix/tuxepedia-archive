@@ -1,0 +1,8 @@
+{{Item
+|Item Category=Exploration Item
+|TXMN Usable In=world
+|TXMN Description=Professional fishing rod.
+|TXMN Key Item=yes
+|Sources=Catch Challenger
+|Source Explanation=Main sprite from Catch Challenger, art director Jordan Brule. Project developer Herman Brule. Recolored by Jaskrendix.
+}}

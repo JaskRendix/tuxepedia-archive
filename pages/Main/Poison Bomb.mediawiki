@@ -1,0 +1,7 @@
+{{Item
+|Item Category=Held Item
+|TXMN Effects=grant move Poison Gas
+|TXMN Description=Releases a noxious gas to poison the enemy.
+|Main Details=See move [[Poison Gas]].
+|Sources=HippasusTwo
+}}

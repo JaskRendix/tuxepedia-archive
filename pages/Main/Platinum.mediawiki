@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=143
+|TXMN Blurb=The user's body becomes infused with a lustrous metal, granting it increased defense and the ability to inflict damage.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Metal
+|TXMN Type 2=Earth
+|TXMN Sub-Elements=Metal
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=70%
+|TXMN Power=1.7
+|TXMN Potency=70%
+|TXMN Recharge=2
+|TXMN User Condition=Focused
+|TXMN Target Condition=Softened
+|TXMN Animation Target=1
+|Tags=Gemstone, Machine, Shielded, Steel
+|Sources=Jaskrendix
+}}

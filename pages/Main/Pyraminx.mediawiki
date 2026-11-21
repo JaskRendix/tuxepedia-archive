@@ -1,0 +1,63 @@
+{{Monster
+|Alternative Names=Lepazul, Pharock, Pyralynx,
+|Sources=Josepharaoh99, Leo
+|Source Explanation=Original design and sprites by Leo. Sprites tweaked by josepharaoh99.
+|Species=Noble
+|Evolves=Memnomnom
+|Name Origin=''pyramid'' + ''lynx''
+
+Sanglorian's suggestions:
+* Pharock: ''Pharaoh'' + ''rock''
+* Lepazul: ''leopard'' + ''lapis lazuli''
+|SpyderCampaign=Evolution of a starting monster. Used by a trainer in Walled Garden.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Cosmic, Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=21
+|TXMN Blurb=It has a tomb hidden somewhere in the land. If it finds it, it can sleep.
+|TXMN Height=210
+|TXMN Weight=190
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Ground, Claws, Summoner, Ghost, Water
+|Fusion First=Pyra
+|Fusion Second=minx
+}}
+{{Technique Allocation
+|Has_Technique=Eyebite
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Feint
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Slice
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Rot
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Blade
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Bullet
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=40
+}}

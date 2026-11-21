@@ -1,0 +1,10 @@
+{{Condition
+|TXMN ID=12
+|Positive or Negative=Positive
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME is enraged.
+|Melee Multiplier=2
+|Ranged Multiplier=0.5
+|Details=Melee doubled and Ranged halved.
+}}

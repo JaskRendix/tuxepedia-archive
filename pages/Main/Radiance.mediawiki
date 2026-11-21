@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=144
+|TXMN Blurb=The user emits blinding flash of light, followed by a powerful energy blast.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Wood
+|TXMN Type 2=Metal
+|TXMN Sub-Elements=Heroic
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=95%
+|TXMN Power=2.5
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Light, Leadership
+|Sources=Jaskrendix
+}}

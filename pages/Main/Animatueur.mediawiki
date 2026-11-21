@@ -1,0 +1,60 @@
+{{Monster
+|Sources=Catch Challenger, Jaskrendix
+|Source Explanation=Catch Challenger is an open source project, with assets under Creative Commons Attribution. Original design and sprites by Catch Challenger. Back and face sprites by Jaskrendix.
+|Species=Animator Bird
+|TXMN Types=Fire
+|TXMN Sub-Elements=Fire, Sky
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=413
+|TXMN Blurb=ANIMATUEUR has a deep fondness for motion, and never stops migrating - even in its sleep. It sits still only to contemplate art.
+|TXMN Height=84
+|TXMN Weight=16
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+|TXMN Terrains=Desert, Ruins
+|Tags=Flame, Bird, Claws, Bomber, Speed
+|Fusion First=Anima
+|Fusion Second=tueur
+}}
+{{Technique Allocation
+|Has_Technique=Evasion
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Gust
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Breathe Fire
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Peregrine
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Assault
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Altitude
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Pyrokinesis
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Wicked Wind
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Ten Thousand Feathers
+|Technique_Level=31
+}}

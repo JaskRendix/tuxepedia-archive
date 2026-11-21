@@ -1,0 +1,4 @@
+{{Contributor
+|Main Details=Chris Sakkas. Fan of free culture and open source software.
+|Contributor Types=Contributed to Tuxemon project
+}}

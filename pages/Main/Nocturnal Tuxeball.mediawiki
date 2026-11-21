@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Capture Item
+|TXMN Effects=Capture
+|TXMN Cost=300
+|TXMN Usable In=combat
+|TXMN Description=Captures more easily during nighttime, but its effectiveness is significantly reduced during the day.
+|TXMN Consumable=yes
+|SpyderCampaign=Sold at Timber and Candy Scoop (stocked only at night)
+|Sources=Jaskrendix
+}}

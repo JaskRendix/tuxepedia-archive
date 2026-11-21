@@ -1,0 +1,46 @@
+[[File:Spyder routeb.png|thumbnail]]
+
+== Connections ==
+=== [[Side Route E]] ===
+=== [[Datacenter]] ===
+
+== Events ==
+=== An old "Friend" ===
+[[Rival Billie]]
+* So you noticed the computer system is down too? Fancy a battle to pass the time? ... I guess there are more important things.
+
+== Locations ==
+Sign Datacenter:
+* Welcome to the GoodChat data center. An Omnichannel subsidiary.
+
+Sign Route B:
+* The winding path to instantaneous communication.
+
+== Characters ==
+=== Trainers ===
+[[Enforcer Agent]] Electra:
+* I'm much stronger. 
+* [[Dracune]] level 35, [[Pantherafira]] level 45, [[Tumbleworm]] level 40
+* Twice the pride, double the fall.
+
+[[Enforcer Rookie]] Cytherea:
+* It's a glitch. A bug. A snafu. It's practically a feature. 
+* [[Fluttaflap]] level 35, [[Criniotherme]] level 35, [[Tumblebee]] level 40, 
+* At least we developed the technology before anyone else. 
+
+[[Enforcer Rookie]] Sedna:
+* Get out of here! 
+* [[Squabbit]] level 40
+* I mean it, you've got to get out of here! 
+
+[[Enforcer Agent]] Nephthys:
+* Nothing to see here. Scram! 
+* [[Conifrost]] level 45, [[Djinnbo]] level 45
+* We've lost control. Please, you might just be powerful enough to help! 
+
+[[Enforcer Boss]] Calypso:
+* Why you?
+* [[Ruption]] level 40, [[Puparmor]] level 35, [[Sumchon]] level 40
+* I admire you.
+
+[[Category:Plot]] [[Category:Place]]

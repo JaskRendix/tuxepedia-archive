@@ -1,0 +1,17 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/journal/Fakemon-for-Sale-680318198
+|Sources=TheBritanniaRegion
+|Species=Orbit
+|Evolves=Bubbitoise
+|Name Origin=''wise'' + ''turtle''
+|Design Origin=Sea turtles
+|Main Details=They can live for thousands of years.
+|TXMN Types=Water
+|TXMN Body Shape=Leviathan
+|TXMN Blurb=Their magic located in their huge shells helps regulate the temperature of the water surronding it. They will often shelter fish tuxemon with their huge fins and underbelly.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Coastal, Sea
+|Fusion First=Wis
+|Fusion Second=turtle
+}}

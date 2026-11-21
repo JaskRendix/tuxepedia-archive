@@ -1,0 +1,57 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Royaba, Sanglorian, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Original design by Spalding004 and Royaba. Back sprite by Sanglorian. Face sprites tweaked by Sanglorian.
+|Species=Thunderstone
+|Evolves=Grintot
+|Main Details=Grintock evolves from Grintot when exposed to a [[Thunderstone]], and can be transformed into [[Grinflare]] through use of a [[Flintstone]].
+
+It is believed Grintock and Grinflare are essentially the same tuxemon, but the radiation contained in evolutionary stones alters their makeup.
+|SpyderCampaign=Evolution of a starting monster. Used by trainers in Dojo, Omnichannel HQ, Route 6 and Walled Garden.
+|TXMN Types=Earth, Metal
+|TXMN Sub-Elements=Earth, Lightning
+|TXMN Completed=Complete
+|TXMN Body Shape=Brute
+|TXMN ID=18
+|TXMN Blurb=It feeds by sitting out in thunderstorms, waiting to be struck by lightning.
+|TXMN Height=160
+|TXMN Weight=3000
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Rock, Ground, Fists, Electricity, Gemstone, Weather
+|Fusion First=Grint
+|Fusion Second=rock
+}}
+{{Technique_Allocation
+|Has_Technique=Boulder
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Electroplate
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Stonehenge
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Avalanche
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Surge
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Stampede
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Hammerhead
+|Technique_Level=25
+}}

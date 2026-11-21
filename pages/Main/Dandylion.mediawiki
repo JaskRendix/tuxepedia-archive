@@ -1,0 +1,66 @@
+{{Monster
+|Sources=Josepharaoh99, Leo, ProfessorGreen, SlickedbackArtisan
+|Source Explanation=Original design by ProfessorGreen. Other art by Leo and slickedbackArtisan. Sprites by josepharaoh99. Front sprite tweaked by Leo. Other sprites by ProfessorGreen.
+|Species=Lion's Tooth
+|Evolves=Dandicub
+|Name Origin=''dandy'' + ''dandelion'' + ''lion''
+|Main Details="Attacks: 
+
+* Lions' Tooth:  Wood based attack? 
+* Claw: no element 
+* Roar: status effect?  Debuff? 
+* Insert other plant related attack here... poison pollen?  
+
+Misc: The creature should be concerning of his appearances, because he's dandy!  Not so sure about his evolved forms.  Was thinking of making his head start as a bud, like a real flower.  And when he evolves, he blooms/ flowers!" -ProfessorGreen
+|SpyderCampaign=Found in the wild on Route 6. Used by trainers in Dojo and Dryad's Grove.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=74
+|TXMN Blurb=It gives birth to one litter in its life. Then it wanders the world trying to find them.
+|TXMN Height=138
+|TXMN Weight=45
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|Tags=Plant, Bite, Light
+|Fusion First=Dandy
+|Fusion Second=lion
+}}
+{{Technique Allocation
+|Has_Technique=Pollen Blast
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Sylvan
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Fester
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Sleeping Powder
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Healing Herb
+|Technique_Level=40
+}}

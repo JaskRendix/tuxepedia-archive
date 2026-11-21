@@ -1,0 +1,9 @@
+== Summary ==
+[[Category:16px]]
+[[Category:Overland Sprite]]
+[[Category:Drokoro]]
+[[Category:Cabbit]]
+[[Category:Alternative]]
+[[Category:Sanglorian]]
+
+Adapted by Sanglorian from Cabbit's CC BY [https://opengameart.org/content/24x32-characters-16x16-tiles OGA bat sprite]

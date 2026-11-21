@@ -1,0 +1,53 @@
+{{Monster
+|First URL=https://opengameart.org/content/isaiah658s-pixel-pack-2
+|Sources=Isaiah658, Jaskrendix
+|Source Explanation=Front sprite by Isaiah658. Back and face sprites by Jaskrendix. Alternative sprites by Isaiah658.
+|Species=Thorn
+|TXMN Types=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Sprite
+|TXMN ID=325
+|TXMN Blurb=BURRLOCK likes to stick to passerbys to help it spread from place to place.
+|TXMN Height=50
+|TXMN Weight=10
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|TXMN Terrains=Grassland, Mountains, Woodland
+|Tags=Plant, Sharp
+|Fusion First=Burr
+|Fusion Second=lock
+}}
+{{Evolutions
+|Has Evolution=Cacaburr
+|Evolution Level=24
+}}
+{{Technique Allocation
+|Has_Technique=Pollen Blast
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Tip
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Stabilo
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Perfect Cut
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Needle
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Woodsmash
+|Technique_Level=40
+}}

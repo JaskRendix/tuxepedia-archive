@@ -1,0 +1,15 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2251#p2251
+|Sources=bigbadarmadillo, Piacarrot,
+|Source Explanation=Design and original sprite by bigbadarmadillo and Piacarrot. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Chicken
+|Design Origin=A fossil dodo.
+[[Category:Fossil]]
+|TXMN Types=Earth
+|TXMN Blurb=It roamed the lands millions of years ago. It's believed they died out due to their poor diet of pebbles.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+}}
+{{Evolutions
+|Has Evolution=Dabbadoo
+}}

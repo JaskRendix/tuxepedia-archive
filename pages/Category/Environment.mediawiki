@@ -1,0 +1,5 @@
+{{#default_form:Environment}}
+
+Set using set_variable (see [[Event Reference]])
+
+See also [[Battle Terrain]]

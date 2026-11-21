@@ -1,0 +1,41 @@
+When someone uses a [[Cathedral Center]] to heal, the service is free but to recoup costs they have to watch an ad. 
+
+The ad plays for a number of seconds equal to the number of times the player has visited a Cathedral Center during their playthrough. 
+
+There are no ads for other sources of healing, like the [[Team Bazaar]] providers. 
+
+[[User:Sanglorian]] has used an AI art program to create some placeholder ads: 
+
+* Friends are for eating! Doctors buy Scoop cereal 'for the bits'. (from: Scoop)
+
+[[File:Friendsareforeating.png]]
+
+* Omnichannel TV: You watch us and we'll watch you. (from: Omnichannel)
+
+[[File:Omnichannel-letswatcheachother.png]]
+
+* [[Radio FUD]]: Because reading is for nerds. (from: Omnichannel)
+
+[[File:Radio-becausereadingisfornerds.png]]
+
+* The Nimrod gun-car: For safety. (from: Omnichannel)
+
+[[File:Theguncar-forsafety.png]]
+
+* On the morning commute, the only road rage you should have to deal with is your own. The Nimrod attachable car-gun. (from: Nimrod)
+
+[[File:Myothercarisatank.png]]
+
+* Work is fun when you bring it to the beach. (from: Omnichannel)
+
+[[File:Workisfunwhenyoubringitothebeach.png]]
+
+* Visit the Dojo of the Elements and reach a higher level of understanding. Or just learn to fight better. (from: Nimrod)
+
+[[File:Visitdojo.png]]
+
+* Fill the void inside with rubies. (from: Shaft)
+
+[[File:Rubiesfillthevoid.png]]
+
+[[Category:Proposed content]]

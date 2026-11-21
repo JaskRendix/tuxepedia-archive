@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=135
+|TXMN Blurb=The user draws power from its ancestors to unleash an attack.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.5
+|TXMN Recharge=3
+|TXMN Animation Target=1
+|Tags=Ghost, Leadership
+|Sources=Jaskrendix
+}}

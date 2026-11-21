@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=35
+|TXMN Blurb=A glance from the user saps the target of its vim and vigor.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Shadow
+|TXMN Family=Exotic
+|TXMN Is fast=Very Fast
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN Target Condition=exhausted
+|TXMN Animation Target=1
+|Tags=Gaze
+|Sources=Sanglorian
+}}

@@ -1,0 +1,71 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=1779
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Front sprite by Serpexnessie. Back and face sprites by Jaskrendix.
+|Species=Spiked
+|Name Origin=''urchin'' + ''needle''
+|SpyderCampaign=Found in the wild in Leather Town, Timber Town and Flower City.
+|TXMN Types=Water
+|TXMN Sub-Elements=Earth, Venom
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=243
+|TXMN Blurb=It can't move or attack, so it sits still and prays that the opponent damages itself on its many needles.
+|TXMN Height=30
+|TXMN Weight=0.5
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Sea
+|Tags=Sharp, Toxic, Water
+|Fusion First=Urch
+|Fusion Second=eedle
+}}
+{{Technique Allocation
+|Has_Technique=Spiky Strike
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Torch
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Flow
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Roll
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Mobbing
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Icicle Spear
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Venomous Tentacle
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Needle
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Ice Claw
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Poison Courtship
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Flood
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Thorn Burst
+|Technique_Level=40
+}}

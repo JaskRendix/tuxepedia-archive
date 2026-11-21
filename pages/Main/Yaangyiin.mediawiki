@@ -1,0 +1,8 @@
+{{Trainer
+|Sources=JosephSeraph
+|Source Explanation=Front sprite by JosephSeraph.
+|Genre=Gijinka
+|Combat Type=1 vs 1
+|Main Details=[[Category:Yiinaang]]
+A gijinka of [[Yiinaang]]
+}}

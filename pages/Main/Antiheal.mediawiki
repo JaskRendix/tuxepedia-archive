@@ -1,0 +1,7 @@
+{{Item
+|Item Category=Held Item
+|TXMN Effects=Festering
+|TXMN Description=Prevents the opponent from healing by releasing noxious gases.
+|Main Details=Could be a held item or an item the user throws at the opponent from the item menu. Alternatively, could grant a move that does festering as a status. Or both.
+|Sources=HippasusTwo
+}}

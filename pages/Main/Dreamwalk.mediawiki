@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=211
+|TXMN Blurb=Allows the user to enter the dreams of sleeping opponents, potentially dealing damage.
+|TXMN Completed=Complete
+|TXMN Category=Reliable
+|TXMN Type 1=Metal
+|TXMN Sub-Elements=Cosmic, Shadow
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=2.8
+|TXMN Recharge=2
+|TXMN Animation Target=0
+|Tags=Mental
+|Main Details=The move only works if the opponent is asleep. This means that the move will not work if the opponent is awake or in any other state.
+|Sources=Jaskrendix
+}}

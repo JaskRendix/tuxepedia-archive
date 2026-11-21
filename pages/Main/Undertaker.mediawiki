@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=152
+|TXMN Blurb=A desperate, self-sacrificing attack that deals a massive damage at the cost of the user's health.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Shadow
+|TXMN Family=Exotic
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=100%
+|TXMN Power=1
+|TXMN Effects=Sacrifice
+|TXMN Potency=100%
+|TXMN Recharge=1
+|TXMN Target Condition=Prickly
+|TXMN Animation Target=1
+|Tags=Ghost, Ground
+|Sources=Jaskrendix
+}}

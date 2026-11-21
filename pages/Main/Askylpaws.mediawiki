@@ -1,0 +1,83 @@
+{{Monster
+|Sources=HippasusTwo
+|Species=Erythrocyte
+|Evolves=Doctsky
+|Name Origin=A play on 'Asclepius', 'Paws', and Doctsky having 'sky' in it.
+|Design Origin=Hyenas and ancient Greek myth of Asclepius, the healer who could bring back the dead and ascended to Godhood. They are associated with snakes and a staff.
+
+Could easily be interpreted as Venom/Cosmic, Venom/Shadow or Shadow/Cosmic in an expanded type system, depending on which gives better game balance or variety of type mixtures.
+|Main Details=Intended as one of two evos for Doctsky that provide a more adult looking form, since Doctsky looks very puppyish (though not as much as its baby form).
+
+By choosing to evolve early or late with an item, the player has more strategy over moves, as the previous form does not learn any poison moves.
+|TXMN Types=Metal, Wood
+|TXMN Sub-Elements=Cosmic, Venom
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=360
+|TXMN Blurb=It is an omen of disaster, often appearing in times of great trouble. This has caused others to sometimes blame it for the misfortune.
+|TXMN Height=200
+|TXMN Weight=80
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Urban
+|Tags=Healing, Bite, Darkness, Gadgets, Toxic, Celestial, Staff
+|Fusion First=Asky
+|Fusion Second=lpaws
+}}
+{{Technique Allocation
+|Has_Technique=Barking
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Ram
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Revenge Stance
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Canine
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Hibernate
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Mystic Blending
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Take Cover
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Staff Smash
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Caustic Spray
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Fluff Up
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=All In
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Viper
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Divinity Beam
+|Technique_Level=55
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=61
+}}

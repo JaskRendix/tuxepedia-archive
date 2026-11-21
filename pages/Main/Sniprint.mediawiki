@@ -1,0 +1,17 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/014-016-Sandsprint-Fowltlaw-Desperfowldo-665602530
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Face sprites adapted by Jaskrendix.
+|Name Origin=''snipe'' (a bird) + ''sprint''
+|Main Details=A small, agile bird Tuxemon with vibrant plumage. SNIPRINT is known for its incredible speed and sharp eyesight, making it a formidable hunter of insects.
+|TXMN Height=30
+|TXMN Weight=1.5
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Fusion First=Snip
+|Fusion Second=rint
+}}
+{{Evolutions
+|Has Evolution=Fowltlaw,
+}}

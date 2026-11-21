@@ -1,0 +1,80 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Lanea Zimmerman, Sanglorian, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Original design and sprites by Spalding004. Face sprites by Sanglorian. Overland sprites by Lanea Zimmerman and Sanglorian.
+|Species=Host
+|Main Details=A generally happy and jolly tuxemon.
+|SpyderCampaign=Found in the wild in Tunnel B and Mansion. Used by trainers in Scoop HQ and Wayfarer Inn.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Blob
+|TXMN ID=71
+|TXMN Blurb=A jolly piece of furniture who awoke one morning and decided to explore.
+|TXMN Height=54
+|TXMN Weight=10
+|TXMN Catch Resistance=100
+|TXMN Sexes=Neuter
+|TXMN Stages=Basic
+|Tags=Mental, Megafauna
+|Fusion First=Cair
+|Fusion Second=frey
+|TXMN_FR Name=Canhappy
+|TXMN_FR Blurb=Un meuble joyeux qui s'est réveillé un matin et a décidé d'explorer.
+}}
+{{Evolutions
+|Has Evolution=Possessun
+|Evolution Level=32
+}}
+{{Technique_Allocation
+|Has_Technique=Pseudopod
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Refresh
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Stampede
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Mending
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Greenstone
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Muddle
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Quicksand
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Crystal
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Muck
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Amnesia
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=37
+}}
+{{Technique_Allocation
+|Has_Technique=Constrict
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=55
+}}

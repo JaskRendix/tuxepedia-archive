@@ -1,0 +1,10 @@
+{{Monster
+|First URL=https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/Guardians.md
+|Sources=Georg Eckert
+|Evolves=Andron
+|Name Origin=''android'' + ''main''
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}

@@ -1,0 +1,72 @@
+{{Monster
+|First URL=https://opmon-game.ga/
+|Sources=Jaskrendix, OPMon
+|Source Explanation=From the open source game OPMon.
+|Species=Every Thorn
+|Evolves=Toxiris
+|Name Origin=''ninja'' + ''jasmine''
+|Main Details=Blurb (FR): NINJASMINE empoisonne ses adversaires rapidement grâce à ses 2 épées de poisons.
+|TXMN Types=Wood
+|TXMN Sub-Elements=Venom, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Humanoid
+|TXMN ID=206
+|TXMN Blurb=NINJASMINE poisons his opponents quickly using his two poison swords.
+|TXMN Height=160
+|TXMN Weight=60
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|TXMN Terrains=Jungle
+|Tags=Love, Plant, Toxic, Bomber, Sharp
+|Fusion First=Ninjas
+|Fusion Second=mine
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Sting
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Splinter
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Assault
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Blossom
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Stabilo
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Clairaudience
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Fester
+|Technique_Level=22
+}}
+{{Technique Allocation
+|Has_Technique=Radiance
+|Technique_Level=28
+}}
+{{Technique Allocation
+|Has_Technique=Poison Courtship
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=One-Two
+|Technique_Level=37
+}}
+{{Technique Allocation
+|Has_Technique=Flower Bloom
+|Technique_Level=40
+}}

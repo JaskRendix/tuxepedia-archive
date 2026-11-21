@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=282
+|TXMN Blurb=They coat themselves in a protective poison, absorbing it harmlessly.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Venom
+|TXMN Family=Special
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=100%
+|TXMN Effects=Reverse user, "remove poison, user"
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN User Condition=Elemental Shield
+|TXMN Animation Target=0
+|Tags=Toxic
+|Main Details=Pretty decent, so it has a cool-down despite being a special move.
+|Sources=HippasusTwo
+}}

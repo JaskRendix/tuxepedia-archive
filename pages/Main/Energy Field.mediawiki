@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=22
+|TXMN Blurb=The device saps the target's energy, empowering the user.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Lightning
+|TXMN Family=Powerful
+|TXMN Is fast=Very Fast
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN User Condition=charging
+|TXMN Target Condition=exhausted
+|TXMN Animation Target=3
+|Tags=Machine
+|Sources=Sanglorian, Catch Challenger
+|Source Explanation=Technique by Sanglorian. "Screen" animation by Catch Challenger.
+}}

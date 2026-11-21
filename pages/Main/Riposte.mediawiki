@@ -1,0 +1,15 @@
+{{Technique
+|TXMN ID=187
+|TXMN Blurb=The user assumes a defensive stance, preparing to counter any attack with a swift and powerful retaliation.
+|TXMN Category=Special
+|TXMN Sub-Elements=Normal
+|TXMN Family=Condition imposer
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=1
+|TXMN User Condition=Retaliate
+|Tags=Speed, Sharp, Shielded
+|Main Details=Name origin: riposte originates from the French word meaning "a quick reply or retort". In fencing, it specifically refers to a counterattack made immediately after parrying an opponent's attack.
+|Sources=Sanglorian
+}}

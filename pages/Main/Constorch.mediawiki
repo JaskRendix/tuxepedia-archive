@@ -1,0 +1,18 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/004-006-Constorch-Tophistone-Titannon-665961211
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Face sprites adapted by Jaskrendix.
+|Name Origin=''constrict'' + ''torch''
+|Main Details=CONSTORCH is a serpentine Tuxemon with a fiery torch-like appendage at the end of its tail. As the first stage of its evolution, its relatively small and agile, using its fiery tail and constricting abilities to overpower opponents.
+|TXMN Types=Fire
+|TXMN Height=70
+|TXMN Weight=15
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|Fusion First=Cons
+|Fusion Second=torch
+}}
+{{Evolutions
+|Has Evolution=Tophistone,
+}}

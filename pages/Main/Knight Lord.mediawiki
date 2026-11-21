@@ -1,0 +1,7 @@
+{{Trainer
+|Alternative Names=Captain
+|Sources=Catch Challenger, Antifarea
+|Source Explanation=Front sprite by Antifarea. Overland sprite by Catch Challenger.
+|Genre=Fantasy Historical
+|Combat Type=1 vs 1
+}}

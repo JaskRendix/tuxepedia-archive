@@ -1,0 +1,16 @@
+{{Technique
+|TXMN ID=132
+|TXMN Blurb=The user summons the power of a legendary sea creature, unleashing a devastating attack.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Water
+|TXMN Family=Simple
+|TXMN Is fast=Extremely Slow
+|TXMN Accuracy=80%
+|TXMN Power=2.5
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Pseudopod, Summoner
+|Sources=Jaskrendix
+}}

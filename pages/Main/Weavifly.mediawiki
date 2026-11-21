@@ -1,0 +1,66 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=HippasusTwo, Sanglorian, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Original design and sprites by Spalding004. Face sprites tweaked by Sanglorian. Alternative sprites tweaked by HippasusTwo.
+|Species=Brood
+|Evolves=Puparmor
+|SpyderCampaign=Found in the wild in Route 7. One trainer on Route 3 has a Weavifly.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal, Sky
+|TXMN Completed=Complete
+|TXMN Body Shape=Grub
+|TXMN ID=35
+|TXMN Blurb=When it is heavy with egg, it becomes unable to fly.
+|TXMN Height=52
+|TXMN Weight=17
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|Tags=Sharp, Bug, Bomber
+|Fusion First=Weavi
+|Fusion Second=fly
+}}
+{{Technique Allocation
+|Has_Technique=Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Frighten
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Buzz
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Hibernate
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Perfect Cut
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Blade
+|Technique_Level=10
+}}
+{{Technique Allocation
+|Has_Technique=Lineage
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Viper
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Eyebite
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Tornado
+|Technique_Level=34
+}}

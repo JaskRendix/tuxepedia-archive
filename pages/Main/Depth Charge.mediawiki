@@ -1,0 +1,19 @@
+{{Technique
+|TXMN ID=205
+|TXMN Blurb=The user dives underwater and then explode upwards, dealing damage to the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Water
+|TXMN Sub-Elements=Water
+|TXMN Family=Simple
+|TXMN Is fast=Extremely Fast
+|TXMN Accuracy=80%
+|TXMN Power=1
+|TXMN Effects=Disappear Strike
+|TXMN Potency=100%
+|TXMN Recharge=4
+|TXMN Animation Target=0
+|Tags=Amphibian, Water
+|Main Details=[[Depth Charge]] is diving underwater and it's followed by [[Strike]] where the monster explodes upwards. The monster is unable to dive if under the effect [[Stuck]] or [[Grabbed]].
+|Sources=Jaskrendix
+}}

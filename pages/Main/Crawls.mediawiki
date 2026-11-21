@@ -1,0 +1,21 @@
+== The pitch ==
+[https://forum.tuxemon.org/thread.php?pid=2047#p2047 Original thread]
+
+Once you're a fair way through your adventure, you get the opportunity to go on Crawls. A Crawl is a level-capped route/dungeon/forest/combination that costs money to enter. Once you enter, you can only leave by blacking out or using an Escape Key, or by completing the Crawl. Either way, once you're out the Crawl resets.
+
+To enter the Crawl, and periodically throughout the Crawl, you have to have no more than X items in your inventory (say, 5 or 10). You pick up lots of items while on the Crawl, but you have to use most of them because you can't take them with you.
+
+That's it. As you can see, most of what's needed to make a Crawl work is stuff we already have, or that we'd implement anyway, so there shouldn't be any extra programming load. But the Crawls themselves would open up an interesting design space:
+
+* They encourage a use-it-or-lose-it approach to items. If you pick up TMs, it's probably easiest to just use them on whatever tuxemon you have with you, rather than having them clog up your inventory.
+* They give a reason to catch, train and master tuxemon that aren't on your standard team, for two reasons: angel If you want to do a low-level Crawl, you can't use your default level 50 team even if you want to. (b) Crawls would have different challenges and threats, so they might only be winnable with say an all-Water team, or a team carefully crafted for that exact Crawl.
+* You could introduce interesting challenges that would test players' mastery of the rules. A simple example is a Crawl where all the creatures are level 40, but you can only bring in creatures of level 30 or lower. Or you could have a Crawl where you can only bring one tuxemon, but you'll face tuxemon with techniques of all types. Or you could have a Crawl where you fight a single tuxemon, but it's got an absurd amount of HP. Or a Crawl where you take damage with every step. The possibilities are vast.
+* They give a sense of achievement and something to work towards.
+
+Obviously the focus should be on getting the core game working, but I wanted to record this idea because I think it would be a very rewarding addition to the core gameplay, and one that could be introduced with little or no programming required.
+
+== Followup ==
+* Some crawls could be part of the main storyline, rather than an addendum ([[Scoop HQ]] is a prime candidate; [[Omnichannel HQ]], [[Greenwash HQ]], [[Hospital]] and [[Walled Garden]] are other options)
+* A hidden path in the forest leads you to a encampment of people who train in the crawls.  There are several crawls available there.  The whole thing being led by a somewhat crazy guy who organizes it, a [[Crawl Maniac]].  It would feel like a shabby assortment of shacks, a hot spring, a vendor.  You could challenge yourself to the crawls and there would be a leader board.
+
+[[Category:Proposed content]]

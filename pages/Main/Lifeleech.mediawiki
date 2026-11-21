@@ -1,0 +1,12 @@
+{{Condition
+|Positive or Negative=Negative
+|Response to Positive Condition=Replace
+|Response to Negative Condition=Replace
+|Text When Gained=NAME's lifeforce is being leeched.
+|End of Round Text=NAME is having their lifeforce stolen.
+|Details=At End of Round, lose 1/16 of Max HP. Enemy heals the same amount.
+|TXMN_ES Name=Chupavidas
+|TXMN_ES Text When Gained={user} está absorbiendo la vida de {target}.
+|TXMN_ES End of Round Text=¡{user} perdió salud por chupavidas!
+|TXMN ID=3
+}}

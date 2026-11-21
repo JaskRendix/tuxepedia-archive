@@ -1,0 +1,9 @@
+== Summary ==
+Based on the [[Tux]] sprite.
+
+[[Category:Front Sprite]]
+[[Category:64px]]
+[[Category:Main]]
+[[Category:JaskRendix]]
+[[Category:Tux Fan]]
+[[Category:HippasusTwo]]

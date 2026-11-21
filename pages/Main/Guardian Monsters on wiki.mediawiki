@@ -1,0 +1,7 @@
+Main: [[Guardian Monsters]], [[Georg Eckert]]
+
+<table><tr><td>{{#ask:[[Sources::Georg Eckert]] |limit=500
+|?MainImage
+|?FrontSprite
+|?TXMN Blurb
+}}</td></tr></table>

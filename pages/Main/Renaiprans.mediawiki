@@ -1,0 +1,54 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us.
+|Name Origin=''renaissance'' ("rebirth") + ''prisme'' ("prism"). This reflects the Tuxemon's connection to ancient art and its ability to refract light with its marble-like body.
+|Design Origin=Inspired by classical marble statues.
+|Main Details=A majestic Tuxemon resembling a white horse, sculpted from pure marble. Its serene expression and flowing mane give it an air of timeless elegance.
+|TXMN Types=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Blurb=RENAIPRANS is said to be guardian of ancient ruins, silently watching over them for centuries.
+|TXMN Height=150
+|TXMN Weight=120
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Megafauna
+|Fusion First=Renai
+|Fusion Second=prans
+}}
+{{Technique Allocation
+|Has_Technique=Stampede
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Rock
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Crystal
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Trample
+|Technique_Level=8
+}}
+{{Technique Allocation
+|Has_Technique=Radiance
+|Technique_Level=12
+}}
+{{Technique Allocation
+|Has_Technique=Wallow
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Sands of Time
+|Technique_Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Rocky Barrage
+|Technique_Level=32
+}}
+{{Technique Allocation
+|Has_Technique=Earth Charge
+|Technique_Level=38
+}}

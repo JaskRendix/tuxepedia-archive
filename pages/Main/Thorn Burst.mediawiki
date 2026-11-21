@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=200
+|TXMN Blurb=The user unleashes a rain of thorns, shooting a cloud of sharp, piercing projectiles at the opponent, dealing damage and potentially causing the opponent to become stuck, immobilized by the thorny barrage.
+|TXMN Category=Ranged
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=95%
+|TXMN Power=3
+|TXMN Potency=80%
+|TXMN Recharge=3
+|TXMN Target Condition=Stuck
+|TXMN Animation Target=0
+|Tags=Plant
+|Sources=Jaskrendix, HippasusTwo
+}}

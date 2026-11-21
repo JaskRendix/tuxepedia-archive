@@ -1,0 +1,9 @@
+{{Monster
+|First URL=https://www.deviantart.com/crisfarias/art/Fakemon-Auction-749152782
+|Sources=CrisFarias, Infinipede,
+|Source Explanation=Design and art by CrisFarias. Front sprite by Infinipede.
+|Evolves=Sparepple,
+|TXMN Types=Wood
+|TXMN Sexes=Neuter
+|TXMN Stages=Stage1
+}}

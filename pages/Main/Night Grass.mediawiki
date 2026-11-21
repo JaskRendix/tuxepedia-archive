@@ -1,0 +1,4 @@
+{{Environment
+|Sources=Pixel32, Sanglorian
+|Source Explanation=Front and back island sprites resized from sprites by pixel32, recoloured by Sanglorian.
+}}

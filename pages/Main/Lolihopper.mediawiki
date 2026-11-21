@@ -1,0 +1,14 @@
+{{Monster
+|First URL=https://thebritanniaregion.deviantart.com/art/Circupop-and-Lolihopper-676583038
+|Sources=TheBritanniaRegion
+|Species=Rockhopper Penguin
+|Evolves=Circupop
+|Name Origin=''lollipop'' + ''rockhopper (penguin)''
+|Design Origin=Rockhopper penguin and lollipops.
+|Main Details=The lollipop is holds is very heavy, they carry it everywhere to build up strength in their wings.
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost
+|TXMN Blurb=Many choose to climb the merciless mountains of the region to train and clear their minds. They will often fight under areas where avalanches are most likely to prove their bravery and risk-taking.
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+}}

@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=239
+|TXMN Blurb=On touch, the user explodes with spores. These have a small chance of infecting the target and leeching life from them.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.4
+|TXMN Potency=25%
+|TXMN Recharge=1
+|TXMN Target Condition=Lifeleech
+|TXMN Animation Target=0
+|Tags=Spore
+|Main Details=Kind of like a melee version of pollen blast, but themed for fungi.
+}}

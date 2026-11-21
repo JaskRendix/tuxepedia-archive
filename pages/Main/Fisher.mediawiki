@@ -1,0 +1,6 @@
+{{Trainer
+|Sources=Sanglorian, Catch Challenger
+|Source Explanation=Main sprite by Sanglorian. Overland sprite by Sanglorian, hat based on a Catch Challenger sprite.
+|Genre=Modern
+|Combat Type=1 vs 1
+}}

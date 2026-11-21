@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=6
+|TXMN Blurb=A heavy rock falls on the target.
+|TXMN Completed=Complete
+|TXMN Category=Touch
+|TXMN Type 1=Earth
+|TXMN Sub-Elements=Earth
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Power=1.5
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Rock
+|Sources=Sanglorian, Cavalcadeur
+|Source Explanation=Technique by Sanglorian. "Crushing ball" animation by Cavalcadeur.
+}}

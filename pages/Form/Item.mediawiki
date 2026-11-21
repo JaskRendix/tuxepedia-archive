@@ -1,0 +1,78 @@
+<noinclude>
+This is the "Item" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Item}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Item}}}
+{| class="formtable"
+! TXMN ID: 
+| {{{field|TXMN ID}}}
+|-
+! Item Category: 
+| {{{field|Item Category|input type=checkboxes|values=Story Item, Functional Item, Exploration Item, Capture Item, Morph Item, Held Item, Medicine, Combat Consumable, Out of Combat Consumable, Technique Teaching Item, Crafting Item, Tool Item, Ingredient Item, Food Item, No Current Use}}}
+|-
+! Effects: 
+| {{{field|TXMN Effects}}}
+|-
+! Target: 
+| {{{field|TXMN Target|input type=checkboxes|values=player}}}
+|-
+! Standard Retail Price (the normal or expected price in shops): 
+| {{{field|TXMN Cost}}}
+|-
+! Type (if any; most items do not have a type): 
+| {{{field|TXMN Type|input type=text with autocomplete}}}
+|-
+! Requirements: 
+| {{{field|TXMN Requirements|input type=text with autocomplete}}}
+|-
+! Usable In: 
+| {{{field|TXMN Usable In|input type=checkboxes|values=world, combat}}}
+|-
+! Description: 
+| {{{field|TXMN Description|input type=textarea}}}
+|-
+! Consumable: 
+| {{{field|TXMN Consumable|input type=radiobutton|values=yes}}}
+|-
+! Is this a Key Item? (Key Items cannot be deleted or sold by the player) 
+| {{{field|TXMN Key Item|input type=radiobutton|values=yes}}}
+|-
+! Main Details: 
+| {{{field|Main Details|input type=textarea}}}
+|-
+! In [[The Spyder in the Cathedral]] campaign
+| {{{field|SpyderCampaign|rows=6|autogrow|input type=textarea|}}}
+|-
+! Sources: 
+| {{{field|Sources}}}
+|-
+! Source Explanation: 
+| {{{field|Source Explanation}}}
+|}
+
+=== In Other Languages ===
+{| 
+! Language 
+| Name 
+| Description
+|- 
+! Spanish 
+| {{{field|TXMN_ES Name|}}} 
+| {{{field|TXMN_ES Description|}}} 
+|}
+
+{{{end template}}}
+
+=== Edit summary ===
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

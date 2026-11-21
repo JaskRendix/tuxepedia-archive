@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=26
+|TXMN Blurb=Carnivorous plants grow around the target, drawing away nutrients for the user's benefit.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=85%
+|TXMN Power=1.25
+|TXMN Effects=healing user
+|TXMN Healing Power=2
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Plant, Healing, Bug
+|Sources=Sanglorian, Catch Challenger
+|Source Explanation=Technique by Sanglorian. "Gloop orange" animation by Catch Challenger.
+}}

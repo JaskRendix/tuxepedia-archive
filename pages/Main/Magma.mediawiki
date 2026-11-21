@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=137
+|TXMN Blurb=The user erupts with a torrent of molten rock.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Fire
+|TXMN Sub-Elements=Fire
+|TXMN Family=Simple
+|TXMN Is fast=Very Slow
+|TXMN Accuracy=80%
+|TXMN Power=1.4
+|TXMN Effects=areas
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Rock, Flame
+|Sources=Jaskrendix
+}}

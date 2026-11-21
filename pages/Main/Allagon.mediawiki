@@ -1,0 +1,77 @@
+{{Monster
+|First URL=http://spalding004.deviantart.com/art/Sitran-Region-FakeDex-370934685
+|Sources=Chickenshowman, Spalding004
+|Source Explanation=Spalding004 has released his Sitran Fakedex under a Creative Commons Attribution 4.0 International licence for us. Original design by Spalding004. Front sprite by Spalding004. Other sprites by Chickenshowman.
+|Species=Dragon
+|Evolves=Wrougon
+|Name Origin=''alloy'' + ''dragon''
+|Main Details=[[Category:Dragons]]
+|SpyderCampaign=Used by trainers in Dragon's Cave and Dryad's Grove.
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Completed=Complete
+|TXMN Body Shape=Dragon
+|TXMN ID=160
+|TXMN Blurb=Allagon are drawn to relics made from the metals left behind by their ancestors, and will be violent to retrieve them.
+|TXMN Height=162
+|TXMN Weight=145
+|TXMN Catch Resistance=70
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage1
+|TXMN Terrains=Ruins, Underground
+|Tags=Steel, Soldier, Sharp, Tail
+|Fusion First=Alla
+|Fusion Second=gon
+}}
+{{Evolutions
+|Has Evolution=Ferricran
+|Evolution Level=55
+}}
+{{Technique Allocation
+|Has_Technique=Tail Lash
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Bullet
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Viper
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Insanity
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Muddle
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Strike
+|Technique_Level=16
+}}
+{{Technique Allocation
+|Has_Technique=Rust Bomb
+|Technique_Level=40
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=43
+}}
+{{Technique Allocation
+|Has_Technique=Wall of Steel
+|Technique_Level=46
+}}
+{{Technique Allocation
+|Has_Technique=Amnesia
+|Technique_Level=61
+}}
+{{Technique Allocation
+|Has_Technique=Undertaker
+|Technique_Level=64
+}}
+{{Technique Allocation
+|Has_Technique=Shadow Blast
+|Technique_Level=70
+}}

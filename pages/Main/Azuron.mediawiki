@@ -1,0 +1,15 @@
+{{Monster
+|First URL=https://www.reddit.com/r/fakemon/comments/b35551/a_couple_months_back_i_came_upon_an_opensource/
+|Sources=Chairry-Art, Jaskrendix
+|Source Explanation=Design and front sprite by Chairry-Art. Face sprites by Jaskrendix.
+|Evolves=Herotint
+|Design Origin=Based on [[Eaglace]] by [[Leo]].
+|TXMN Types=Water
+|TXMN Body Shape=Flier
+|TXMN Blurb=Any battle against an Azuron will result in complete mystification from its opponent. It utilizes its unique mist-based powers to avoid and tease its enemies
+|TXMN Catch Resistance=35
+|TXMN Sexes=Male, Female
+|TXMN Stages=Stage2
+|Fusion First=Azu
+|Fusion Second=ron
+}}

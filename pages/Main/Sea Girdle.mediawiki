@@ -1,0 +1,10 @@
+{{Item
+|Item Category=Morph Item
+|TXMN Effects=evolve
+|TXMN Cost=2000
+|TXMN Usable In=world
+|TXMN Description=A string of baubles, soft and slimy like kelp.
+|TXMN Consumable=yes
+|Sources=Henrique Lazarini
+|Source Explanation=Sprite by Henrique Lazarini.
+}}

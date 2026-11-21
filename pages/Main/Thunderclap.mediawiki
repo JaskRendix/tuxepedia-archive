@@ -1,0 +1,20 @@
+{{Technique
+|TXMN ID=20
+|TXMN Blurb=A sudden, deafening clap of thunder that stuns and damages the opponent.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Fire
+|TXMN Type 2=Earth
+|TXMN Sub-Elements=Lightning
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=95%
+|TXMN Power=1.25
+|TXMN Potency=75%
+|TXMN Recharge=2
+|TXMN Target Condition=exhausted
+|TXMN Animation Target=1
+|Tags=Electricity
+|Sources=Sanglorian, Tamashihoshi
+|Source Explanation=Technique by Sanglorian. "Thunderstrike" animation by Tamashihoshi.
+}}

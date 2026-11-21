@@ -1,0 +1,18 @@
+{{Technique
+|TXMN ID=223
+|TXMN Blurb=Barrage the opponent with a series of leaves.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Family=Simple
+|TXMN Is fast=Slow
+|TXMN Accuracy=90%
+|TXMN Power=1.3
+|TXMN Effects=multi attack 2
+|TXMN Recharge=1
+|TXMN Animation Target=1
+|Tags=Plant
+|Main Details=Decently powerful move due to the multi-attack, effective 2.6 power. Mid-game move.
+|Sources=HippasusTwo
+}}

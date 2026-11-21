@@ -1,0 +1,14 @@
+{{Monster
+|Sources=Davidliang
+|Species=Jigsaw
+|Evolves=Puzzlemon
+|TXMN Types=Metal
+|TXMN Sub-Elements=Metal
+|TXMN Body Shape=Sprite
+|TXMN Stages=Stage1
+|TXMN Terrains=Urban
+}}
+{{Evolutions
+|Has Evolution=Puzzleking
+|Evolution Level=40
+}}

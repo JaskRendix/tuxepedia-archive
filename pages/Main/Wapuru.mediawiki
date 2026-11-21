@@ -1,0 +1,10 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2249#p2249
+|Sources=Piacarrot, JustinNuggets,
+|Source Explanation=Design and original sprite by Piacarrot and JustinNuggets. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Species=Whirlpool
+|TXMN Types=Water
+|TXMN Blurb=It has a whirlpool for a tail, which it uses to pedal itself around the ocean. Sometimes the pressure is too strong and it gets stuck, creating a whirlpool.
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}

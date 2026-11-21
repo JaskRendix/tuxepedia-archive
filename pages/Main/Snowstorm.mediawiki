@@ -1,0 +1,22 @@
+{{Technique
+|TXMN ID=25
+|TXMN Blurb=A blizzard engulfs the opponent, inflicting cold damage and leaving them exhausted.
+|TXMN Completed=Complete
+|TXMN Category=Melee
+|TXMN Type 1=Earth
+|TXMN Type 2=Water
+|TXMN Sub-Elements=Frost
+|TXMN Family=Powerful
+|TXMN Is fast=Normal
+|TXMN Accuracy=60%
+|TXMN Power=3
+|TXMN Effects=splash
+|TXMN Potency=100%
+|TXMN Recharge=3
+|TXMN Target Condition=exhausted
+|TXMN Animation Target=3
+|Tags=Calamity, Weather
+|Sources=Sanglorian, Superpowers Asset Packs
+|Source Explanation=Technique by Sanglorian. "Explosion ice" animation by Superpowers Asset Packs.
+|TXMN Is area=True
+}}

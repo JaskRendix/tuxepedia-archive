@@ -1,0 +1,69 @@
+{{Monster
+|Sources=tamashihoshi
+|Source Explanation=Original design and sprites by tamashihoshi.
+|Species=Serpent's Tooth
+|Name Origin=''mask'' + ''snake''
+|SpyderCampaign=Used by trainers in Dojo, Dryad's Grove, Greenwash HQ and Tunnel B.
+|TXMN Types=Fire
+|TXMN Sub-Elements=Cosmic
+|TXMN Completed=Complete
+|TXMN Body Shape=Serpent
+|TXMN ID=115
+|TXMN Blurb=When frightened or aggressive, it flashes a beautiful pattern with its tail.
+|TXMN Height=112
+|TXMN Weight=8
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|Tags=Light, Mental
+|Fusion First=Mask
+|Fusion Second=nake
+}}
+{{Technique_Allocation
+|Has_Technique=Starfall
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Beam
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Supernova
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Lava
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Firestorm
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Magma
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Thunderclap
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Muddle
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Chameleon
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Fire Claw
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Bubble Trap
+|Technique_Level=37
+}}
+{{Technique_Allocation
+|Has_Technique=Flamethrower
+|Technique_Level=40
+}}

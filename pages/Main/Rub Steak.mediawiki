@@ -1,0 +1,19 @@
+{{Item
+|Item Category=Food Item
+|TXMN Effects=Food Preference
+|TXMN Cost=900
+|TXMN Usable In=world
+|TXMN Description=Flamehorn-style roast rubbed with spice crystals. Bold, seared, and humming with heat.
+|TXMN Consumable=yes
+|Main Details=Required Ingredients:
+* [[Flamehorn Shank]]: 1
+* [[Glowfat]]: 1
+* [[Crackle Salt]]: 1
+* [[Starpepper]]: 1
+* [[Sweetroot]]: 1
+
+Possible Outputs:  
+* [[Rub Steak]], 1, 0.9  
+* [[Bite Of Despair]], 1, 0.1
+|Sources=Jaskrendix
+}}

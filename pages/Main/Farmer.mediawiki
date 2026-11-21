@@ -1,0 +1,5 @@
+{{Trainer
+|Sources=Sanglorian
+|Genre=Modern, Fantasy Historical
+|Combat Type=1 vs 1
+}}

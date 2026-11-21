@@ -1,0 +1,7 @@
+== Summary ==
+[[Category:Front Sprite]]
+[[Category:Flamgu]]
+[[Category:HippasusTwo]]
+[[Category:Main]]
+[[Category:64px]]
+Adapted to be quadruped / hunched biped since description said they can be on all fours sometimes, and because it was difficult displaying it correctly as a standing upright biped due to the small space.

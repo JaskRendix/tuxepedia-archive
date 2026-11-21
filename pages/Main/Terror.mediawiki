@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=149
+|TXMN Blurb=The target is shaking with fear, unable to pick up or use items.
+|TXMN Completed=Complete
+|TXMN Category=Special
+|TXMN Type 1=Aether
+|TXMN Sub-Elements=Cosmic
+|TXMN Family=Condition imposer
+|TXMN Is fast=Normal
+|TXMN Accuracy=100%
+|TXMN Potency=100%
+|TXMN Recharge=2
+|TXMN Target Condition=lockdown
+|TXMN Animation Target=1
+|Tags=Mental
+|Sources=Jaskrendix
+}}

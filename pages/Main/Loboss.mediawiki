@@ -1,0 +1,20 @@
+{{Monster
+|First URL=https://forum.tuxemon.org/thread.php?pid=2251#p2251
+|Sources=EeVeeEe1999, Piacarrot
+|Source Explanation=Design and original sprite by EeVeeEe1999 and Piacarrot. Attribution must include full credit as always, and a link to Piacarrot's DeviantArt page: https://www.deviantart.com/piacarrot
+|Name Origin="Loboss" is derived from a combination of the prefix "lo-" (from the English word "lobster") and the suffix "-boss" (derived from the Italian word "boss" - leader). It reflects its dual nature as a fearsome predator and a dominant force in its underwater habitat.
+|Design Origin=Italian Mafia
+|Main Details=A formidable water-shadow-type tuxemon resembling a lobster, Loboss is renowned for its ferocious nature and powerful pincers. Its exoskeleton is as hard as steel, making it virtually impervious to attacks. With its piercing gaze, Loboss strikes fear into the hearts of its prey. It is often found lurking in the depths of dark, underwater caverns, where it reigns supreme.
+
+proposal description: LOBOSS is a fearsome predator that rules the depths of the ocean. Its exoskeleton is as hard as steel, and its powerful pincers can crush even the toughest prey. LOBOSS is a solitary creature that is rarely seen by humans.
+
+proposal elements = water + shadow
+proposal height = 175 cm
+proposal weight = 120 kg
+proposal terrains = sea
+|TXMN Types=Water
+|TXMN Sexes=Male
+|TXMN Stages=Standalone
+|Fusion First=Lo
+|Fusion Second=boss
+}}

@@ -1,0 +1,65 @@
+{{Monster
+|Sources=Cavalcadeur, Chairry-Art, HippasusTwo, Leo, Tamashihoshi
+|Source Explanation=Original design and sprites by Cavalcadeur. Other art by Leo. Face sprites by tamashihoshi. Other sprites by Chairry-Art. Updated sprites by HippasusTwo.
+|Species=Joyful
+|Name Origin=''dolphin'' + ''fin''
+|Main Details=[[Category:Starting Tuxemon]]
+== The Spyder in the Cathedral ==
+One of the [[new releases]].
+|SpyderCampaign=Starting tuxemon for the Rival.
+|TXMN Types=Water
+|TXMN Sub-Elements=Water
+|TXMN Completed=Complete
+|TXMN Body Shape=Leviathan
+|TXMN ID=23
+|TXMN Blurb=Each one follows a ship from place to place, exploring the world.
+|TXMN Height=250
+|TXMN Weight=190
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Terrains=Coastal, Freshwater, Sea
+|Tags=Water
+|Fusion First=Doll
+|Fusion Second=fin
+|TXMN_DE Name=Delfloss (Delfin + Flosse)
+}}
+{{Evolutions
+|Has Evolution=Bigfin
+|Evolution Level=Water Booster
+}}
+{{Evolutions
+|Has Evolution=Sharpfin
+|Evolution Level=Metal Booster
+}}
+{{Evolutions
+|Has Evolution=Bigfin
+|Evolution Level=Sweet Sand
+}}
+{{Evolutions
+|Has Evolution=Sharpfin
+|Evolution Level=Sea Girdle
+}}
+{{Evolutions
+|Has Evolution=Delfeco
+|Evolution Level=Bond 100
+}}
+{{Technique_Allocation
+|Has_Technique=Goad
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Flood
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Geyser
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Grinding
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Flow
+|Technique_Level=13
+}}

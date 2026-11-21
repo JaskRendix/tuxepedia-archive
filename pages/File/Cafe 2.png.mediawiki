@@ -1,0 +1,8 @@
+== Summary ==
+Compiled by Sanglorian from [https://wiki.tuxemon.org/index.php?title=File:Buildings_and_Features_-_Kelvin_Shadewing.png Buildings and Features] and [https://wiki.tuxemon.org/File:Furniture_and_Fittings_by_George.png Furniture and Fittings]
+
+[[Category:Kelvin Shadewing]]
+[[Category:Tilesheet]]
+[[Category:16px]]
+[[Category:George]]
+[[Category:Sanglorian]]

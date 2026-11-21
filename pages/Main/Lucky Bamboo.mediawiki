@@ -1,0 +1,9 @@
+{{Item
+|Item Category=Morph Item
+|TXMN Effects=evolve
+|TXMN Cost=2000
+|TXMN Usable In=world
+|TXMN Description=Technically, it's not bamboo at all. Nor is it particularly lucky. But it makes a nice indoor plant.
+|TXMN Consumable=yes
+|SpyderCampaign=Sold at the Candy Scoop tech counter
+}}

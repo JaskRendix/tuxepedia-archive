@@ -1,0 +1,62 @@
+{{Monster
+|First URL=https://serpexnessie.deviantart.com/art/68-69-Pickoon-Raccscal-669261777
+|Sources=Jaskrendix, Serpexnessie
+|Source Explanation=Design and front sprite by Serpexnessie. Face sprites adapted by Jaskrendix. Back sprite by HippasusTwo.
+|Species=Raccoon
+|Name Origin=The name "Pickoon" is likely derived from the combination of the words "pick" and "raccoon". The prefix "pick" refers to the raccoon-like monster's behavior of picking things up. The suffix "-coon" is a direct reference to the raccoon, which is the basis for the monster's design and characteristics.
+|TXMN Types=Earth, Metal
+|TXMN Sub-Elements=Normal
+|TXMN Completed=Complete
+|TXMN Body Shape=Hunter
+|TXMN ID=367
+|TXMN Blurb=It enjoys picking things up and stuffing them discreetly into its scarf.
+|TXMN Height=40
+|TXMN Weight=8
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Urban, Woodland
+|Tags=Gadgets, Claws, Fists
+|Fusion First=Pick
+|Fusion Second=koon
+}}
+{{Evolutions
+|Has Evolution=Raccscal
+|Evolution Level=20
+}}
+{{Technique Allocation
+|Has_Technique=Sand Spray
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Slice
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Constrict
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Shuriken
+|Technique_Level=7
+}}
+{{Technique Allocation
+|Has_Technique=Energy Claws
+|Technique_Level=13
+}}
+{{Technique Allocation
+|Has_Technique=Revenge Stance
+|Technique_Level=19
+}}
+{{Technique Allocation
+|Has_Technique=Ruby
+|Technique_Level=25
+}}
+{{Technique Allocation
+|Has_Technique=Rust Bomb
+|Technique_Level=31
+}}
+{{Technique Allocation
+|Has_Technique=Pouch
+|Technique_Level=34
+}}

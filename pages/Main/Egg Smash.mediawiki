@@ -1,0 +1,17 @@
+{{Technique
+|TXMN ID=232
+|TXMN Blurb=The user hurls an egg or egg fragment at the opponent, striking them with a messy and disorienting blow.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Earth
+|TXMN Type 2=Wood
+|TXMN Sub-Elements=Normal
+|TXMN Family=Simple
+|TXMN Is fast=Normal
+|TXMN Accuracy=90%
+|TXMN Power=2
+|TXMN Recharge=2
+|TXMN Animation Target=1
+|Tags=Food, Bird, Amphibian
+|Main Details=Early or mid-game move suited for egg-themed mons like Hatchling and Ambuwl.
+}}

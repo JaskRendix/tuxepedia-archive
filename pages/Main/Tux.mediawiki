@@ -1,0 +1,72 @@
+{{Monster
+|Sources=Hyperdriveguy, Jaskrendix
+|Source Explanation=Sprites by Jaskrendix. Alternative sprites by Hyperdriveguy.
+|Species=Penguin
+|Name Origin=Tux, the Linux mascot
+|Design Origin=Tux, the Linux mascot
+|Main Details=The blurb is inspired by the SuperTux video game. [[Category:Based on open source mascots]]
+|SpyderCampaign=Found in the wild in Lion Mountain. Used by trainers in Route 7.
+|TXMN Types=Water
+|TXMN Sub-Elements=Frost, Heroic
+|TXMN Completed=Complete
+|TXMN Body Shape=Flier
+|TXMN ID=254
+|TXMN Blurb=Most comfortable in arctic climes, TUX hunt weaker prey by leaping upon it, and crack open the shells or armor of stronger prey by sliding it along the ice into hard rocks.
+|TXMN Height=115
+|TXMN Weight=55
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Standalone
+|TXMN Terrains=Boreal/Snow, Coastal
+|Tags=Water, Ice, Leadership, Rock
+|Fusion First=Tu
+|Fusion Second=Tux
+}}
+{{Technique_Allocation
+|Has_Technique=Peck
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Flow
+|Technique_Level=1
+}}
+{{Technique_Allocation
+|Has_Technique=Mobbing
+|Technique_Level=4
+}}
+{{Technique_Allocation
+|Has_Technique=Flood
+|Technique_Level=7
+}}
+{{Technique_Allocation
+|Has_Technique=Font
+|Technique_Level=13
+}}
+{{Technique_Allocation
+|Has_Technique=Starfall
+|Technique_Level=16
+}}
+{{Technique_Allocation
+|Has_Technique=Grinding
+|Technique_Level=19
+}}
+{{Technique_Allocation
+|Has_Technique=Blood Bond
+|Technique_Level=25
+}}
+{{Technique_Allocation
+|Has_Technique=Tux Attack
+|Technique_Level=28
+}}
+{{Technique_Allocation
+|Has_Technique=Frostbite
+|Technique_Level=31
+}}
+{{Technique_Allocation
+|Has_Technique=Tsunami
+|Technique_Level=37
+}}
+{{Technique_Allocation
+|Has_Technique=Shapechange
+|Technique_Level=40
+}}

@@ -1,0 +1,15 @@
+{{Technique
+|TXMN ID=199
+|TXMN Blurb=The user lashes out with its sharp spines or quills, striking the opponent with a flurry of piercing blows, inflicting pain and damage.
+|TXMN Completed=Complete
+|TXMN Category=Reach
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Wood
+|TXMN Family=Basic
+|TXMN Is fast=Normal
+|TXMN Accuracy=95%
+|TXMN Power=1.5
+|TXMN Recharge=1
+|Tags=Sharp
+|Sources=HippasusTwo
+}}

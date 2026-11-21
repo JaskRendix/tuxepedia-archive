@@ -1,0 +1,5 @@
+{{Contributor
+|Main Website=https://opengameart.org/users/megupets
+|Main Details=[http://www.patreon.com/megupets Patreon]
+|Contributor Types=Contributed to a different open source monster taming project
+}}

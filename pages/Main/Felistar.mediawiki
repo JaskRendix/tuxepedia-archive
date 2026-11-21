@@ -1,0 +1,10 @@
+{{Monster
+|First URL=https://www.deviantart.com/chairry-art/art/Tuxemon-Re-Imagined-022-827755925
+|Sources=Chairry-Art,
+|Source Explanation=Design and front sprite by Chairry-Art.
+|Name Origin=''feline'' + ''star''
+|Design Origin=Based on [[Criniotherme]] by [[Catch Challenger]]. Chairry-Art took inspiration from Criniotherme's diamondy mane, and turned the mon into a spaceship-like cat skull abomination! Also doubles as a reference to the famous arcade game, Sinistar!
+|TXMN Types=Fire, Water
+|TXMN Sexes=Neuter
+|TXMN Stages=Standalone
+}}

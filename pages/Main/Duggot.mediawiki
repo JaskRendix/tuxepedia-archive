@@ -1,0 +1,47 @@
+{{Monster
+|Sources=Georg Eckert, HippasusTwo
+|Source Explanation=Designed and sprited by Georg Eckert.
+|Species=Unwelcome Mouthful
+|Name Origin=''double'' + ''maggot''
+|Design Origin=Maggots and worms eating chunks out of fruit
+|Main Details=Duggot have a rare morph method: turning into [[Breem]] only when the level up while a [[Tumbleworm]] is in the party.
+|TXMN Types=Earth, Wood
+|TXMN Sub-Elements=Venom, Wood
+|TXMN Completed=Complete
+|TXMN Body Shape=Varmint
+|TXMN ID=343
+|TXMN Blurb=When TUMBLEBEE tries to drink fruit juice, a DUGGOT may latch on and take over its brain.
+|TXMN Height=12
+|TXMN Weight=0.5
+|TXMN Catch Resistance=100
+|TXMN Sexes=Male, Female
+|TXMN Stages=Basic
+|TXMN Terrains=Woodland
+|Tags=Plant, Toxic, Bug
+|Fusion First=Dug
+|Fusion Second=got
+|TXMN_ES Name=Doblelarva
+|TXMN_DE Name=Doppelmaden
+|TXMN_FR Name=Doumouche
+|TXMN_PT Name=Duplomosca
+}}
+{{Evolutions
+|Has Evolution=Breem
+|Evolution Level=Party Tumbleworm
+}}
+{{Technique Allocation
+|Has_Technique=Sting
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Solar Synthesis
+|Technique_Level=1
+}}
+{{Technique Allocation
+|Has_Technique=Spit Poison
+|Technique_Level=4
+}}
+{{Technique Allocation
+|Has_Technique=Poison Courtship
+|Technique_Level=10
+}}

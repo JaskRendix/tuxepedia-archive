@@ -1,0 +1,340 @@
+This is a page for ideas for Tuxemon series games, that don't necessarily fit with [[The Spyder in the Cathedral]].
+
+== Ideas for The Spyder in the Cathedral Postgame ==
+
+* Four legendary tuxemon, based on the animals of the four cardinal directions ([[Snarlon]] is one)
+* A terrifying and very powerful tuxemon that was created using the FUSION technology - but it stuck, so it rampaged and then hid
+* Reward for "completing" TUXEPEDIA
+* A post-game ISLAND RESORT where you can buy any item, acquire any tuxemon, battle any person, and where you can test out battle tactics, technique sets, teams, etc. at any level.
+* Side story:
+: Remember back in TIMBER TOWN? Some bazaar dudes shared contacts in there...
+: One guy (or a girl?) was especially friendly, the player and him/her had contact over the phone more than with others... because, well, s/he is nice and helps out a few times maybe. also checking if the player does any good and maybe even give a little money over the bank sometimes, for a little "I thought you would need a blabla, so here is a little gift! We are friends at all so I figured you would be happy to have a xyz", sometimes randomly calling with a "how are you doing?" and maybe this guy/girl also helped with the hoverboard upgrade...
+: Now, when you're in the final area... you are not able to call people. Because of the walls or something else, your NU phone has zero connection.
+: * Something feels odd, and as you get closer your phone rings. It's him/her. And s/he is ready to take you on.
+: *when calling anybody (other than him/her) "NU PHONE has no connection" - most player's will give up instantly. But if you try out every number, you eventually get "It rings... It rings.. It rings... s/he didn't accept your call", which already gives a hint that this person is somewhere close by.
+* [[Walled Garden]] (currently on the map)
+* [[Hunting Grounds]] (not currently on the map)
+
+== Devamps ==
+
+[[Devamp]]ed sprites could be used for an old-school version of Tuxemon.
+
+== Tuxemon Chimera and Uroboros ==
+
+[[Tuxemon Chimera and Uroboros]] already have fan art created. 
+
+== TV episode titles ==
+
+* Not my Capiti!
+* Vanished without Eglace!
+* Manosting are from Mars
+* Legko of me!
+* Nudimind the bollocks!
+* See you later, AV8R
+* Footloose, Cairfrey
+* Spills, Thrills and Nudikills
+
+== Plots/Game premises ==
+
+=== Mini Ideas ===
+
+* Play through the game as an NPC (limited team, based on the team of any trainer in the game)
+* You are the leftover tuxemon that wasn't picked. Wander around the world getting up to mischief. 
+* Escape at the Daycare!
+* You are a human stuck in tuxemon form
+* Take down an evil team from inside, using only your assigned tuxemon
+
+=== Camp Tuxemon ===
+
+Play a child sent to a school camp for six weeks. The protagonist can wander the camp grounds during the day, capturing and battling tuxemon and searching for items. Then they return to the campground for the evening, where they battle other campers and are awarded badges for achievements.
+
+Some areas are only available to students with certain badges.
+
+There is a calendar counting the days, so players can measure their progress against an objective measure. Players that are knocked out during the day have to rest through the evening; players knocked out in the evening have to rest through the day - so players must balance exploring a little further or battling another camper against the risk of missing half the day. 
+
+=== Tuxemon Run ===
+[[File:Screenshot.png|thumbnail]]
+
+A shell of a game created by [[Sanglorian]] in GDevelop. Inspired by [[Monster Racers]]. 
+
+[https://forum.tuxemon.org/thread.php?id=241 Original thread]
+
+=== Tuxemon Gym Simulator === 
+
+Each gym wants to defend its own Badges and claim Badges from others, so they can send their teams to the next level of the competition.
+
+Take cues from 4X, tower defence, football manager, Dungeon Keeper and sim games.
+
+=== Tuxemon Darkest ===
+[[File:Tuxemon_Darkest.png|thumbnail]]
+
+Inspired by roguelikes and '''Darkest Dungeons'''.
+
+Explore dungeons and other routes and recover treasure (Badges, Fossils and Dolls) and captured tuxemon. 
+
+Two tuxemon fight at a time, with techniques having different targets (some can reach either rank, some hit both ranks, some can only target one of the ranks) and some only being usable from the front or the back rank. 
+
+You can bring any number of tuxemon with you, but each additional one takes up slots that could be used for treasure and items. Recruit from foes you meet on the way - but note that each Capture Device uses one of your precious inventory slots!
+
+Spend your treasure improving the town that you operate out of, building new facilities (gyms, daycares, museums, laboratories) and training your NPCs. 
+
+Tuxemon use field moves that they can use out of battle - clearing obstacles, detecting traps, healing allies - as well as regular techniques.
+
+=== Villainous Teams ===
+What if the villainous organisation in the game is one that the protagonist can join and work their way up the ranks of?
+
+I had a couple of pairings in mind:
+* Team Skull are the bazaar-dwelling copyright-infringing pirates. 
+* Team Ark are conservationists who prioritise nurturing and studying TXMN over the political issues.
+
+Or, 
+* Team Art and Team Science. One tries to use TXMN to advance humankind culturally and spiritually, while the other is obsessed with using TXMN for technological advancement.
+
+In either case, they would sometimes clash and sometimes collaborate, and they'd both be typically opposed to the Cathedral - although they may form temporary alliances with the Cathedral to serve their own ends.
+
+* Team Abyss and Team Fundament 
+* Team Rescue - believe that Pokemon should be liberated, so they fight you themselves - as martial artists, archers, psychics and magicians, with tanks and mecha, etc. 
+* Team Myth - worship Tuxemon as spirits and gods, a cult. Where the world doesn't fit the legends they were taught, they try to re-make it so that it does.
+* Team Crypt - want to open up the gates to the underworld and bring back the dead.
+* Team Net - control the internet and electricity. Can track you when you use electronic devices. Want to infect everything with a variety of viruses that they have at their disposal. 
+* Team League - the best trainers and champions use their power to run the world, under the guise of organising a big tournament. 
+* Team Aegis - attempt to protect the world from a monstrous tuxemon, but they go too far
+* Team Moonshot - trying to reach a new planet with whole new TXMN
+* Team Crown and Team Guillotine - bring back or depose the monarchy
+* Team Carnival - carnies with magical tricks and powers
+* Team Fossil - historical re-enactors, think everything was better in the past, want to bring back dead tuxemon
+* Team Chimera - once upon a time, tuxemon and humans were one and the same. We should live as tuxemon do, and tuxemon should live as we do (could put their tuxemon in uncomfortable clothes, be governed by a genius tuxemon, etc)
+* Team Portal - trying to connect this world with its shadow. In its shadow, the people are Tuxemon and the Tuxemon are people!
+* Team Scout - teach self-reliance, teamwork, service, preparedness. Give badges for achievements, not gym-beating.
+* Team Mongoose and Team Viper - warring street gangs trying to steal tuxemon and money; old-fashioned villains
+
+With regards to Team Portal, the idea is that strange tuxemon would show up that resembled humans (see [[gijinka]]).
+
+=== Tuxemon Harvest ===
+
+[[Farming]]
+
+== Novel additions to standard games ==
+
+* Instead of being given a starter, you are sent to a Hunting Ground with some capture devices and bait, and you can attempt to catch whichever one you like. 
+* [[Crawls]]
+* "I'd also love if you could check the tuxedex while in battle, maybe have an option to scan your opponent at the cost of a turn to get their data without catching them, allowing you to learn their element, average stats at that level, etc., allowing for more strategic use of the tuxedex instead of just being a portable achievement board." (Kelvin)
+* Temporary evolutions. Tuxemon stay cute, and then can evolve in versatile ways as needed. 
+* "Taking a tuxemon with you". A Tamagotchi-like experience where you can import a single tuxemon into an app on your phone, and feed it, check up on it, train it, etc., then re-import it into your Tuxemon game and it will have gained XP/learned a new technique/etc. (tamashihoshi)
+* Switching to a side-scrolling platformer for certain parts
+* A journal that tracks your current quests
+
+=== Other combat actions ===
+
+Options include "Defend", which would successfully block the opponent's attack but perhaps leave the monster vulnerable next turn, or "Use Dex", which would reveal some information about the enemy monster at the expense of a turn.
+
+=== Features ===
+
+[[Features|Full article]]
+
+=== Ways to reduce grind ===
+
+* Pressing A should skip dialogue
+* Quickplay/grind mode that just displays what happens, not all the accompanying text
+* Auto-resolve combat while in grind mode
+
+==== Grind mode ====
+
+Grind mode would tell you immediately what happened and moves to the next decision that the player needs to make.
+
+*battle loads* (no need to say the two tuxemon, as that's visible on the screen) *text loads immediately* What will ROCKITTEN do?
+*select*
+*text loads immediately* ROCKITTEN - DEFENSE CURL - ARMOR UP / EYENEMY - POISON STING - WEAK
+*when player presses A, text loads immediately* What will ROCKITTEN do?
+*repeat*
+
+It could even play the animations while idle on the "What will ROCKITTEN do?" stage, and display the HP lost that round in yellow, but then they would be cut short when a selection is made.
+
+In grind mode, if your first tuxemon has a move that would do enough damage (on average) to knock out the random encounter in one hit, then when the random encounter begins, a screen pops up:
+
+    EYENEMY
+    ROCKITTEN to use THUNDER? []
+    Or GO TO FULL BATTLE []
+
+If you chose the former, EYENEMY would be knocked out, ROCKITTEN's THUNDER PP would reduce by 1, and XP would be awarded.
+
+If you chose the latter, it would play like normal.
+
+=== Trainer stats ===
+From [[tamashihoshi]]:
+
+* Speed modifier (use of items etc)
+* Capturing modifier (if we go by the "bind the soul to an object" theme, this could modify the capturing power)
+* Training modifier (modifies the amount of exp your tuxemon gain or the way the exp is distributed among your tuxemon)
+* Negotiation? (items are cheaper)
+
+=== Field techniques ===
+Techniques that are useful in the overworld, and that don't take up a slot for battle. 
+
+* Magnetism to pull and push metal blocks
+* Swim against the wind
+* Icebreaker - like an icebreaker ship, swimming through ice
+* Enter clouds
+* Shrink to insect size and explore new areas
+* Hide/camouflage to wait until something happens
+* Sneak to avoid alarms and trainers
+* Raise the ground to reach higher areas
+* Tunnel to a new level
+* Freeze lava
+* Set a trap
+* Decode foreign languages and runes
+* Hold breath to get into an area with poison gas
+* Disable traps
+* Spider climb to get up walls
+* Blow away fog
+* Roll at a high speed to get over jumps
+* Surf
+* Enter spirit world
+* Phase through objects like a ghost
+* Melt ice
+* Soar
+* Put out fires
+* Destroy walls
+* Pick locked doors
+* Mind control people
+* Stretch to reach high objects
+* Telekinesis
+* Exorcism to fight and then remove a blocking ghost or a ghost possessing a person
+* Restore broken objects and buildings
+* Block - create a stone that blocks the path or fills a hole
+* Bounce to higher ledges
+* Levitate
+* Teleport - get to any location you have already visited
+* Dive
+* Short circuit electric doors, CCTV, etc.
+* Activate unpowered machinery with electricity
+* Fill crevasse
+* Enter outer space
+* Cut stairs into the rock
+* Change the overworld weather
+* Sonar
+* Item finding
+* Burn barriers, e.g. a big tree
+* Amnesia - forget a technique so another can be learned
+* Freeze water to slide over
+* Use wind to manipulate distant objects
+
+== Things in cities and towns ==
+
+* Museum 
+* Art gallery
+* Cafe
+* Photo exhibit - could collect pixel art from all around
+* Weekend markets
+* Bike shop
+* Car shop
+* Train station
+* Concert hall
+* School
+* University
+* Race track
+* Vineyard
+* Laboratory
+* Mansion
+* Secret society
+* Clubhouse
+* Sporting field
+* Stadium
+* Swimming pool
+* Tavern, pub, inn
+* Library
+* Botanical gardens
+* Arboretum
+* Jail
+* Courthouse
+* Blacksmith
+* Mine
+* Castle
+* Pond
+* Lake
+* Fountain
+* State
+* Church
+* Theatre
+* Jeweller's
+* Bank
+* Barber's
+* Town hall
+* Entrance gate
+* Cemetery
+* Restaurant
+* Customs office
+* Fire department
+* Hospital
+* Temple
+* Arena
+* [[Gaming Hall]]
+* [[Pachisi]]
+* Shopping center
+* Lighthouse
+* Fishing boat
+* Hot air balloon
+* Airport
+* Zoo
+* Safari
+* Playground
+* Street vendors
+* Bridge
+* Industrial zone
+* Ghetto
+* Mayor's office
+* Parliament house
+* Park
+* Aquarium
+
+== Healing == 
+
+Healing in the Fondent region comes at a cost - initially we were thinking the player would have to sit through an in-game advertisement (for Greenwash Graze-X or Miaownolith Milk or something, not a real product). But another option would be to actually charge the player each time. 
+
+The fee might be $1 per HP - or double that if there's a "call out fee" - i.e. if the player blacked out. 
+
+Players could also buy private health insurance which might save them money - but it would come with a hefty cost both in terms of the fee and the excess. It would also have a long list of terms and conditions which the player could read - but which would take a while, and they'd keep getting prompted to quit reading. 
+
+=== Center dialogue ===
+
+Would you like to heal your monsters?
+
+All done. That will be $x dollars. [Or: Plus a $x call-out fee since we had to send the ambulance to collect you.]
+
+Oh, you can't afford to pay? No problem. We'll add it to your bill, plus 10% interest. [Interest charged on all money owing not just new debt.]
+
+When you win money, we'll take a share [50%] until you've paid us back. Easy peasy!
+
+=== AMBEARANCE COVER - PRIVATE HEALTH INSURANCE OFFERING ===
+
+After every few lines, the dialogue prompts: "There's X more pages. Keep reading? Y/N"
+
+Private health insurance offering for one (1) person (hereafter, the "licence holder"), applying to up to fifty (50) monsters captured, traded, bought, won or otherwise possessed by the licence holder. This offering is only valid between 1 January and 31 March of this year. Ambearance Cover Ltd can withdraw the offering at any time. 
+
+Ambearance Cover is available for all persons between 15 and 65 years of age. It pays medical costs for a licence holder's monsters at all approved hospitals, approved allied health facilities and approved vetinerarians and specialists (whether administered in their office or on-site). 
+
+For the avoidance of doubt, Ambearance Cover does not apply to:
+
+* Treatment of a licence holder's own injuries, sickness, disease, disability, etc. or any other medical or health procedure relating to any human.
+* Any prescription or non-prescription medicines, pharmaceuticals, prosthetics, crutches, wheelchairs, therapeutic devices, or other items, whether deemed necessary or unnecessary for the treatment of a medical condition otherwise eligible under this policy. 
+* Cosmetic or other procedures. 
+* Providing any items or support for a monster to morph. 
+* Renaming, retraining or otherwise modifying a monster in any way. 
+* Breeding, fertilisation, "day care", fertility treatment or other reproductive services. 
+* Incubation, delivery or other birthing services. 
+
+Licence holders may not capture, trade, buy, win or otherwise possess other humans for the purpose of them qualifying as "monsters" Humanoid "monsters" are eligible for healing only at Ambearance Cover's discretion. 
+
+Ambearance Cover is a progressive scheme that is charged in proportion to a licence holder's ability to pay. Ambearance Cover Ltd will receive the first 5% of all the licence holder's earnings from any source ("licence fee"). Ambearance Cover Ltd reserves the right to unilaterally modify this rate without notice if its deems that the policy has been "abused". 
+
+"Abuse" of the policy includes but is not limited to: 
+
+* Trading or otherwise receiving monsters for the exclusive, part or potential purpose of bringing them under the insurance policy of a licence holder. 
+* Waiting until multiple monsters need treatment before seeking healing in order to only pay the excess once. 
+
+A licence holder that fails to report, fails to accurately report, fails to pay or otherwise withholds any part of Ambearance Cover's licence fee will be liable for three times the amount withheld, plus 10% per month compounding weekly. 
+
+Excess is $100 in all cases. The excess can be modified at any time without consultation or the licence holder being informed ante facto or post facto.
+
+[[Category:Story]]
+[[Category:Proposed content]]

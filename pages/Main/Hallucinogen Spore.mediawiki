@@ -1,0 +1,21 @@
+{{Technique
+|TXMN ID=240
+|TXMN Blurb=The user releases a cloud of hallucinogenic spores, disorienting the opponent and altering their perception of reality.
+|TXMN Completed=Complete
+|TXMN Category=Ranged
+|TXMN Type 1=Wood
+|TXMN Sub-Elements=Cosmic, Wood
+|TXMN Family=Exotic
+|TXMN Is fast=Normal
+|TXMN Accuracy=90%
+|TXMN Power=2
+|TXMN Potency=90%
+|TXMN Recharge=2
+|TXMN Target Condition=Confused
+|TXMN Animation Target=1
+|Tags=Spore
+|Main Details=Maybe random condition instead of confused?
+
+The move Hallucinogen Spore is a unique and disorienting attack that affects the opponent's mind, causing them to question their perception of reality. When the user releases the Hallucinogen Spore, a cloud of shimmering, iridescent particles envelops the opponent, inducing a state of intense confusion and disorientation. The opponent may see or hear things that are not there, making it difficult for them to land a hit or make a strategic decision. The user, on the other hand, remains unaffected, able to take advantage of the opponent's altered state to launch a follow-up attack or gain a strategic advantage. As the effects of the Hallucinogen Spore wear off, the opponent is left feeling dazed and vulnerable, giving the user an opportunity to seize control of the battle.
+|Sources=HippasusTwo, Jaskrendix
+}}
