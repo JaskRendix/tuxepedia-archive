@@ -1,6 +1,6 @@
 # Timber Town
 
-![Timber Town.png](../images/Timber Town.png)
+![Timber Town.png](/images/Timber%20Town.png)
 
 ## Connections
 ### [Route 5](route-5.md)

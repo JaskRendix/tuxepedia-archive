@@ -1,6 +1,6 @@
 # Mansion
 
-![Abandoned Mansion](../images/Abandoned_Mansion.png)
+![Abandoned Mansion](/images/Abandoned%20Mansion.png)
 
 ## Connections
 ### [Side Route A](side-route-a.md)
@@ -67,7 +67,7 @@ If you speak to her again:
 
 # Mansion: Basement
 
-![Abandoned Mansion Basement](../images/Abandoned_Mansion_Basement.png)
+![Abandoned Mansion Basement](/images/Abandoned%20Mansion%20Basement.png)
 
 ## Items
 
@@ -131,7 +131,7 @@ If you speak to her again:
 
 # Mansion: Top
 
-![Abandoned Mansion Top Floor](../images/Abandoned_Mansion,_Top_Floor.png)
+![Abandoned Mansion Top Floor](/images/Abandoned%20Mansion,%20Top%20Floor.png)
 
 ## Characters
 

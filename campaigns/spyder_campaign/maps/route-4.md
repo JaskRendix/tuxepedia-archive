@@ -1,6 +1,6 @@
 # Route 4
 
-![Route 4.png](../images/Route 4.png)
+![Route 4.png](/images/Route%204.png)
 
 Slogan: Up and down the road again.
 

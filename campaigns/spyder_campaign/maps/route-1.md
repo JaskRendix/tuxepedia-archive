@@ -1,6 +1,6 @@
 # Route 1
 
-![Route 1.png](../images/Route 1.png)
+![Route 1.png](/images/Route%201.png)
 
 ## Connections
 ### [Paper Town](paper-town.md)

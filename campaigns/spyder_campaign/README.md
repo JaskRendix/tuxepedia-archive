@@ -6,7 +6,7 @@ Scoop, the fast food and retail empire, will transmit a disease, the Spyder viru
 
 # Main Story
 
-[[File:New spyder map.png|thumbnail]]
+![Spyder Map](/images/New%20spyder%20map.png)
 
 The main story of *The Spyder in the Cathedral* follows the player’s journey through the [[Fondent region]], traveling from town to town, catching and battling tuxemon, and gradually uncovering a corporate conspiracy. This section describes the *gameplay progression* and *region layout*, not the plot details.
 

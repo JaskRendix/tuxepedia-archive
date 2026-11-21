@@ -1,6 +1,6 @@
 # City Park
 
-![City park.png](../images/City park.png)
+![City park.png](/images/City%20park.png)
 
 ## Connections
 ### A. [Route 2](route-2.md)

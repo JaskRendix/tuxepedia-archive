@@ -1,6 +1,6 @@
 # Leather Town
 
-![Leather Town.png](../images/Leather Town.png)
+![Leather Town.png](/images/Leather%20Town.png)
 
 ## Connections
 ### [City Park](city-park.md)

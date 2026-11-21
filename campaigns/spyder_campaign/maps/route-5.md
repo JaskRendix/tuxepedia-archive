@@ -1,6 +1,6 @@
 # Route 5
 
-![Route 5.png](../images/Route 5.png)
+![Route 5.png](/images/Route%205.png)
 
 ## Connections
 ### [Flower City](flower-city.md)

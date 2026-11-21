@@ -1,6 +1,6 @@
 # Paper Town
 
-![Paper town.png](../images/Paper town.png)
+![Paper town.png](/images/Paper%20town.png)
 
 ## Connections
 ### Riverboat Station
@@ -83,8 +83,8 @@ Sign d:
 - How are you, NAME? ... Quiet and solemn as always, I see. 
 
 ### Home
-![Bedroom test.png](../images/Bedroom test.png)
-![Downstairs test.png](../images/Downstairs test.png)
+![Bedroom test.png](/images/Bedroom%20test.png)
+![Downstairs test.png](/images/Downstairs%20test.png)
 
 #### Bedroom
 You can go down the stairs to reach Downstairs.
@@ -101,7 +101,7 @@ Your bed is in your Bedroom. Interact with it to heal all tuxemon to full health
 - ''(After you have defeated **Omnichannel**)'' Congratulations! You took down the corporations! Of course, now lots of people don't have a job ... but you did the right thing. I think.
 
 ### Daycare Center
-![Daycare Centre.png](../images/Daycare Centre.png)
+![Daycare Centre.png](/images/Daycare%20Centre.png)
 **Granny**: 
 - ''(First conversation)'' Oh hello NAME, I didn't see you there among all this hustle and debris! I can't wait till the Daycare Center is installed!
 - ''(Otherwise)'' You know, we made our fortune in the daycare business! I've been retired for ten years and I'm getting bored. I want to get back into it!
@@ -122,7 +122,7 @@ There are pamphlets on the table:
 - Place your tuxemon in the Daycare Center! Give us a tuxemon, and we will look after it while you travel. When you return, pay a small fee and we'll return it. The longer tuxemon are in our care, the higher in level they will rise!
 
 ### Scoop Store
-![Scoop Store - Paper Town.png](../images/Scoop Store - Paper Town.png)
+![Scoop Store - Paper Town.png](/images/Scoop%20Store%20-%20Paper%20Town.png)
 
 #### Introduction
 
@@ -173,7 +173,7 @@ I'm sorry, you are not a Gold member. This offer is for Gold members only. I'll 
 Approaching the Bins for the first time activates Event 1.
 
 ### Manor
-![Spyder paper manor.png](../images/Spyder paper manor.png)
+![Spyder paper manor.png](/images/Spyder%20paper%20manor.png)
 **Maniac**
 - I have two sons and a niece. The first is a sailor, and last year he went to the Archipelago.
 - The second is a Captain and he transports people. My niece is playing outside.
@@ -181,7 +181,7 @@ Approaching the Bins for the first time activates Event 1.
 ### Rival's Home
 
 #### Bedroom
-![Spyder paper rival bedroom.png](../images/Spyder paper rival bedroom.png)
+![Spyder paper rival bedroom.png](/images/Spyder%20paper%20rival%20bedroom.png)
 Library / Books:
 - The bookshelf is filled with tuxemon strategy guides and training manuals.
 
@@ -199,7 +199,7 @@ Bed:
 - Bed is messy, but it looks like she's been sleeping well. There's a tuxemon plushie on her pillow.
 
 #### Downstairs
-![Spyder paper rival downstairs.png](../images/Spyder paper rival downstairs.png)
+![Spyder paper rival downstairs.png](/images/Spyder%20paper%20rival%20downstairs.png)
 TV:
 - A group of schoolboys stranded on a deserted island, and of their struggles to overcome adversity.
 - Watch something else? A recorded episode of Tuxemon League is available. (Y/N)
@@ -211,7 +211,7 @@ Package:
 if yes [Flashback](../flashbacks/echoes-of-understanding.md)
 
 #### Office
-![Spyder paper rival office.png](../images/Spyder paper rival office.png)
+![Spyder paper rival office.png](/images/Spyder%20paper%20rival%20office.png)
 Papers 1:
 - It's a haiku: From Rock to Kitten, Evolution's dance unfolds, Transformation blooms.
 

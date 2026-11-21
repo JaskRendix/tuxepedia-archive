@@ -1,7 +1,7 @@
 # Tunnel B
 
-![Tunnel Route B.png](../images/Tunnel Route B.png)
-![Tunnel Route B - Below.png](../images/Tunnel Route B - Below.png)
+![Tunnel Route B.png](/images/Tunnel%20Route%20B.png)
+![Tunnel Route B - Below.png](/images/Tunnel%20Route%20B%20-%20Below.png)
 Slogan: The dark expanse - watch your step!
 
 ## Connections

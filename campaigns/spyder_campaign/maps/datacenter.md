@@ -1,6 +1,6 @@
 # Datacenter
 
-![Spyder datacenter](../images/Spyder datacenter.png)
+![Spyder datacenter](/images/Spyder%20datacenter.png)
 
 **Datacenter** is a physical facility that [Cathedral](../factions/cathedral.md) uses to store monsters and items. It can be accessed from [Side Route B](side-route-b.md).
 

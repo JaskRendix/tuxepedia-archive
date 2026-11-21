@@ -44,7 +44,7 @@ Over the years, **TuxeVault Bank** has faced challenges from the Cathedral's sub
 
 # Bank Ground Floor
 
-![Spyder crystal bank1](../images/Spyder crystal bank1.png)
+![Spyder crystal bank1](/images/Spyder%20crystal%20bank1.png)
 
 ## Characters
 
@@ -69,7 +69,7 @@ Over the years, **TuxeVault Bank** has faced challenges from the Cathedral's sub
 
 # Bank 1st Floor
 
-![Spyder crystal bank2](../images/Spyder crystal bank2.png)
+![Spyder crystal bank2](/images/Spyder%20crystal%20bank2.png)
 
 ## Characters
 
@@ -102,7 +102,7 @@ Over the years, **TuxeVault Bank** has faced challenges from the Cathedral's sub
 
 # Bank 2nd Floor
 
-![Spyder crystal bank3](../images/Spyder crystal bank3.png)
+![Spyder crystal bank3](/images/Spyder%20crystal%20bank3.png)
 
 ## Characters
 
@@ -124,7 +124,7 @@ Over the years, **TuxeVault Bank** has faced challenges from the Cathedral's sub
 ### **Scientist** Zircon
 
 - So, you finally show your face, Argon. I've been waiting for this moment. Let's see if your ideals can stand against true power.
-- [Dark Robo](Dark Robo.md) level 50
+- [Dark Robo](/monsters/dark-robo.md) level 50
 - **If lose:** Pathetic, Argon. Is this the strength your so-called principles bring you? You can't protect anyone—least of all yourself. Remember this defeat. It's the only thing you've truly earned.
   - **Voice of Revelation:** You've tasted defeat, Argon, and now the pieces begin to fall. Aurora's disappearance is no accident... nor is your survival. The path ahead is darker than you know, but you must walk it. Watch the Cathedral. Watch the mountains. The truth waits for you... if you dare to see it.
 - **If win:** Impossible… You cling to ideals, and yet you stand. Perhaps I underestimated what conviction can become.

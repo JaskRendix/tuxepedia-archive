@@ -1,6 +1,6 @@
 # Route 6
 
-![Route 6.png](../images/Route 6.png)
+![Route 6.png](/images/Route%206.png)
 Slogan: A playful meander along the river.
 ## Connections
 ### [Tunnel B](tunnel-b.md) 

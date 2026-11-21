@@ -4,13 +4,13 @@ The **Hospital** in [Candy Town](candy-town.md) is blocked off by a scanner attu
 
 # Hospital Ground Floor
 
-![Spyder candy center](../images/Spyder candy center.png)
+![Spyder candy center](/images/Spyder%20candy%20center.png)
 
 ## Characters
 
 # Hospital 1st Floor
 
-![Spyder candy hospital1](../images/Spyder candy hospital1.png)
+![Spyder candy hospital1](/images/Spyder%20candy%20hospital1.png)
 
 ## Characters
 
@@ -73,7 +73,7 @@ You have to stop them! These villains have taken over the hospital, and they're 
 
 # Hospital 2nd Floor
 
-![Spyder candy hospital2](../images/Spyder candy hospital2.png)
+![Spyder candy hospital2](/images/Spyder%20candy%20hospital2.png)
 
 ## Characters
 
@@ -157,7 +157,7 @@ We have a cure, but we keep running into the Cathedral's DRM system.
 
 # Hospital 3rd Floor
 
-![Spyder candy hospital3](../images/Spyder candy hospital3.png)
+![Spyder candy hospital3](/images/Spyder%20candy%20hospital3.png)
 
 ## Characters
 

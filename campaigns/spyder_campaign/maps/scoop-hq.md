@@ -21,7 +21,7 @@ When the protagonist gets into the storeroom, they will have to fight the escape
 ## Scoop HQ
 
 ### Scoop 1
-![Scoop HQ.png](../images/Scoop HQ.png)
+![Scoop HQ.png](/images/Scoop%20HQ.png)
 
 B. **Professor** Lanth
 - Look how happy the tuxemon are, living so close to one another!
@@ -49,7 +49,7 @@ G. **Enforcer** Turner
 - Remember, we had nothing to do with the disease getting out!
 
 ### Scoop 2
-![Scoop HQ 2.png](../images/Scoop HQ 2.png)
+![Scoop HQ 2.png](/images/Scoop%20HQ%202.png)
 
 **Scientist** Asta
 - Why yes, I am the inventor of the Extreme Restraints. What are they, I hear you ask? Only a set of manacles so powerful that even a dragon could not escape them. They are being used in the containment unit to make sure none of the infected tuxemon escape.
@@ -61,7 +61,7 @@ G. **Enforcer** Turner
 - if no: the player goes to the tile below the stairs
 
 ### Scoop 3
-![Scoop HQ 3.png](../images/Scoop HQ 3.png)
+![Scoop HQ 3.png](/images/Scoop%20HQ%203.png)
 
 PC
 - The PC contains a file named 'CCTV'. Would you like to watch it? (Y/N)
@@ -83,7 +83,7 @@ K. [Scoop Boss Donald](../npcs/donald.md)
 - You might just be strong enough to contain the escaped tuxemon. Please - do it for us. 
 
 ### Scoop 4
-![Scoop HQ 4.png](../images/Scoop HQ 4.png)
+![Scoop HQ 4.png](/images/Scoop%20HQ%204.png)
 
 L. **Spyder Agent** Orba
 - Yikes! What are you doing here?

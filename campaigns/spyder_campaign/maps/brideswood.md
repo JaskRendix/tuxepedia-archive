@@ -1,6 +1,6 @@
 # Brideswood
 
-![Spyder brideswood.png](../images/Spyder brideswood.png)
+![Spyder brideswood.png](/images/Spyder%20brideswood.png)
 
 ## Connections
 ### [Paper Town](paper-town.md)

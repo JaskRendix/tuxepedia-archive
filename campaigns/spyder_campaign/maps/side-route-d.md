@@ -1,6 +1,6 @@
 # Side Route D
 
-![Spyder routed.png](../images/Spyder routed.png)
+![Spyder routed.png](/images/Spyder%20routed.png)
 
 ## Connections
 ### [Leather Town](leather-town.md)

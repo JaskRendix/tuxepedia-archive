@@ -1,6 +1,6 @@
 # Sea Route C
 
-![Sea Route C.png](../images/Sea Route C.png)
+![Sea Route C.png](/images/Sea%20Route%20C.png)
 Slogan: Home is just over the horizon.
 ## Connections
 ### [Candy Town](candy-town.md)

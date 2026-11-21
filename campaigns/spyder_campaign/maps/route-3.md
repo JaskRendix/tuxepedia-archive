@@ -1,6 +1,6 @@
 # Route 3
 
-![Route 3.png](../images/Route 3.png)
+![Route 3.png](/images/Route%203.png)
 
 Slogan: Enjoy the scenic beauty of this "artificial canyon".
 
@@ -39,7 +39,7 @@ When you pass by on the cliffs overhead, the scene plays out below:
 
 An egg appears between them. It shakes, cracks, and then a dark flying thing escapes and flies north.
 
-[File:Dragonbirth .gif](file:dragonbirth-.gif.md)
+![Dragonbirth](/images/Dragonbirth.gif)
 
 **Spyder Agent**
 - What the?! Come with me, you can explain this to HQ!

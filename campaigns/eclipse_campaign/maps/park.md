@@ -1,6 +1,6 @@
 # Park
 
-![Spyder park.png](../images/Spyder park.png)
+![Spyder park.png](/images/Spyder%20park.png)
 
 ## Connections
 ### [Lion Mountain](lion-mountain.md) 
@@ -12,7 +12,7 @@ Sign a:
 ## Events
 
 ## Entrance
-![Spyder park entrance.png](../images/Spyder park entrance.png)
+![Spyder park entrance.png](/images/Spyder%20park%20entrance.png)
 
 ### Characters
 **Magician** (gray hair) Elroy:
@@ -27,7 +27,7 @@ Sign a:
 - "Welcome!"
 
 ## Cave
-![Spyder park cave.png](../images/Spyder park cave.png)
+![Spyder park cave.png](/images/Spyder%20park%20cave.png)
 The cave will allow the player to reach 3 additional piece of grass.
 
 ### Characters
@@ -52,7 +52,7 @@ The main zone where the park experience is played.
 - "I think the park has done a pretty good job of being everyone's friend."
 
 ## Park (South)
-![Spyder park south.png](../images/Spyder park south.png)
+![Spyder park south.png](/images/Spyder%20park%20south.png)
 The secondary zone (south side).
 
 ### Old Cabin

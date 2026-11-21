@@ -1,6 +1,6 @@
 # Side Route E
 
-![Spyder routee.png](../images/Spyder routee.png)
+![Spyder routee.png](/images/Spyder%20routee.png)
 
 ## Connections
 ### [Timber Town](timber-town.md)

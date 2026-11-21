@@ -1,6 +1,6 @@
 # Side Route A
 
-![Mansion.png](../images/Mansion.png)
+![Mansion.png](/images/Side%20Route%20A.png)
 
 Slogan: A private grotto given over to the wilds.
 

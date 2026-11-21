@@ -1,6 +1,6 @@
 # Candy Town
 
-![Candy Town.png](../images/Candy Town.png)
+![Candy Town.png](/images/Candy%20Town.png)
 
 Slogan: Pushing the bounds of possibility - with biology.
 
@@ -141,7 +141,7 @@ Tech counter:
 - [Budaye](/monsters/budaye.md) — $4,000 (level 10)
 
 ### Candy Port
-![Spyder candy port.png](../images/Spyder candy port.png)
+![Spyder candy port.png](/images/Spyder%20candy%20port.png)
 The port is the furthermost south-western hub located on the Sea coast and acts as a central turntable for the traffic between the Fondent region and the other continents as well as the Archipelago. Here the player can find the Riverboat Station.
 
 **Monk**
@@ -150,7 +150,7 @@ The port is the furthermost south-western hub located on the Sea coast and acts 
 
 ### Cott's Candy Inn (Candy Port)
 #### Downstairs
-![Spyder candy inn1.png](../images/Spyder candy inn1.png)
+![Spyder candy inn1.png](/images/Spyder%20candy%20inn1.png)
 **Shopkeeper**
 - Welcome to Cott's Candy Inn. My name is Cott.
 
@@ -167,7 +167,7 @@ The port is the furthermost south-western hub located on the Sea coast and acts 
 - Some journalists are afraid of being arrested if they report on illegal logging.
 
 #### Upstairs
-![Spyder candy inn2.png](../images/Spyder candy inn2.png)
+![Spyder candy inn2.png](/images/Spyder%20candy%20inn2.png)
 
 **Goth**
 - I'm a wild honeybee hunter. Do you like honey? (Y/N)

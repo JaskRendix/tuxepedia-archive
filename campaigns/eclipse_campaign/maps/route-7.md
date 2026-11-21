@@ -1,6 +1,6 @@
 # Route 7
 
-![Route7.png](../images/Route7.png)
+![Route7.png](/images/Route7.png)
 
 ## Connections
 ### [Crystal Town](crystal-town.md) 

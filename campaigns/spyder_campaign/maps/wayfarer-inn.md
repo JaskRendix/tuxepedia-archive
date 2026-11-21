@@ -8,7 +8,7 @@
 The tuxemon of everyone in this building - except the **Enforcers** - are infected with Spyder Bite. That means that the **Protagonist**'s tuxemon are at risk too. 
 
 ## Ground Floor
-![Wayfarer Inn, Level 1.png](../images/Wayfarer Inn, Level 1.png)
+![Wayfarer Inn, Level 1.png](/images/Wayfarer%20Inn,%20Level%201.png)
 
 Guestbook:
 - A note from the Commander's office. Do you want to read it? (Y/N)
@@ -61,7 +61,7 @@ if yes [Flashback](../flashbacks/quarantine-protocol.md)
 - A little privacy, please!
 
 ## First Floor
-![Wayfarer Inn, Level 2.png](../images/Wayfarer Inn, Level 2.png)
+![Wayfarer Inn, Level 2.png](/images/Wayfarer%20Inn,%20Level%202.png)
 
 TV:
 - The news is playing. The presenters are saying that there are unfounded rumors of an infection.

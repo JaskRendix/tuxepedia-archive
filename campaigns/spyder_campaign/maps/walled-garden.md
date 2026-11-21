@@ -8,7 +8,7 @@ A post-game Elite Academy in [Timber Town](timber-town.md) you can break into.
 This is where all the [Gold Pass](/items/gold-pass.md) holders are holding out after the defeat of the Pillars. Only once you beat them all will they admit that their worldview needs to be reconsidered - and the gates to the Garden are opened for all to come and learn the art of battling.
 
 ## Room 1
-![Spyder timber walledgarden1.png](../images/Spyder timber walledgarden1.png)
+![Spyder timber walledgarden1.png](/images/Spyder%20timber%20walledgarden1.png)
 
 ### Characters
 -
@@ -46,7 +46,7 @@ This is where all the [Gold Pass](/items/gold-pass.md) holders are holding out a
 - There was a tsunami alert!
 
 ## Room 2
-![Spyder timber walledgarden2.png](../images/Spyder timber walledgarden2.png)
+![Spyder timber walledgarden2.png](/images/Spyder%20timber%20walledgarden2.png)
 
 ### Characters
 [Rival Billie](../npcs/rival-billie.md)

@@ -1,6 +1,6 @@
 # Route 2
 
-![Route 2.png](../images/Route 2.png)
+![Route 2.png](/images/Route%202.png)
 
 ## Connections
 ### [Cotton Town](cotton-town.md)

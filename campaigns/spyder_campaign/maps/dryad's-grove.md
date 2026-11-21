@@ -1,6 +1,6 @@
 # Dryad's Grove
 
-![Dryad's Grove.png](../images/Dryad's Grove.png)
+![Dryad's Grove.png](/images/Dryad's%20Grove.png)
 
 ## Connections
 ### [Cotton Town](cotton-town.md)

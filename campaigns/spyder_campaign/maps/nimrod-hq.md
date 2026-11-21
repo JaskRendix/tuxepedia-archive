@@ -5,7 +5,7 @@
 
 # Bottom
 
-![Nimrod Bottom](../images/Nimrod_bottom.png)
+![Nimrod Bottom](/images/Nimrod%20bottom.png)
 
 ## PCs & Notes
 
@@ -53,7 +53,7 @@
 
 # Middle
 
-![Nimrod Middle](../images/Nimrod_middle.png)
+![Nimrod Middle](/images/Nimrod%20middle.png)
 
 ## Characters
 
@@ -127,7 +127,7 @@ If the player wins against Argon, Zircon shows up.
 
 # Top
 
-![Nimrod Top](../images/Nimrod_top.png)
+![Nimrod Top](/images/Nimrod%20top.png)
 
 ## PCs
 
@@ -161,9 +161,9 @@ If the player wins against Argon, Zircon shows up.
 ### **Scientist** Zircon
 
 - If you truly loved tuxemon, you would support us replacing them in war with robos.
-- [Dark Robo](Dark Robo.md) level 25
+- [Dark Robo](/monsters/dark-robo.md) level 25
 - I wish I'd replaced my tuxemon with robos.
 
 # Room
 
-![Nimrod Room](../images/Nimrod_room.png)
+![Nimrod Room](/images/Nimrod%20room.png)

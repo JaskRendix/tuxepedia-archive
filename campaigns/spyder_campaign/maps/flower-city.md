@@ -1,6 +1,6 @@
 # Flower City
 
-![Flower City.png](../images/Flower City.png)
+![Flower City.png](/images/Flower%20City.png)
 
 ## Connections
 ### [Route 4](route-4.md)

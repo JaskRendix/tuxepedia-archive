@@ -1,6 +1,6 @@
 # Crystal Town
 
-![Sphalian town.png](../images/Sphalian town.png)
+![Sphalian town.png](/images/Sphalian%20town.png)
 
 ## Connections
 ### [Route 7](route-7.md)

@@ -1,6 +1,6 @@
 # Cotton Tunnel
 
-![Spyder cotton tunnel.png](../images/Spyder cotton tunnel.png)
+![Spyder cotton tunnel.png](/images/Spyder%20cotton%20tunnel.png)
 
 ## Connections
 ### [Dragon's Cave](dragon's-cave.md)

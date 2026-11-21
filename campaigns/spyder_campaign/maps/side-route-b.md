@@ -1,6 +1,6 @@
 # Side Route B
 
-![Spyder routeb.png](../images/Spyder routeb.png)
+![Spyder routeb.png](/images/Spyder%20routeb.png)
 
 ## Connections
 ### [Side Route E](side-route-e.md)

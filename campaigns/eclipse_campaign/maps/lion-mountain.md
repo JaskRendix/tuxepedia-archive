@@ -1,6 +1,6 @@
 # Lion Mountain
 
-![Buddha mountain.png](../images/Buddha mountain.png)
+![Buddha mountain.png](/images/Buddha%20mountain.png)
 
 ## Connections
 ### [Crystal Town](crystal-town.md) from Lion Mountain (low) 

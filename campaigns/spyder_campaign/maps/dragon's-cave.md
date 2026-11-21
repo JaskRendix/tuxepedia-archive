@@ -1,6 +1,6 @@
 # Dragon's Cave
 
-![Dragon's Cave.png](../images/Dragon's Cave.png)
+![Dragon's Cave.png](/images/Dragon's%20Cave.png)
 
 ## Connections
 ### [Sea Route C](sea-route-c.md)

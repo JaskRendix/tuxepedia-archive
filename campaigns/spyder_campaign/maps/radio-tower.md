@@ -1,6 +1,6 @@
 # Radio Tower
 
-![Spyder radiotower](../images/Spyder radiotower.png)
+![Spyder radiotower](/images/Spyder%20radiotower.png)
 
 ## Characters
 

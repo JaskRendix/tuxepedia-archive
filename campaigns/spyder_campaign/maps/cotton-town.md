@@ -1,6 +1,6 @@
 # Cotton Town
 
-![Cotton town.png](../images/Cotton town.png)
+![Cotton town.png](/images/Cotton%20town.png)
   
 ## Connections
 Event 1 triggers as soon as you arrive for the first time. 
@@ -92,7 +92,7 @@ Sign h
 - Cathedral Center: We live to serve.
 
 ### Scoop Store
-![Scoop Store - Cotton Town.png](../images/Scoop Store - Cotton Town.png)
+![Scoop Store - Cotton Town.png](/images/Scoop%20Store%20-%20Cotton%20Town.png)
 
 Event 4 occurs when you first enter this building.
 
@@ -135,7 +135,7 @@ Tech counter:
 - I don't have a problem with people from other regions. Just don't come after my job, alright?
 
 ### Cafe
-![Cafe - Cotton Town.png](../images/Cafe - Cotton Town.png)
+![Cafe - Cotton Town.png](/images/Cafe%20-%20Cotton%20Town.png)
 Events 5 and 6 happen here.
 
 **Magician**:
@@ -173,7 +173,7 @@ You can battle the **Enforcer**, and travel into Level 1 after defeating him or 
 The statues are scattered, removed or tipped over. The Monk is not present. You can travel to [Dryad's Grove](dryad's-grove.md).
 
 ### Cathedral Center
-![Healing center.png](../images/Healing center.png)
+![Healing center.png](/images/Healing%20center.png)
 
 #### After Event 3
 The next time the player visits the Cotton Town Center, there are a lot of people inside the Center and the Nurse (close to the PC) is explaining how it's not possible pick / deposit monsters/items because the system is completely down.

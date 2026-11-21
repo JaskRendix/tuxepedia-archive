@@ -6,7 +6,7 @@ When you leave, the blockade of [Route 6](Route 6.md) ends, because "We've gathe
 
 # Greenhouse
 
-![Spyder greenwash greenhouse](../images/Spyder greenwash greenhouse.png)
+![Spyder greenwash greenhouse](/images/Spyder%20greenwash%20greenhouse.png)
 
 ## Characters
 
@@ -109,7 +109,7 @@ I could battle you, but I prefer to appeal to your reason and common sense. If y
 
 # 1st Floor
 
-![Spyder greenwash level2](../images/Spyder greenwash level2.png)
+![Spyder greenwash level2](/images/Spyder%20greenwash%20level2.png)
 
 ## Characters
 
@@ -182,7 +182,7 @@ If Fusion is implemented, the [Fusion Report](/items/fusion-report.md) will be p
 
 # 2nd Floor
 
-![Spyder greenwash level3](../images/Spyder greenwash level3.png)
+![Spyder greenwash level3](/images/Spyder%20greenwash%20level3.png)
 
 ## Emails & Notes
 

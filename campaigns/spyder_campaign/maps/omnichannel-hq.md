@@ -10,7 +10,7 @@ Once you defeat the CEO himself, you can use the radio station to reveal the con
 
 # Omnichannel Ground Floor
 
-![Omnichannel HQ](../images/Omnichannel_HQ.png)
+![Omnichannel HQ](/images/Omnichannel%20HQ.png)
 
 ## Characters
 
@@ -43,7 +43,7 @@ Once you defeat the CEO himself, you can use the radio station to reveal the con
 
 # Omnichannel 1st Floor
 
-![Omnichannel HQ Level 2](../images/Omnichannel_HQ_Level_2.png)
+![Omnichannel HQ Level 2](/images/Omnichannel%20HQ%20Level%202.png)
 
 ## Characters
 
@@ -83,7 +83,7 @@ Once you defeat the CEO himself, you can use the radio station to reveal the con
 
 # Omnichannel 2nd Floor
 
-![Omnichannel HQ Level 3](../images/Omnichannel_HQ_Level_3.png)
+![Omnichannel HQ Level 3](/images/Omnichannel%20HQ%20Level%203.png)
 
 ## Characters
 
@@ -111,7 +111,7 @@ Once you defeat the CEO himself, you can use the radio station to reveal the con
 
 # Omnichannel 3rd Floor
 
-![Omnichannel HQ Level 4](../images/Omnichannel_HQ_Level_4.png)
+![Omnichannel HQ Level 4](/images/Omnichannel%20HQ%20Level%204.png)
 
 The whole floor is eerily empty.
 

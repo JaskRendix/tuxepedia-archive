@@ -6,7 +6,7 @@
 The Dojo is based in [Flower City](flower-city.md). The Dojo is mostly a chance to battle lots of **Monk** trainers, but it also teaches you the details of tuxemon battling - with diagrams of the different stats, how the types work, when to swap out moves, etc. 
 
 ## Bottom Floor
-![Dojo Level 1.png](../images/Dojo Level 1.png)
+![Dojo Level 1.png](/images/Dojo%20Level%201.png)
 
 **Maniac**
 - How are you finding the Dojo? ... You should become a monk here. You already have the vow of silence covered!
@@ -54,7 +54,7 @@ d. Blackboard
 - It is the Mentor's notes on Techniques. In combat, monsters can choose from up to four techniques that they know. Techniques have an accuracy, which determines how likely they are to occur. If a technique has a Power, that determines how much Damage it does. Some techniques impose a condition on the user or the target, or both - and the technique's Potency determines how likely that is to occur. Some techniques, once used, take a while to become available again.
 
 ## Second Floor (Types)
-![Dojo Upper Level (5 People).png](../images/Dojo Upper Level (5 People).png)
+![Dojo Upper Level (5 People).png](/images/Dojo%20Upper%20Level%20(5%20People).png)
 *(When you first enter, the **Master** approaches.)*
 
 1. **Master** Wan
@@ -96,7 +96,7 @@ E. **Monk** Iroh
 - "Of course, they do still have their Fire weaknesses. Good job. Let me heal you."
 
 ## Third Floor (Stats)
-![Dojo Upper Level (5 People).png](../images/Dojo Upper Level (5 People).png)
+![Dojo Upper Level (5 People).png](/images/Dojo%20Upper%20Level%20(5%20People).png)
 *(When you first enter, the **Master** approaches.)*
 
 1. **Master** Tu
@@ -134,7 +134,7 @@ E. **Monk** Saturn
 - Here is a TM that you may find useful: [All In](/techniques/all-in.md). It heals you a little, improving your odds of holding out against durable monsters. I'll also heal you.
 
 ## Top Floor
-![Dojo Top Level.png](../images/Dojo Top Level.png)
+![Dojo Top Level.png](/images/Dojo%20Top%20Level.png)
 A. **Riddler** Thri
 - Congratulations, you have proven yourself an excellent trainer. You will face only one further adversary: me!
 - [Sampsage](/monsters/sampsage.md) level 35, [Sampsack](/monsters/sampsack.md) level 35
