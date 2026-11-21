@@ -4,7 +4,7 @@
 ### [Route 3](route-3.md)
 
 ## Events
-### [Spyder Bite](spyder-bite.md)
+### Spyder Bite
 The tuxemon of everyone in this building - except the **Enforcers** - are infected with Spyder Bite. That means that the **Protagonist**'s tuxemon are at risk too. 
 
 ## Ground Floor

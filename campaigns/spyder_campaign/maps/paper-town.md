@@ -16,7 +16,7 @@ The **Riverboat Captain** stands on the dock:
 ### [Route 1](route-1.md)
 If you try to leave before you have a tuxemon, Event 3 occurs.
 ### [Sea Route C](sea-route-c.md)
-Must have [Hoverboard](hoverboard.md).
+Must have [Hoverboard](/items/hoverboard.md).
 
 ## Events
 The game begins with you in your Bedroom, beside your bed.
@@ -27,7 +27,7 @@ The game begins with you in your Bedroom, beside your bed.
 - Hey, you came! That's great. With the fancy new tuxemon come through from the Cathedral, we just threw all our old ones in the bin! It seems like such a waste, especially when kids like you don't have any! ''(rummages)''
 - Here we go, five tuxemon! Which would you like?
 
-''(Five [Tuxeball](/items/tuxeball.md)s. As you select one, an image comes up, of [Tweesher](/monsters/tweesher.md), [Lambert](/monsters/lambert.md), [Nut](/monsters/nut.md), [Agnite](/monsters/agnite.md) and [Rockitten](/monsters/rockitten.md) - the [Starting Tuxemon](starting-tuxemon.md).) When one is interacted with:''
+''(Five [Tuxeball](/items/tuxeball.md)s. As you select one, an image comes up, of [Tweesher](/monsters/tweesher.md), [Lambert](/monsters/lambert.md), [Nut](/monsters/nut.md), [Agnite](/monsters/agnite.md) and [Rockitten](/monsters/rockitten.md) - the Starting Tuxemon.) When one is interacted with:''
 
 - It's TUXEMON NAME, the TYPE-type Tuxemon! Will you choose it? (Y/N)
 
@@ -98,7 +98,7 @@ Your bed is in your Bedroom. Interact with it to heal all tuxemon to full health
 - ''(After you have a tuxemon)'' Oh, you found yourself a tuxemon. Congratulations! Why don't you head over to the next town and explore? 
 - ''(After you have defeated Shaft)'' Welcome back! Look at you, growing up so fast.
 - ''(After you have reached [Timber Town](timber-town.md))'' You know, [Granny Piper](../npcs/granny-piper.md) next door has opened up her **Daycare Center**. Well, not everyone can be an inventor, I guess. 
-- ''(After you have defeated [Omnichannel](omnichannel.md))'' Congratulations! You took down the corporations! Of course, now lots of people don't have a job ... but you did the right thing. I think.
+- ''(After you have defeated **Omnichannel**)'' Congratulations! You took down the corporations! Of course, now lots of people don't have a job ... but you did the right thing. I think.
 
 ### Daycare Center
 ![Daycare Centre.png](../images/Daycare Centre.png)
@@ -128,7 +128,7 @@ There are pamphlets on the table:
 
 ''Opens on **CEO** sprite''
 
-Hello, I am the **CEO** of [Omnichannel](omnichannel.md). We run the newspapers, TV channels and radio stations for this region. It is my duty to inform you.
+Hello, I am the **CEO** of **Omnichannel**. We run the newspapers, TV channels and radio stations for this region. It is my duty to inform you.
 
 ''[Tumbleworm](/monsters/tumbleworm.md) appears''
 

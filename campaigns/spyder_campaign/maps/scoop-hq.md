@@ -10,7 +10,7 @@ When P is defeated, N and O escape up the stairs, saying:
 - Haha, now we can make our escape with the Extreme Restraints!
 
 ## Synopsis
-Having learned about - and probably had some of their tuxemon become infected with - the [Spyder Bite](spyder-bite.md) disease in the [Wayfarer Inn](wayfarer-inn.md), the protagonist follows rumours that the disease was created by **Scoop** for some unknown purpose. They break into the Scoop HQ building via a side door. Someone tips them off that due to the system of conveyor belts inside, the protagonist won't be able to get back out unless they fight through a fair amount of the building - so to make sure they have the tuxemon and items that they need! 
+Having learned about - and probably had some of their tuxemon become infected with - the **Spyder Bite** disease in the [Wayfarer Inn](wayfarer-inn.md), the protagonist follows rumours that the disease was created by **Scoop** for some unknown purpose. They break into the Scoop HQ building via a side door. Someone tips them off that due to the system of conveyor belts inside, the protagonist won't be able to get back out unless they fight through a fair amount of the building - so to make sure they have the tuxemon and items that they need! 
 
 In the first room, the protagonist observes the cramped, dirty conditions that the farm tuxemon are kept in before being harvested, but the Scoop employees are clear that while the disease began here, it wasn't deliberately spread by them. **Enforcers** came by and bossily interfered with the quarantine, and presumably the disease infected their tuxemon. When they left, they carried the disease with them.
 

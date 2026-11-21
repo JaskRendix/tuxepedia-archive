@@ -1,6 +1,6 @@
 [Details on the forum](https://forum.tuxemon.org/thread.php?id=239).
 
-Takes place in the **Fondent region**, where **Omnichannel** has total control (the [Cathedral](cathedral.md)'s Pillars don't exist).
+Takes place in the **Fondent region**, where **Omnichannel** has total control.
 
 ## Omnichannel
 

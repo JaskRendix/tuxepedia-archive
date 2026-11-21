@@ -48,13 +48,13 @@ Sign a:
 ## Characters
 
 **Scientist**:
-- Did you hear about the new tuxemon discovered in the [Archipelago](archipelago.md)?
+- Did you hear about the new tuxemon discovered in the Archipelago?
 
 **Beachgoer**:
 - The sea is a long way from here.
 
 **Maniac**:
-- A typical [Crystal](crystal.md) breakfast consists of white sausage, wheat beer and pretzels.
+- A typical Crystal breakfast consists of white sausage, wheat beer and pretzels.
 
 ## Trainers
 **Monk** Statius:
@@ -77,7 +77,7 @@ Sign a:
 - [Rhinocarpe](/monsters/rhinocarpe.md) level 20, [Bursa](/monsters/bursa.md) level 10, [Dandicub](/monsters/dandicub.md) level 10
 - Please, don't tell anyone!
 
-[Coach](coach.md) Sordello:
+**Coach** Sordello:
 - If you could buy anything you wanted, what would you buy?
 - [Fuzzlet](/monsters/fuzzlet.md) level 10, [Ziggurat](/monsters/ziggurat.md) level 10, [Woodoor](/monsters/woodoor.md) level 10, [Potturmeist](/monsters/potturmeist.md) level 10, [Squink](/monsters/squink.md) level 10
 - Probably a couple of revives and some potions

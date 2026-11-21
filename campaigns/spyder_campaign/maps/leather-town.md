@@ -201,7 +201,7 @@ Stock:
 - [Potion](/items/potion.md) — $100
 - [Super Potion](/items/super-potion.md) — $300
 - [Tuxeball](/items/tuxeball.md) — $300
-- [Lavish Tuxeball](lavish-tuxeball.md) — $300
+- [Lavish Tuxeball](/items/lavish-tuxeball.md) — $300
 - [Restoration](/items/restoration.md) — $400
 - [Escape Key](/items/escape-key.md) — $600
 - [Revive](/items/revive.md) — $1,000

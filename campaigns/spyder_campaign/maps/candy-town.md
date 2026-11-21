@@ -99,14 +99,14 @@ This house has a garden out the back.
 
 Choose one at random from:
 
-- Oh, how strange! An [Ancient Egg](ancient-egg.md). Here, you have it. It may be important. (Can only happen once, then this option is excluded)
-- Oh, a [Refreshing Slice](refreshing-slice.md)! Here, you have it. 
-- Oh, [Antidote Grapes](antidote-grapes.md)! Here, you have them.
-- Oh, [Cure Festering](cure-festering.md)! Here, you have it.
+- Oh, how strange! An [Ancient Egg](/items/ancient-egg.md). Here, you have it. It may be important. (Can only happen once, then this option is excluded)
+- Oh, a [Refreshing Slice](/items/refreshing-slice.md)! Here, you have it. 
+- Oh, [Antidote Grapes](/items/antidote-grapes.md)! Here, you have them.
+- Oh, [Cure Festering](/items/cure-festering.md)! Here, you have it.
 - Oh, a [Cureall](/items/cureall.md)! Here, you have it.
 - Oh, [Restoration](/items/restoration.md)! Here, you have it. 
 - Oh, a [Potion](/items/potion.md)! Here, you have it.
-- Oh, [Tea](tea.md)! Here, you have it.
+- Oh, [Tea](/items/tea.md)! Here, you have it.
 
 -Second and subsequent time in any 24-hour period:*
 

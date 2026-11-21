@@ -149,5 +149,5 @@ As the Protagonist goes to leave:
 [Rival Billie](../npcs/rival-billie.md)
 - Hey cheapskate! I'm training here too. You know, this Tuxepedia thing isn't half bad. I bet you only like it cos it's free, though. 
 - STARTER level 34, [Cardiwing](/monsters/cardiwing.md) level 30, [Eyesore](/monsters/eyesore.md) level 30, [Viviphyta](/monsters/viviphyta.md) level 30
-- Hmmm, I can tell from your [Tuxepedia](tuxepedia.md) edits that you know your stuff.
+- Hmmm, I can tell from your Tuxepedia edits that you know your stuff.
 - "Billie has added their tuxemon data to TUXEPEDIA" (Tuxepedia updated with their STARTER's details, and both its morphs, and [Eyenemy](/monsters/eyenemy.md), [Eyesore](/monsters/eyesore.md), [Cardiling](/monsters/cardiling.md), [Cardiwing](/monsters/cardiwing.md), [Vivipere](/monsters/vivipere.md) and [Viviphyta](/monsters/viviphyta.md))
