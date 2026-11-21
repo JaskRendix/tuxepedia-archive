@@ -17,24 +17,24 @@ The stairs to the Wayfarer Inn are blocked by a boulder.
 ### Event 1
 When you pass by on the cliffs overhead, the scene plays out below:
 
-**Spyder Agent** appears from one direction, [Shaft Boss](shaft-boss.md) from the other. 
+**Spyder Agent** appears from one direction, **Shaft Boss** from the other. 
 
 **Spyder Agent**
 - What happened to the excavation?
 
-[Shaft Boss](shaft-boss.md)
+**Shaft Boss**
 - We got ... interrupted. By ... a kid. 
 
 **Spyder Agent**
 - A kid?!
 
-[Shaft Boss](shaft-boss.md)
+**Shaft Boss**
 - But we did manage to recover one ... 
 
 **Spyder Agent**
 - Hush! You know that's top secret. Alright, hand it over and scram!
 
-[Shaft Boss](shaft-boss.md)
+**Shaft Boss**
 - Okay, here ... uh!
 
 An egg appears between them. It shakes, cracks, and then a dark flying thing escapes and flies north.
@@ -44,10 +44,10 @@ An egg appears between them. It shakes, cracks, and then a dark flying thing esc
 **Spyder Agent**
 - What the?! Come with me, you can explain this to HQ!
 
-**Spyder Agent** and [Shaft Boss](shaft-boss.md) leave.
+**Spyder Agent** and **Shaft Boss** leave.
 
 ### Event 2
-When you defeat the [Shaft Boss](shaft-boss.md), she drops the [Sledgehammer](sledgehammer.md). You can then break the boulder blocking the way.
+When you defeat the **Shaft Boss**, she drops the [Sledgehammer](/items/sledgehammer.md). You can then break the boulder blocking the way.
 
 ## Encounters
 ### Grass
@@ -57,11 +57,11 @@ When you defeat the [Shaft Boss](shaft-boss.md), she drops the [Sledgehammer](sl
 - [Squabbit](/monsters/squabbit.md)
 
 ### Sand
-- [Pawsand](pawsand.md) (first appearance)
-- [Seirein](seirein.md) (first appearance)
+- [Pawsand](/monsters/pawsand.md) (first appearance)
+- [Seirein](/monsters/seirein.md) (first appearance)
 - [Tumblequill](/monsters/tumblequill.md) (first appearance)
-- [Baoby](baoby.md) (first appearance, night)
-- [Imbrickcile](imbrickcile.md) (first appearance, night)
+- [Baoby](/monsters/baoby.md) (first appearance, night)
+- [Imbrickcile](/monsters/imbrickcile.md) (first appearance, night)
 - [Selket](/monsters/selket.md) (first appearance, night)
 
 ## Characters
@@ -92,7 +92,7 @@ D. [Shaft Boss](../npcs/zoolander.md) Zoolander
 E. **Fisher** Wanda
 - All I ever seem to catch is boring **Nudiflot**!
 - [Nudiflot F](/monsters/nudiflot-f.md) level 8, [Nudiflot F](/monsters/nudiflot-f.md) level 8, [Nudiflot F](/monsters/nudiflot-f.md) level 8, [Nudiflot M](/monsters/nudiflot-m.md) level 8, [Nudiflot M](/monsters/nudiflot-m.md) level 8, [Nudiflot M](/monsters/nudiflot-m.md) level 8
-- The fishing's good in [Flower City](flower-city.md) - but who wants to walk that far? ''(Protagonist gains [Fishing Rod](fishing-rod.md))''
+- The fishing's good in [Flower City](flower-city.md) - but who wants to walk that far? ''(Protagonist gains [Fishing Rod](/items/fishing-rod.md))''
 
 F. **Tennis Player** Connor
 - "My Weavifly is fighting fit now - there was a while there where it couldn't fly."

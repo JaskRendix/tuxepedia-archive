@@ -19,7 +19,7 @@ Sign a:
 - [Aardorn](/monsters/aardorn.md) (first appearance)
 - [Cataspike](/monsters/cataspike.md) (first appearance)
 
-### [Fishing](fishing.md)/Surfing
+### Fishing/Surfing
 - [Nudiflot M](/monsters/nudiflot-m.md)
 - [Nudiflot F](/monsters/nudiflot-f.md)
 - [Nudimind](/monsters/nudimind.md)

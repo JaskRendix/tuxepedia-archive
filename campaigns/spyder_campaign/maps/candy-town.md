@@ -121,7 +121,7 @@ Choose one at random from:
 - This darn tuxemon is eating me out of house and home. I wish I could trade it for a nice quite tuxemon, like a Cateye.
 - Trade [Cateye](/monsters/cateye.md) for [Zunna](/monsters/zunna.md)
 
-### [Scoop Store](scoop-store.md)
+### Scoop Store
 Stock:
 - [Revive](/items/revive.md) — $1,000
 - [Mega Potion](/items/mega-potion.md) — $500
@@ -142,7 +142,7 @@ Tech counter:
 
 ### Candy Port
 ![Spyder candy port.png](../images/Spyder candy port.png)
-The port is the furthermost south-western hub located on the Sea coast and acts as a central turntable for the traffic between the Fondent region and the other continents as well as the Archipelago. Here the player can find the [Riverboat Station](riverboat-station.md).
+The port is the furthermost south-western hub located on the Sea coast and acts as a central turntable for the traffic between the Fondent region and the other continents as well as the Archipelago. Here the player can find the Riverboat Station.
 
 **Monk**
 - Port authority seized more than 15 illegal containers of timber on a ship. Have you heard about it?
@@ -199,7 +199,7 @@ the player gets stung
 - It was very unfortunate what happened.
 
 ## Encounters
-### [Fishing](fishing.md)/Surfing
+### Fishing/Surfing
 - [Nudiflot M](/monsters/nudiflot-m.md)
 - [Nudiflot F](/monsters/nudiflot-f.md)
 - [Nudimind](/monsters/nudimind.md)

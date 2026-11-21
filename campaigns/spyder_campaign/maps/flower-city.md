@@ -7,13 +7,13 @@
 ### [Route 5](route-5.md)
 After Event 1.
 ### [Side Route A](side-route-a.md)
-### [Riverboat Station](riverboat-station.md)
+### Riverboat Station
 After [Timber Town](timber-town.md).
 ### [Side Route D](side-route-d.md)
 ### [Dojo of the Elements](dojo-of-the-elements.md)
 
 ## Encounters
-### [Fishing](fishing.md)/Surfing
+### Fishing/Surfing
 - [Rhinocarpe](/monsters/rhinocarpe.md)
 - [Urcheedle](/monsters/urcheedle.md)
 - [Drashimi](/monsters/drashimi.md)
@@ -27,7 +27,7 @@ An **Enforcer** blocks the way to [Nimrod HQ](nimrod-hq.md) until the player def
 - It's exciting for us to visit the country of X! You have such unique tuxemon here ... Hey, do you want to trade? My [Conileaf](/monsters/conileaf.md) for a creature that we don't have back home ... how about [Budaye](/monsters/budaye.md)? Y/N
 
 **Beachcomber** Fez
-- Everyone in our region has to pick from one of the same five boring tuxemon. I know like a hundred people with a [Foxfire](foxfire.md) ... Hey, do you want to trade? My [Foxfire](foxfire.md) for an [Ignibus](/monsters/ignibus.md)? Y/N
+- Everyone in our region has to pick from one of the same five boring tuxemon. I know like a hundred people with a [Foxfire](/monsters/foxfire.md) ... Hey, do you want to trade? My [Foxfire](/monsters/foxfire.md) for an [Ignibus](/monsters/ignibus.md)? Y/N
 
 **Snugglepot** Cady
 - Oh I'd just love to have a souvenier to take back home with me. I just adore those sweet little [Grintot](/monsters/grintot.md). Could you get me one? I could give you my [Hampotamos](/monsters/hampotamos.md) in exchange? Y/N
@@ -35,11 +35,11 @@ An **Enforcer** blocks the way to [Nimrod HQ](nimrod-hq.md) until the player def
 **Picnicker** Teach
 - Oh where has my other student gotten to?
 
-[Child Actor](child-actor.md) Sandy
+**Child Actor** Sandy
 - This [Pharfan](/monsters/pharfan.md) keeps spraying me with water. What a drag! Hey, do you want it? You'd have to give me a [Tweesher](/monsters/tweesher.md) in return. Y/N
 
 **Fisher**
-If player has [Fishing Rod](fishing-rod.md):
+If player has [Fishing Rod](/items/fishing-rod.md):
 - It's a slow pleasure, but there's nothing nicer than fishing by the water. 
 - Just select your Rod from the Bag while facing the river.
 
@@ -86,7 +86,7 @@ If player does not:
 **Scientist**
 - [Radio FUD](../radios/radio-fud.md) wakes me up every morning. Not sure I care for their politics, but at least they call it how they see it!
 
-### [Scoop Store](scoop-store.md)
+### Scoop Store
 **Shopkeeper**
 - Yesterday night, something incredible happened.\n I'm still trying to process it all. Would you like to hear about it? (Y/N)
 if yes [Flashback](../flashbacks/o-captain-my-captain.md)
@@ -98,7 +98,7 @@ Stock:
 - [Diurnal Tuxeball](/items/diurnal-tuxeball.md) — $300 (daytime only)
 - [Nocturnal Tuxeball](/items/nocturnal-tuxeball.md) — $300 (night only)
 - [Restoration](/items/restoration.md) — $400
-- [Majestic Tuxeball](majestic-tuxeball.md) — $600
+- [Majestic Tuxeball](/items/majestic-tuxeball.md) — $600
 - [Escape Key](/items/escape-key.md) — $600
 - [Revive](/items/revive.md) — $1,000
 - [Cureall](/items/cureall.md) — $1,500

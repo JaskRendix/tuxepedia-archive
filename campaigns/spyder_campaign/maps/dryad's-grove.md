@@ -79,7 +79,7 @@ if N
 - [Sapsnap](/monsters/sapsnap.md)
 - [Lambert](/monsters/lambert.md) (first appearance)
 
-### [Fishing](fishing.md)/Surfing
+### Fishing/Surfing
 - [Nudiflot M](/monsters/nudiflot-m.md)
 - [Nudiflot F](/monsters/nudiflot-f.md)
 - [Nudimind](/monsters/nudimind.md) 

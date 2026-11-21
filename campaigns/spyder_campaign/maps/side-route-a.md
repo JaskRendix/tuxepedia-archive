@@ -84,5 +84,5 @@ c. [Tea](/items/tea.md)
 - [Anoleaf](/monsters/anoleaf.md) (first appearance)
 - [Wolffsky](/monsters/wolffsky.md) (night, first appearance)
 
-## [Fishing](fishing.md)/Surfing
+## Fishing/Surfing
 - [PiCC](/monsters/picc.md) (first appearance) (levels 12-15)

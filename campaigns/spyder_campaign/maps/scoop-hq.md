@@ -103,7 +103,7 @@ O. **Spyder Boss** Arachne
 - [Cardiwing](/monsters/cardiwing.md) level 35, [Spighter](/monsters/spighter.md) level 35, [Abesnaki](/monsters/abesnaki.md) level 35
 - It's too late! I have the Extreme Restraints and there's nothing you can do about it. 
 
-P. [Landrace](landrace.md)
+P. **Landrace**
 - Graar!
 - 
 - Ufff.

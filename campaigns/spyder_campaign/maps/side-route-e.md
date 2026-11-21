@@ -35,7 +35,7 @@ Sign:
 - Do not swim downstream of the pump site.
 
 ## Encounters
-### [Fishing](fishing.md)/Surfing
+### Fishing/Surfing
 - [Rhinocarpe](/monsters/rhinocarpe.md)
 - [Urcheedle](/monsters/urcheedle.md)
 - [Drashimi](/monsters/drashimi.md)

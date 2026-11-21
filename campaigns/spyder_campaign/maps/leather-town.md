@@ -5,13 +5,13 @@
 ## Connections
 ### [City Park](city-park.md)
 ### [Route 3](route-3.md)
-### [Riverboat Station](riverboat-station.md)
+### Riverboat Station
 ### [Side Route D](side-route-d.md)
 
 After [Timber Town](timber-town.md).
 
 ## Encounters
-### [Fishing](fishing.md)/Surfing
+### Fishing/Surfing
 - [Rhinocarpe](/monsters/rhinocarpe.md)
 - [Urcheedle](/monsters/urcheedle.md)
 - [Drashimi](/monsters/drashimi.md)
@@ -195,7 +195,7 @@ Two tuxemon are battling, with their trainers also in the ring.
 ### Museum
 [Leather Town Museum](leather-town-museum.md)
 
-### [Scoop Store](scoop-store.md)
+### Scoop Store
 Stock:
 - [Repellent](/items/repellent.md) — $100
 - [Potion](/items/potion.md) — $100

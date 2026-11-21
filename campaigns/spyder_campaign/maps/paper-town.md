@@ -3,7 +3,7 @@
 ![Paper town.png](../images/Paper town.png)
 
 ## Connections
-### [Riverboat Station](riverboat-station.md)
+### Riverboat Station
 Originally blocked by a barrier. If interacted with:
 - The sign reads, 'Under repairs.' 
 
@@ -96,7 +96,7 @@ Your bed is in your Bedroom. Interact with it to heal all tuxemon to full health
 - ''(First time you speak to her)'' Good morning sunshine! Rest here any time you like. Why am I saying that? You live here!
 - Hello dear. I should get on with my inventing. Can't you occupy yourself? Back in my day, we could amuse ourselves with anything - a stick, a rock, rubbish we found in bins ... 
 - ''(After you have a tuxemon)'' Oh, you found yourself a tuxemon. Congratulations! Why don't you head over to the next town and explore? 
-- ''(After you have defeated [Shaft](shaft.md))'' Welcome back! Look at you, growing up so fast.
+- ''(After you have defeated Shaft)'' Welcome back! Look at you, growing up so fast.
 - ''(After you have reached [Timber Town](timber-town.md))'' You know, [Granny Piper](../npcs/granny-piper.md) next door has opened up her **Daycare Center**. Well, not everyone can be an inventor, I guess. 
 - ''(After you have defeated [Omnichannel](omnichannel.md))'' Congratulations! You took down the corporations! Of course, now lots of people don't have a job ... but you did the right thing. I think.
 
@@ -121,7 +121,7 @@ Tuxemon left at the Daycare Center gain one XP point for every step the protagon
 There are pamphlets on the table:
 - Place your tuxemon in the Daycare Center! Give us a tuxemon, and we will look after it while you travel. When you return, pay a small fee and we'll return it. The longer tuxemon are in our care, the higher in level they will rise!
 
-### [Scoop Store](scoop-store.md)
+### Scoop Store
 ![Scoop Store - Paper Town.png](../images/Scoop Store - Paper Town.png)
 
 #### Introduction
@@ -228,7 +228,7 @@ Award (wall):
 - ???
 
 ## Encounters 
-### [Fishing](fishing.md)/Surfing
+### Fishing/Surfing
 - [Fluoresfin](/monsters/fluoresfin.md)
 - [Sheye](/monsters/sheye.md)
 - [Nudiflot M](/monsters/nudiflot-m.md)

@@ -8,7 +8,7 @@ Slogan: Home is just over the horizon.
 ### [Paper Town](paper-town.md)
 
 ## Encounters
-### [Fishing](fishing.md)/Surfing
+### Fishing/Surfing
 - [Nudiflot M](/monsters/nudiflot-m.md)
 - [Nudiflot F](/monsters/nudiflot-f.md)
 - [Nudimind](/monsters/nudimind.md) (first appearance)

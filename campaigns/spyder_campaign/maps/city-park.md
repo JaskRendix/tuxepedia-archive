@@ -59,7 +59,7 @@ G. **Picnicker** Edith
 - [Squabbit](/monsters/squabbit.md) (first appearance)
 - [Tourbidi](/monsters/tourbidi.md) (first appearance)
 
-### [Fishing](fishing.md)/Surfing
+### Fishing/Surfing
 - [Fluoresfin](/monsters/fluoresfin.md)
 - [Sheye](/monsters/sheye.md)
 - [Nudiflot M](/monsters/nudiflot-m.md)
@@ -70,12 +70,12 @@ G. **Picnicker** Edith
 
 ''(When first spoken to)''
 
-- I'm the Achievement Maniac! I'm young. ... Well, at heart. My body is old and frail. All my life, my dream has been to do the things that no one else has done. Like ... giving a dog tuxemon to a **Cat Girl**. I wrote down all the things I wanted to do in my [Book of Wishes](book-of-wishes.md). But it's unfinished ...
+- I'm the Achievement Maniac! I'm young. ... Well, at heart. My body is old and frail. All my life, my dream has been to do the things that no one else has done. Like ... giving a dog tuxemon to a **Cat Girl**. I wrote down all the things I wanted to do in my [Book of Wishes](/items/book-of-wishes.md). But it's unfinished ...
 - Do you want to help me? You can do all the challenges that I didn't get around to! (Y/N)
 
 ''(When next spoken to)''
 
-- How are you getting along with the [Book of Wishes](book-of-wishes.md)? Tell me of your achievements ... 
+- How are you getting along with the [Book of Wishes](/items/book-of-wishes.md)? Tell me of your achievements ... 
 
 ''(If there have been achievements)''
 

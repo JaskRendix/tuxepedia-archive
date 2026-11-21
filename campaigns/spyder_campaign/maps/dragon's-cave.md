@@ -29,7 +29,7 @@
 
 2. [Escape Key](/items/escape-key.md)
 
-3. [Boost Armour](/items/boost-armour.md)
+3. [Boost Armour](/items/boost-armor.md)
 
 4. [Boost Melee](/items/boost-melee.md)
 

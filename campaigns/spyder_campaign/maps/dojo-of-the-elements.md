@@ -87,7 +87,7 @@ C. **Monk** Yangchen
 
 D. **Monk** Kataro
 - "My Water tuxemon know techniques that work around their weaknesses, whether that's using Fiery to make their opponent weak to Water techniques, or using the fixed damage move Panjandrum so it's not halved against Wood types."
-- [Hydrone](/monsters/hydrone.md) (level 25, with [Panjandrum](/techniques/panjandrum.md)), [Nudikill](/monsters/nudikill.md) (level 25); has a [Wood Berry](wood-berry.md)
+- [Hydrone](/monsters/hydrone.md) (level 25, with [Panjandrum](/techniques/panjandrum.md)), [Nudikill](/monsters/nudikill.md) (level 25); has a [Wood Berry](/items/wood-berry.md)
 - "Of course, these mitigating strategies carry an opportunity cost. Good job. Let me heal you."
 
 E. **Monk** Iroh

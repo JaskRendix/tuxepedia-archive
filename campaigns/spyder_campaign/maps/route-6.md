@@ -12,7 +12,7 @@ Slogan: A playful meander along the river.
 
 **Homemaker** Mom
 - My latest inventions make training up your team a little less painful.
-- Gives [XP Transmitter](xp-transmitter.md) and [XP Feeder](xp-feeder.md)
+- Gives [XP Transmitter](/items/xp-transmitter.md) and [XP Feeder](/items/xp-feeder.md)
 
 **Firefighter**
 - The fire drill will be over soon and all Greenwash employees will be permitted to return. ... How soon? When we say so!
@@ -80,7 +80,7 @@ H. **Scientist** Rigel
 - [Dandylion](/monsters/dandylion.md)
 - [Capiti](/monsters/capiti.md)
 
-### [Fishing](fishing.md)/Surfing
+### Fishing/Surfing
 - [Skwib](/monsters/skwib.md)
 - [Snaki](/monsters/snaki.md)
 - [Flisces](/monsters/flisces.md)

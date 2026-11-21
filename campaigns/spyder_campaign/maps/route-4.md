@@ -10,10 +10,8 @@ Slogan: Up and down the road again.
 
 ## Items
 a. [Super Potion](/items/super-potion.md)
-
-b. [Boost Ranged](boost-ranged.md)
-
-c. [Tea](tea.md)
+b. [Boost Ranged](/items/boost-ranged.md)
+c. [Tea](/items/tea.md)
 
 ## Encounters
 - [Elofly](/monsters/elofly.md)

@@ -46,7 +46,7 @@ Outside, an event just before the Protagonist can enter.
 - Make sure you're well prepared before you do, because it's difficult to get out once you're inside!
 - You'll need to call your mom to let her know you're safe. Use this app!
 
-### [Scoop Store](scoop-store.md)
+### Scoop Store
 Stock:
 - [Repellent](/items/repellent.md) — $100
 - [Super Potion](/items/super-potion.md) — $300
@@ -92,7 +92,7 @@ Outside, if the player has defeated Midas:
 - Yeah, yeah, let a thousand cheap flowers bloom. In you go.
 
 ## Encounters
-### [Fishing](fishing.md)/Surfing
+### Fishing/Surfing
 - [Rhinocarpe](/monsters/rhinocarpe.md)
 - [Urcheedle](/monsters/urcheedle.md)
 - [Drashimi](/monsters/drashimi.md)

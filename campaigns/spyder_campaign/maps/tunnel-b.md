@@ -13,8 +13,8 @@ At first the way is blocked by a [Sludgehog](/monsters/sludgehog.md) that has es
 
 ## Items
 ### Underground
-- [Rhincus Fossil](rhincus-fossil.md)
-- [Shammer Fossil](shammer-fossil.md)
+- [Rhincus Fossil](/items/rhincus-fossil.md)
+- [Shammer Fossil](/items/shammer-fossil.md)
 
 ## Encounters
 - [Toufigel](/monsters/toufigel.md) (first appearance)
@@ -26,7 +26,7 @@ At first the way is blocked by a [Sludgehog](/monsters/sludgehog.md) that has es
 - [Possessun](/monsters/possessun.md)
 - [Rockitten](/monsters/rockitten.md) (first appearance)
 
-### [Fishing](fishing.md)/Surfing
+### Fishing/Surfing
 - [Skwib](/monsters/skwib.md)
 - [Snaki](/monsters/snaki.md)
 - [Flisces](/monsters/flisces.md)

@@ -37,10 +37,10 @@ Sign Route B:
 
 **Enforcer Agent** Nephthys:
 - Nothing to see here. Scram! 
-- [Conifrost](conifrost.md) level 45, [Djinnbo](/monsters/djinnbo.md) level 45
+- [Conifrost](/monsters/conifrost.md) level 45, [Djinnbo](/monsters/djinnbo.md) level 45
 - We've lost control. Please, you might just be powerful enough to help! 
 
-[Enforcer Boss](enforcer-boss.md) Calypso:
+**Enforcer Boss** Calypso:
 - Why you?
 - [Ruption](/monsters/ruption.md) level 40, [Puparmor](/monsters/puparmor.md) level 35, [Sumchon](/monsters/sumchon.md) level 40
 - I admire you.

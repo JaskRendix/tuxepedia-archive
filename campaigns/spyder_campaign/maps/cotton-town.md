@@ -91,7 +91,7 @@ Sign f
 Sign h
 - Cathedral Center: We live to serve.
 
-### [Scoop Store](scoop-store.md)
+### Scoop Store
 ![Scoop Store - Cotton Town.png](../images/Scoop Store - Cotton Town.png)
 
 Event 4 occurs when you first enter this building.

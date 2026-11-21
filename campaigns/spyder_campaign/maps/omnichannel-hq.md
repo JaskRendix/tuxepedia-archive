@@ -34,7 +34,7 @@ Once you defeat the CEO himself, you can use the radio station to reveal the con
 - [Elowind](/monsters/elowind.md) level 36, [Cardiwing](/monsters/cardiwing.md) level 36
 - I gotta scram!
 
-*(If possible, the room in the bottom-left should be blocked by a screen, like the one in the [Hospital](Hospital.md) (deactivated by a switch on level 4))*
+*(If possible, the room in the bottom-left should be blocked by a screen, like the one in the [Hospital](hospital.md) (deactivated by a switch on level 4))*
 
 ### **Nurse** (behind the screen, no battle)
 

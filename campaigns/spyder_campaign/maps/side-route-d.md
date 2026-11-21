@@ -8,7 +8,7 @@
 ### [Dryad's Grove](dryad's-grove.md)
 
 ## Encounters
-### [Fishing](fishing.md)/Surfing
+### Fishing/Surfing
 - [Rhinocarpe](/monsters/rhinocarpe.md)
 - [Urcheedle](/monsters/urcheedle.md)
 - [Drashimi](/monsters/drashimi.md)
