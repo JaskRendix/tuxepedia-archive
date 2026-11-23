@@ -1,1 +1,0 @@
-#REDIRECT[[Technique design space]]

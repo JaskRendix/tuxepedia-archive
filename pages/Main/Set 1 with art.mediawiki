@@ -1,9 +1,0 @@
-See also [[Set 1]].
-
-{{#ask:[[TXMN Completed::Complete]] [[TXMN ID::<155]] [[TXMN ID::>0]] |limit=300
-|?TXMN ID
-|?MainImage
-|?Default64px
-|sort=TXMN ID
-|order=asc
-}}

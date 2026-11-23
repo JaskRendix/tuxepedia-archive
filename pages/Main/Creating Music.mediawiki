@@ -1,4 +1,0 @@
-Tuxemon's music is stored in the [https://en.wikipedia.org/wiki/Ogg Ogg Vorbis] format. This is similar to the MP3 format, only it is completely free. All music shipped with the game can be found in the music folder in `resources/music`.
-
-== Using your music in Tuxemon ==
-You can use your music in Tuxemon by placing it in the `resources/music` directory and [[Map editor events|creating an action]] with the action type "play_music" on the map of your choice using [http://www.mapeditor.org Tiled]. Then set the "parameters" of the action to your music file name.
