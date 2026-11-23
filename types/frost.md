@@ -1,0 +1,6 @@
+# Frost
+
+| Property | Value |
+|---|---|
+| 13_Weak | Earth, Wood, Sky |
+| 13_Strong | Frost, Metal, Shadow, Water |

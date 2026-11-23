@@ -1,3 +1,0 @@
-{{Type
-|13_Strong=Metal
-}}

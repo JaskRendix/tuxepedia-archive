@@ -1,0 +1,6 @@
+# Shadow
+
+| Property | Value |
+|---|---|
+| 13_Weak | Cosmic, Sky |
+| 13_Strong | Earth, Heroic |

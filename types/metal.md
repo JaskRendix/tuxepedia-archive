@@ -1,0 +1,10 @@
+# Metal
+
+| Property | Value |
+|---|---|
+| Present In | Tuxemon |
+| TXMN Generative Type | Water |
+| TXMN Overcoming Type | Wood |
+| TXMN ID | 4 |
+| 13_Weak | Cosmic, Earth |
+| 13_Strong | Fire, Metal, Water |

@@ -1,0 +1,6 @@
+# Heroic
+
+| Property | Value |
+|---|---|
+| 13_Weak | Shadow, Frost, Normal |
+| 13_Strong | Cosmic, Venom |
