@@ -14,7 +14,8 @@ The main story of *The Spyder in the Cathedral* follows the player’s journey t
 
 The protagonist begins in [Paper Town](maps/paper-town.md) and travels through the region in roughly this order:
 
-[[File:Map - Reminagined.png|thumbnail|[Full map](https://wiki.tuxemon.org/index.php?title=File:Compiled_map.png)]]
+![Map - Reminagined.png](/images/Map%20-%20Reminagined.png)
+![Full map](/images/Compiled%20map.png)
 
 * [Paper Town](maps/paper-town.md)
 * [Route 1](maps/route-1.md)
