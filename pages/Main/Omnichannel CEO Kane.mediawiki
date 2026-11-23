@@ -1,7 +1,0 @@
-{{Character
-|Trainer Class=CEO,
-|Sources=Qiangong2,
-|Main Details=CEO of Omnichannel during [[Qiangong2's plot]].
-
-See also [[Omnichannel CEO Beaverbrook]].
-}}
