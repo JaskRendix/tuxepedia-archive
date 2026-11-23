@@ -1,9 +1,0 @@
-{{Body Shape
-|Speed Multiplier=6
-|HP Multiplier=6
-|Melee Multiplier=8
-|Ranged Multiplier=4
-|Armour Multiplier=6
-|Dodge Multiplier=6
-|Dodge Modifier=4
-}}

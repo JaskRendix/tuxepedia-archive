@@ -1,9 +1,0 @@
-{{Body Shape
-|Speed Multiplier=4
-|HP Multiplier=8
-|Melee Multiplier=6
-|Ranged Multiplier=6
-|Armour Multiplier=6
-|Dodge Multiplier=6
-}}
-Formerly called the Aquatic body shape. Represents finfish, including sharks and rays.

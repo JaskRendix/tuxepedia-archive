@@ -1,9 +1,0 @@
-{{Body Shape
-|Speed Multiplier=4
-|HP Multiplier=8
-|Melee Multiplier=6
-|Ranged Multiplier=6
-|Armour Multiplier=8
-|Dodge Multiplier=4
-}}
-Represents medium and large or tough and armoured aquatic and semi-aquatic creatures, like cetaceans (dolphins and whales), seals and sea lions, sea monsters, turtles and tortoises.
