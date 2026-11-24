@@ -1,0 +1,8 @@
+- attributes:
+    armour: 8
+    dodge: 4
+    hp: 8
+    melee: 6
+    ranged: 6
+    speed: 4
+  slug: leviathan
