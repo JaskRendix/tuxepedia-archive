@@ -1,0 +1,8 @@
+- attributes:
+    armour: 6
+    dodge: 6
+    hp: 8
+    melee: 6
+    ranged: 6
+    speed: 4
+  slug: piscine
