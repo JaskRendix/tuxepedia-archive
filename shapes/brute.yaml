@@ -1,0 +1,8 @@
+- attributes:
+    armour: 7
+    dodge: 5
+    hp: 7
+    melee: 8
+    ranged: 4
+    speed: 5
+  slug: brute
