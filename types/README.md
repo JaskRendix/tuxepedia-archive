@@ -14,7 +14,6 @@ Each tyoe has a YAML file.
 - [Normal](normal.md)
 - [Shadow](shadow.md)
 - [Sky](sky.md)
-- [Type](type.md)
 - [Venom](venom.md)
 - [Water](water.md)
 - [Wood](wood.md)
