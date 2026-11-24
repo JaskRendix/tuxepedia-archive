@@ -1,0 +1,8 @@
+- attributes:
+    armour: 7
+    dodge: 5
+    hp: 6
+    melee: 6
+    ranged: 6
+    speed: 6
+  slug: dragon
