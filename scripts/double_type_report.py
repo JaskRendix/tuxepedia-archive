@@ -75,7 +75,13 @@ def analyze_dual_defense(records):
     for dual in dual_types(records):
         profile = incoming_profile(by_slug, dual)
 
-        avg_taken = statistics.mean(profile.values())
+        profile_values = [
+            mult
+            for attacker, mult in profile.items()
+            if attacker not in dual
+        ]
+
+        avg_taken = statistics.mean(profile_values)
 
         weaknesses_2x = [
             attacker
@@ -100,11 +106,12 @@ def analyze_dual_defense(records):
             for attacker, mult in profile.items()
             if mult <= 0.25
         ]
-
+        
         results.append(
             {
                 "types": dual,
                 "avg_taken": avg_taken,
+                "stdev_taken": statistics.pstdev(profile_values),
                 "max_damage": max(profile.values()),
                 "min_damage": min(profile.values()),
                 "weaknesses_2x": weaknesses_2x,
@@ -200,8 +207,10 @@ def main():
     for result in strongest_defense:
         print(
             f"- **{format_dual(result['types'])}** "
-            f"(avg damage taken: "
-            f"{result['avg_taken']:.2f})"
+            f"(avg damage taken: {result['avg_taken']:.2f}, "
+            f"stdev: {result['stdev_taken']:.2f}, "
+            f"4x weaknesses: {len(result['weaknesses_4x'])}, "
+            f"0.25x resistances: {len(result['resistances_quarter'])})"
         )
 
     print("\n## Weakest Defensive Dual Types\n")
@@ -209,8 +218,10 @@ def main():
     for result in weakest_defense:
         print(
             f"- **{format_dual(result['types'])}** "
-            f"(avg damage taken: "
-            f"{result['avg_taken']:.2f})"
+            f"(avg damage taken: {result['avg_taken']:.2f}, "
+            f"stdev: {result['stdev_taken']:.2f}, "
+            f"4x weaknesses: {len(result['weaknesses_4x'])}, "
+            f"0.25x resistances: {len(result['resistances_quarter'])})"
         )
 
     print("\n## Extreme Weaknesses (4x)\n")
@@ -252,6 +263,44 @@ def main():
 
     if not found:
         print("No 0.25x resistances found.")
+
+    most_polarized = sorted(
+        defensive,
+        key=lambda r: (
+            -r["stdev_taken"],
+            -abs(r["avg_taken"] - 1.0),
+            -len(r["weaknesses_4x"]),
+            -len(r["resistances_quarter"]),
+        ),
+    )[:10]
+    
+    print("\n## Most Polarized Dual Types\n")
+
+    for result in most_polarized:
+        print(
+            f"- **{format_dual(result['types'])}** "
+            f"(avg: {result['avg_taken']:.2f}, "
+            f"stdev: {result['stdev_taken']:.2f}, "
+            f"4x weaknesses: {len(result['weaknesses_4x'])}, "
+            f"0.25x resistances: {len(result['resistances_quarter'])})"
+        )
+
+    most_stable = sorted(
+        defensive,
+        key=lambda r: (
+            r["stdev_taken"],
+            abs(r["avg_taken"] - 1.0),
+        ),
+    )[:10]
+
+    print("\n## Most Stable Dual Types\n")
+
+    for result in most_stable:
+        print(
+            f"- **{format_dual(result['types'])}** "
+            f"(avg: {result['avg_taken']:.2f}, "
+            f"stdev: {result['stdev_taken']:.2f})"
+        )
 
     best_offense = sorted(
         offensive,
