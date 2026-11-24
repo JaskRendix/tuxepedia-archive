@@ -1,0 +1,8 @@
+- attributes:
+    armour: 4
+    dodge: 8
+    hp: 5
+    melee: 8
+    ranged: 4
+    speed: 7
+  slug: hunter
