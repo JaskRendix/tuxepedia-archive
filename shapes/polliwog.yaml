@@ -1,0 +1,8 @@
+- attributes:
+    armour: 4
+    dodge: 8
+    hp: 5
+    melee: 4
+    ranged: 8
+    speed: 7
+  slug: polliwog
