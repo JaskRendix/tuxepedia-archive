@@ -1,0 +1,8 @@
+- attributes:
+    armour: 5
+    dodge: 7
+    hp: 4
+    melee: 4
+    ranged: 8
+    speed: 8
+  slug: humanoid
