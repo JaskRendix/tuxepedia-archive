@@ -1,7 +1,7 @@
 # Cosmic Type
 
 - **Slug:** `cosmic`
-- **Icon:** `gfx/ui/icons/element/cosmic_type.png`
+- **Icon:** ![Cosmic](/images/Cosmic2.png)
 
 ## Type Effectiveness
 
