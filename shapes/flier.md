@@ -8,4 +8,3 @@
 | Ranged | 4 |
 | Armour | 5 |
 | Dodge | 7 |
-| Dodge Modifier | 5 |
