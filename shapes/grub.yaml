@@ -1,0 +1,8 @@
+- attributes:
+    armour: 7
+    dodge: 5
+    hp: 7
+    melee: 4
+    ranged: 8
+    speed: 5
+  slug: grub
