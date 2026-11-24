@@ -190,6 +190,7 @@ def main():
         defensive,
         key=lambda x: (
             x["avg_taken"],
+            x["stdev_taken"],
             len(x["weaknesses_4x"]),
         ),
     )[:10]
@@ -198,6 +199,7 @@ def main():
         defensive,
         key=lambda x: (
             -x["avg_taken"],
+            -x["stdev_taken"],
             -len(x["weaknesses_4x"]),
         ),
     )[:10]
@@ -318,7 +320,9 @@ def main():
             f"(avg offense: "
             f"{result['avg_offense']:.2f}, "
             f"super-effective targets: "
-            f"{result['super_hits']})"
+            f"{result['super_hits']}, "
+            f"resisted targets: "
+            f"{result['resisted_hits']})"
         )
 
 
