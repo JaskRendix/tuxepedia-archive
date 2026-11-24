@@ -1,0 +1,8 @@
+- attributes:
+    armour: 6
+    dodge: 6
+    hp: 6
+    melee: 4
+    ranged: 8
+    speed: 6
+  slug: serpent
