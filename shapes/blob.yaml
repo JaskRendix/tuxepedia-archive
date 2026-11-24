@@ -1,0 +1,8 @@
+- attributes:
+    armour: 8
+    dodge: 4
+    hp: 8
+    melee: 4
+    ranged: 8
+    speed: 4
+  slug: blob
